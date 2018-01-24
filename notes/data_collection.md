@@ -4,6 +4,8 @@ title: Data collection and scraping
 img: table.png
 ---
 
+[Download notes as Jupyter notebook](data_collection.tar.gz)
+
 ## Introduction
 
 The first step of most data science pipelines, as you may imagine, is to get some data.  Data that you typically use comes from many different sources.  If you're lucky, someone may hand directly had you a file, such as a CSV (comma separated value) file or something similar, which they want you to analyze directly.  Or sometimes you'll need to issue a database query to collect the relevant data (we'll discuss relational databases in a later lecture).  But in this lecture, we'll talk about collecting data from two main sources: 1) querying an API (the majority of which are web-based, these days); and 2) scraping data from a web page.  The latter case is a common method to extract data in and of itself, but it also serves as a general example for parsing data from (relatively) _unstructured_ sources.  Data that you get "in the wild" typically needs substantial preprocessing before you actually use it for data science tasks (this applies even to seemingly structured data sources like CSV files or API results), and some of the techniques we will cover in this lecture apply equally well to processing any sort of unstructured data.

@@ -51,3 +51,5 @@ This page lists the class lectures and recitations, plus additional material (sl
 | Date | Homework | Notebook | Video | 
 | --- | --- | :---: | :---: |
 | 1/26 | HW 1 | [<i class="fa fa-file-text-o"></i>](/hw/hw1/recitation1.ipynb) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44616043-a057-457e-8122-a874017b5970) |
+
+

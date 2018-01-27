@@ -47,6 +47,7 @@ This page lists the class lectures and recitations, plus additional material (sl
 | 5/2  | The future of data science and Q&A || | | |
 
 ## Recitations
+
 | Date | Homework | Notebook | Video | 
 | --- | --- | :---: | :---: |
-| 1/26 | HW 1 | [<i class="fa fa-file-txt-o"></i>](/hw/hw1/recitation1.ipynb) | https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44616043-a057-457e-8122-a874017b5970 |
+| 1/26 | HW 1 | [<i class="fa fa-file-text-o"></i>](/hw/hw1/recitation1.ipynb) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44616043-a057-457e-8122-a874017b5970) |

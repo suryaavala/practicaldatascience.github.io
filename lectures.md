@@ -13,7 +13,7 @@ This page lists the class lectures and recitations, plus additional material (sl
 | | **Data collection and management** | | | | |
 | 1/17 | Introduction  | [<i class="fa fa-file-pdf-o"></i>](/notes/intro/intro.pdf) | [<i class="fa fa-file-text-o"></i>](/notes/intro) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9fb318db-2179-4391-932c-a86b0147d2c3) | [<i class="fa fa-question"></i>](https://goo.gl/forms/L5IMW0AtGhUx2CJJ2) |
 | 1/22 | Data collection and scraping | [<i class="fa fa-file-pdf-o"></i>](/notes/data_collection/data_collection.pdf)  | [<i class="fa fa-file-text-o"></i>](/notes/data_collection) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cf488bfb-1ee9-42dc-b52c-a87001492b89) |[<i class="fa fa-question"></i>](https://goo.gl/forms/oQCGh4UXyw01Z1Nh1) |
-| 1/24 | Jupyer notebook lab | [<i class="fa fa-file-pdf-o"></i>](/notes/jupyter/jupyter.pdf) | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=25f2f8cd-9e3f-43bd-993d-a8720148d766) | [<i class="fa fa-question"></i>](https://goo.gl/forms/5HHD3snlSP2iHEOu1)  |
+| 1/24 | Jupyer notebook lab | [<i class="fa fa-file-pdf-o"></i>](/notes/jupyter/jupyter.pdf) |  [<i class="fa fa-file-text-o"></i>](/notes/jupyter/jupyter.tar.gz) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=25f2f8cd-9e3f-43bd-993d-a8720148d766) | [<i class="fa fa-question"></i>](https://goo.gl/forms/5HHD3snlSP2iHEOu1)  |
 | 1/29 | Relational data || | | |
 | 1/31 | Visualization and data exploration || | | |
 | 2/5  | Vectors, matrices, and linear algebra || | | |

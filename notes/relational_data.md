@@ -4,6 +4,8 @@ title: Relational data and databases
 img: database.svg
 ---
 
+[Download notes as Jupyter notebook](relational_data.tar.gz)
+
 ## Introduction
 
 These notes provide a very brief introduction to the relational data and databases.  Chances are, as a data scientist, if you're going to be processing data stored in any more structured form than simple flat files, it's going to be in some kind of database.  And although schemaless/NoSQL/non-relational databases are popular for some applications, in a large number of cases you're going to be dealing with data in a standard relational database (and this format honestly makes sense for the vast majority of use cases that require a database).

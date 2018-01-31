@@ -31,6 +31,7 @@ This kind of data representation is so familiar to us that it hardly necessitate
 
 ### Multiple relations
 
+
 Of course, a single table isn't particular interesting as a rich data source; we could have done (and in fact do) store the exact same information in a CSV file.  Where relational data becomes interesting is when we have multiple tables and explicit relationships between them.  For example, considering the case above, the "Role" attribute in our Person table is not particularly well defined.  What is the data type of this attribute?  A string? If so, we could enter anything we want here, which would not be ideal for maintaining a large collection of data, say if each student has to remember to type their role exactly as "Student" (with capitalization intact, of course).  A better alternative is to create a separate "Role" table, that lists the allowable roles for the course:
 
 <div class="center-text" markdown="1">

@@ -747,6 +747,12 @@ ul p {
     text-align: center;
 }
 
+.center-text
+{
+    margin: 0 auto;
+    text-align: center;
+}
+
 .image-wrapper {
     text-align: center;
 }

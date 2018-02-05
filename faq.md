@@ -7,6 +7,10 @@ title: Frequently asked questions
 **Q: What is the situation will all the different course numbers and sections (15-388, 15-688 A/B)?**\\
 A:  To accomodate as many as people as possible, we created a section DNM (Does Not Meet) section of the 600 level course, which is the B section of the 15-688 course. This version is identical to the A section, except that students are expected to watch the lectures online (all lectures will be available online within a few hours after the end of class). We expect that attendance will shake out significantly during the first few weeks of the course, and our strong suspicious is that after the first month, there will be space in the lecture hall for anyone (from any section), to attend lectures, but we ask that until we make this clear, students in the B section not regularly attend lecture.
 
+**Q: How can I switch sections between 688 and 388?**
+A: Please fill out a copy of the [CMU Course Late Add Form](https://www.cmu.edu/hub/docs/late-add.pdf), and email it to the course instructors.  They will return a verion with the instructor signature within the day.  You'll need to get other signatures as well, but we will fill out everything as quickly as possible on our end.
+
+
 **Q: I really want to take the in-person 15-688 SectionA. Will I be able to get off the waitlist?**\\
 See above. We want to accomodate absolutely as many people as possible, but are ultimately limited by the classroom size (and following university policy, the undergraduate lectures have priority for in-class attendence). However, we really want to emphasize that the courses are exactly the same except for the in-class lecture and DNM section (same credit, same homeworks, same office hours, same access to TAs/professor, same tutorial and final project assigments, etc), and it is a certainty that Section B students will end up even being able to attend lectures by the middle of the semester. So please consider enrolling in Section B if you are in this position.
 

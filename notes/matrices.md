@@ -207,7 +207,7 @@ $$
 $$
 
 
-** Complexity of operations**:  For making efficient use of matrix operations, it is extremely important to know the big-O complexity of the different matrix operations.  Immediately from the definitions of the operations, assuming $A,B \in \mathbb{R}^{n \times n}$ and $x,y \in \mathbb{R}^n$ we have the the following complexities:
+**Complexity of operations**:  For making efficient use of matrix operations, it is extremely important to know the big-O complexity of the different matrix operations.  Immediately from the definitions of the operations, assuming $A,B \in \mathbb{R}^{n \times n}$ and $x,y \in \mathbb{R}^n$ we have the the following complexities:
 - Inner product $x^Ty$: $O(n)$
 - Matrix-vector product $Ax$: $O(n^2)$
 - Matrix-matrix product $AB$: $O(n^3)$

@@ -3,7 +3,7 @@ layout: page
 faimg: calendar
 title: Lectures
 ---
-  
+
 This page lists the class lectures and recitations, plus additional material (slides, notes, video) associated with each lecture.
 
 ## Lectures
@@ -17,7 +17,7 @@ This page lists the class lectures and recitations, plus additional material (sl
 | 1/29 | Relational data | [<i class="fa fa-file-pdf-o"></i>](/notes/relational_data/relational_data.pdf) | [<i class="fa fa-file-text-o"></i>](/notes/relational_data) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4909e4db-e1ac-4556-a14a-a87701490267) | [<i class="fa fa-question"></i>](https://goo.gl/forms/koPDAMkXYsvW1YPV2) |
 | 1/31 | Visualization and data exploration | [<i class="fa fa-file-pdf-o"></i>](/notes/visualization/visualization.pdf)  | [<i class="fa fa-file-text-o"></i>](/notes/visualization) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e99996af-3f74-44bb-ad84-a87901482fab) | [<i class="fa fa-question"></i>](https://docs.google.com/forms/d/e/1FAIpQLSfDvY1AkLY8ZWirluOxFlpsMXzrKWdQ55PmarFOpgKG7NGS-Q/viewform?usp=sf_link) |
 | 2/5  | Vectors, matrices, and linear algebra | [<i class="fa fa-file-pdf-o"></i>](/notes/matrices/matrices.pdf)  | [<i class="fa fa-file-text-o"></i>](/notes/matrices) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2b53302b-9a48-48ab-93bf-a87e01488d2b)  | [<i class="fa fa-question"></i>](https://goo.gl/forms/KORScdLk1RypxM6S2) |
-| 2/7  | Graph and network processing | [<i class="fa fa-file-pdf-o"></i>](/notes/graphs/graphs.pdf) | | | |
+| 2/7  | Graph and network processing | [<i class="fa fa-file-pdf-o"></i>](/notes/graphs/graphs.pdf) | | | [<i class="fa fa-question"></i>](https://goo.gl/forms/zMAwoP3cZSZLJsLS2) |
 | 2/12 | Free text and natural language processing || | | |
 | 2/14 | Geographic information systems and spatial data || | | |
 | 2/19 | *Overflow lecture* || | | |
@@ -48,8 +48,6 @@ This page lists the class lectures and recitations, plus additional material (sl
 
 ## Recitations
 
-| Date | Homework | Notebook | Video | 
+| Date | Homework | Notebook | Video |
 | --- | --- | :---: | :---: |
 | 1/26 | HW 1 | [<i class="fa fa-file-text-o"></i>](/hw/hw1/recitation1.ipynb) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44616043-a057-457e-8122-a874017b5970) |
-
-

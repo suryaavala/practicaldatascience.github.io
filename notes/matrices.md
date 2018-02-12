@@ -207,7 +207,7 @@ $$
 $$
 
 
-**Complexity of operations**:  For making efficient use of matrix operations, it is extremely important to know the big-O complexity of the different matrix operations.  Immediately from the definitions of the operations, assuming $A,B \in \mathbb{R}^{n \times n}$ and $x,y \in \mathbb{R}^n$ we have the the following complexities:
+** Complexity of operations**:  For making efficient use of matrix operations, it is extremely important to know the big-O complexity of the different matrix operations.  Immediately from the definitions of the operations, assuming $A,B \in \mathbb{R}^{n \times n}$ and $x,y \in \mathbb{R}^n$ we have the the following complexities:
 - Inner product $x^Ty$: $O(n)$
 - Matrix-vector product $Ax$: $O(n^2)$
 - Matrix-matrix product $AB$: $O(n^3)$
@@ -785,15 +785,164 @@ $$
 A^{-1} b = (L U)^{-1} b = U^{-1} L^{-1} b
 $$
 
-In turns out that computing the product $L^{-1} b$ (again, not actually explicitly computing the inverse of $A$, just computing the solve) for a triangular matrix is very efficient, it just takes $O(n^2)$ operations instead of $O(n^3)$ operations as for a generic matrix.  This means that once we compute the factorization $A = LU$ (which does itself take O(n^3) time, as a note, which is why matrix solves are O(n^3) complexity), solving for the right hand size $b$ is "easy".
+In turns out that computing the product $L^{-1} b$ (again, not actually explicitly computing the inverse of $A$, just computing the solve) for a triangular matrix is very efficient, it just takes $O(n^2)$ operations instead of $O(n^3)$ operations as for a generic matrix.  This means that once we compute the factorization $A = LU$ (which does itself take $O(n^3)$ time, as a note, which is why matrix solves are $O(n^3)$ complexity), solving for the right hand size $b$ is "easy".
 
 In fact the way that we compute the inverse is by first computing the LU factorization and then "solving" for the right hand side $I$.  But obviously if we just want to ultimately solve for a single right hand size $b$, this is an unnecessary step, and it introduces additional error into the computation.  For this reason, you will almost ways prefer to use `np.linalg.solve()` unless to really need elements of the inverse itself (and not just to multiply the inverse by some expression).
 
 
+
+## Sparse matrices
+The last topic we will touch on, which at our level of discussion will relate more to the representation of matrices than the linear algebra behind it, is the concept of sparse matrices.  Many problems in data science deal with matrix representations that are inherently _sparse_ (that is, they contain a majority of zero elements, with only a few non-zeros).  For example, in the two forthcoming lectures, we will discuss graphs and free text modeling.  As we will see, a primary method for representing graphs will be the adjacency matrix, a matrix that has as a non-zero element in location $i,j$ if there is an edge between node $i$ and node $j$; many natural graphs have only a small number of nodes connected to each other, so the resulting adjacency matrix is sparse.  Similarly, in free text modeling it is common to represent documents via a "bag of words" model, where we represent each document as a large vector that that indicates which words occur in the document; since typical documents only contain a small fraction of all possible words, this "word-document co-occurrence" matrix is usually sparse.
+
+While of course it is possible to represent a sparse matrix using the standard dense format specified above, doing so is quite wasteful from both a space and time complexity standpoint; explicitly representing (and multiplying by) many zeros is both a waste of memory and computation.  Because of this, when matrices have a significant number of zero entries, it makes sense that we should somehow exploit this fact to reduce memory consumption and speed up computation.  Fortunately, there are a large collection of sparse matrix libraries that accomplish these goals exactly.  While we of course won't have the ability to go into how these libraries work in any real detail (especially for the more complex operations like sparse matrix-matrix multiplies (already hard enough of a problem to do "easily") let alone more complex operations like sparse matrix factorizations (where there is a whole subfield dedicated to such algorithms).  The good news, though, is that from a pure mathematical standpoint, sparse matrices naturally behave just like dense matrices (matrix multiplication, inversion, etc, all have the same syntax); really, these are fundamentally a _computational_ tool, and with a slight understanding of how sparse matrices function, you can make fairly good use of the libraries even if you don't initially know all the details behind the algorithms.
+
+### Sparse data formats
+The first and primary element we will highlight is the _data formats_ used to specify sparse matrices.  Unlike dense matrices, where there is a natural way to represent elements in memory (though even there we had the column-major/row-major choice), there are many different ways we can represent sparse matrices, and different approaches are better suited to different tasks.  Understanding these formats is a starting point to learning to use sparse matrix libraries, and will also draw connections to later topics we discuss.  In these notes we will cover two of the most common formats you'll encounter: the coordinate (COO) format, and the compressed sparse column (CSC) format.  Most other formats have some similarity to these, so they serve as a good starting point to understanding sparse matrices.
+
+**Coordinate (COO) format.** Perhaps the most natural way to express a sparse matrix is by a "list" of (row, column, value) tuples; because we know that only very few locations will actually have non-zero entries, this format lets us just express the entries that exist, where all other entries that are not specified are assumed to be zero.  This is in fact essentially exactly the intuition behind the coordinate (commonly abbreviated COO, despite the fact that it is not an acronym) format for sparse matrices.  In coo format, we use three 1D arrays to specify a matrix, a `row_indices` array, a `col_indices` array, and a `values` array.  These contain exactly what you would expect.  For each non-zero entry in the matrix is there a corresponding element in these vectors that specifies the row, column, and value of that matrix.  Let's consider the example matrix
+
+$$
+A \in \mathbb{R}^{4\times 4} = \left [ \begin{array}{cccc}
+0 & 0 & 3 & 0 \\
+2 & 0 & 0 & 1 \\
+0 & 1 & 0 & 0 \\
+4 & 0 & 1 & 0
+\end{array} \right ].
+$$
+
+A COO representation of this matrix could be (this is just specifying generic arrays, not in any particular language):
+
+Although here we ordered the entries in these arrays in a "column-major" fashion, COO format has no such requirements: we could specify the elements of the matrix in any order we desire (and even have duplicate entires, where the true value is assumed to be the sum of all entries correspond to a particular row and column).  The size of all these entries will be equal to the number of nonzeros in `A`, a number which will refer to as $\mathrm{nnz}$ when we need to use it notationally.  Finally, not that in addition to the entries in the above matrices, we would also need to store the actual size of the array (number of rows $m$ and columns $n$ respectively), to cover the  case where we have additional rows/columns of all zeros.
+
+The advantage of the COO format is that it is good for constructing sparse matrices; because items can be stored in any order to add a new element the matrix, we simply append an entry to the arrays (depending on how these arrays are stored, you would typically "pre-allocate" a bit of extra storage, resizing the arrays as needed, just like Python does with its lists, if you expect to be frequently adding elements).  On the flipside, it is quite back for _inspecting_ sparse matrices.  Suppose we wanted to look up the value `A[i,j]` in a sparse matrix in COO format.  Because elements can be in any order, we would have no option but to perform a linear scan through the entire arrays, to see if any row/column pair matched `i`/`j`, with complexity $O(n)$ (where here say that the matrix is $n \times n$).  
+
+If the matrix in COO format was always maintained in column-major order, as described above, then this complexity could be reduced to $O(\log n)$ via binary search on the column indices; however, maintaining it in this order would also remove our ability to easily add new elements to matrix, because we would need to shift items in the various arrays (i.e., by copying the memory to a later location) whenever a new element was added.  And if we're willing to make this sacrifice, it turns out there is a better way to store the matrix, described next.
+
+**Compressed sparse column (CSC) format.** The downsides of the above approach motivate a different matrix storage, where we _do_ explicitly maintain a column-major ordering of the non-zero entries.  However, if we are going to do so, then it turns out we actually get a more efficient structure if we change the nature of the `column_indices` array.  Instead of an $\mathrm{nnz}$-dimensional array containing the column index of each entry, we make the array be a $(n+1)$-dimenional array (remember that $n$ is the number of columns in the matrix), pointing to the _index_ of the starting location for each column in the `row_indices` and `values` array.
+
+This is a bit hard to understand at first, so an example can make things more understandable.  Instead of the COO format above, the CSC format consists of the arrays
+
+Let's unpack this a bit.  The fact that `column_indices` has a 5 in element 3 (remember, we are assuming zero indexing), means that the index-3 column (really the forth column) starts at index 5 in the `row_indices` and `values` arrays; the fact that `column_indices` has a 2 in element 1 means that the index-1 column (really the second column) starts at index 2 in the `row_indices` and `values` arrays.
+
+The advantage to this format is that it is extremely efficient to look up _all_ the entries in a given column $i$.  If we want to know the entries of column `i`, we would use simply get the slice (using Python notation here)
+
+(the same could be done to get the row indices).  This also hopefully clarifies why the `column_indices` array contains $n+1$ entries: so that we can always use the range `column_indices[i]:column_indices[i+1]` to get all the items in the column (the last entry in `column_indices` must therefore be equal to the number of non-zero elements in the matrix.
+
+As is hopefully apparent, CSC format is typically much better than COO for quickly accessing elements, especially accessing single rows in the matrix (there is a corresponding compressed sparse row (CSR) that does the exact same thing but row-wise, for quick access to rows).  But conversely, it is very poor at adding new elements to the array (this requires shifting all subsequent items in the `row_indices` and `values` columns, and incrementing subsequent elements in the `column_indices` array).
+
+### Basics of sparse matrix computation
+
+The above discussion hopefully makes it fairly obvious why sparse matrices are a good idea from a storage standpoint: instead of storing $mn$ elements for an $m \times n$, we can store $3*\mathrm{nnz}$ arrays (we ignore storing $m$ and $n$, because you actually need to do this for both sparse and dense matrices anyway) for COO format, or $2*\mathrm{nnz} + n + 1$ elements for CSC format.
+
+But why are sparse matrices also more computationally efficient.  To give a brief sense of this, let's consider one of the most ubiquitous operations in linear algebra, the product of a (dense or sparse) matrix with a (dense) vector $Ax$ for $A \in \mathbb{R}^{m \times n}$, $x \in \mathbb{R}^n$.  This operation will be $O(mn)$ if we represent $A$ densely (this follows immediately from the definition of the matrix-vector product).  But what about if we represent $A$ COO sparse format.  In this case, the algorithm for matrix-vector products is fairly simple
+1. Initialize $y = 0$
+2. For each $(i,j,v)$ in $A$:
+    - Set $y_i := y_i + x_j \cdot v$
+
+After running the algorithm, $y = Ax$, as this is exactly equivalent to the traditional definition of matrix-vector products, we are just accumulating the sum for each individual tuple in $A$ represented in COO form (if the above algorithm isn't apparent to you, try to derive it directly from the definition of the COO format and the definition of matrix multiplication above).  Beacuse this algorithm obviously only loops over the non-zero entries of $A$ once, it rquires only $O(\mathrm{nnz})$ operations, a potentially significant reduction.
+
+We can also write a similar routine for matrices in CSC format, though we leave that out here for simplicit. As a general rule of thumb, you should use sparse matrices for matrix-vector multiplication if your matrix is 80% zero or (there due to the 2-3x more storage needed, and the fact that the matrix-vector products are usually a little less cache efficient than purely dense operations).  If your operations involve matrix solves, then a better rule of this is that you need 95% sparsity or more (operations related to matrix solves actually decrease sparsity of the intermediate components we compute).  This last rule of thumb, though, actually depends on the precise sparsity pattern of the data (if the sparsity is truly random, it woudl actually require much higher degrees of sparsity to make matrix sovles worth it, but for reasons we won't go into, many "realstic" matrices have structure that makes the sparse solve more efficient than the worst case.
+
+
+### Python sparse matrix libraries
+
+The standard library for manipulating sparse matrices with Python is the [scipy.sparse](https://docs.scipy.org/doc/scipy/reference/sparse.html) module.  The library supports several different types of sparse matrix formats (along with operations for converting betweeen the different types), and interfaces with well-established third-party code for all needed linear algebra functions.
+
+Let's briefly look at how to construct a sparse matrix in `scipy.sparse` (we can convert to a dense matrix by calling the `.todense()` function, though of course this should only be done on small instances).
+
+
+```python
+import scipy.sparse as sp
+
+
+values = [2, 4, 1, 3, 1, 1]
+row_indices = [1, 3, 2, 0, 3, 1]
+column_indices = [0, 0, 1, 2, 2, 3]
+A = sp.coo_matrix((values, (row_indices, column_indices)), shape=(4,4))
+print(A.todense())
+```
+
+```
+[[0 0 3 0]
+ [2 0 0 1]
+ [0 1 0 0]
+ [4 0 1 0]]
+```
+
+We can directly access the values, rows indices, and column indices of a COO sparse matrix via the `.data`, `.row`, and `.col` properties respectively (indeed, this is exactly how the sparse matrix is represented internally, with these three attributes).  Each of these are a 1D numpy array that store the data for the matrix.
+
+
+```python
+print(A.data)
+print(A.row)
+print(A.col)
+```
+
+```
+[2 4 1 3 1 1]
+[1 3 2 0 3 1]
+[0 0 1 2 2 3]
+```
+
+We can also easily convert to CSC format.
+
+
+```python
+B = A.tocsc()
+```
+
+For a CSC matrix, the values are in still in the `.data` pointer, but the row indices and column indices (as we used the terms), are in the `.indices` and `.indptr` arrays; again, this are all just numpy arrays, that internally store the actual data of the matrix.
+
+
+```python
+print(B.data)
+print(B.indices)
+print(B.indptr)
+```
+
+```
+[2 4 1 3 1 1]
+[1 3 2 0 3 1]
+[0 2 3 5 6]
+```
+
+As a final example, let's create a 1000x1000 sparse matrix with 99.9% sparsity plus an identity matrix (we'll do this with the `sp.rand` call, which randomly chooses entries to fill in, and then makes samples them from a uniform distribution ... we add the identity to make the matrix likely to be invertible).  The precise nature of the matrix isn't important here, we just want to consider the timing.
+
+
+```python
+A = sp.rand(1000,1000, 0.001) + sp.eye(1000)
+B = np.asarray(A.todense())
+x = np.random.randn(1000)
+%timeit A @ x
+%timeit B @ x
+```
+
+```
+12.8 µs ± 2.57 µs per loop (mean ± std. dev. of 7 runs, 10000 loops each)
+501 µs ± 73.9 µs per loop (mean ± std. dev. of 7 runs, 1000 loops each)
+```
+
+Here the sparse version is about 50x faster, though of course the speedup will increase with sparsity relative to the dense matrix.
+
+
+```python
+import scipy.sparse.linalg as spla
+A = A.tocsc()
+%timeit spla.spsolve(A,x)     # only works with CSC or CSR format
+%timeit np.linalg.solve(B,x)
+```
+
+```
+1.04 ms ± 9.63 µs per loop (mean ± std. dev. of 7 runs, 1000 loops each)
+23.8 ms ± 2.39 ms per loop (mean ± std. dev. of 7 runs, 10 loops each)
+```
+
+Similarly, the sparse version is about 20x faster.  You can try to experiment to see where the break-even point for the sparse/dense tradeoff is, but as mentioned above, for matrix inverses this is going to be very problem specific, so you won't get too much insight until you start using real data.
 
 ## References
 
 - [Numpy library](http://www.numpy.org)
 - [Linear Algebra Review](http://www.cs.cmu.edu/~zkolter/course/linalg/)
 - [Numpy broadcasting rules](https://docs.scipy.org/doc/numpy-1.13.0/user/basics.broadcasting.html)
+- [Scipy sparse module](https://docs.scipy.org/doc/scipy/reference/sparse.html)
 

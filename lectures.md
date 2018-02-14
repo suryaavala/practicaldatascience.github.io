@@ -21,7 +21,7 @@ This page lists the class lectures and recitations, plus additional material (sl
 | 2/12 | Free text and natural language processing | [<i class="fa fa-file-pdf-o"></i>](/notes/free_text/free_text.pdf) | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ff0beff-4a8e-4de7-8b90-a8850148a15a) | [<i class="fa fa-question"></i>](https://goo.gl/forms/fcXMDr9oL6mWvC5p2) |
 | 2/14 | Free text, continued | [<i class="fa fa-file-pdf-o"></i>](/notes/free_text/free_text.pdf) | | | |
 | 2/19 | *Overflow lecture* || | | |
-| | **Statistical modeling and machine learning** || | | |
+| | **Statistical modeling and machine learning** || | | | 
 | 2/21 | Linear regression || | | |
 | 2/26 | Linear classification || | | |
 | 2/28 | Nonlinear modeling, cross-validation || | | |

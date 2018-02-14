@@ -124,9 +124,10 @@ C_{ij} = \sum_{k=1}^n A_{ik} B_{kj}.
 $$
 
 In order for this sum to make sense, notice that the number of columns in $A$ must equal the number of rows in $B$.  If you'd like a bit more of the intuition behind why matrix multiplication is defined this way, the notes above provide some important interpretations.  It's important to note the following properties, though:
-- Matrix multiplication is associative: $(AB)C = A(BC)$ (i.e., it doesn't matter in what order you do the multiplications, though it _can_ matter from a computational perspective, as some orderings will be more efficient to compute than others)
-- Matrix multiplication is distributive: $A(B+C) = AB + AC$
-- Matrix multiplication is _not_ commutative: $AB \neq BA$. This is really true in two different ways.  Under the above matrix sizes, the multiplication $BA$ is not a valid expression if $m \neq p$ (since the number of columns in $B$ would not match the number of rows in $A$).  And even if the dimensions _do_ match (for instance if all the matrices were $n \times n$) the products will still not be equal in general.
+
+* Matrix multiplication is associative: $(AB)C = A(BC)$ (i.e., it doesn't matter in what order you do the multiplications, though it _can_ matter from a computational perspective, as some orderings will be more efficient to compute than others)
+* Matrix multiplication is distributive: $A(B+C) = AB + AC$
+* Matrix multiplication is _not_ commutative: $AB \neq BA$. This is really true in two different ways.  Under the above matrix sizes, the multiplication $BA$ is not a valid expression if $m \neq p$ (since the number of columns in $B$ would not match the number of rows in $A$).  And even if the dimensions _do_ match (for instance if all the matrices were $n \times n$) the products will still not be equal in general.
 
 **Identity matrix**: The identity matrix $I \in \mathbb{R}^{n \times n}$ is a square matrix with ones on the diagonal an zeros everywhere else
 
@@ -207,11 +208,12 @@ $$
 $$
 
 
-** Complexity of operations**:  For making efficient use of matrix operations, it is extremely important to know the big-O complexity of the different matrix operations.  Immediately from the definitions of the operations, assuming $A,B \in \mathbb{R}^{n \times n}$ and $x,y \in \mathbb{R}^n$ we have the the following complexities:
-- Inner product $x^Ty$: $O(n)$
-- Matrix-vector product $Ax$: $O(n^2)$
-- Matrix-matrix product $AB$: $O(n^3)$
-- Matrix inverse $A^{-1}$, or matrix solve $A^{-1}y$ (as we will emphasize below, these are arctually done differently; they both have the same big-O omplexity, but different concstant terms on the runtime in practice): $O(n^3)$
+**Complexity of operations**:  For making efficient use of matrix operations, it is extremely important to know the big-O complexity of the different matrix operations.  Immediately from the definitions of the operations, assuming $A,B \in \mathbb{R}^{n \times n}$ and $x,y \in \mathbb{R}^n$ we have the the following complexities:
+
+* Inner product $x^Ty$: $O(n)$
+* Matrix-vector product $Ax$: $O(n^2)$
+* Matrix-matrix product $AB$: $O(n^3)$
+* Matrix inverse $A^{-1}$, or matrix solve $A^{-1}y$ (as we will emphasize below, these are arctually done differently; they both have the same big-O omplexity, but different concstant terms on the runtime in practice): $O(n^3)$
 
 Note that the big-O complexity along with the associative property of matrix multiplications implies very different complexities for computing the exact same term in different ways.  For example, suppose we want to compute the matrix products $ABx$.  We could compute this as $(AB)x$ (computing the $AB$ product first, then multiplying with $x$); this approach would have complexity $O(n^3)$, as the matrix-matrix product would dominate the computation.  On the other hand, if we compute the product as $A(Bx)$ (first computing the vector product $Bx$, which produces a vector, then multiplying this by $A$), the complex is only $O(n^2)$, as we just have two matrix-vector products.  As you can imagine, these orders of operations therefore make a huge difference in terms of the time complexity of linear algebra operations.
 
@@ -812,6 +814,13 @@ $$
 
 A COO representation of this matrix could be (this is just specifying generic arrays, not in any particular language):
 
+
+```python
+values = [2, 4, 1, 3, 1, 1]
+row_indices = [1, 3, 2, 0, 3, 1]
+column_indices = [0, 0, 1, 2, 2, 3]
+```
+
 Although here we ordered the entries in these arrays in a "column-major" fashion, COO format has no such requirements: we could specify the elements of the matrix in any order we desire (and even have duplicate entires, where the true value is assumed to be the sum of all entries correspond to a particular row and column).  The size of all these entries will be equal to the number of nonzeros in `A`, a number which will refer to as $\mathrm{nnz}$ when we need to use it notationally.  Finally, not that in addition to the entries in the above matrices, we would also need to store the actual size of the array (number of rows $m$ and columns $n$ respectively), to cover the  case where we have additional rows/columns of all zeros.
 
 The advantage of the COO format is that it is good for constructing sparse matrices; because items can be stored in any order to add a new element the matrix, we simply append an entry to the arrays (depending on how these arrays are stored, you would typically "pre-allocate" a bit of extra storage, resizing the arrays as needed, just like Python does with its lists, if you expect to be frequently adding elements).  On the flipside, it is quite back for _inspecting_ sparse matrices.  Suppose we wanted to look up the value `A[i,j]` in a sparse matrix in COO format.  Because elements can be in any order, we would have no option but to perform a linear scan through the entire arrays, to see if any row/column pair matched `i`/`j`, with complexity $O(n)$ (where here say that the matrix is $n \times n$).  
@@ -822,9 +831,21 @@ If the matrix in COO format was always maintained in column-major order, as desc
 
 This is a bit hard to understand at first, so an example can make things more understandable.  Instead of the COO format above, the CSC format consists of the arrays
 
+
+```python
+values = [2, 4, 1, 3, 1, 1]
+row_indices = [1, 3, 2, 0, 3, 1]
+column_indices = [0, 2, 3, 5, 6]
+```
+
 Let's unpack this a bit.  The fact that `column_indices` has a 5 in element 3 (remember, we are assuming zero indexing), means that the index-3 column (really the forth column) starts at index 5 in the `row_indices` and `values` arrays; the fact that `column_indices` has a 2 in element 1 means that the index-1 column (really the second column) starts at index 2 in the `row_indices` and `values` arrays.
 
 The advantage to this format is that it is extremely efficient to look up _all_ the entries in a given column $i$.  If we want to know the entries of column `i`, we would use simply get the slice (using Python notation here)
+
+
+```python
+values[column_indices[i]:column_indices[i+1]]
+```
 
 (the same could be done to get the row indices).  This also hopefully clarifies why the `column_indices` array contains $n+1$ entries: so that we can always use the range `column_indices[i]:column_indices[i+1]` to get all the items in the column (the last entry in `column_indices` must therefore be equal to the number of non-zero elements in the matrix.
 
@@ -832,12 +853,13 @@ As is hopefully apparent, CSC format is typically much better than COO for quick
 
 ### Basics of sparse matrix computation
 
-The above discussion hopefully makes it fairly obvious why sparse matrices are a good idea from a storage standpoint: instead of storing $mn$ elements for an $m \times n$, we can store $3*\mathrm{nnz}$ arrays (we ignore storing $m$ and $n$, because you actually need to do this for both sparse and dense matrices anyway) for COO format, or $2*\mathrm{nnz} + n + 1$ elements for CSC format.
+The above discussion hopefully makes it fairly obvious why sparse matrices are a good idea from a storage standpoint: instead of storing $mn$ elements for an $m \times n$, we can store $3\cdot\mathrm{nnz}$ arrays (we ignore storing $m$ and $n$, because you actually need to do this for both sparse and dense matrices anyway) for COO format, or $2\cdot\mathrm{nnz} + n + 1$ elements for CSC format.
 
 But why are sparse matrices also more computationally efficient.  To give a brief sense of this, let's consider one of the most ubiquitous operations in linear algebra, the product of a (dense or sparse) matrix with a (dense) vector $Ax$ for $A \in \mathbb{R}^{m \times n}$, $x \in \mathbb{R}^n$.  This operation will be $O(mn)$ if we represent $A$ densely (this follows immediately from the definition of the matrix-vector product).  But what about if we represent $A$ COO sparse format.  In this case, the algorithm for matrix-vector products is fairly simple
+
 1. Initialize $y = 0$
 2. For each $(i,j,v)$ in $A$:
-    - Set $y_i := y_i + x_j \cdot v$
+    * Set $y_i := y_i + x_j \cdot v$
 
 After running the algorithm, $y = Ax$, as this is exactly equivalent to the traditional definition of matrix-vector products, we are just accumulating the sum for each individual tuple in $A$ represented in COO form (if the above algorithm isn't apparent to you, try to derive it directly from the definition of the COO format and the definition of matrix multiplication above).  Beacuse this algorithm obviously only loops over the non-zero entries of $A$ once, it rquires only $O(\mathrm{nnz})$ operations, a potentially significant reduction.
 

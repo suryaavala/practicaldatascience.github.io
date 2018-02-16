@@ -19,8 +19,8 @@ This page lists the class lectures and recitations, plus additional material (sl
 | 2/5  | Vectors, matrices, and linear algebra | [<i class="fa fa-file-pdf-o"></i>](/notes/matrices/matrices.pdf)  | [<i class="fa fa-file-text-o"></i>](/notes/matrices) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2b53302b-9a48-48ab-93bf-a87e01488d2b)  | [<i class="fa fa-question"></i>](https://goo.gl/forms/KORScdLk1RypxM6S2) |
 | 2/7  | Graph and network processing | [<i class="fa fa-file-pdf-o"></i>](/notes/graphs/graphs.pdf) | [<i class="fa fa-file-text-o"></i>](/notes/graphs) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=362c00ae-e0ef-4719-9b99-a8800148f2f5) | [<i class="fa fa-question"></i>](https://goo.gl/forms/zMAwoP3cZSZLJsLS2) |
 | 2/12 | Free text and natural language processing | [<i class="fa fa-file-pdf-o"></i>](/notes/free_text/free_text.pdf) | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ff0beff-4a8e-4de7-8b90-a8850148a15a) | [<i class="fa fa-question"></i>](https://goo.gl/forms/fcXMDr9oL6mWvC5p2) |
-| 2/14 | Free text, continued | [<i class="fa fa-file-pdf-o"></i>](/notes/free_text/free_text.pdf) | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca587e01-7b16-4376-8ff7-a88701498f98) | |
-| 2/19 | *Overflow lecture* || | | |
+| 2/14 | Free text, continued | [<i class="fa fa-file-pdf-o"></i>](/notes/free_text/free_text.pdf) | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca587e01-7b16-4376-8ff7-a88701498f98) | [<i class="fa fa-question"></i>](https://goo.gl/forms/QH1zUtvJ79c2SA0D3) |
+| 2/19 | *Overflow lecture* | | | | |
 | | **Statistical modeling and machine learning** || | | | 
 | 2/21 | Linear regression || | | |
 | 2/26 | Linear classification || | | |
@@ -52,3 +52,4 @@ This page lists the class lectures and recitations, plus additional material (sl
 | --- | --- | :---: | :---: |
 | 1/26 | HW 1 | [<i class="fa fa-file-text-o"></i>](/hw/hw1/recitation1.ipynb) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44616043-a057-457e-8122-a874017b5970) |
 | 2/9 | HW 2 | [<i class="fa fa-file-text-o"></i>](/hw/hw2/recitation2.tar.gz) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=40fc7ff0-5b42-4fb4-8485-a883002b1b21) |
+| 2/16| HW 2 Office Hours | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9b61eccb-5bb3-44c2-9f41-a889014c575b)|

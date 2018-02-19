@@ -239,7 +239,7 @@ There are several slightly different version of Dijkstra's algorithm (for instan
 * $i := $ Remove element from $Q$ with smallest $D$
 * For all $j$ such that $(i,j) \in E$:
 
-    * $D[j] = \min (D[j], D[j] + 1)$
+    * $D[j] = \min (D[j], D[i] + 1)$
 
 <hr/>
 

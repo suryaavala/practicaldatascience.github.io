@@ -21,7 +21,7 @@ This page lists the class lectures and recitations, plus additional material (sl
 | 2/12 | Free text and natural language processing | [<i class="fa fa-file-pdf-o"></i>](/notes/free_text/free_text.pdf) | [<i class="fa fa-file-text-o"></i>](/notes/free_text)  | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ff0beff-4a8e-4de7-8b90-a8850148a15a) | [<i class="fa fa-question"></i>](https://goo.gl/forms/fcXMDr9oL6mWvC5p2) |
 | 2/14 | Free text, continued | [<i class="fa fa-file-pdf-o"></i>](/notes/free_text/free_text.pdf) | [<i class="fa fa-file-text-o"></i>](/notes/free_text)  | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca587e01-7b16-4376-8ff7-a88701498f98) | [<i class="fa fa-question"></i>](https://goo.gl/forms/QH1zUtvJ79c2SA0D3) |
 | | **Statistical modeling and machine learning** || | | | 
-| 2/19 | Introduction to machine learing | [<i class="fa fa-file-pdf-o"></i>](/notes/ml_intro/ml_intro.pdf) | | | |
+| 2/19 | Introduction to machine learing | [<i class="fa fa-file-pdf-o"></i>](/notes/ml_intro/ml_intro.pdf) | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=12615ab6-9b01-41a5-9a8d-a88c014940e3) | [<i class="fa fa-question"></i>](https://goo.gl/forms/STCvjhbwl8OjQDtz2)|
 | 2/21 | Linear regression continued || | | |
 | 2/26 | Linear classification || | | |
 | 2/28 | Nonlinear modeling, cross-validation || | | |

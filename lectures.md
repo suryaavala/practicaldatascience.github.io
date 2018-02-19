@@ -18,11 +18,11 @@ This page lists the class lectures and recitations, plus additional material (sl
 | 1/31 | Visualization and data exploration | [<i class="fa fa-file-pdf-o"></i>](/notes/visualization/visualization.pdf)  | [<i class="fa fa-file-text-o"></i>](/notes/visualization) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e99996af-3f74-44bb-ad84-a87901482fab) | [<i class="fa fa-question"></i>](https://docs.google.com/forms/d/e/1FAIpQLSfDvY1AkLY8ZWirluOxFlpsMXzrKWdQ55PmarFOpgKG7NGS-Q/viewform?usp=sf_link) |
 | 2/5  | Vectors, matrices, and linear algebra | [<i class="fa fa-file-pdf-o"></i>](/notes/matrices/matrices.pdf)  | [<i class="fa fa-file-text-o"></i>](/notes/matrices) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2b53302b-9a48-48ab-93bf-a87e01488d2b)  | [<i class="fa fa-question"></i>](https://goo.gl/forms/KORScdLk1RypxM6S2) |
 | 2/7  | Graph and network processing | [<i class="fa fa-file-pdf-o"></i>](/notes/graphs/graphs.pdf) | [<i class="fa fa-file-text-o"></i>](/notes/graphs) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=362c00ae-e0ef-4719-9b99-a8800148f2f5) | [<i class="fa fa-question"></i>](https://goo.gl/forms/zMAwoP3cZSZLJsLS2) |
-| 2/12 | Free text and natural language processing | [<i class="fa fa-file-pdf-o"></i>](/notes/free_text/free_text.pdf) | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ff0beff-4a8e-4de7-8b90-a8850148a15a) | [<i class="fa fa-question"></i>](https://goo.gl/forms/fcXMDr9oL6mWvC5p2) |
-| 2/14 | Free text, continued | [<i class="fa fa-file-pdf-o"></i>](/notes/free_text/free_text.pdf) | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca587e01-7b16-4376-8ff7-a88701498f98) | [<i class="fa fa-question"></i>](https://goo.gl/forms/QH1zUtvJ79c2SA0D3) |
-| 2/19 | *Overflow lecture* | | | | |
+| 2/12 | Free text and natural language processing | [<i class="fa fa-file-pdf-o"></i>](/notes/free_text/free_text.pdf) | [<i class="fa fa-file-text-o"></i>](/notes/free_text)  | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ff0beff-4a8e-4de7-8b90-a8850148a15a) | [<i class="fa fa-question"></i>](https://goo.gl/forms/fcXMDr9oL6mWvC5p2) |
+| 2/14 | Free text, continued | [<i class="fa fa-file-pdf-o"></i>](/notes/free_text/free_text.pdf) | [<i class="fa fa-file-text-o"></i>](/notes/free_text)  | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca587e01-7b16-4376-8ff7-a88701498f98) | [<i class="fa fa-question"></i>](https://goo.gl/forms/QH1zUtvJ79c2SA0D3) |
 | | **Statistical modeling and machine learning** || | | | 
-| 2/21 | Linear regression || | | |
+| 2/19 | Introduction to machine learing | | | | |
+| 2/21 | Linear regression continued || | | |
 | 2/26 | Linear classification || | | |
 | 2/28 | Nonlinear modeling, cross-validation || | | |
 | 3/5  | Evaluating machine learning models || | | |

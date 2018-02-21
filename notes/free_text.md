@@ -4,6 +4,8 @@ title: Free text processing
 img: text.png
 ---
 
+[Download notes as Jupyter notebook](free_text.tar.gz)
+
 ## Introduction
 
 This set of notes focuses on processing free text data.  In addition to the more structured relational data and graphs we have discussed previously, free text makes up one of the most common types of "widely available" data: web pages, unstructured "comment" fields in many relational databases, and many other easily-obtained large sources of data naturally come in free text form.  The notable difference, of course ,is that unlike the data types we have discussed before, free text lacks the "easily extractable" structure inherent in the previous types of data we have considered.

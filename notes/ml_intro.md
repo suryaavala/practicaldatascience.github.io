@@ -278,7 +278,7 @@ for t in range(101):
     
 ```
 
-```
+<pre>
 Iteration   0:  [ 0.  0.]
 Iteration  10:  [ 0.84655268 -0.06193167]
 Iteration  20:  [ 0.97827939 -0.13948752]
@@ -290,7 +290,7 @@ Iteration  70:  [ 1.05543958 -0.18491663]
 Iteration  80:  [ 1.05578326 -0.18511898]
 Iteration  90:  [ 1.05591077 -0.18519405]
 Iteration 100:  [ 1.05595808 -0.18522191]
-```
+</pre>
 
 Let's visualize what this looks like in a couple different ways.  First, let's look at what our line looks like during different iterations of gradient descent.  For this purpose, we'll wrap the above in a simple function that takes `iters` iterations of gradient descent (note that we can of course get all these plots within a single run of gradient descent, but we'll just use multiple calls to this function for illustration purposes).
 

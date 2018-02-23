@@ -4,7 +4,7 @@ title: Free text processing
 img: text.png
 ---
 
-[Download notes as Jupyter notebook](free_text.tar.gz)
+[Download notes as jupyter notebook](free_text.tar.gz)
 
 ## Introduction
 
@@ -76,9 +76,9 @@ wc = WordCloud(width=800,height=400).generate(re.sub(r"\s+"," ", root.text))
 wc.to_image()
 ```
 
-```
+<pre>
 <PIL.Image.Image image mode=RGB size=800x400 at 0x181B1B9710>
-```
+</pre>
 
 {% include image.html img="wordcloud.png" caption="Word cloud of text from the Practical Data Science home page."%}
 
@@ -108,12 +108,12 @@ print(vocab, "\n")
 print(vocab_dict, "\n")
 ```
 
-```
+<pre>
 ['approach', 'bag', 'basics', 'explain', 'free', 'goal', 'is', 'lecture', 'model', 'of', 'one', 'processing', 'such', 'text', 'the', 'this', 'to', 'via', 'words'] 
 
 {'approach': 0, 'bag': 1, 'basics': 2, 'explain': 3, 'free': 4, 'goal': 5, 'is': 6, 'lecture': 7, 'model': 8, 'of': 9, 'one': 10, 'processing': 11, 'such': 12, 'text': 13, 'the': 14, 'this': 15, 'to': 16, 'via': 17, 'words': 18} 
 
-```
+</pre>
 
 Now let's construct a matrix that contains word counts (term frequencies) for all the documents.  We'll also refer to the term frequency of the $j$th word in the $i$th library as $\mathrm{tf}_{i,j}$.
 
@@ -127,11 +127,11 @@ for i,doc in enumerate(document_words):
 print(X_tf)
 ```
 
-```
+<pre>
 [[0 0 1 1 1 1 1 1 0 2 0 1 0 1 2 1 1 0 0]
  [1 1 0 0 0 0 1 0 1 1 1 0 1 0 1 0 0 0 1]
  [0 1 0 0 0 0 0 0 0 1 0 1 0 1 0 0 0 1 1]]
-```
+</pre>
 
 As mentioned above, each of the _rows_ in this matrix correponds to one of the three documents above, and each column correponds to one of the 19 words.  Importantly, note that in practice (for instance on the homework), you will want to create term frequency matrices directly in sparse format, because the term frequency matrix is itself typically sparse (when there are a large number of documents, many words will only be contained in a small number of the document).
 
@@ -161,12 +161,12 @@ idf = np.log(X_tf.shape[0]/X_tf.astype(bool).sum(axis=0))
 print(idf)
 ```
 
-```
+<pre>
 [ 1.09861229  0.40546511  1.09861229  1.09861229  1.09861229  1.09861229
   0.40546511  1.09861229  1.09861229  0.          1.09861229  0.40546511
   1.09861229  0.40546511  0.40546511  1.09861229  1.09861229  1.09861229
   0.40546511]
-```
+</pre>
 
 ### TFIDF
 
@@ -178,7 +178,7 @@ X_tfidf = X_tf * idf
 print(X_tfidf)
 ```
 
-```
+<pre>
 [[ 0.          0.          1.09861229  1.09861229  1.09861229  1.09861229
    0.40546511  1.09861229  0.          0.          0.          0.40546511
    0.          0.40546511  0.81093022  1.09861229  1.09861229  0.          0.        ]
@@ -189,7 +189,7 @@ print(X_tfidf)
  [ 0.          0.40546511  0.          0.          0.          0.          0.
    0.          0.          0.          0.          0.40546511  0.
    0.40546511  0.          0.          0.          1.09861229  0.40546511]]
-```
+</pre>
 
 ### Cosine similarity
 
@@ -220,11 +220,11 @@ M = X_tfidf_norm @ X_tfidf_norm.T
 print(M)
 ```
 
-```
+<pre>
 [[ 1.          0.06796739  0.07771876]
  [ 0.06796739  1.          0.10281225]
  [ 0.07771876  0.10281225  1.        ]]
-```
+</pre>
 
 We could also look at the cosine similarity with the ordinary term frequency matrix.
 
@@ -235,11 +235,11 @@ M = X_tf_norm @ X_tf_norm.T
 print(M)
 ```
 
-```
+<pre>
 [[ 1.          0.3928371   0.38490018]
  [ 0.3928371   1.          0.40824829]
  [ 0.38490018  0.40824829  1.        ]]
-```
+</pre>
 
 As expected, using the term frequency matrix results in substantially higher scores: the inclusion of words that occur across many of the documents add positive terms to the inner product between the document vectors, resulting in higher similarity scores.  Note, however, that the distances are typically _all_ scaled up, meaning that the relative distances are not necssarily any more informative than the TFIDF similarities (indeed, it is typically less informative, since the scores are inflated by the "random" occurance of multiple high-frequency words).
 
@@ -268,10 +268,10 @@ vocab_dict = {k:i for i,k in enumerate(vocab)}
 print(vocab_dict, "\n")
 ```
 
-```
+<pre>
 {'a': 0, 'boston': 1, 'city': 2, 'cuisine': 3, 'database': 4, 'excellent': 5, 'great': 6, 'has': 7, 'is': 8, 'management': 9, 'new': 10, 'pittsburgh': 11, 'postgresql': 12, 'relational': 13, 'restaurants': 14, 'some': 15, 'system': 16, 'with': 17} 
 
-```
+</pre>
 
 In this case the vector for "pittsburgh" would just be an all-zeros vector but with a one in the 11th position.  We'll denote this vector as $e_{\mathrm{pittsburgh}}$, as the "$e$" notation often stands for the unit basis in linear algebra (exactly this same idea of a vector that is all zeros with a single one in a particular entry).
 
@@ -282,9 +282,9 @@ e_pittsburgh[vocab_dict["pittsburgh"]] = 1.0
 print(e_pittsburgh)
 ```
 
-```
+<pre>
 [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.  0.  0.  0.  0.  0.  0.]
-```
+</pre>
 
 Obviously we can recover our document term frequency vector by just adding together the vectors for each word in the document
 
@@ -365,10 +365,10 @@ We can now get the actual word vectors of many relevant words in the English lan
 model.wv["pittsburgh"][:10]
 ```
 
-```
+<pre>
 array([ 0.01674137, -0.04457627, -0.11064089,  0.07378815,  0.03441498,
         0.05459452,  0.01707146, -0.01835188, -0.10072982, -0.08968262], dtype=float32)
-```
+</pre>
 
 It's important to understand that the values in the word vector itself don't have any absolute meaning, they are only relevant in relation to other word vectors.  For instance, we can get the word vectors closest to "pittsburgh" using the `.similar_by_word()` function.
 
@@ -377,13 +377,13 @@ It's important to understand that the values in the word vector itself don't hav
 model.similar_by_word("pittsburgh", topn=5)
 ```
 
-```
+<pre>
 [('chicago', 0.7721596956253052),
  ('cincinnati', 0.7613446116447449),
  ('boston', 0.7496343851089478),
  ('detroit', 0.7348772287368774),
  ('louisville', 0.7261004447937012)]
-```
+</pre>
 
 This function is actually just a quick wrapper over the more general `.similar_by_vector()` function, but leaves out the input word itself (which naturally always has full similarity to itself).
 
@@ -392,13 +392,13 @@ This function is actually just a quick wrapper over the more general `.similar_b
 model.similar_by_vector(model.wv["pittsburgh"], topn=5)
 ```
 
-```
+<pre>
 [('pittsburgh', 1.0),
  ('chicago', 0.7721596956253052),
  ('cincinnati', 0.7613446116447449),
  ('boston', 0.7496343851089478),
  ('detroit', 0.7348772287368774)]
-```
+</pre>
 
 These results look very reasonable: the most similar words to Pittsburgh are also all cities in the middle and eastern US.  You can experiment with other word, and often they seems surprisingly good, especially given the simple process that is used to actually train the model.
 
@@ -424,13 +424,13 @@ $$
 model.similar_by_vector(model.wv["pittsburgh"] - model.wv["pennsylvania"] + model.wv["massachusetts"], topn=5)
 ```
 
-```
+<pre>
 [('pittsburgh', 0.8325108289718628),
  ('boston', 0.6833232641220093),
  ('detroit', 0.6712852120399475),
  ('cincinnati', 0.6654931306838989),
  ('chicago', 0.6522258520126343)]
-```
+</pre>
 
 The most similar word to this vector is just the vector $w_{\mathrm{pittsburgh}}$ (just like the vector for "pittsburgh" was naturally closest to itself, in practice the analogy relationships above are not perfect in the vector space, and since "massachusetts and "pennsylvania" are themselves relatively close, "pittsburgh" still the closest to this modified vector).  But after that, "boston" comes in second, relatively more similar to "pittsburgh" than it was before, given the additional information about the states that the two cities are in.
 
@@ -462,11 +462,11 @@ M = X_w2v @ X_w2v.T
 print(M)
 ```
 
-```
+<pre>
 [[ 1.          0.78749132  0.6995337 ]
  [ 0.78749132  1.00000012  0.76503289]
  [ 0.6995337   0.76503289  1.        ]]
-```
+</pre>
 
 Now our first and second documents (both about food in cities) are the two most similar documents, while each both are less similar to the third, _despite_ the fact that the first and second documents have no words in common.  Note that in general the similarities here are higher than similarities you get with a TFIDF model, so what is important are the relative similarities, not the absolute similarities.  This is because "random" words in a word embedding model still often have some degree of similarity, for example:
 
@@ -475,9 +475,9 @@ Now our first and second documents (both about food in cities) are the two most 
 model.similarity("pittsburgh", "postgresql")
 ```
 
-```
+<pre>
 0.35499241775171919
-```
+</pre>
 
 This is certainly low compared to the similarity between "pittsburgh" and "boston", but it's not zero either, and so these terms (and especially the similarity between all the more common words) add up to cause the "absolute" similarities to be relatively high.  But again, what is important here is the relative scores, which correctly show that the first two documents are more similar, as we would expect from their content.  You can, of ourse, also combine word2vec embeddings with inverse document frequency weights and similar things, to try to get better representations of the relevant features of documents.
 
@@ -494,7 +494,7 @@ X_tfidf = gs.matutils.corpus2csc(tfidf[corpus])
 print(X_tfidf.todense().T)
 ```
 
-```
+<pre>
 [[ 0.40824829  0.40824829  0.40824829  0.40824829  0.40824829  0.40824829
    0.          0.          0.          0.          0.          0.          0.
    0.          0.          0.          0.          0.        ]
@@ -504,7 +504,7 @@ print(X_tfidf.todense().T)
  [ 0.          0.          0.          0.          0.          0.          0.
    0.16073254  0.16073254  0.          0.          0.          0.
    0.43550663  0.43550663  0.43550663  0.43550663  0.43550663]]
-```
+</pre>
 
 Note that the term frequency matrix is actually the transpose of what we defined, but it is of course equivalent.  You can also get the cosine similarity matrix as well.
 
@@ -514,11 +514,11 @@ M = gs.similarities.MatrixSimilarity(tfidf[corpus])
 print(M.get_similarities(tfidf[corpus]))
 ```
 
-```
+<pre>
 [[ 1.          0.          0.        ]
  [ 0.          0.99999988  0.0516699 ]
  [ 0.          0.0516699   0.99999988]]
-```
+</pre>
 
 ## Language models and n-grams
 

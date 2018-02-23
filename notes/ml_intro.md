@@ -4,7 +4,7 @@ title: Intro to machine learning
 img: scatter_fit_title.svg
 ---
 
-[Download notes as Jupyter notebook](ml_intro.tar.gz)
+[Download notes as jupyter notebook](ml_intro.tar.gz)
 
 ## Introduction
 
@@ -477,12 +477,12 @@ def gradient_descent_unnor(iters, alpha=1.0):
 gradient_descent_unnor(100, alpha=1.0);
 ```
 
-```
+<pre>
 /Users/zkolter/anaconda3/lib/python3.6/site-packages/ipykernel_launcher.py:6: RuntimeWarning: overflow encountered in double_scalars
   
 /Users/zkolter/anaconda3/lib/python3.6/site-packages/ipykernel_launcher.py:6: RuntimeWarning: invalid value encountered in add
   
-```
+</pre>
 
 Our parameters start blowing up and quickly cause numerical overflow.  The issue here is that `alpha` is too large for these unscaled values.  So let's lower it a bit.  The following was the lowest value I could find that didn't cause `alpha` to diverge.
 
@@ -491,7 +491,7 @@ Our parameters start blowing up and quickly cause numerical overflow.  The issue
 gradient_descent_unnor(100, alpha=0.0001);
 ```
 
-```
+<pre>
 Iteration   0:  [ 0.  0.]
 Iteration  10:  [ 0.02716586 -0.00011614]
 Iteration  20:  [ 0.02716621 -0.00013093]
@@ -502,7 +502,7 @@ Iteration  60:  [ 0.02716695 -0.00019011]
 Iteration  70:  [ 0.02716713 -0.0002049 ]
 Iteration  80:  [ 0.02716731 -0.00021969]
 Iteration  90:  [ 0.0271675  -0.00023449]
-```
+</pre>
 
 The problem here is that we are nowhere _near_ converged to the solution.  Let's run it for one million iterations instead.
 
@@ -511,7 +511,7 @@ The problem here is that we are nowhere _near_ converged to the solution.  Let's
 gradient_descent_unnor(1000000, alpha=0.0001);
 ```
 
-```
+<pre>
 Iteration   0:  [ 0.  0.]
 Iteration 100000:  [ 0.028912   -0.14130278]
 Iteration 200000:  [ 0.03050149 -0.26983678]
@@ -522,7 +522,7 @@ Iteration 600000:  [ 0.03555581 -0.67855165]
 Iteration 700000:  [ 0.03654928 -0.75888811]
 Iteration 800000:  [ 0.03745362 -0.83201744]
 Iteration 900000:  [ 0.03827684 -0.89858621]
-```
+</pre>
 
 One million iterations, and our parameters are still changing quite a bit.  What's happening here, as mentioned above, is that we effectively need very different step sizes in the two parameters, because the scales are so different; what is more, it's actually the case that the best choice of parameters are also highly correlated, so that for instance, for a slight change in slope there is a _very_ different choice of intercept that is optimal, and vice versa.  Taken together, this means that it is very difficult for gradient descent to find a "good" direction by which to improve the function, and we essentially have to take extremely small steps that take a very long time for us to reach the optimal value.
 

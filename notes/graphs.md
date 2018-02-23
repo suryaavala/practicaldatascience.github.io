@@ -4,7 +4,7 @@ title: Graph and network processing
 img: roadNet-PA_graph.gif
 ---
 
-[Download notes as Jupyter notebook](graphs.tar.gz)
+[Download notes as jupyter notebook](graphs.tar.gz)
 
 ## Introduction
 
@@ -85,9 +85,9 @@ nodes = {"A", "B", "C", "D"}
 edges = {("A","B"), ("B","C"), ("C","A"), ("C","D")}
 ```
 
-```
+<pre>
 {'D', 'C', 'B', 'A'}
-```
+</pre>
 
 These are Python `set` objects, which are like a dictionary except that they just consist of keys, no values, and we're only using them here because a graph mathematically was defined precisely as a set of nodes and edges.  This may seem like a natural representation, but it has some major difficulties from a functionality standpoint.  For example, while it's relatively efficient to check if an edge exists in this representation (checking set membership is a $O(1)$ operation, just like dictionary lookup), it is very difficult, for example, to find all outgoing edges of a node, something we very often want to do when traversing graphs.  For this reason, it is much more common to represent graphs in other formats when we want to use them algorithmically.  We will specifically consider three of these here:
 
@@ -106,9 +106,9 @@ nodes = ["A", "B", "C", "D"]
 print(nodes)
 ```
 
-```
+<pre>
 ['A', 'B', 'C', 'D']
-```
+</pre>
 
 Note that if we want a fast way of looking up nodes, we can create a dictionary of nodes to indices, like so.
 
@@ -119,9 +119,9 @@ nodes_dict = {k:i for i,k in enumerate(nodes)}  # same as the above, done progra
 print(nodes_dict)
 ```
 
-```
+<pre>
 {'A': 0, 'B': 1, 'C': 2, 'D': 3}
-```
+</pre>
 
 We could accomplish the same thing just by using dictionaries directly, but since the idea of mapping general node labels like strings to integer indices is a useful conceptual idea (we'll need to do the same thing when we consider the adjacency matrix for, for instance), we will do that here as well.
 
@@ -232,7 +232,7 @@ There are several slightly different version of Dijkstra's algorithm (for instan
     
 * $D[s] := 0$ 
 * $D[i] := \infty$, $\forall i \neq s$
-* Q := V
+* $Q := V$
 
 **Repeat until $Q$ is empty:**
 
@@ -253,11 +253,11 @@ Let's see how this algorithm looks step by step, looking at the distances and el
 
 At each step of the algorithm, we have the following elements:
 
-* Initialization: $D=[0,\infty,\infty,\infty], Q=\{A,B,C,D\}$
-* Step 1: Pop "A", $D=[0,1,1,\infty], Q=\{B,C,D\}$
-* Step 2: Pop "B", $D=[0,1,1,\infty], Q=\{C,D\}$
-* Step 3: Pop "C", $D=[0,1,1,2], Q=\{D\}$
-* Step 4: Pop "D", $D=[0,1,1,2], Q=\{\}$
+* Initialization: $D=[0,\infty,\infty,\infty], Q=[A,B,C,D]$
+* Step 1: Pop "A", $D=[0,1,1,\infty], Q=[B,C,D]$
+* Step 2: Pop "B", $D=[0,1,1,\infty], Q=[C,D]$
+* Step 3: Pop "C", $D=[0,1,1,2], Q=[D]$
+* Step 4: Pop "D", $D=[0,1,1,2], Q=[]$
 
 At the end of execution, $D$ contains the length of the shortest path from $s$ to all other nodes.
 
@@ -375,9 +375,9 @@ for _ in range(T):
 print(x)
 ```
 
-```
+<pre>
 [ 0.21260745  0.26418338  0.31060172  0.21260745]
-```
+</pre>
 
 You can play around with this implementation to see what happens for different values of $d$.
 
@@ -448,9 +448,9 @@ G.add_nodes_from(["B","C"])
 print(G.nodes())
 ```
 
-```
+<pre>
 ['A', 'B', 'C']
-```
+</pre>
 
 
 ```python
@@ -461,10 +461,10 @@ G.remove_node("B")
 print(G.nodes())
 ```
 
-```
+<pre>
 ['B']
 ['A', 'C']
-```
+</pre>
 
 Edges can be added and removed from the graph using using the `.add_edge()` (add a single edge), `.add_edges_from()` (add a sequence of edges from a list), `.remove_edge()` and `remove_edges_from()` (similar to before).  Note that we can add edges between nodes that do not exist, and the relevant nodes are automatically added to the graph (for this reason, it is more common to simply add edges, rather than add nodes and edges separately, when constructing a graph).  Like the `.nodes()` call the `.edges()` call returns a list of edges in the graph, represented as tuples
 
@@ -476,10 +476,10 @@ print(G.nodes())
 print(G.edges())
 ```
 
-```
+<pre>
 ['A', 'B', 'C', 'D']
 [('A', 'B'), ('B', 'C'), ('C', 'A'), ('C', 'D')]
-```
+</pre>
 
 
 ```python
@@ -487,9 +487,9 @@ G.remove_edge("A","B")
 print(G.edges())
 ```
 
-```
+<pre>
 [('B', 'C'), ('C', 'A'), ('C', 'D')]
-```
+</pre>
 
 
 ```python
@@ -497,9 +497,9 @@ G.remove_edges_from([("A","B"), ("B","C")])
 print(G.edges(), weight)
 ```
 
-```
+<pre>
 [('C', 'A'), ('C', 'D')]
-```
+</pre>
 
 Removing a node will remove all the edges connected to that node.
 
@@ -511,9 +511,9 @@ G.remove_node("A")
 print(G.edges())
 ```
 
-```
+<pre>
 [('B', 'C'), ('C', 'D')]
-```
+</pre>
 
 We can also add weights to edges via the `weight` attribute, though as we see, this is just a special case of more general edge attributes.
 
@@ -535,9 +535,9 @@ G.add_edges_from([("A","B"), ("B","C"), ("C","A"), ("C","D")])
 print(G["C"])
 ```
 
-```
+<pre>
 {'A': {}, 'D': {}}
-```
+</pre>
 
 Remember that in an adjacency dictionary representation, the value for key "C" would be a dictionary, with keys corresponding to the nodes that "C" is connected to, just as we see above.  Note that by default, the value in this inner dictionary is itself an (empty) dictionary.  This dictionary is precisely where we store any relevant attributes for this edge.  For example, to add a "color" attribute to an edge, we just add the key/value pair to the edge.
 
@@ -554,9 +554,9 @@ G["A"]["B"]["weight"] = 1.0
 print(G["A"]["B"])
 ```
 
-```
+<pre>
 {'weight': 1.0, 'color': 'red'}
-```
+</pre>
 
 Obviously, node attributes cannot be added in quite the same way: the `G["A"]` dictionary couldn't be a method for adding node properties, as this is already how we represent the edges of node "A".  Instead, if we want to add node properties we use the `.node` property.
 
@@ -566,9 +566,9 @@ G.node["A"]["color"] = "blue"
 print(G.node["A"])
 ```
 
-```
+<pre>
 {'color': 'blue'}
-```
+</pre>
 
 Finally, the `.nodes()` and `.edges()` lists by default will not return any of the attributes.
 
@@ -578,10 +578,10 @@ print(G.nodes())
 print(G.edges())
 ```
 
-```
+<pre>
 ['A', 'B', 'C', 'D']
 [('A', 'B'), ('B', 'C'), ('C', 'A'), ('C', 'D')]
-```
+</pre>
 
 If we want to data returned too, we need to pass the `data=True` argument.
 
@@ -591,10 +591,10 @@ print(G.nodes(data=True))
 print(G.edges(data=True))
 ```
 
-```
+<pre>
 [('A', {'color': 'blue'}), ('B', {}), ('C', {}), ('D', {})]
 [('A', 'B', {'weight': 1.0, 'color': 'red'}), ('B', 'C', {}), ('C', 'A', {}), ('C', 'D', {})]
-```
+</pre>
 
 ### Drawing graphs
 
@@ -637,10 +637,10 @@ print(nx.shortest_path_length(G, source="A"))
 print(nx.shortest_path(G, source="A"))
 ```
 
-```
+<pre>
 {'A': 0, 'B': 1, 'C': 1, 'D': 2}
 {'A': ['A'], 'B': ['A', 'B'], 'C': ['A', 'C'], 'D': ['A', 'C', 'D']}
-```
+</pre>
 
 The PageRank implementation takes an `alpha` parameters which is $1-d$ is our notation.
 
@@ -651,12 +651,12 @@ G.add_edges_from([("A","B"), ("B","C"), ("C","A"), ("C","D")])
 nx.pagerank(G, alpha=0.9)
 ```
 
-```
+<pre>
 {'A': 0.2126075277037968,
  'B': 0.2641838185655828,
  'C': 0.31060112602682377,
  'D': 0.2126075277037968}
-```
+</pre>
 
 Finally, Girvan-Newman is a bit more involved, as it return the dendrogram as a sequence of successive breakdowns of the nodes.  Note that this sequence removes one edge at a time, so it only matches our figure at a few different points in the network, but it is hopefully apparent that this is doing the same thing as in our previous algorithmic description.
 
@@ -670,7 +670,7 @@ communities = nx.community.girvan_newman(G)
 list(communities)
 ```
 
-```
+<pre>
 [({1, 2, 3, 4, 5, 6, 7}, {8, 9, 10, 11, 12, 13, 14}),
  ({1, 2, 3}, {4, 5, 6, 7}, {8, 9, 10, 11, 12, 13, 14}),
  ({1, 2, 3}, {4, 5, 6, 7}, {9, 10, 11}, {8, 12, 13, 14}),
@@ -684,7 +684,7 @@ list(communities)
  ({1}, {2}, {3}, {4}, {5}, {6}, {9}, {10}, {11}, {12, 13, 14}, {7}, {8}),
  ({1}, {2}, {3}, {4}, {5}, {6}, {9}, {10}, {11}, {12}, {13, 14}, {7}, {8}),
  ({1}, {2}, {3}, {4}, {5}, {6}, {9}, {10}, {11}, {12}, {13}, {14}, {7}, {8})]
-```
+</pre>
 
 ## References
 

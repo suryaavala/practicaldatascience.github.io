@@ -53,3 +53,4 @@ This page lists the class lectures and recitations, plus additional material (sl
 | 1/26 | HW 1 | [<i class="fa fa-file-text-o"></i>](/hw/hw1/recitation1.ipynb) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44616043-a057-457e-8122-a874017b5970) |
 | 2/9 | HW 2 | [<i class="fa fa-file-text-o"></i>](/hw/hw2/recitation2.tar.gz) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=40fc7ff0-5b42-4fb4-8485-a883002b1b21) |
 | 2/16| HW 2 Office Hours | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9b61eccb-5bb3-44c2-9f41-a889014c575b)|
+| 2/23 | HW 3 | [<i class="fa fa-file-text-o"></i>](/hw/hw1/recitation.ipynb) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=992b3f85-7ef7-435c-84dd-a890017df240)

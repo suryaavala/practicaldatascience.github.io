@@ -4,7 +4,7 @@ title: Vectors, matrices, and linear algebra
 img: matrix.svg
 ---
 
-[Download notes as Jupyter notebook](matrices.tar.gz)
+[Download notes as jupyter notebook](matrices.tar.gz)
 
 ## Introduction
 
@@ -208,7 +208,7 @@ $$
 $$
 
 
-**Complexity of operations**:  For making efficient use of matrix operations, it is extremely important to know the big-O complexity of the different matrix operations.  Immediately from the definitions of the operations, assuming $A,B \in \mathbb{R}^{n \times n}$ and $x,y \in \mathbb{R}^n$ we have the the following complexities:
+** Complexity of operations**:  For making efficient use of matrix operations, it is extremely important to know the big-O complexity of the different matrix operations.  Immediately from the definitions of the operations, assuming $A,B \in \mathbb{R}^{n \times n}$ and $x,y \in \mathbb{R}^n$ we have the the following complexities:
 
 * Inner product $x^Ty$: $O(n)$
 * Matrix-vector product $Ax$: $O(n^2)$
@@ -253,7 +253,7 @@ import numpy as np
 np.__config__.show()
 ```
 
-```
+<pre>
 blas_mkl_info:
     libraries = ['mkl_rt', 'pthread']
     library_dirs = ['/Users/zkolter/anaconda3/lib']
@@ -274,7 +274,7 @@ lapack_opt_info:
     library_dirs = ['/Users/zkolter/anaconda3/lib']
     define_macros = [('SCIPY_MKL_H', None), ('HAVE_CBLAS', None)]
     include_dirs = ['/Users/zkolter/anaconda3/include']
-```
+</pre>
 
 Your output may not be exactly the same as what is shown here, but you should be able to infer from this if you're using an optimized library like (int this case), Intel MKL.
 
@@ -290,12 +290,12 @@ print(b, "\n")
 print(A)
 ```
 
-```
+<pre>
 [-13   9] 
 
 [[ 4 -5]
  [-2  3]]
-```
+</pre>
 
 There are also special functions for creating arrays/matrices of all zeros, all ones, or of random numbers (in this case, the `np.randon.randn` create a matrix with standard random normal entries, while `np.random.rand` creates uniform random entries).
 
@@ -306,13 +306,13 @@ print(np.zeros(4), "\n")          # 1D array of zeros
 print(np.random.randn(4))         # 1D array of random normal numbers
 ```
 
-```
+<pre>
 [ 1.  1.  1.  1.] 
 
 [ 0.  0.  0.  0.] 
 
 [-0.65826018 -0.48547552 -0.12390373  0.51937501]
-```
+</pre>
 
 
 ```python
@@ -321,7 +321,7 @@ print(np.zeros((3,4)), "\n")      # 2D array of zeros
 print(np.random.randn(3,4))       # 2D array of random normal numbers
 ```
 
-```
+<pre>
 [[ 1.  1.  1.  1.]
  [ 1.  1.  1.  1.]
  [ 1.  1.  1.  1.]] 
@@ -333,7 +333,7 @@ print(np.random.randn(3,4))       # 2D array of random normal numbers
 [[-0.92108207 -0.0840208  -1.49748471  0.1484692 ]
  [-0.80504092  0.47344881  0.96519561  1.02125684]
  [ 0.07350312 -0.52083043 -0.42326075  0.71938146]]
-```
+</pre>
 
 Note that (in a design that will forever frustrate me), the size of the array is passed as a tuple to `np.ones()` and `np.zeros()`, but as a list of arguments to `np.random.randn()`.
 
@@ -345,7 +345,7 @@ print(np.eye(3),"\n")                     # create array for 3x3 identity matrix
 print(np.diag(np.random.randn(3)),"\n")   # create diagonal array
 ```
 
-```
+<pre>
 [[ 1.  0.  0.]
  [ 0.  1.  0.]
  [ 0.  0.  1.]] 
@@ -354,7 +354,7 @@ print(np.diag(np.random.randn(3)),"\n")   # create diagonal array
  [ 0.         -0.17133185  0.        ]
  [ 0.          0.         -1.09201859]] 
 
-```
+</pre>
 
 ### Indexing into numpy arrays
 
@@ -369,7 +369,7 @@ print(A[1,:],"\n")           # select entire row
 print(A[1:3, :], "\n")       # slice indexing
 ```
 
-```
+<pre>
 [[ 1  2  3]
  [ 4  5  6]
  [ 7  8  9]
@@ -382,7 +382,7 @@ print(A[1:3, :], "\n")       # slice indexing
 [[4 5 6]
  [7 8 9]] 
 
-```
+</pre>
 
 Note the convention here in terms of the sizes returned: if we select a single entry, then we get back the value of that entry (not a 1D/2D array with just a singleton element).  If we select a single row or a single column from a 2D array we get a _1D array_ with that row or column.  And if we select a slice and/or the entire row/column along both dimensions, we get a 2D array.  This takes a while to get used to, but if, for example, we wanted to get a _2D array_ containing just the (1,1) element, we could use the code.
 
@@ -391,9 +391,9 @@ Note the convention here in terms of the sizes returned: if we select a single e
 print(A[1:2,1:2])  # Select A[1,1] as a singleton 2D array
 ```
 
-```
+<pre>
 [[5]]
-```
+</pre>
 
 Numpy also support fancier indexing with _integer_ and _Boolean_ indexing.  If we create another array or list of indices (that  is, for the rows in above array, this would be integers between 0-3 (inclusive)), then we can use this list of integers to select the rows/columns we want to include.
 
@@ -402,11 +402,11 @@ Numpy also support fancier indexing with _integer_ and _Boolean_ indexing.  If w
 print(A[[1,2,3],:])  # select rows 1, 2, and 3
 ```
 
-```
+<pre>
 [[ 4  5  6]
  [ 7  8  9]
  [10 11 12]]
-```
+</pre>
 
 Note that these integer indices do not need to be in order, nor do they have to include at most once instance of each row/column; we can use this notation to repeat rows/columns too.
 
@@ -415,11 +415,11 @@ Note that these integer indices do not need to be in order, nor do they have to 
 print(A[[2,1,2],:])  # select rows 2, 1, and 2 again
 ```
 
-```
+<pre>
 [[7 8 9]
  [4 5 6]
  [7 8 9]]
-```
+</pre>
 
 Note that we can also use an array of integers instead of a list, for the same purpose.
 
@@ -428,11 +428,11 @@ Note that we can also use an array of integers instead of a list, for the same p
 print(A[np.array([2,1,2]),:])  # select rows 2, 1, and 2 again
 ```
 
-```
+<pre>
 [[7 8 9]
  [4 5 6]
  [7 8 9]]
-```
+</pre>
 
 Last, we can also use Boolean indexing.  If we specify a list or array of booleans that is the _same size_ as the corresponding row/column, then the Boolean values specify a "mask" over which values are taken.
 
@@ -441,10 +441,10 @@ Last, we can also use Boolean indexing.  If we specify a list or array of boolea
 print(A[[False, True, False, True],:])  # Select 1st and 3rd rows
 ```
 
-```
+<pre>
 [[ 4  5  6]
  [10 11 12]]
-```
+</pre>
 
 As a final note, be careful if you try to use integer or boolean indexing for both dimensions.  This will attempt to select generate a 1D array of entries with both those locations.
 
@@ -453,9 +453,9 @@ As a final note, be careful if you try to use integer or boolean indexing for bo
 print(A[[2,1,2],[1,2,0]])    # the same as np.array([A[2,1], A[1,2], A[2,0]])
 ```
 
-```
+<pre>
 array([8, 6, 7])
-```
+</pre>
 
 If you actually want to first select based upon rows, then upon columns, you'll do it like the following, essentially doing each indexing separately.
 
@@ -464,11 +464,11 @@ If you actually want to first select based upon rows, then upon columns, you'll 
 A[[2,1,2],:][:,[1,2,0]]
 ```
 
-```
+<pre>
 array([[8, 9, 7],
        [5, 6, 4],
        [8, 9, 7]])
-```
+</pre>
 
 ### Basic operations on arrays
 
@@ -481,7 +481,7 @@ print(A+B, "\n") # add A and B elementwise (same as "standard" matrix addition)
 print(A-B) # subtract B from A elementwise (same as "standard" matrix subtraction)
 ```
 
-```
+<pre>
 [[ 2  3  4]
  [ 5  7  7]
  [10  9 12]
@@ -491,7 +491,7 @@ print(A-B) # subtract B from A elementwise (same as "standard" matrix subtractio
  [ 3  3  5]
  [ 4  7  6]
  [ 9  7 11]]
-```
+</pre>
 
 Array multiplication and division are done _elementwise_, they are _not_ matrix multiplication or anything related to matrix inversion.
 
@@ -501,7 +501,7 @@ print(A*B, "\n") # elementwise multiplication, _not_ matrix multiplication
 print(A/B, "\n") # elementwise division, _not_ matrix inversion
 ```
 
-```
+<pre>
 [[ 1  2  3]
  [ 4 10  6]
  [21  8 27]
@@ -512,7 +512,7 @@ print(A/B, "\n") # elementwise division, _not_ matrix inversion
  [  2.33333333   8.           3.        ]
  [ 10.           2.75        12.        ]] 
 
-```
+</pre>
 
 You can transpose arrays, but note this _only_ has meaning for 2D (or higher) arrays.  Transposing a 1D array doesn't do anything, since Numpy has no notion of column vectors vs. row vectors for 1D arrays.
 
@@ -524,7 +524,7 @@ print(x, "\n")
 print(x.T)
 ```
 
-```
+<pre>
 [[ 1  4  7 10]
  [ 2  5  8 11]
  [ 3  6  9 12]] 
@@ -532,7 +532,7 @@ print(x.T)
 [1 2 3 4] 
 
 [1 2 3 4]
-```
+</pre>
 
 ### Broadcasting
 
@@ -547,12 +547,12 @@ x = np.array([[1,2,3]])      # x is 1x3
 A*x                          # repeat x along dimension 4 (repeat four times), and add to A
 ```
 
-```
+<pre>
 array([[ 1.,  2.,  3.],
        [ 1.,  2.,  3.],
        [ 1.,  2.,  3.],
        [ 1.,  2.,  3.]])
-```
+</pre>
 
 Effectively, the (1,3) array `x` (observer that it is actually a 2D array) is "resized" to (4,3), repeating its entries along the first dimension, and it is them multiplied elementwise by `A`.  The effective result of this is that the columns of `A` are rescaled by the values of `x`.  Note that no actual additional memory allocation happens, and the resize here is entirely from a conceptual perspective.  Alternatively, the following code would rescale the _rows_ of `A` by `x` (where here we need to construct a (4,1) sized array is order for the broadcasting to work.
 
@@ -562,12 +562,12 @@ x = np.array([[1],[2],[3],[4]])
 A*x
 ```
 
-```
+<pre>
 array([[ 1.,  1.,  1.],
        [ 2.,  2.,  2.],
        [ 3.,  3.,  3.],
        [ 4.,  4.,  4.]])
-```
+</pre>
 
 Here `x` has size (4,1), so it is effectively resized to (4,3) along the second dimension, repeating values along the columns.  This has the effect of scaling the rows of `A` by `x`.
 
@@ -579,12 +579,12 @@ x = np.array([1,2,3])
 A*x
 ```
 
-```
+<pre>
 array([[ 1.,  2.,  3.],
        [ 1.,  2.,  3.],
        [ 1.,  2.,  3.],
        [ 1.,  2.,  3.]])
-```
+</pre>
 
 If we want to implicitly "cast" a n sized 1D array to a (n,1) sized array, we can use the notation `x[:,None]` (we put "None" for the dimensions we want to define to be 1).
 
@@ -595,7 +595,7 @@ print(x[:,None], "\n")
 print(A*x[:,None])
 ```
 
-```
+<pre>
 [[1]
  [2]
  [3]
@@ -605,7 +605,7 @@ print(A*x[:,None])
  [ 2.  2.  2.]
  [ 3.  3.  3.]
  [ 4.  4.  4.]]
-```
+</pre>
 
 These rules can be confusing, and it takes some time to get used to them, but the advantage of broadcasting is that you can compute many operations quite efficiently, and once you get used to the notation, it is actually not the difficult to understand what is happening.  For example, from a "linear algebra" perspective, the right way to scale the column of a matrix is a matrix multiplication by a diagonal matrix, like in the following code.
 
@@ -615,12 +615,12 @@ D = np.diag(np.array([1,2,3]))
 A @ D
 ```
 
-```
+<pre>
 array([[ 1.,  2.,  3.],
        [ 1.,  2.,  3.],
        [ 1.,  2.,  3.],
        [ 1.,  2.,  3.]])
-```
+</pre>
 
 (we will cover the matrix multiplication operator `@` in a moment).  However, actually constructing the `np.diag()` matrix is wasteful: it explicitly constructs an $n \times n$ matrix that only has non-zero elements on the diagonal, then performs a dense matrix multiplication.  It is much more efficient to simply scale `A` using the broadcasting method above, as no additional storage will be allocated, and the actual scaling operation only requires $O(n^2)$ time as opposed to the $O(n^3)$ time for a full matrix multiplication.
 
@@ -641,7 +641,7 @@ print(A @ x, "\n")       # matrix-vector multiply (returns 1D array)
 print(x @ z)       # inner product (scalar)
 ```
 
-```
+<pre>
 [[-2.349365    0.31307737  0.43701076]
  [-3.01521936  2.33512524 -0.59099322]
  [-0.02346425  0.0118288  -2.68179453]
@@ -651,7 +651,7 @@ print(x @ z)       # inner product (scalar)
 [-0.19595591  0.22193364  0.88633042  0.40914083 -0.87358333] 
 
 1.11337305084
-```
+</pre>
 
 There is an important point to note, though, here. Depending on the sizes of the arrays passed to the `@` operator, numpy will return results of different sizes: two 2D arrays result in a 2D array (matrix-matrix product), a 2D array and a 1D array result in a 1D array (matrix-vector product), and two 1D arrays result in a scalar (just a floating point number, not an `ndarray` at all).  This can cause some issues if, for instance, your code always assumes that the result of a `@` operation between two `ndarray` objects will also return an `ndarray`: depending on the size of the arrays you pass (i.e., if they are both 1D arrays), you will actually get a floating point object, not an `ndarray` at all.
 
@@ -663,11 +663,11 @@ print(A.T @ y, "\n")
 print(y.T @ A)
 ```
 
-```
+<pre>
 [-0.20969054  1.62940281 -0.89696956 -2.29205352] 
 
 [-0.20969054  1.62940281 -0.89696956 -2.29205352]
-```
+</pre>
 
 The confusing part is that because transposes have no meaning to for 1D arrays, the following code _also_ returns the same result, despite $y A$ not being a valid linear algebra expression.
 
@@ -676,9 +676,9 @@ The confusing part is that because transposes have no meaning to for 1D arrays, 
 print(y @ A)
 ```
 
-```
+<pre>
 [-0.20969054  1.62940281 -0.89696956 -2.29205352]
-```
+</pre>
 
 On the other hand, trying to do the multiplication in the other order $Ay$ (which is also not a valid linear algebra expression), does throw an error.
 
@@ -698,13 +698,13 @@ A = sp.coo_matrix(np.eye(5))
 A.todense()
 ```
 
-```
+<pre>
 matrix([[ 1.,  0.,  0.,  0.,  0.],
         [ 0.,  1.,  0.,  0.,  0.],
         [ 0.,  0.,  1.,  0.,  0.],
         [ 0.,  0.,  0.,  1.,  0.],
         [ 0.,  0.,  0.,  0.,  1.]])
-```
+</pre>
 
 You can cast it to an `ndarray` using the code.
 
@@ -713,13 +713,13 @@ You can cast it to an `ndarray` using the code.
 np.asarray(A.todense())
 ```
 
-```
+<pre>
 array([[ 1.,  0.,  0.,  0.,  0.],
        [ 0.,  1.,  0.,  0.,  0.],
        [ 0.,  0.,  1.,  0.,  0.],
        [ 0.,  0.,  0.,  1.,  0.],
        [ 0.,  0.,  0.,  0.,  1.]])
-```
+</pre>
 
 ### Order of matrix multiplication operators
 
@@ -733,9 +733,9 @@ x = np.random.randn(2000)
 %timeit A @ B @ x
 ```
 
-```
+<pre>
 67.9 ms ± 3.91 ms per loop (mean ± std. dev. of 7 runs, 10 loops each)
-```
+</pre>
 
 This performs the matrix products $(AB)x$, which computes the inefficient matrix multiplication first.  If we want to compute the product in the much more efficient order $A(Bx)$, we would use the command
 
@@ -744,9 +744,9 @@ This performs the matrix products $(AB)x$, which computes the inefficient matrix
 %timeit A @ (B @ x)
 ```
 
-```
+<pre>
 1.44 ms ± 73.3 µs per loop (mean ± std. dev. of 7 runs, 100 loops each)
-```
+</pre>
 
 The later operation can be about 50x faster that the first version, and the difference only gets larger for larger matrices.  Be _very_ careful about this point when you are multiplying big matrices and vectors together.
 
@@ -763,12 +763,12 @@ print(np.linalg.inv(A), "\n")   # explicitly form inverse
 print(np.linalg.solve(A,b))     # compute solution A^{-1}b
 ```
 
-```
+<pre>
 [[ 1.5  2.5]
  [ 1.   2. ]] 
 
 [ 3.  5.]
-```
+</pre>
 
 Obviously the `np.linalg.solve()` routine is also equivalent to the matrix-vector product with the inverse.
 
@@ -777,9 +777,9 @@ Obviously the `np.linalg.solve()` routine is also equivalent to the matrix-vecto
 print(np.linalg.inv(A) @ b)    # don't do this
 ```
 
-```
+<pre>
 [ 3.  5.]
-```
+</pre>
 
 However, you should _not_ do this.  In general, actually computing the inverse and then multiplying by a vector is both slower and less numerically stable than just solving the linear system.  For those who are curious (you won't need to know this for this class, but it can be useful to understand), this is because performing the solve internally actually computes a _factorization_ of the matrix called the LU factorization: it decomposes $A$ into the matrix product $A = LU$ where $L$ is a lower triangular matrix (all entries above the diagonal are zero), and $U$ is an upper triangular matrix (all entries below the diagonal are zero); if we want to be even more precise it actually computes the LU factorization on a version of $A$ with permuted rows and columns, but that is definitely beyond the scope of this course.  After factorizing $A$ in this manner, it computes the inverse
 
@@ -884,12 +884,12 @@ A = sp.coo_matrix((values, (row_indices, column_indices)), shape=(4,4))
 print(A.todense())
 ```
 
-```
+<pre>
 [[0 0 3 0]
  [2 0 0 1]
  [0 1 0 0]
  [4 0 1 0]]
-```
+</pre>
 
 We can directly access the values, rows indices, and column indices of a COO sparse matrix via the `.data`, `.row`, and `.col` properties respectively (indeed, this is exactly how the sparse matrix is represented internally, with these three attributes).  Each of these are a 1D numpy array that store the data for the matrix.
 
@@ -900,11 +900,11 @@ print(A.row)
 print(A.col)
 ```
 
-```
+<pre>
 [2 4 1 3 1 1]
 [1 3 2 0 3 1]
 [0 0 1 2 2 3]
-```
+</pre>
 
 We can also easily convert to CSC format.
 
@@ -922,11 +922,11 @@ print(B.indices)
 print(B.indptr)
 ```
 
-```
+<pre>
 [2 4 1 3 1 1]
 [1 3 2 0 3 1]
 [0 2 3 5 6]
-```
+</pre>
 
 As a final example, let's create a 1000x1000 sparse matrix with 99.9% sparsity plus an identity matrix (we'll do this with the `sp.rand` call, which randomly chooses entries to fill in, and then makes samples them from a uniform distribution ... we add the identity to make the matrix likely to be invertible).  The precise nature of the matrix isn't important here, we just want to consider the timing.
 
@@ -939,10 +939,10 @@ x = np.random.randn(1000)
 %timeit B @ x
 ```
 
-```
+<pre>
 12.8 µs ± 2.57 µs per loop (mean ± std. dev. of 7 runs, 10000 loops each)
 501 µs ± 73.9 µs per loop (mean ± std. dev. of 7 runs, 1000 loops each)
-```
+</pre>
 
 Here the sparse version is about 50x faster, though of course the speedup will increase with sparsity relative to the dense matrix.
 
@@ -954,10 +954,10 @@ A = A.tocsc()
 %timeit np.linalg.solve(B,x)
 ```
 
-```
+<pre>
 1.04 ms ± 9.63 µs per loop (mean ± std. dev. of 7 runs, 1000 loops each)
 23.8 ms ± 2.39 ms per loop (mean ± std. dev. of 7 runs, 10 loops each)
-```
+</pre>
 
 Similarly, the sparse version is about 20x faster.  You can try to experiment to see where the break-even point for the sparse/dense tradeoff is, but as mentioned above, for matrix inverses this is going to be very problem specific, so you won't get too much insight until you start using real data.
 

@@ -95,7 +95,7 @@ df["Temp"] = df["OAT"].apply(lambda x : x/10. * (9/5) + 32)
 
 # join with load, then get just summer methods
 df["Load"] = pd.Series(df_load["MAX"].values/1000, index=df.index)
-df_summer = df[list(map(lambda x : x[4:6] in ["06", "07", "08"], df.index))]
+df_summer = df[list(map(lambda x : x[4:6] in ["06", "07", "08"], df.index))].copy()
 ```
 
 
@@ -585,5 +585,572 @@ The plot of course looks identical to the one we had one the normalized data.  B
 
 There was a lot to this example, including collecting the data, deriving the gradient, running the gradient descent algorithm, and considering different aspects of normalization.  We put them before the "general" discussion on ML because these topics are ones that you are absolutely going to encounter in practice (and least the understanding of the models, data normalization, etc, even if you don't end up writing your own gradient descent code).  But the nice aspects now, is that we can introduce virtually all the main concepts the machine learning, hopefully made substantially more concrete by the example.
 
-(to be continued)
+To define machine learning is more general terms, we're going to first introduce some terminology.  The following elements form the foundation for mathematically defining machine learning algorithms.  We're going to define these in general terms first, but then we will see how they map on to the example in the previous section.
+
+- **Inputs (features):** $x^{(i)} \in \mathbb{R}^n, \; i=1,\ldots, m$ <br/> Inputs, or features, are the information fed into the machine learning algorithm.  The notation here will be important, as we will refer to it frequently: each $x^{(i)}$ an $n$-dimensional vector, and there are $m$ such vectors total.  Note that while outputs in machine learning algorithms, discussed next, can be of different types (discrete, continuous, multivariate), we typically will always represent the input as a real-valued vector.
+- **Outputs:** $y^{(i)} \in \mathcal{Y}, \; i=1,\ldots,m$  <br/> Outputs in a machine learning setting are quantities in some set $\mathcal{Y}$, denoting the output space.  Common output spaces will be real-valued scalars (for regression tasks), or binary or multivariate discrete quantities (for classification tasks).
+- **Parameters:** $\theta \in \mathbb{R}^d$. <br/> Parameters of a machine learning algorithm are the numbers that define our prediction function.  They are the elements that we will optimize to make the prediction as good as possible.
+- **Hypothesis function:** $h_\theta : \mathbb{R}^n \rightarrow \hat{\mathcal{Y}}$  <br/> A hypothesis funtion is a mapping from the input space $\mathbb{R}^n$ to the _prediction space_ $\hat{\mathcal{Y}}$.  Note that the prediction space is not necessarily the same as the output space $\mathcal{Y}$, but it represents quantities that can easily be transformed to the output space.  This distinction is a bit tricky, and in the case of the the regression task we describe in these notes, it is not relevant: in this task, both the output and prediction spaces are simply the real numbers $\mathbb{R}$.  But it will be relevant in the next set of notes, when we discuss classification, so we introduce more general terminology here.  Also note that the hypothesis function is really also a function of $\theta$, as these parameters dictate how the function makes its predictions; but from a notational standpoint we'll write $h_\theta(x)$ rather than $h(\theta,x)$ because we want to emphsize that the hypothesis function serves essentially as a mapping from inputs to outputs.
+- **Loss function:** $\ell : \hat{\mathcal{Y}} \times \mathcal{Y} \rightarrow \mathbb{R}\_+$ <br/> Finally, a loss function  (a mapping from predictions and true outputs to positive real numbers, is a measure of how good a prediction is.  If the prediction is "close" to the true output, we want this quantity to be small, whereas if it is far away, we want to the quantity to be large.  We will typically write the loss function as $\ell(h_\theta(x),y)$ to denote the fact that its first argument is the prediction and its second argument is the output.
+
+### The canonical machine learning problem
+
+With this ingredients defined we can, believe it or not, write down just about _every_ (supervised) machine learning algorithm that exists in the following canonical form: _the goal of any machine learning algorithm is to find the parameters that minimize the average of losses on the data._  This problem is written formally as 
+
+$$
+\DeclareMathOperator*{\minimize}{minimize}
+\minimize_\theta \; \frac{1}{m}\sum_{i=1}^m \ell(h_\theta(x^{(i)}, y^{(i)}) \;\; \equiv \;\; \minimize_\theta \; E(\theta)
+$$
+
+(i.e., minimize the average loss between the prediction and actual output, evaluated over all $m$ data points, which we will denote generally as $E(\theta)$).  Thus, to formally define any particular learning algorithm, we just need to specify three different elements:
+
+1. What is the form of the hypothesis function $h_\theta$?
+2. What is the loss function $\ell$?
+3. How do we solve the optimization problem of minimizing the sum of losses?
+
+These three elements (in different forms, of course), make up the entirety of all supervised machine learning approaches.  Unfortunately, what is very confusing about machine learning algorithms, when you read about them for the first time, is that these elements are not always made clear at all.  Rather, the formal justification behind the algorithm (e.g., a probabilistic or geometric set of rationales) take center stage, and it is difficult to view the algorithm in this simple context above.  What is worse, often times a particular "algorithm" will only specify some of the elements above, and leave others undefined.  Or there may be _mutiple_ different answers to one of the questions, while people still refer to the algorithm by the same name.  But as you encounter new machine learning algorithms, it will be helpful to continually put them into this context, as much as possible (it will help to demystify many of the algorithms, and make you understand better how they all relate to each other)  
+
+To give a preview of what is to come, we're going to list a few names of common machine learning algorithms you may have heard about previously (and we're going to discuss each of these in the course ... of course there are many others that we won't discuss).  This is also not quite a perfect breakdown, but it captures the main ideas of each of the following approaches.
+
+| Algorithm | Hypothesis | Loss | Optimization method |
+| :---: | :---: | :---: | :---: | :---: |
+| Least squares | Linear | Squared error | (Usually) analytic solution |
+| Linear regression | Linear | _Any regression loss_ | _Any_ |
+| Support vector machine | Linear or kernel | Hinge loss | _Any_ |
+| Logistic regression | (Usually) linear | Logistic loss | _Any_ |
+| Neural network | Composed non-linear function | _Any_ | (Usually) gradient descent variant |
+| Decision tree | Axis-aligned halfplanes | Log probability under bernoulli model | Greedy search |
+| Naive Bayes | Linear | Joint probability of data and output | Analytic solution |
+| Gradient boosting | Ensemble of other models (usually decision trees) | _Any_ | Gradient descent |
+
+
+
+### Instantiation on demand forecasting setting
+
+Let's make all this a bit more concrete by considering how we apply this framework to the example from the previous section.  In our demand forecasting task, we had
+
+- Inputs: $x^{(i)} \in \mathbb{R} = \mathrm{HighTemperature}^{(i)}$.  The input was just a one-dimensional input that included just the high temperature for day $i$.
+- Output: $y^{(i)} \in \mathbb{R} = \mathrm{PeakDemand}^{(i)}$. The output was a one-dimensional real value corresponding to the peak demand for that day.
+- Parameters: $\theta \in \mathbb{R}^2$. The parametesr were to real numbers that captured the slope and intercept of the model.
+- Hypothesis: $h_\theta : \mathbb{R} \rightarrow \mathbb{R}$, $h_\theta(x) = \theta_1 x + \theta_2$.  The hypothesis here was just a linear function mapping inputs to real numbers (so here the prediction space is also $\mathbb{R}$, just like the output space).
+- Loss: $\ell : \mathbb{R} \times \mathbb{R} \rightarrow \mathbb{R}_+$, $\ell(h_\theta(x), y) = (h_\theta(x) - y)^2$.  The loss function here is simply the squared error between the prediction and output, both of which are scalar real-valued quantities.
+
+Thus, the machine learning problem in question, which of course exactly matches what we had defined above, is given by the optimization problem
+
+$$
+\minimize_\theta \; \frac{1}{m} \sum_{i=1}^m \ell(h_\theta(x^{(i)}, y^{(i)}) \;\; \equiv \;\; 
+\minimize_\theta \; \frac{1}{m} \sum_{i=1}^m (\theta_1 x^{(i)} + \theta_2 - y^{(i)})^2
+$$
+
+
+Thus, we have defined the first two elements of the machine learning algorithm: the hypothesis function and the loss function.  All that remains is to specify how we solve the optimization problem, which in the case above was accomplished via gradient descent.  Thus, the peak demand forecasting example is a straightforward instantiation of each of the three elements of a machine learning algorithm.
+
+## Least squares revisited
+
+With a more formal framework is place for describing machine learning algorithms, let's revisit the least squares algorithm we considered above, but in a more general case.  For instance, what if we wanted to add additional features to our prediction instead of just the temperature?  What if we wanted to use a loss function other than the squared loss?  What if we wanted to use a non-linear instead of a linear hypothesis function?  Some of these questions we will defer to later lectures, but we here will present a more general form of least squares regression that can apply generically to a wide range of regression problems.
+
+Before we define the main elements of the least-squares problem, let's make one change for notational convenience, and introduce a _constant feature_ into our feature vector. For example, instead of just having $x^{(i)} = \mathrm{HighTemperature}^{(i)}$, we can have
+
+$$
+x^{(i)} = \left [ \begin{array}{c} \mathrm{HighTemperature}^{(i)}\\ 1 \end{array} \right ]
+$$
+
+i.e., we just append a constant to our inputs and call this the new input the algorithm.  We can of course also have additional inputs, which we will see shortly, such as
+
+$$
+x^{(i)} = \left [ \begin{array}{c} \mathrm{HighTemperature}^{(i)}\\ \mathrm{IsWeekday}^{(i)} \\ 1 \end{array} \right ]
+$$
+
+but the point is that we will always have a constant term 1 be the final feature.  The reason for doing so is that now we can use the simple linear hypothesis with $\theta \in \mathbb{R}^n$ and 
+
+$$
+h_\theta(x) = \sum_{j=1}^n \theta_j x_j = \theta^T x.
+$$
+
+Because the final feature is always one, the final coefficient $\theta_n$ always serves as a bias term without the need for special handling.  This ultimately makes for a cleaner formulation of most algorithms, so we will generally adopt this notation throughout.
+
+Now let's define the key ingredients of the least square problem.  Note that these are exactly the same as we had in our previous example, except that we now have a more generic form of hypothesis function.
+
+1. Linear hypothesis function $h_\theta(x) = \sum_{j=1}^n \theta_j x_j$.
+2. Squared error loss: $\ell(h_\theta(x), y) = (h_\theta(x) - y)^2$
+
+These specify the first two elements of a machine learning algorithm, but how do we solve the resulting machine learning optimization problem
+
+$$
+\minimize_\theta \;\; \frac{1}{m} \sum_{i=1}^m \left (\sum_{j=1}^n \theta_j x^{(i)}_j - y^{(i)} \right )^2
+$$
+
+where we will again use $E(\theta)$ as shorthand for this objective.
+
+In this section, we'll explore two ways to do so, by gradient descent, generalizing the procedure we described earlier, and by exact solution.
+
+### Gradient descent for least squares
+
+Recall that the gradient descent algorithm takes a small step in the direction of the negative partial derivative for each coordinate of the parameters $\theta_j$.  So to being, let's take the partial derivative of the objective with respect to $\theta_j$.  Again, the only properties were are going to use here are the chain rule, linearity of derivatives, and simple rules for differentiating polynomials.  Note also that because we are differentiating with respect to $\theta_j$, we'll use the index $k$ to sum over the different coordinates in the hypothesis function, or else there would be a collision with too many $j$ variables.
+
+$$
+\begin{split}
+\frac{\partial E(\theta)}{\partial \theta_j} 
+& = \frac{\partial}{\partial \theta_j} \frac{1}{m}\sum_{i=1}^m \left (\sum_{k=1}^n \theta_k x^{(i)}_k - y^{(i)} \right )^2 \\
+& = \frac{1}{m} \sum_{i=1}^m  \frac{\partial}{\partial \theta_j} \left (\sum_{k=1}^n \theta_k x^{(i)}_k - y^{(i)} \right )^2 \\
+& = \frac{1}{m} \sum_{i=1}^m 2 \left (\sum_{k=1}^n \theta_k x^{(i)}_k - y^{(i)} \right ) \frac{\partial}{\partial \theta_j} \left (\sum_{k=1}^n \theta_k x^{(i)}_k - y^{(i)} \right ) \\
+& = \frac{2}{m} \sum_{i=1}^m \left (\sum_{k=1}^n \theta_k x^{(i)}_k - y^{(i)} \right ) x^{(i)}_j \\
+\end{split}
+$$
+
+where the key observation in moving from like 3 to 4 is that when we differentiate $\sum_{k=1}^n \theta_k x^{(i)}_k$ with repsect to $\theta_j$, this term will only be a non-constant relative to $\theta_j$ with $j=k$, in which case the derivative is just the $x^{(i)}_j$ term.
+
+Thus, gradient descent for the least squares algorithm takes the following form
+
+<hr/>
+
+**Initialize:**
+    
+* $\theta := 0$ 
+
+**Repeat until converged:**
+
+* **For $j = 1,\ldots,n$:**
+
+    * $\displaystyle \theta_j := \theta_j + \alpha\frac{2}{m} \sum_{i=1}^m \left (\sum_{k=1}^n \theta_k x^{(i)}_k - y^{(i)} \right ) x^{(i)}_j$
+
+<hr/>
+
+Let's see how this looks is code.  It's important to emphasize that this is _not_ an efficient implementation of gradient descent: it uses for loops extensively to illustrate the concepts behind the algorithm, but can be sped up significantly by using matrix/vector routines.  Nonetheless, it does do some of the "obvious" optimizations, such as caching each prediction before iterating over the elements in the gradient.
+
+
+```python
+def gradient_descent_ls(X, y, iters, alpha=1.0):
+    m, n = X.shape
+    theta = np.zeros(n)
+    errs = np.zeros(iters)
+
+    for t in range(iters):
+        grad = np.zeros(n)
+        for i in range(m):
+            yhat = X[i] @ theta
+            errs[t] += 1/m * (yhat - y[i])**2
+            for j in range(n):
+                grad[j] += 1/m * 2 * (yhat - y[i])*X[i,j]
+        theta -= alpha * grad
+    return theta, errs
+```
+
+### Evaluation on peak demand forecasting
+
+Let's see how this function works in practice.  To do so, we're going to cosider adding the additional feature we mentioned above, a flag of whether or not the day is a weekday or weekend.  To get a sense of what this data looks like, we can visualize the same data as above, but also plot the additional feature indicating whether or not the data is a weekday.
+
+
+```python
+# add the weekday column to our data frame
+import datetime
+weekday = list(map(lambda x : datetime.datetime.strptime(x, "%Y%m%d").weekday() <= 4, df_summer.index))
+df_summer.loc[:,"IsWeekday"] = weekday
+```
+
+
+```python
+plt.scatter(df_summer[df_summer["IsWeekday"]==True]["Temp"], 
+            df_summer[df_summer["IsWeekday"]==True]["Load"], marker='x', color='C0')
+plt.scatter(df_summer[df_summer["IsWeekday"]==False]["Temp"], 
+            df_summer[df_summer["IsWeekday"]==False]["Load"], marker='x', color='C2')
+plt.xlabel("Temperature (F)")
+plt.ylabel("Peak Demand (GW)")
+plt.legend(["Weekdays", "Weekends"])
+```
+
+
+{% include image.html img="output_13.svg" %}
+
+As illustrated in the figure, viewed this way it is clear that, on average, the peak electricity consumption is higher on the weekedays than the weekends.  Plots like this help indicate that this is a useful feature to consider: variability in the output that previously just looked like noise (i.e., the fact that for a given temperature, there was a high range of possible peak demands), can be explained to some degree by this additional features.  Thus, in addition to an illustration of a more general least squares procedure, this example also illustrates some of the fundamental goals of _feature engineering_: we can construct a feature that "explains" some of the errors that our original model makes.  We will discuss feature engineering much more later in this course, but this type of visual analysis will prove extremely useful when evaluating new potential features.
+
+Let's also create a normalized data set for our new least squares prediction problem.  Note that when normalizing data we obviously _can't_ normalize the all-ones column, but you do typically want to normalize the remaining columns (in this particular case, it won't do anything to the "IsWeekday" column, because there the min and max are already 0 and 1), but we provide the code to do so just for illustration purposes.
+
+
+```python
+def normalize_data(X, y, normalize_cols):
+    """ Normalize y and specified columns of X in place. """
+    min_X = X[:,normalize_cols].min(axis=0)
+    max_X = X[:,normalize_cols].max(axis=0)
+    min_y = y.min()
+    max_y = y.max()
+    X[:,normalize_cols] = (X[:,normalize_cols] - min_X) / (max_X - min_X)
+    y[:] = (y - min_y) / (max_y - min_y)
+    return min_X, max_X, min_y, max_y
+
+# normalize X and y
+X = np.array([df_summer["Temp"], df_summer["IsWeekday"].astype(float), np.ones(len(df_summer))]).T
+y = df_summer["Load"].values.copy()
+ranges = normalize_data(X, y, [True, True, False])
+```
+
+Now let's run gradient descent to find our parameters, and convert them back into units in the original problem.  Note that in general, the method for unnormalizing the parameters is a simple extension of what we described before.  Specifically, if
+
+$$
+\frac{y-\min(y)}{\mathrm{range}(y)} = \sum_{j=1}^{n-1} \theta_j \frac{x_j - \min(x_j)}{\mathrm{range}(x_j)} + \theta_n
+$$
+
+then 
+
+$$
+y = \sum_{j=1}^{n-1}\hat{\theta}_j x_j + \hat{\theta}_n
+$$
+
+where 
+
+$$
+\hat{\theta}_j = \theta_j \frac{\mathrm{range}(y)}{\mathrm{range}(x_j)}, \;\; \hat{\theta}_n = \theta_n \mathrm{range}(y) + \min(y) - \sum_{j=1}^{n-1} \hat{\theta}_j \min(x_j).
+$$
+
+
+
+```python
+def unnormalize_theta(theta, normalize_cols, ranges):
+    theta[normalize_cols] /= (ranges[1] - ranges[0])
+    theta *= ranges[3] - ranges[2]
+    theta[-1] += ranges[2] - theta[normalize_cols] @ ranges[0]
+
+theta, errs = gradient_descent_ls(X, y, 500, alpha=0.5)
+unnormalize_theta(theta, [True, True, False], ranges)
+print(theta)
+```
+
+<pre>
+[ 0.04747755  0.22462376 -1.80244117]
+</pre>
+
+Finally, we can visualize the model fit by plotting the resulting predictions for both the weekend and weekday cases.
+
+
+```python
+plt.scatter(df_summer[df_summer["IsWeekday"]==True]["Temp"], 
+            df_summer[df_summer["IsWeekday"]==True]["Load"], marker='x', color='C0')
+plt.scatter(df_summer[df_summer["IsWeekday"]==False]["Temp"], 
+            df_summer[df_summer["IsWeekday"]==False]["Load"], marker='x', color='C2')
+xlim, ylim =(plt.gca().get_xlim(), plt.gca().get_ylim())
+plt.plot(xlim, [theta[0]*xlim[0] + theta[1] + theta[2], theta[0]*xlim[1] + theta[1] + theta[2]], 'C1',
+         xlim, [theta[0]*xlim[0] + theta[2], theta[0]*xlim[1] + theta[2]], 'C3')
+plt.xlim(xlim)
+plt.ylim(ylim)
+plt.legend(["Weekday prediction", "Weekend prediction", "Weekdays", "Weekends"])
+```
+
+
+{% include image.html img="output_14.svg" %}
+
+### Analytic solution
+
+Gradient descent is appealing in its generality but certainly also has some annoyances (picking step sizes, number of iterations, ensuring proper data normalization, etc).  These issues will be unavoidable for many of the problems we encounter, but it turns out that for least squares in particular, there is an alternative that is much easier to compute in many cases.  Specifically, if we consider our previous picture on the derivative of a function
+{% include image.html img="opt_grad.svg" caption="Illustration of a function and it's derivative."%}
+then we can see that the derivative doesn't just point is the direction of function increase, it also provides a method for checking whether the solution is optimal: namely, a point will be at a minimum precisely when the gradient is zero (in general, a zero derivative could mean either a minimum or a maximum, but it turns out for the types of functions such as the least squares objective, there is only a single global minimum that has zero derivatives).  In the case of multivariate functions, the condition is similar: a function (assuming some technical conditions, such that it is differentiable everywhere) will be at a minimum only if all the partial derivatives are zero.
+
+To make the notation a bit more convenient, we introduce an additional term called the _gradient_ of a function.  For a function $f : \mathbb{R}^n \rightarrow \mathbb{R}$, the gradient, denoted $\nabla f(\theta)$, is a vector of all partial derivatives
+
+$$
+\nabla f(\theta) \in \mathbb{R}^n = \left [ \begin{array}{c} 
+\displaystyle \frac{\partial f(\theta)}{\partial \theta_1} \\
+\displaystyle \frac{\partial f(\theta)}{\partial \theta_2} \\ \displaystyle \vdots \\
+\displaystyle \frac{\partial f(\theta)}{\partial \theta_n} \end{array} \right ].
+$$
+
+There are a few important things to note here.  First, the gradient as we defined it here is defined only for functions that take _vector_ inputs and output a _scalar_: we cannot take the gradient of a vector-valued function, or a matrix-input function.  Second, the gradient is itself always a _vector_ the same same as the input to the function.  If there are multiple arguments to the function $f$ e.g., $f(\theta,\eta)$, then we will indicate which element we take the gradient with respect to using the notation $\nabla_\theta f(\theta,\eta)$, but we can omit this subscript in the case that there is only one specified argument to the function.
+
+Restating what we said above with this notation, the condition that $f(\theta)$ be at a minimum holds only if $\nabla f(\theta) = 0$.  What is interesting about the least squares case is that we can actually find such a point analytically using matrix operations.
+
+First, let's write the gradient of the least squares objective more succinctly.  Recall from before that we had
+
+$$
+\frac{\partial E(\theta)}{\partial \theta_j} = \frac{2}{m} \sum_{i=1}^m \left (\sum_{k=1}^n \theta_k x^{(i)}_k - y^{(i)} \right ) x^{(i)}_j
+$$
+
+Since the only term here that depends on $j$ is the final $x^{(i)}_j$, this immediately leads to the fact that
+
+$$
+\nabla E(\theta) = \frac{2}{m} \sum_{i=1}^m x^{(i)} \left (\sum_{k=1}^n \theta_k x^{(i)}_k - y^{(i)} \right ).
+$$
+
+
+Let's use the fact that $\sum_{k=1}^n \theta_k x_k \equiv \theta^T x = x^T \theta$ to write this a bit more succintly as
+
+$$
+\begin{split}
+\nabla E(\theta) & = \frac{2}{m} \sum_{i=1}^m x^{(i)} \left ({x^{(i)}}^T \theta - y^{(i)} \right ) \\
+& = \frac{2}{m} \sum_{i=1}^m x^{(i)} {x^{(i)}}^T \theta -  \frac{2}{m} \sum_{i=1}^m x^{(i)} y^{(i)} \\
+& = \frac{2}{m} \left(\sum_{i=1}^m x^{(i)} {x^{(i)}}^T \right) \theta -  \frac{2}{m} \sum_{i=1}^m x^{(i)} y^{(i)}
+\end{split}
+$$
+
+where in both lines we used the distributive property of matrix multiplication and in the last line, the fact that $\theta$ does not depend on $i$. Now, we can find the $\theta^\star$ that makes this entire term zero just with some linear algebra.
+
+$$
+\begin{split}
+\nabla E(\theta^\star) = 0 & \Longleftrightarrow 
+ \frac{2}{m} \left(\sum_{i=1}^m x^{(i)} {x^{(i)}}^T \right) \theta^\star -  \frac{2}{m} \sum_{i=1}^m x^{(i)} y^{(i)} = 0 \\
+ & \Longleftrightarrow \theta^\star = \left(\sum_{i=1}^m x^{(i)} {x^{(i)}}^T \right)^{-1} \left (\sum_{i=1}^m x^{(i)} y^{(i)} \right )
+ \end{split}
+$$
+
+where note that the $\frac{2}{m}$ terms will cancel, leading to the final solution without any additional constant term.
+
+If expressions like this seems hard to follow at first, a good strategy is to determine the size of each element of the expression.  For example, what size is the (matrix? vector?) $\sum_{i=1}^m x^{(i)} {x^{(i)}}^T$?  What size is the (matrix? vector?) $\sum_{i=1}^m x^{(i)} y^{(i)}$?  Going through these questions yourself, just using the definitions of matrix multiplication, will help make the algorithms that follow much more concrete.
+
+Let's see what this looks like in code.  The following code will compute the $\sum_{i=1}^m x^{(i)} {x^{(i)}}^T$ (denoted `A` in the code) and $\sum_{i=1}^m x^{(i)} y^{(i)}$ (denoted `b` in the code) terms, and compute the solution this this equation using the `np.linalg.solve()` function.  Note that here and below, we will assume that the inverse we form exists, though in a few lectures we will discuss ways to overcome this issue in the case that the term is not invertible.
+
+
+```python
+def analytic_ls(X,y):
+    m,n = X.shape
+    A = np.zeros((n,n))
+    b = np.zeros(n)
+    for i in range(m):
+        A += np.outer(X[i], X[i])
+        b += X[i] * y[i]
+    return np.linalg.solve(A, b)
+```
+
+Let's apply this function to the (unnormalized) data above.
+
+
+```python
+X = np.array([df_summer["Temp"], df_summer["IsWeekday"].astype(float), np.ones(len(df_summer))]).T
+y = df_summer["Load"].values.copy()
+theta = analytic_ls(X,y)
+print(theta)
+```
+
+<pre>
+[ 0.04747948  0.22462824 -1.80260016]
+</pre>
+
+We get the same answer as with gradient descent, but with no need for an iterative method or picking stepsize parameters.  However, it turns out we can make the code even simpler by writing even more of the terms in linear algebra form.
+
+### Matrix/vector notation: one more level
+
+To make the least squares solutione even simpler (and remember, this _is_ about making the resulting method simpler ... even if it seems more complex due to the initial notation, the simplicity will hopefully come through in the final code that we write), we can introduce some additional matrix/vector notation.  First, let's define the matrix and vector
+
+$$
+X \in \mathbb{R}^{m \times n} = \left [ \begin{array}{c} 
+{x^{(1)}}^T \\
+{x^{(2)}}^T \\
+\vdots \\
+{x^{(m)}}^T \end{array} \right ], \;\;
+y \in \mathbb{R}^{m} = \left [ \begin{array}{c} 
+y^{(1)} \\
+y^{(2)} \\
+\vdots \\
+y^{(m)} \end{array} \right ],
+$$
+
+i.e., $X$ is a matrix with the individual inputs as the _rows_ in the matrix, and $y$ is a vector of all the outputs. 
+Note that these are actually exactly the matrix/vector we already formed for our data in the code above, so this is a fairly natural representation.
+
+Let's now consider how to succintly represent the term 
+
+$$
+\nabla E(\theta) = \frac{2}{m} \sum_{i=1}^m x^{(i)} \left ({x^{(i)}}^T \theta - y^{(i)} \right )
+$$
+
+using this notation.  First, note that the vector $X \theta - y$ (an $m$ dimenional vector), contains precisely ${x^{(i)}}^T \theta - y^{(i)}$ as its $i$th element.  So to create a new vector that multiplies $x^{(i)}$ by each element of this vector, we simply form the matrix-vector product
+
+$$
+\nabla E(\theta) = \frac{2}{m} X^T (X \theta - y).
+$$
+
+
+This formula both provides a convenient way to compute the entire gradient (we could replace the notation code in the previous sections that computes the gradient with this expression, to avoid any for loops), and it provides a succint way to compute the analytic solution.
+
+$$
+\nabla E(\theta^\star) = 0 \; \Longleftrightarrow \; \frac{2}{m} X^T (X \theta^\star - y) = 0 \; \Longleftrightarrow \theta^\star = (X^T X)^{-1} X^T y.
+$$
+
+
+Let's see what this looks like in code.
+
+
+```python
+theta = np.linalg.solve(X.T @ X, X.T @ y)
+print(theta)
+```
+
+<pre>
+[ 0.04747948  0.22462824 -1.80260016]
+</pre>
+
+In a single line of code, we can compute the exact solution to this machine learning optimization problem.
+
+### Alternative loss functions
+
+Although this section properly doesn't belong here, given that the heading of this section is explictly "Least squares", it is worth considering what happens if we want to optimize some alternative loss function.  For example, what if we define the loss to be the absolute loss rather than the squared loss
+
+$$
+\ell(h_\theta(x),y) = |h_\theta(x) - y|.
+$$
+
+This is a perfectly reasonable way to measure error (perhaps even more intuitive than squared error).  And the nice thing about the generic machine learning framework we have discussed is that we can essentially leave all other elements of the problem setup unchanged and just change the loss function.
+
+Unfortunately, for the absolute loss, there is no longer a closed-form solution for the optimal $\theta$ (indeed, the existence of a closed-form solution is one of the reasons _why_ the squared loss is so popular), so we must revert back to gradient descent for solving the optimization problem, which is now given by
+
+$$
+\minimize_\theta \; \frac{1}{m} \sum_{i=1}^m |h_\theta(x^{(i)}) - y^{(i)}|.
+$$
+
+This objective is sometimes refered to a the _mean absolute error_, and the resulting algorithm is often referred to as _robust regression_.  The name robust regression comes from the fact that the method is inherrently less succeptible to "outliers" than the least squares loss.  This is because making an "very incorrect" prediction will only lead to a penalty of the magnitude of that prediction, whereas in least squares, it will penalize according to the _squared_ magnitude (which grows much more quickly).  Because of this, the least squares solution can be heavily affected by single outliers, i.e., the resulting theta will be substantially different in response to a single bad point.  Robust regression, using the absolute error, does not have this problem.
+
+Noting that the derivative of the absolute value is simply given by the sign of the inner quantity (technically speaking, this is an element in the subdifferential, beause the absolute value is not differentiable at zero, but we can ignore this fact and just continue with the gradient descent procedure as before, noting that it is actually now called "subgradient descent" if you want to be precise), the (sub)gradient of the objective is given by
+
+$$
+\nabla E(\theta) = \frac{1}{m} \sum_{i=1}^m x^{(i)} \mathrm{sign}({x^{(i)}}^T \theta - y^{(i)}) \equiv \frac{1}{m} X^T \mathrm{sign}(X \theta - y)
+$$
+
+where in the last equation we note that this refers to the $\mathrm{sign}$ function applied elementwise to the vector $X\theta - y$.  The following code thus implements gradient descent for the robust regression formulation.
+
+
+```python
+def gradient_descent_rr(X, y, iters, alpha=1.0):
+    m, n = X.shape
+    theta = np.zeros(n)
+    errs = np.zeros(iters)
+
+    for t in range(iters):
+        yhat = X @ theta - y
+        errs[t] = np.mean(np.abs(yhat))
+        grad = (1/m) * X.T @ np.sign(yhat)
+        theta -= alpha * grad
+    return theta, errs
+```
+
+
+```python
+# normalize X and y
+X = np.array([df_summer["Temp"], df_summer["IsWeekday"].astype(float), np.ones(len(df_summer))]).T
+y = df_summer["Load"].values.copy()
+ranges = normalize_data(X, y, [True, True, False])
+```
+
+
+```python
+theta,errs = gradient_descent_rr(X,y,500, 0.1)
+unnormalize_theta(theta, [True, True, False], ranges)
+print(theta)
+```
+
+<pre>
+[ 0.04686074  0.21502073 -1.74251478]
+</pre>
+
+
+```python
+plt.scatter(df_summer[df_summer["IsWeekday"]==True]["Temp"], 
+            df_summer[df_summer["IsWeekday"]==True]["Load"], marker='x', color='C0')
+plt.scatter(df_summer[df_summer["IsWeekday"]==False]["Temp"], 
+            df_summer[df_summer["IsWeekday"]==False]["Load"], marker='x', color='C2')
+xlim, ylim =(plt.gca().get_xlim(), plt.gca().get_ylim())
+plt.plot(xlim, [theta[0]*xlim[0] + theta[1] + theta[2], theta[0]*xlim[1] + theta[1] + theta[2]], 'C1',
+         xlim, [theta[0]*xlim[0] + theta[2], theta[0]*xlim[1] + theta[2]], 'C3')
+plt.xlim(xlim)
+plt.ylim(ylim)
+plt.legend(["Weekday prediction", "Weekend prediction", "Weekdays", "Weekends"])
+```
+
+
+{% include image.html img="output_15.svg" %}
+
+If you really squint at this figure and the above one for least squares, you will see that they do differ slightly (you can also see that the parameters themselves do differ).  However, the difference here is not very instructive.  This is because, as a linear fit gets better and better, virtually all loss functions become "equivalent". For example, consider the case where the data lies exactly on a line; then both loss functions will give the exact same result, namely fitting that line exactly.  Thus, for cases like the above, where a line fits the data quite well, we don't expect to see a huge difference between different loss functions  This is not the case, though, for settings where we do have high error, especially with a large number of outlier points, for the reasons mentioned before.
+
+
+
+## Libraries for machine learning in Python
+
+Finally, we conclude with some information about the types of libraries we will use to run machine learning algorithms in Python.  Although there are a number of machine learning packages available, by far the most popular Python library for general-purpose "classical" machine learning (this is in contrast to packages focused specficially on deep learning, such as [TensorFlow](http://www.tensorflow.org)) is the [scikit-learn](http://scikit-learn.org/) library.  Scikit Learn is general purpose machine learning library with a number of common machine learning algorithms built in.
+
+One important note, however, is that (despite some ongoing efforts to make it more scalable), scikit-learn is still best suited for small to medium-scale problems (say with ~10,000s of examples and ~1,000s of features).  For these size problems, most of the algorithms contained in the library will work reasonably fast, and the library has the advantage that one can train many different types of algorithms all with the same interface.  However, if you have data that is much bigger than this, then the algorithms start to get fairly slow compared to other more specialized libraries, and you are likely better off using an alternative library.
+
+Another important caveat, and this is one that sadly often gets ignored, is that unlikely other software libraries, you _need_ to have some (even just basic) understanding of what the algorithms do in order to use scikit-learn effectively.  This is because virtually all algorithms will have some substantial number of hyperparameters, settings to the algorithm that can drastically effect performance (and really, affect _all_ the underlying aspects of the algorithm itself, the hypothesis, loss, and optimization problem).  Sadly, a surprisingly large number of the statements people make about data science techniques seem less about the actual algorithms and more about whatever default settings scikit-learn happens to have for each algorithm.  This is why you get people saying things like "support vector machines worked better than neural networks for this problem", which is a completely meaningless statement unless you know _what sort_ of support vector machine, and _what architecture_ neural network.  Maybe in 10 years we will be at a place where the ML algorithms truly are "self-contained", and practitioners don't need to know anything about the underlying algorithms to get good performance (certainly, some researchers and companies are attempting to develop tools that move in this direction).  But for the vast majority of tasks, we are still a lot ways away from this point, and you do absolutely need to understand the algorithms to get reasonable performance.
+
+### Linear regression in scikit-learn
+
+Let's look at how we specify a model, fit it to data, and make predictions in scikit-learn.  These three tasks form the common usage pattern for most interation with scikit-learn.  Let's first prepare our data.  Note that scikit-learn by default will fit a separate intercept term for linear regression models, so we don't include the all-ones entry in our features.
+
+
+```python
+X = np.array([df_summer["Temp"], df_summer["IsWeekday"]]).T
+y = df_summer["Load"].values.copy()
+```
+
+Now we can import and initialize our model.  In general, scikit-learn has a different class for each different type of learning algorithm.  In this case, we are importing the `LinearRegression` class.  When we initialize the class, we pass various parameters to the constructor.  In this case, we are specifying that we _will_ fit an intercept term (i.e., we will _not_ pass it as an explicit feature), and that we will not normalize the data.  These are in fact the default parameters of the linear regression class, but we include them explicitly just for illustration.
+
+
+```python
+# import the model and fit it to data
+from sklearn.linear_model import LinearRegression
+model = LinearRegression(fit_intercept=True, normalize=False)
+```
+
+Note that when we create this class we haven't actually passed any data to the system.  This is the standard interface for scikit-learn classes: the constructor just initializes the hyperparameters of the model, and when we actually want to fit it to data, we call the `model.fit()` function.
+
+
+```python
+model.fit(X, y)
+```
+
+<pre>
+LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)
+</pre>
+
+Finally, when we want to make a prediction on a _new_ data point, we call the `model.predict()` function, passing in the feature values for the new points we want to predict.  In the following example, we would be predicting what the peak demand would be given a 77 degree weekday, and an 80 degree weekend.  Note that we can pass multiple points to predict at once.
+
+
+```python
+# predict on new data
+Xnew = np.array([[77, 1], [80, 0]])
+print(model.predict(Xnew))
+```
+
+<pre>
+[ 2.07794778  1.99575797]
+</pre>
+
+Finally, if we want to inspect the internal state of the classifier (i.e., the parameters), we can use the `model.coef_` and `model.intercept_` properties (but, as the names suggest, these are typically considered "private" variables that you don't need to access directly in most cases).
+
+
+```python
+print(model.coef_, model.intercept_)
+```
+
+<pre>
+[ 0.04747948  0.22462824] -1.80260016452
+</pre>
+
+As expected, these are exactly the same values as we got when we computed the least squares solution ourself.
+
+### Scikit-learn vs. pure Python
+
+For an algorithm as simple as least-squares, I highly recommend that you just implement the algorithm youself.  It is literally one line of code to train the model, and you end up with a much better understanding of what is going on.
+
+
+```python
+# create old X that has the intercept terms
+X = np.array([df_summer["Temp"], df_summer["IsWeekday"].astype(float), np.ones(len(df_summer))]).T
+
+theta = np.linalg.solve(X.T @ X, X.T @ y)
+print(theta)
+```
+
+<pre>
+[ 0.04747948  0.22462824 -1.80260016]
+</pre>
+
+Making predictions is also just one line of code, forming $X \theta$.
+
+
+```python
+Xnew = np.array([[77, 1, 1], [80, 0, 1]])
+print(Xnew @ theta)
+```
+
+<pre>
+[ 2.07794778  1.99575797]
+</pre>
+
+With something so simple, it has always struck me as complete overkill to import an entire library like scikit-learn, especially since you now have to remember things like whether or not to specify the bias term, etc.  You'll have much more control over the algorithm if you just implement it manually.  However, the real advantage of scikit-learn, as mentioned, is that you can very quickly try out a large number of algorithms, so if you do throw least squares in there amongst many others, it is not the worst thing in the world.  Just be aware that nothing magical is happening in the background here, just some very simple linear algebra.
 

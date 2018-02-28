@@ -39,7 +39,7 @@ This page lists the class lectures and recitations, plus additional material (sl
 | 4/9  | *Overflow lecture* || | | |
 | | **Additional topics**  || | | |
 | 4/11 | High dimensional visualization || | | |
-| 4/16 | Probabilistic modeling || | | |
+| 4/16 | Probabilistic modeling || | | | 
 | 4/18 | Big data and MapReduce methods || | | |
 | 4/23 | Debugging data science || | | |
 | 4/25 | A data science walkthrough || | | |

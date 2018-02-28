@@ -66,7 +66,7 @@ Just as our linear regression line did not pass exactly through all the data poi
 
 ## Classification notation
 
-As a reminder, let's consider the basic elements of a machine learning setup, available in more detail [here](http://www.datasciencecourse.org/notes/ml_intro/#machine-learning-in-general).
+As a reminder, let's consider the basic elements of a machine learning setup, available in more detail [here](http://www.datasciencecourse.org/notes/ml_intro/#machine-learning-in-general). 
 
 - **Inputs (features):** $x^{(i)} \in \mathbb{R}^n, \; i=1,\ldots, m$
 - **Outputs:** $y^{(i)} \in \mathcal{Y}, \; i=1,\ldots,m$

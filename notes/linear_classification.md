@@ -81,7 +81,7 @@ $$
 $$
 
 
-In the context of classification, these are mostly unchanged.  The one difference is that the output space, $\mathcal{Y}$, is now a discrete space instead of a continuous one: $\mathcal{Y} = \{-1,+1\}$ for binary classification, or $\mathcal{Y} = \{1,2,\ldots,k\}$ for multiclass classification.  For the remainder of these notes, unless otherwise we're going to assume the binary setting, but it's important to note that our convention will be that $\mathcal{Y} = \{-1,+1\}$ _not_ $\mathcal{Y} = \{0,1\}$ (this will make a difference, since we're going to use the numerical values of $y$ is our loss functions.
+In the context of classification, these are mostly unchanged.  The one difference is that the output space, $\mathcal{Y}$, is now a discrete space instead of a continuous one: $\mathcal{Y} = \\{-1,+1\\}$ for binary classification, or $\mathcal{Y} = \{1,2,\ldots,k\}$ for multiclass classification.  For the remainder of these notes, unless otherwise we're going to assume the binary setting, but it's important to note that our convention will be that $\mathcal{Y} = \{-1,+1\}$ _not_ $\mathcal{Y} = \{0,1\}$ (this will make a difference, since we're going to use the numerical values of $y$ is our loss functions.
 
 The other notable difference is that predicition space (the output of the hypothesis function) $\hat{\mathcal{Y}}$ is actually _still_ the same as it was in the regression setting, $\hat{\mathcal{Y}} = \mathbb{R}$ (again, this assumes binary classification, and we'll make a slight change for the multiclass setting).  This may seem somewhat counter-intuitive: we have outputs in the discrete space $\{-1,+1\}$ and predictions that are real-valued.  Intuitively, the output of our hypothesis function will correspond to some notion of "confidence" in our prediction: the _sign_ of $h_\theta(x)$ determines the most likely output (we are predicting positive if $\mathrm{sign}(h_\theta(x)) = 1$ and negative if $\mathrm{sign}(h_\theta(x)) = -1$), but the magnitude indicates how certain we are: large positive values of $h_\theta(x)$ indicate we are very confident in our positive prediction; very large negative values indicate we are very confident in our negative prediction; and values around zero indicate we are not particularly certain one way or another in our prediction.  Without these notions of confidence, it is extremely difficult to formulate a "smooth" loss that can be optimized with, gradient descent, for example.
 
@@ -120,7 +120,7 @@ Motivated by this concern, let's discuss alternative loss functions for classifi
 
 ### Zero-one loss
 
-Perhaps the most obvious loss, which is frankly what people just assume to be the "correct" loss for classification problems, is just the number of mistakes that the classifier makes.  That is, if the sign of $h_\theta(x^{(i)})$ is negative while $y^{(i)}$ is positive (or vice versa), this counts as a mistake, whereas the point is correctly classified otherwise.  This is known as the zero-one loss $\ell_{0/1} : \mathbb{R} \times \{-1,+1\} \rightarrow \mathbb{R}_+$, and we can write it as follows
+Perhaps the most obvious loss, which is frankly what people just assume to be the "correct" loss for classification problems, is just the number of mistakes that the classifier makes.  That is, if the sign of $h_\theta(x^{(i)})$ is negative while $y^{(i)}$ is positive (or vice versa), this counts as a mistake, whereas the point is correctly classified otherwise.  This is known as the zero-one loss $\ell_{0/1} : \mathbb{R} \times \{-1,+1\} \rightarrow \mathbb{R}\_+$, and we can write it as follows
 
 $$
 \begin{split}
@@ -225,7 +225,7 @@ $$
 \minimize_{\theta} \frac{1}{m} \sum_{i=1}^m \max \{1-\theta^T x^{(i)} \cdot y^{(i)}, 0\} + \lambda \sum_{j=1}^n \theta_j^2
 $$
 
-where $\lambda \in \mathbb{R}_+$ is what is called a _regularization parameter_ that trades off between the goal of minimizing the loss and keeping the weights small.
+where $\lambda \in \mathbb{R}\_+$ is what is called a _regularization parameter_ that trades off between the goal of minimizing the loss and keeping the weights small.
 
 Let's derive the gradient descent algorithm for linear SVMs.  Recall that the hinge loss looks like the following, as a function of $h_\theta(x) \cdot y$:
 

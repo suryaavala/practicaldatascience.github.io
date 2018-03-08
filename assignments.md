@@ -22,10 +22,10 @@ All assignments are due at 11:59pm ET (midnight) on the due date, and will be re
 | [Tutorial](/tutorial/tutorial.pdf) | 2/21 | 2/28 ([proposal](https://goo.gl/forms/MCDJmktk8jBuRBrb2)), 3/28 |
 | Homework 4 | 3/28 | 4/11 |
 | Homework 5 | 4/11 | 4/25 |
-| Final project | 3/7 | 3/23 (proposal), 5/9 (writeup)|
+| [Final project](project/project.pdf) | 3/7 | 3/23 (proposal), 5/9 (video), 5/11 (report)|
 
 ## Homeworks
- 
+
 Homeworks are distributed as Jupyter notebooks, submitted for autograding via [Autolab](http://autolab.andrew.cmu.edu).  The autograders for the homeworks will be live within *48 hours* of the homework release date, or the due date will be shifted back accordingly.
 
 **Late days**: Each student is permitted 5 late days they may use over the course of the semester, using no more than 2 late days on each assignment.  **After the two late days on each assignment, or after you have used the five late days, you will receive zero credit for the assignment**.  Late days may **only** be used for the homework assignments, not for the tutorial or final project. 

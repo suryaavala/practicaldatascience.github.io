@@ -25,20 +25,20 @@ This page lists the class lectures and recitations, plus additional material (sl
 | 2/21 | Linear regression continued | [<i class="fa fa-file-pdf-o"></i>](/notes/ml_intro/ml_intro.pdf) | [<i class="fa fa-file-text-o"></i>](/notes/ml_intro) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d66cde20-706e-4c9a-a091-a88e01495f3c) |[<i class="fa fa-question"></i>](https://goo.gl/forms/hRZJLfCTMhwgN7fz2) | 
 | 2/26 | Linear classification | [<i class="fa fa-file-pdf-o"></i>](/notes/linear_classification/linear_classification.pdf) |[<i class="fa fa-file-text-o"></i>](/notes/linear_classification) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8c9db180-92b5-48f5-92d4-a8930148e58c)  | [<i class="fa fa-question"></i>](https://goo.gl/forms/ikdMRh98YnqqGpmB2) |
 | 2/28 | Nonlinear modeling, cross-validation | [<i class="fa fa-file-pdf-o"></i>](/notes/nonlinear_modeling/nonlinear_modeling.pdf) | [<i class="fa fa-file-text-o"></i>](/notes/nonlinear_modeling) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6af0e6c2-4b6a-47e0-899c-a89501488441)| [<i class="fa fa-question"></i>](https://goo.gl/forms/n9POWJKOcgpqpyir2) |
-| 3/5  | Nonlinear modeling (cont), evaluating ML models | [<i class="fa fa-file-pdf-o"></i>](/notes/evaluation/evaluation.pdf) | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1c1a9c89-c265-4b56-9585-a89a014966e0) | [<i class="fa fa-question"></i>](https://goo.gl/forms/JYtvYzlmYlDJ49n82)|
-| 3/7  | Basics of probability || | | |
+| 3/5  | Nonlinear modeling (cont), evaluating ML models | [<i class="fa fa-file-pdf-o"></i>](/notes/evaluation/evaluation.pdf) | [<i class="fa fa-file-text-o"></i>](/notes/nonlinear_modeling) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1c1a9c89-c265-4b56-9585-a89a014966e0) | [<i class="fa fa-question"></i>](https://goo.gl/forms/JYtvYzlmYlDJ49n82)|
+| 3/7  | Class postponed || | | |
 | 3/12 | *Spring break* || | | |
 | 3/14 | *Spring break*  || | | |
-| 3/19 | Hypothesis testing and experimental design || | | |
-| 3/21 | Decision trees, interpretable models || | | |
+| 3/19 | Basics of probability | [<i class="fa fa-file-pdf-o"></i>](/notes/probability/probability.pdf)  | | | |
+| 3/21 | Maxiumum likelihood estimation, naive Bayes || | | |
+| 3/26 | Hypothesis testing and experimental design || | | |
 | | **Advanced modeling techniques** || | | |
-| 3/26 | Clustering and dimensionality reduction || | | |
-| 3/28 | Anomaly detection || | | |
-| 4/2  | Recommender systems || | | |
-| 4/4  | Deep learning || | | |
-| 4/9  | *Overflow lecture* || | | |
+| 3/28 | Decision trees, interpretable models || | | |
+| 4/2  | Clustering and dimensionality reduction || | | |
+| 4/4  | Anomaly detection || | | |
+| 4/9  | Recommender systems || | | |
+| 4/11 | Deep learning || | | |
 | | **Additional topics**  || | | |
-| 4/11 | High dimensional visualization || | | |
 | 4/16 | Probabilistic modeling || | | | 
 | 4/18 | Big data and MapReduce methods || | | |
 | 4/23 | Debugging data science || | | |

@@ -29,7 +29,7 @@ This page lists the class lectures and recitations, plus additional material (sl
 | 3/7  | Class postponed || | | |
 | 3/12 | *Spring break* || | | |
 | 3/14 | *Spring break*  || | | |
-| 3/19 | Basics of probability | [<i class="fa fa-file-pdf-o"></i>](/notes/probability/probability.pdf)  | | | |
+| 3/19 | Basics of probability | [<i class="fa fa-file-pdf-o"></i>](/notes/probability/probability.pdf)  | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6d87101f-085d-4880-8cdc-a8a80138a7f4) | [<i class="fa fa-question"></i>](https://goo.gl/forms/ylmI2nuqmMZYo78Q2) |
 | 3/21 | Maxiumum likelihood estimation, naive Bayes || | | |
 | 3/26 | Hypothesis testing and experimental design || | | |
 | | **Advanced modeling techniques** || | | |

@@ -22,7 +22,7 @@ All assignments are due at 11:59pm ET (midnight) on the due date, and will be re
 | [Tutorial](/tutorial/tutorial.pdf) | 2/21 | 2/28 ([proposal](https://goo.gl/forms/MCDJmktk8jBuRBrb2)), 3/30 |
 | Homework 4 | 3/28 | 4/11 |
 | Homework 5 | 4/11 | 4/25 |
-| [Final project](project/project.pdf) | 3/7 | 3/23 (proposal), 5/9 (video), 5/11 (report)|
+| [Final project](project/project.pdf) | 3/7 | 3/23 ([proposal](https://goo.gl/forms/lMvLGDnpRQEoAobu1)), 5/9 (video), 5/11 (report)|
 
 ## Homeworks
 

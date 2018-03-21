@@ -6,6 +6,8 @@ img: nonlinear.svg
 
 [Download notes as jupyter notebook](nonlinear_modeling.tar.gz)
 
+** Notes will be updated/finalized by 3/26 **
+
 ## Introduction
 
 This set of notes really deals with two different topics: nonlinear modeling and the issue of generalization.  These are really two separate and distinct issues in machine learning, but they arise very naturally in contection with each other, and so we choose to introduce there at the same time here.  Nonetheless, it is important to also understand that they are different topics, and that generalization issues can arise for any type of classifier (linear or nonlinear), and than nonlinear hypothesis functions are of independent interest.  With this caveat in mind, though, let's see how they can arise together.

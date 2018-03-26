@@ -757,7 +757,7 @@ It is _very_ important to keep this fact in mind, as I have seen many people try
 
 To illustrate this point, I'm going to use a common diagram from courses on probabilistic modeling.  The example itself is a bit contrived, of course, but it does serve to illustrate the difference well.  We _aren't_ going to explicitly assign probabilities to these terms (we could, but again this would just show the expected fact that they are different, and not the real intuition behind it), but instead just describe the "story" of this setting more informally.  Consider the following diagram
 
-{% include image.html img="alarm.svg" caption="Illustration of the "Alarm" probaiblistic scenario."%}
+{% include image.html img="alarm.svg" caption="Illustration of the 'Alarm' probaiblistic scenario."%}
 
 This is actually a representation of probabilities tha we will see later in class called a Bayesian network, but we won't worry about this for now.  What this figure represents is a setting where "Earthquake", "Burglary", "Alarm", "JohnCalls" and "MaryCalls" are all random variables.  The setting it describes is one where both an earthquake or a burglary (both of which are very infrequent) trigger an alarm in your house (the alarm is unlikely to go off in the absence of either event); when this alarm goes off, two of your neighbors can hear the alarm and (independently) decide to call you with some probability (they are unlikely to call if the alarm does not go off).
 

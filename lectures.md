@@ -31,7 +31,7 @@ This page lists the class lectures and recitations, plus additional material (sl
 | 3/14 | *Spring break*  || | | |
 | 3/19 | Basics of probability | [<i class="fa fa-file-pdf-o"></i>](/notes/probability/probability.pdf)  |  [<i class="fa fa-file-text-o"></i>](/notes/probability) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6d87101f-085d-4880-8cdc-a8a80138a7f4) | [<i class="fa fa-question"></i>](https://goo.gl/forms/ylmI2nuqmMZYo78Q2) |
 | 3/21 | Maxiumum likelihood estimation, naive Bayes | [<i class="fa fa-file-pdf-o"></i>](/notes/mle/mle.pdf) | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a2f8bcbe-636e-4a03-9ddc-a8aa01390794) | [<i class="fa fa-question"></i>](https://goo.gl/forms/HWQAaKb1QOWv3qzf2) |
-| 3/26 | Hypothesis testing and experimental design | | | | |
+| 3/26 | Hypothesis testing and experimental design | [<i class="fa fa-file-pdf-o"></i>](/notes/hypothesis_testing/hypothesis_testing.pdf) | | | |
 | | **Advanced modeling techniques** || | | |
 | 3/28 | Decision trees, interpretable models || | | |
 | 4/2  | Clustering and dimensionality reduction || | | |
@@ -45,6 +45,11 @@ This page lists the class lectures and recitations, plus additional material (sl
 | 4/25 | A data science walkthrough || | | |
 | 4/30 | Data science jobs || | | |
 | 5/2  | The future of data science and Q&A || | | |
+
+1-800 335 2244
+Lost and found for United
+
+
 
 ## Recitations
 

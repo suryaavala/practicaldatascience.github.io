@@ -463,32 +463,32 @@ Factor(Weather) = {
 Given two random variables $X_1,X_2$, the _conditional_ probability of $X_1$ given $X_2$ is defined as
 
 $$
-p(X_1 | X_2) = \frac{p(X_1,X_2)}{p(X_2)}.
+p(X_1 \mid X_2) = \frac{p(X_1,X_2)}{p(X_2)}.
 $$
 
 This can also be rearranged to give a definition of the joint distribution in terms of the conditional distribution.
 
 $$
-p(X_1,X_2) = p(X_1 | X_2) p(X_2)
+p(X_1,X_2) = p(X_1 \mid X_2) p(X_2)
 $$
 
 or written in terms of the opposite order
 
 $$
-p(X_1,X_2) = p(X_2 | X_1) p(X_1), 
+p(X_1,X_2) = p(X_2 \mid X_1) p(X_1), 
 $$
 
 (we will shortly use this equivalence to derive Bayes' rule).  By applying this property repeatedly, we can also derive a characterization of the joint distribution for any number of random variables $X_1,\ldots,X_n$, referred to as the _chain rule_
 
 $$
-p(X_1,\ldots,X_n) = \prod_{i=1}^n p(X_i | X_1,\ldots,X_{i-1})
+p(X_1,\ldots,X_n) = \prod_{i=1}^n p(X_i \mid X_1,\ldots,X_{i-1})
 $$
 
 
 This charaterization also gives another way of writing the marginalization formula, which can be useful in some situations
 
 $$
-p(X_1) = \sum_{x_2} p(X_1 | x_2) p(x_2).
+p(X_1) = \sum_{x_2} p(X_1 \mid x_2) p(x_2).
 $$
 
 
@@ -526,26 +526,27 @@ Factor(Dentist) = {
 
 ## Bayes' rule
 
-Bayes' rule has a special place in probability and machine learning, but fundamentally it is just a simple application of the two rules of probability described above  Fundamentally, it provides a way to express the conditional distribution $p(X_1 | X_2)$ in terms of the opposite conditional $p(X_2 | X_1)$ and the marginal probability (in this context, often called the _prior probability_) $p(X_1)$.  Specifically, Bayes' rule is given by
+Bayes' rule has a special place in probability and machine learning, but fundamentally it is just a simple application of the two rules of probability described above  Fundamentally, it provides a way to express the conditional distribution $p(X_1 \mid X_2)$ in terms of the opposite conditional $p(X_2 \mid X_1)$ and the marginal probability (in this context, often called the _prior probability_) $p(X_1)$.  Specifically, Bayes' rule is given by
 
 $$
-p(X_1 | X_2) = \frac{p(X_2|X_1)p(X_1)}{\sum_{x_1} p(X_2|x_1)p(x_1)}
+p(X_1 \mid X_2) = \frac{p(X_2 \mid X_1)p(X_1)}{\sum_{x_1} p(X_2 \mid x_1)p(x_1)}
 $$
 
 which just follows trivially from the above definitions of conditional probability and marginalization
 
 $$
-p(X_1 | X_2) = \frac{p(X_1,X_2)}{p(X_2)} = \frac{p(X_2|X_1)p(X_1)}{\sum_{x_1} p(X_2|x_1)p(x_1)}.
+p(X_1 \mid X_2) = \frac{p(X_1,X_2)}{p(X_2)} = \frac{p(X_2 \mid X_1)p(X_1)}{\sum_{x_1} p(X_2 \mid x_1)p(x_1)}.
 $$
 
 
 The rule is particularly useful when probability are given in terms of the quantities on the right hand side, but _not_ the left hand side.  A very common example is something like the following:
+
 > I want to know if I have come with with a rate strain of flu (occurring in only 1/10,000 people).  There is an “accurate” test for the flu (if I have the flu, it will tell me I have 99% of the time, and if I do not have it, it will tell me I do not have it 99% of the time).  I go to the doctor and test positive.  What is the probability I have the this flu?
 
 Most people (and quite unsettlingly, apparently [most doctors](http://www.bbc.com/news/magazine-28166019)) tend to see this and guess that the probability of having the flu would be high here, probably approximately the 99% accuracy of the test.  But this is not the case.  To see this, let's specify the terms here in terms of random variables.  Let $\mathrm{Flu}$ be the random variable associated with whether I have the flu, and let $\mathrm{Test}$ be the random variable associated with whether I test positive (both are binary variables).  What we would like to know is the quantity
 
 $$
-p(\mathrm{Flu} = 1 | \mathrm{Test} = 1).
+p(\mathrm{Flu} = 1 \mid \mathrm{Test} = 1).
 $$
 
 But we aren't given this quantity directly.  Reading off the probabilities from the text example, we instead know that
@@ -553,8 +554,8 @@ But we aren't given this quantity directly.  Reading off the probabilities from 
 $$
 \begin{split}
 p(\mathrm{Flu} = 1) & = 0.0001 \\
-p(\mathrm{Test} = 1 | \mathrm{Flu} = 1) & = 0.99 \\
-p(\mathrm{Test} = 0 | \mathrm{Flu} = 0) & = 0.99
+p(\mathrm{Test} = 1 \mid \mathrm{Flu} = 1) & = 0.99 \\
+p(\mathrm{Test} = 0 \mid \mathrm{Flu} = 0) & = 0.99
 \end{split}
 $$
 
@@ -563,19 +564,19 @@ and since the probabilities are all binary here, this also implies that
 $$
 \begin{split}
 p(\mathrm{Flu} = 0) & = 1 - p(\mathrm{Flu} = 1) = 0.9999 \\
-p(\mathrm{Test} = 0 | \mathrm{Flu} = 1) & = 1 - p(\mathrm{Test} = 1 | \mathrm{Flu} = 1) = 0.01 \\
-p(\mathrm{Test} = 1 | \mathrm{Flu} = 0) & = 1 - p(\mathrm{Test} = 0 | \mathrm{Flu} = 0) = 0.01.
+p(\mathrm{Test} = 0 \mid \mathrm{Flu} = 1) & = 1 - p(\mathrm{Test} = 1 \mid \mathrm{Flu} = 1) = 0.01 \\
+p(\mathrm{Test} = 1 \mid \mathrm{Flu} = 0) & = 1 - p(\mathrm{Test} = 0 \mid \mathrm{Flu} = 0) = 0.01.
 \end{split}
 $$
 
 
-Now let's apply Bayes' rule to compute the term $p(\mathrm{Flu} = \mathrm{true} | \mathrm{Test} = \mathrm{positive})$.  We know that
+Now let's apply Bayes' rule to compute the term $p(\mathrm{Flu} = \mathrm{true} \mid \mathrm{Test} = \mathrm{positive})$.  We know that
 
 $$
 \begin{split}
-p(\mathrm{Flu} = 1 | \mathrm{Test} = 1) & = 
-\frac{p(\mathrm{Test} = 1 | \mathrm{Flu} = 1) p(\mathrm{Flu} = 1)}
-{p(\mathrm{Test} = 1 | \mathrm{Flu} = 1) p(\mathrm{Flu} = 1) + p(\mathrm{Test} = 1 | \mathrm{Flu} = 0) p(\mathrm{Flu} = 0)} \\
+p(\mathrm{Flu} = 1 \mid \mathrm{Test} = 1) & = 
+\frac{p(\mathrm{Test} = 1 \mid \mathrm{Flu} = 1) p(\mathrm{Flu} = 1)}
+{p(\mathrm{Test} = 1 \mid \mathrm{Flu} = 1) p(\mathrm{Flu} = 1) + p(\mathrm{Test} = 1 \mid \mathrm{Flu} = 0) p(\mathrm{Flu} = 0)} \\
 & = \frac{0.99 \cdot 0.0001}{0.99 \cdot 0.0001 + 0.01 \cdot 0.9999} \approx 0.0098
 \end{split}
 $$
@@ -621,19 +622,19 @@ $$
 An equivalent condition, which can easily be derived from the above, is that two variables are independent if
 
 $$
-p(X_1|X_2) = p(X_1)
+p(X_1 \mid X_2) = p(X_1)
 $$
 
 To see the equivalence here note that
 
 $$
-p(X_1|X_2) = \frac{p(X_1,X_2)}{p(X_2)} = \frac{p(X_1)p(X_2)}{p(X_2)} = p(X_1)
+p(X_1 \mid X_2) = \frac{p(X_1,X_2)}{p(X_2)} = \frac{p(X_1)p(X_2)}{p(X_2)} = p(X_1)
 $$
 
 where the middle equality holds by our assumption on independence.  Note that this also equivalently implies the opposite direction as well, that
 
 $$
-p(X_2|X_1) = p(X_2).
+p(X_2 \mid X_1) = p(X_2).
 $$
 
 
@@ -687,7 +688,7 @@ Factor(Weather, Cavity) = {
 }
 </pre>
 
-Alternatively, we have also computed $p(\mathrm{Weather}|\mathrm{Cavity})$, and we can use this to check if the variables are independent.
+Alternatively, we have also computed $p(\mathrm{Weather} \mid \mathrm{Cavity})$, and we can use this to check if the variables are independent.
 
 
 ```python
@@ -739,19 +740,20 @@ These are not not the same, meaning the variables are not indpendent.
 **Conditional independence**  Two variables $X_1$, and $X_2$ are _conditionally independent_ given $X_3$ if
 
 $$
-p(X_1,X_2|X_3) = p(X_1|X_3) p(X_2|X_3)
+p(X_1,X_2 \mid X_3) = p(X_1 \mid X_3) p(X_2 \mid X_3)
 $$
 
 or equivalently, if 
 
 $$
-p(X_1|X_2,X_3) = \frac{p(X_1,X_2|X_3)}{p(X_2|X_3)} = \frac{p(X_1|X_3) p(X_2|X_3)}{p(X_2|X_3)} = p(X_1|X_3).
+p(X_1 \mid X_2,X_3) = \frac{p(X_1,X_2 \mid X_3)}{p(X_2 \mid X_3)} = \frac{p(X_1 \mid X_3) p(X_2 \mid X_3)}{p(X_2 \mid X_3)} = p(X_1 \mid X_3).
 $$
 
 Just like with normal independence, the second formulation is often the more intuitive one.  The intuition of this definition is: if I know $X_3$, does also knowing $X_2$ given me any additional information about $X_1$?  If so, $X_1$ and $X_2$ are not conditionally indpendent given $X_3$, and if not, then they are.
 
 Rather than illustrate this again with code (which would look largely like the example above, just with all the factors being conditional distributions on some third variable), we want to instead emphasize this notions of independence on a more intuitive level, and emphasize the most important aspect to keep in mind:
-> **Marginal independence does not imply conditional independence, and conditional independence does not imply marginal independence.**
+
+**Marginal independence does not imply conditional independence, and conditional independence does not imply marginal independence.**
 
 It is _very_ important to keep this fact in mind, as I have seen many people try to manipulate probabilities relying on a (completely false) implication in one direction or the other.
 
@@ -764,14 +766,14 @@ This is actually a representation of probabilities tha we will see later in clas
 In there are two interesting sets of independnece relations.  We take it as essentially an assumption that the events of a burglary or earthquake are independent: neither one will have any relation on the other, so that for instance
 
 $$
-p(\mathrm{Earthquake}|\mathrm{Burglary}) = p(\mathrm{Earthquake})
+p(\mathrm{Earthquake} \mid \mathrm{Burglary}) = p(\mathrm{Earthquake})
 $$
 
 However, are Earthquake and Burglary conditionally independent given "Alarm"?  I.e., does knowing about the buglary help us predict the presence or absence of an earthquake given the alarm? 
 A bit of thinking about this scenario, this at an intuitive level, should convince you that we probably _don't_ believe that these two events are conditionally independent, and instead
 
 $$
-p(\mathrm{Earthquake}|\mathrm{Burglary},\mathrm{Alarm}) \neq p(\mathrm{Earthquake}|\mathrm{Alarm})
+p(\mathrm{Earthquake} \mid \mathrm{Burglary},\mathrm{Alarm}) \neq p(\mathrm{Earthquake} \mid \mathrm{Alarm})
 $$
 
 Specifically, if we hear the alarm, then we expect it to be "caused" by either the burglary or the earthquake; thus, hearing the alarm likely raises the probability of both these two events.  But both of these events are quite unlikely, so if we know that the burglary _did_ occur, this probably will "reset" our estimate of whether the earthquake occurred to much lower level.  Thus, in general, we can intuitive see that observing the Burglary variable _does_ change our condition probability, and thus the two events are likely not conditionally independent.
@@ -779,16 +781,16 @@ Specifically, if we hear the alarm, then we expect it to be "caused" by either t
 Conversely, the two events of John calling and Mary calling are _not_ marginally independent, i.e.,
 
 $$
-p(\mathrm{JohnCalls}|\mathrm{MaryCalls}) \neq p(\mathrm{JohnCalls}).
+p(\mathrm{JohnCalls} \mid \mathrm{MaryCalls}) \neq p(\mathrm{JohnCalls}).
 $$
 
 This is because these two events are both highly correlated by the presence of the alarm.  If John calls, then the alarm has probably gone off, so there is a good chance that Mary will call too.  However, it is also the case that John calling and Mary calling are _conditionally_ independent given the alarm,
 
 $$
-p(\mathrm{JohnCalls}|\mathrm{MaryCalls}, \mathrm{Alarm}) = p(\mathrm{JohnCalls}|\mathrm{Alarm}).
+p(\mathrm{JohnCalls} \mid \mathrm{MaryCalls}, \mathrm{Alarm}) = p(\mathrm{JohnCalls} \mid \mathrm{Alarm}).
 $$
 
-This is essentially immediate from how the problem was stated, that each neighbors may or may not hear the alarm independently, and thus call.  Thus, as this example hopefully illustrates, it is definitely incorrect to assume that marginal indpendence implies conditional independence or vice versa.
+This is essentially immediate from how the problem was stated, that each neighbors may or may not hear the alarm independently, and thus call.  Thus, as this example hopefully illustrates, it is definitely incorrect to assume that marginal independence implies conditional independence or vice versa.
 
 
 
@@ -808,10 +810,10 @@ We also need to emphasize that the expectation is _only_ possible when the rando
 We can also generalize the concept of expectation to conditional expectation, i.e.
 
 $$
-\mathbf{E}[X_1|x_2] = \sum_{x_1} x_1 \cdot p(x_1 | x_2).
+\mathbf{E}[X_1 \mid x_2] = \sum_{x_1} x_1 \cdot p(x_1  \mid x_2).
 $$
 
-Note that for this to still be a single number $x_2$ must be a particular assignment, not the random variable in general, i.e., $\mathbf{E}[X_1 | X_2]$ would actually be a factor over $X_2$.
+Note that for this to still be a single number $x_2$ must be a particular assignment, not the random variable in general, i.e., $\mathbf{E}[X_1 \mid X_2]$ would actually be a factor over $X_2$.
 
 **Properties of expectations**
 One of the most important properties of expectations is the _linearity_.  For _any_ two random variables $X_1$, $X_2$ (regardless of whether they are dependent or independent), the expectation of their sums is equal to the sum of their expections: $\mathbf{E}[X_1 + X_2] = \mathbf{E}[X_1] + \mathbf{E}[X_2]$.  We'll actually show an even more general form here, which include scaling $X_1$ and $X_2$ by some arbitrary constants $\alpha, \beta \in \mathbb{R}$.
@@ -840,6 +842,61 @@ $$
 $$
 
 where the second line followed from our assumption of independence.  In general, this property does not hold for dependent random variables, and the difference between these two quantities is actually exactly the covariance between the two variables, as we will define shortly.
+
+**Implementation** We can implement the expectation computation for our Factor class in a number of ways.  Because we want to be able to compute the expectation of arbitrary functions, one nice way to handle this is through lambda functions.  The following code lets us take expectations with regard to arbitrary functions of the random variable values.  We use the function by passing a lambda function to the expectation function, which computes the actual value we want to take the expectation of.  Here is an example for a random variable representing a die.
+
+
+```python
+def expectation(p, f):
+    all_args = [dict(zip(p.variables, k)) for k in p.factors]
+    return sum(f(**args)*v for args,v in zip(all_args, p.factors.values()))
+
+pDie = Factor("Die", {1:1/6, 2:1/6, 3:1/6, 4:1/6, 5:1/6, 6:1/6})
+print(expectation(pDie, lambda **v : v["Die"]))
+```
+
+<pre>
+3.5
+</pre>
+
+We ca also take the expectation of terms squared, etc.
+
+
+```python
+print(expectation(pDie, lambda **v : v["Die"]**2))
+```
+
+<pre>
+15.166666666666666
+</pre>
+
+We can also verify that for two independent random variables the expectation of the product is the product of expectations.
+
+
+```python
+pDie2 = Factor("Die2", {1:1/6, 2:1/6, 3:1/6, 4:1/6, 5:1/6, 6:1/6})
+print(expectation(pDie*pDie2, lambda **v : v["Die"]*v["Die2"]))
+print(expectation(pDie, lambda **v : v["Die"]) * expectation(pDie2, lambda **v : v["Die2"]))
+```
+
+<pre>
+12.250000000000002
+12.25
+</pre>
+
+Finally, let's consider a case of binary (to keep it simple) random variables that are not independent.
+
+
+```python
+pX1X2 = Factor("X1", "X2", {(0,0):0.1, (0,1):0.2, (1,0):0.3, (1,1):0.4})
+print(expectation(pX1X2, lambda **v : v["X1"]*v["X2"]))
+print(expectation(pX1X2, lambda **v : v["X1"]) * expectation(pX1X2, lambda **v : v["X2"]))
+```
+
+<pre>
+0.4
+0.42000000000000004
+</pre>
 
 ### Variance
 The variance of a random variable, denoted $\mathbf{Var}[X]$ is the expectation of the squared difference between $X$ and its expectation.  That is somewhat of a mouthful, so it's perhaps easy just to write mathematically
@@ -876,6 +933,47 @@ $$
 
 Note as mentioned above that this is just the difference between the product of expectations and the expectation of products, so we have from the derivation above that the correlation between independent random variables is always zero.
 
+
+We can easily implement the variance by simply using our expectation function.  But we can also see manually the equivalence of the formulas we give above.  For instance, consider the variance term for the Die random variable.
+
+
+```python
+print(expectation(pDie, lambda **v : (v["Die"] - expectation(pDie, lambda **v : v["Die"])) **2))
+print(expectation(pDie, lambda **v : v["Die"]**2) - expectation(pDie, lambda **v : v["Die"])**2)
+```
+
+<pre>
+2.9166666666666665
+2.916666666666666
+</pre>
+
+So we could define a simple function to compute the variance of a random variable (or really, the variance of any quantity).
+
+
+```python
+def variance(p, f):
+    return expectation(p, lambda **v : f(**v)**2) - expectation(p, lambda **v : f(**v))**2
+variance(pDie, lambda **v : v["Die"])
+```
+
+<pre>
+2.916666666666666
+</pre>
+
+And finally, the same technique works for the covariance between two random variables.
+
+
+```python
+def covariance(p, f1, f2):
+    return (expectation(p, lambda **v : f1(**v)*f2(**v)) - 
+            expectation(p, lambda **v : f1(**v))*expectation(p, lambda **v : f2(**v)))
+
+covariance(pX1X2, lambda **v: v["X1"], lambda **v: v["X2"])
+```
+
+<pre>
+-0.020000000000000018
+</pre>
 
 ### Infinite and continuous random variables
 

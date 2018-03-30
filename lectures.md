@@ -20,9 +20,9 @@ This page lists the class lectures and recitations, plus additional material (sl
 | 2/7  | Graph and network processing | [<i class="fa fa-file-pdf-o"></i>](/notes/graphs/graphs.pdf) | [<i class="fa fa-file-text-o"></i>](/notes/graphs) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=362c00ae-e0ef-4719-9b99-a8800148f2f5) | [<i class="fa fa-question"></i>](https://goo.gl/forms/zMAwoP3cZSZLJsLS2) |
 | 2/12 | Free text and natural language processing | [<i class="fa fa-file-pdf-o"></i>](/notes/free_text/free_text.pdf) | [<i class="fa fa-file-text-o"></i>](/notes/free_text)  | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ff0beff-4a8e-4de7-8b90-a8850148a15a) | [<i class="fa fa-question"></i>](https://goo.gl/forms/fcXMDr9oL6mWvC5p2) |
 | 2/14 | Free text, continued | [<i class="fa fa-file-pdf-o"></i>](/notes/free_text/free_text.pdf) | [<i class="fa fa-file-text-o"></i>](/notes/free_text)  | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca587e01-7b16-4376-8ff7-a88701498f98) | [<i class="fa fa-question"></i>](https://goo.gl/forms/QH1zUtvJ79c2SA0D3) |
-| | **Statistical modeling and machine learning** || | | | 
+| | **Statistical modeling and machine learning** || | | |
 | 2/19 | Introduction to machine learing | [<i class="fa fa-file-pdf-o"></i>](/notes/ml_intro/ml_intro.pdf) | [<i class="fa fa-file-text-o"></i>](/notes/ml_intro) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=12615ab6-9b01-41a5-9a8d-a88c014940e3) | [<i class="fa fa-question"></i>](https://goo.gl/forms/STCvjhbwl8OjQDtz2)|
-| 2/21 | Linear regression continued | [<i class="fa fa-file-pdf-o"></i>](/notes/ml_intro/ml_intro.pdf) | [<i class="fa fa-file-text-o"></i>](/notes/ml_intro) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d66cde20-706e-4c9a-a091-a88e01495f3c) |[<i class="fa fa-question"></i>](https://goo.gl/forms/hRZJLfCTMhwgN7fz2) | 
+| 2/21 | Linear regression continued | [<i class="fa fa-file-pdf-o"></i>](/notes/ml_intro/ml_intro.pdf) | [<i class="fa fa-file-text-o"></i>](/notes/ml_intro) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d66cde20-706e-4c9a-a091-a88e01495f3c) |[<i class="fa fa-question"></i>](https://goo.gl/forms/hRZJLfCTMhwgN7fz2) |
 | 2/26 | Linear classification | [<i class="fa fa-file-pdf-o"></i>](/notes/linear_classification/linear_classification.pdf) |[<i class="fa fa-file-text-o"></i>](/notes/linear_classification) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8c9db180-92b5-48f5-92d4-a8930148e58c)  | [<i class="fa fa-question"></i>](https://goo.gl/forms/ikdMRh98YnqqGpmB2) |
 | 2/28 | Nonlinear modeling, cross-validation | [<i class="fa fa-file-pdf-o"></i>](/notes/nonlinear_modeling/nonlinear_modeling.pdf) | [<i class="fa fa-file-text-o"></i>](/notes/nonlinear_modeling) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6af0e6c2-4b6a-47e0-899c-a89501488441)| [<i class="fa fa-question"></i>](https://goo.gl/forms/n9POWJKOcgpqpyir2) |
 | 3/5  | Nonlinear modeling (cont), evaluating ML models | [<i class="fa fa-file-pdf-o"></i>](/notes/evaluation/evaluation.pdf) | [<i class="fa fa-file-text-o"></i>](/notes/nonlinear_modeling) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1c1a9c89-c265-4b56-9585-a89a014966e0) | [<i class="fa fa-question"></i>](https://goo.gl/forms/JYtvYzlmYlDJ49n82)|
@@ -30,7 +30,11 @@ This page lists the class lectures and recitations, plus additional material (sl
 | 3/12 | *Spring break* || | | |
 | 3/14 | *Spring break*  || | | |
 | 3/19 | Basics of probability | [<i class="fa fa-file-pdf-o"></i>](/notes/probability/probability.pdf)  |  [<i class="fa fa-file-text-o"></i>](/notes/probability) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6d87101f-085d-4880-8cdc-a8a80138a7f4) | [<i class="fa fa-question"></i>](https://goo.gl/forms/ylmI2nuqmMZYo78Q2) |
+<<<<<<< HEAD
 | 3/21 | Maxiumum likelihood estimation, naive Bayes | [<i class="fa fa-file-pdf-o"></i>](/notes/mle/mle.pdf) | [<i class="fa fa-file-text-o"></i>](/notes/mle)  | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a2f8bcbe-636e-4a03-9ddc-a8aa01390794) | [<i class="fa fa-question"></i>](https://goo.gl/forms/HWQAaKb1QOWv3qzf2) |
+=======
+| 3/21 | Maxiumum likelihood estimation, naive Bayes | [<i class="fa fa-file-pdf-o"></i>](/notes/mle/mle.pdf) | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a2f8bcbe-636e-4a03-9ddc-a8aa01390794) | [<i class="fa fa-question"></i>](https://goo.gl/forms/HWQAaKb1QOWv3qzf2) |
+>>>>>>> 185e77aa047ec719ef2ecae69f2bb6e1733f85ce
 | 3/26 | Hypothesis testing and experimental design | [<i class="fa fa-file-pdf-o"></i>](/notes/hypothesis_testing/hypothesis_testing.pdf) | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2381c1ec-ba25-48e6-ac09-a8af01386c20) | [<i class="fa fa-question"></i>](https://goo.gl/forms/XVyljTZF1oPqGzJq1) |
 | | **Advanced modeling techniques** |  | | | |
 | 3/28 | Clustering and dimensionality reduction  |[<i class="fa fa-file-pdf-o"></i>](/notes/unsupervised/unsupervised.pdf) | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=050c9e80-1b16-4852-9df7-a8b10138f6e6) | |
@@ -39,7 +43,7 @@ This page lists the class lectures and recitations, plus additional material (sl
 | 4/9  | Decision trees, interpretable models || | | |
 | 4/11 | Deep learning || | | |
 | | **Additional topics**  || | | |
-| 4/16 | Probabilistic modeling || | | | 
+| 4/16 | Probabilistic modeling || | | |
 | 4/18 | Big data and MapReduce methods || | | |
 | 4/23 | Debugging data science | | | | |
 | 4/25 | A data science walkthrough | | | | |

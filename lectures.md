@@ -34,7 +34,7 @@ This page lists the class lectures and recitations, plus additional material (sl
 | 3/26 | Hypothesis testing and experimental design | [<i class="fa fa-file-pdf-o"></i>](/notes/hypothesis_testing/hypothesis_testing.pdf) | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2381c1ec-ba25-48e6-ac09-a8af01386c20) | [<i class="fa fa-question"></i>](https://goo.gl/forms/XVyljTZF1oPqGzJq1) |
 | | **Advanced modeling techniques** |  | | | |
 | 3/28 | Clustering and dimensionality reduction  |[<i class="fa fa-file-pdf-o"></i>](/notes/unsupervised/unsupervised.pdf) | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=050c9e80-1b16-4852-9df7-a8b10138f6e6) | [<i class="fa fa-question"></i>](https://goo.gl/forms/NeZsmZuWsFnj7dYS2) |
-| 4/2  | Recommender systems | [<i class="fa fa-file-pdf-o"></i>](/notes/recommender/recommender_systems.pdf) | | | |   
+| 4/2  | Recommender systems | [<i class="fa fa-file-pdf-o"></i>](/notes/recommender/recommender_systems.pdf) | [<i class="fa fa-file-text-o"></i>](/notes/recommender) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d201afa4-ba5d-4e47-b822-a8b601383dab)| |   
 | 4/4  | Anomaly detection || | | |
 | 4/9  | Decision trees, interpretable models || | | |
 | 4/11 | Deep learning || | | |

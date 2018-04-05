@@ -36,6 +36,7 @@ This page lists the class lectures and recitations, plus additional material (sl
 | 3/28 | Clustering and dimensionality reduction  |[<i class="fa fa-file-pdf-o"></i>](/notes/unsupervised/unsupervised.pdf) | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=050c9e80-1b16-4852-9df7-a8b10138f6e6) | [<i class="fa fa-question"></i>](https://goo.gl/forms/NeZsmZuWsFnj7dYS2) |
 | 4/2  | Recommender systems | [<i class="fa fa-file-pdf-o"></i>](/notes/recommender/recommender_systems.pdf) | [<i class="fa fa-file-text-o"></i>](/notes/recommender) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d201afa4-ba5d-4e47-b822-a8b601383dab)| [<i class="fa fa-question"></i>](https://goo.gl/forms/xtQMdymgD85O9vtu2)|   
 | 4/4  | Anomaly detection | [<i class="fa fa-file-pdf-o"></i>](/notes/anomaly_detection/anomaly_detection.pdf)  | | | |
+| 4/5  | Time Series | [<i class="fa fa-file-pdf-o"></i>](/notes/time_series/time_series.pdf)  | | | |
 | 4/9  | Decision trees, interpretable models || | | |
 | 4/11 | Deep learning || | | |
 | | **Additional topics**  || | | |

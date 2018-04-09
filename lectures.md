@@ -34,9 +34,8 @@ This page lists the class lectures and recitations, plus additional material (sl
 | | **Advanced modeling techniques** |  | | | |
 | 3/28 | Clustering and dimensionality reduction  |[<i class="fa fa-file-pdf-o"></i>](/notes/unsupervised/unsupervised.pdf) | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=050c9e80-1b16-4852-9df7-a8b10138f6e6) | [<i class="fa fa-question"></i>](https://goo.gl/forms/NeZsmZuWsFnj7dYS2) |
 | 4/2  | Recommender systems | [<i class="fa fa-file-pdf-o"></i>](/notes/recommender/recommender_systems.pdf) | [<i class="fa fa-file-text-o"></i>](/notes/recommender) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d201afa4-ba5d-4e47-b822-a8b601383dab)| [<i class="fa fa-question"></i>](https://goo.gl/forms/xtQMdymgD85O9vtu2)|   
-| 4/4  | Anomaly detection | [<i class="fa fa-file-pdf-o"></i>](/notes/anomaly_detection/anomaly_detection.pdf)  | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=94549858-3ff6-4910-8364-a8b80138f8b5) | |
-| 4/5  | Time series (optional lecture) | [<i class="fa fa-file-pdf-o"></i>](/notes/time_series/time_series.pdf)  | | [<i class="fa fa-video-camera"></i>](https://youtu.be/ks6S2LnFWo8) | |
-| 4/9  | Decision trees, interpretable models || | | |
+| 4/4  | Anomaly detection | [<i class="fa fa-file-pdf-o"></i>](/notes/anomaly_detection/anomaly_detection.pdf)  | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=94549858-3ff6-4910-8364-a8b80138f8b5) | [<i class="fa fa-question"></i>](https://goo.gl/forms/zZ8Yo8QUm8Ic0pZw1) |
+| 4/9  | Decision trees, interpretable models | [<i class="fa fa-file-pdf-o"></i>](/notes/decision_trees/decision_trees.pdf) | | | |
 | 4/11 | Deep learning || | | |
 | | **Additional topics**  || | | |
 | 4/16 | Probabilistic modeling || | | |
@@ -47,7 +46,7 @@ This page lists the class lectures and recitations, plus additional material (sl
 | 5/2  | The future of data science and Q&A | | | | |
 
 
-## Recitations
+## Recitations and optional lectures
 
 | Date | Homework | Notebook | Video |
 | --- | --- | :---: | :---: |
@@ -57,4 +56,5 @@ This page lists the class lectures and recitations, plus additional material (sl
 | 2/23 | HW 3 | [<i class="fa fa-file-text-o"></i>](/hw/hw3/recitation3.ipynb) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=992b3f85-7ef7-435c-84dd-a890017df240)
 | 3/2 | HW 3 Office Hours | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dcfa7d3b-db1e-476a-996f-a897014beb42) |
 | 3/30 | HW 4 | [<i class="fa fa-file-text-o"></i>](/hw/hw4/recitation4.zip) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ecb3a841-ff01-4a5d-a6fc-a8b3015b0bac) |
+| 4/5  | Time series (optional lecture) | [<i class="fa fa-file-pdf-o"></i>](/notes/time_series/time_series.pdf)  | [<i class="fa fa-video-camera"></i>](https://youtu.be/ks6S2LnFWo8) |
 | 4/6 | HW 4 Office Hours | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=10154824-d1c9-4374-b20b-a8ba014bd1ad) |

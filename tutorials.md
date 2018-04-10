@@ -155,7 +155,7 @@ title: Tutorials
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/150__Bikeshare Visualization Tutorial.ipynb">150. Bikeshare Visualization Tutorial</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/151__KMeansClustering.ipynb">151. KMeansClustering</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/152__neo4j.ipynb">152. neo4j</a></li>
-<li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/153__153_k nearest neighborhood.ipynb">153. 153_k nearest neighborhood</a></li>
+<li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/153__153_k nearest neighborhood.ipynb">153. k nearest neighborhood</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/154__Isolation Forest Tutorial.ipynb">154. Isolation Forest Tutorial</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/155__tutorial.ipynb">155. tutorial</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/156__Word Embeddings.ipynb">156. Word Embeddings</a></li>
@@ -201,9 +201,9 @@ title: Tutorials
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/196__pybedtoolsTutorial.ipynb">196. pybedtoolsTutorial</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/197__Tutorial - PyTorch Model for Speech Data.ipynb">197. Tutorial - PyTorch Model for Speech Data</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/198__handin.ipynb">198. handin</a></li>
-<li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/199__199_spotify.ipynb">199. 199_spotify</a></li>
+<li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/199__199_spotify.ipynb">199. spotify</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/200__Introduction to Google Cloud Platform and TensorFlow.ipynb">200. Introduction to Google Cloud Platform and TensorFlow</a></li>
-<li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/201__Tutorial_SenWang.ipynb">201. Tutorial_SenWang</a></li>
+<li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/201__Tutorial_SenWang.ipynb">201. Tutorial</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/202__NN_Tutorial.ipynb">202. NN_Tutorial</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/203__pytorch_tutorial.ipynb">203. pytorch_tutorial</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/204__Tutorial.ipynb">204. Tutorial</a></li>
@@ -229,7 +229,7 @@ title: Tutorials
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/224__Plotly_Tutorial.ipynb">224. Plotly_Tutorial</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/225__Tutorial.ipynb">225. Tutorial</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/226__mcmc-tutorial.ipynb">226. mcmc-tutorial</a></li>
-<li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/227__Tutorial_PDS_Srilekha.ipynb">227. Tutorial_PDS_Srilekha</a></li>
+<li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/227__Tutorial_PDS_Srilekha.ipynb">227. Tutorial_PDS</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/228__malware.ipynb">228. malware</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/229__Tutorial_Sentiment Analysis.ipynb">229. Tutorial_Sentiment Analysis</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/230__Interactive Data Viz and Time Series Tutorial.ipynb">230. Interactive Data Viz and Time Series Tutorial</a></li>
@@ -326,7 +326,7 @@ title: Tutorials
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/321__inferno.ipynb">321. inferno</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/322__Tutorial.ipynb">322. Tutorial</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/323__NBA-Stats_Tutorial.ipynb">323. NBA-Stats_Tutorial</a></li>
-<li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/324__zhengl1_15688_project.ipynb">324. zhengl1_15688_project</a></li>
+<li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/324__zhengl1_15688_project.ipynb">324. 15688_project</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/325__325_NLTK.ipynb">325. 325_NLTK</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/326__spatial_database.ipynb">326. spatial_database</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/327__tutorial.ipynb">327. tutorial</a></li>

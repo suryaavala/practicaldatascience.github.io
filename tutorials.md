@@ -83,7 +83,7 @@ title: Tutorials
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/78__hits tutorial.ipynb">78. hits tutorial</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/79__Advanced methods on data collecting.ipynb">79. Advanced methods on data collecting</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/80__Tutorial.ipynb">80. Tutorial</a></li>
-<li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/81__hfang.ipynb">81. hfang</a></li>
+<li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/81__hfang.ipynb">81. plotly</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/82__Tutorial.ipynb">82. Tutorial</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/83__Tutorial.ipynb">83. Tutorial</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/84__Collaborative_Filtering-midterm.ipynb">84. Collaborative_Filtering-midterm</a></li>

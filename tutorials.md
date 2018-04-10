@@ -12,7 +12,7 @@ title: Tutorials
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/6__Network Analysis Tutorial.ipynb">6. Network Analysis Tutorial</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/7__knn.ipynb">7. knn</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/8__Tensorflow- Intro and a case of application.ipynb">8. Tensorflow- Intro and a case of application</a></li>
-<li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/9__scrapy.ipynb">9. scrapy</a></li>
+<li><a href="http://nbviewer.jupyter.org/github/practicaldatascience/practicaldatascience.github.io/blob/master/tutorial_final/9__scrapy.ipynb">9. scrapy</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/10__NetworkX.ipynb">10. NetworkX</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/11__Keras Tutorial - Fruits.ipynb">11. Keras Tutorial - Fruits</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/12__MST_tutorial.ipynb">12. MST_tutorial</a></li>

@@ -117,7 +117,7 @@ title: Tutorials
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/112__tutorial.ipynb">112. tutorial</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/113__spotify_and_bokeh_tutorial.ipynb">113. spotify_and_bokeh_tutorial</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/114__tsne_tutorial.ipynb">114. tsne_tutorial</a></li>
-<li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/115__junboq.ipynb">115. junboq</a></li>
+<li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/115__junboq.ipynb">115. cnn</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/116__Personalized_PageRank_Tutorial.ipynb">116. Personalized_PageRank_Tutorial</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/117__Tutorial on the Elasticsearch.ipynb">117. Tutorial on the Elasticsearch</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/118__How to write a Web Crawler in Python3.ipynb">118. How to write a Web Crawler in Python3</a></li>
@@ -331,7 +331,7 @@ title: Tutorials
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/326__spatial_database.ipynb">326. spatial_database</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/327__tutorial.ipynb">327. tutorial</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/328__mongoDB_tutorial.ipynb">328. mongoDB_tutorial</a></li>
-<li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/329__LDA.ipynb">329. LDA</a></li>
+<li><a href="https://github.com/practicaldatascience/practicaldatascience.github.io/blob/master/tutorial_final/329__LDA.ipynb">329. LDA</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/330__sentiment analysis.ipynb">330. sentiment analysis</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/331__taxi_analysis_tutorial.ipynb">331. taxi_analysis_tutorial</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/332__tutorial.ipynb">332. tutorial</a></li>

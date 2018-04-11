@@ -35,8 +35,8 @@ This page lists the class lectures and recitations, plus additional material (sl
 | 3/28 | Clustering and dimensionality reduction  |[<i class="fa fa-file-pdf-o"></i>](/notes/unsupervised/unsupervised.pdf) | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=050c9e80-1b16-4852-9df7-a8b10138f6e6) | [<i class="fa fa-question"></i>](https://goo.gl/forms/NeZsmZuWsFnj7dYS2) |
 | 4/2  | Recommender systems | [<i class="fa fa-file-pdf-o"></i>](/notes/recommender/recommender_systems.pdf) | [<i class="fa fa-file-text-o"></i>](/notes/recommender) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d201afa4-ba5d-4e47-b822-a8b601383dab)| [<i class="fa fa-question"></i>](https://goo.gl/forms/xtQMdymgD85O9vtu2)|   
 | 4/4  | Anomaly detection | [<i class="fa fa-file-pdf-o"></i>](/notes/anomaly_detection/anomaly_detection.pdf)  | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=94549858-3ff6-4910-8364-a8b80138f8b5) | [<i class="fa fa-question"></i>](https://goo.gl/forms/zZ8Yo8QUm8Ic0pZw1) |
-| 4/9  | Decision trees, interpretable models | [<i class="fa fa-file-pdf-o"></i>](/notes/decision_trees/decision_trees.pdf) | | | |
-| 4/11 | Deep learning || | | |
+| 4/9  | Decision trees, interpretable models | [<i class="fa fa-file-pdf-o"></i>](/notes/decision_trees/decision_trees.pdf) | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=528b2d49-7497-479a-877f-a8bd0139747f) | [<i class="fa fa-question"></i>](https://goo.gl/forms/HTjrDQTef7BV8TAC2) |
+| 4/11 | Deep learning | [<i class="fa fa-file-pdf-o"></i>](/notes/deep_learning/deep_learning.pdf)  | | | |
 | | **Additional topics**  || | | |
 | 4/16 | Probabilistic modeling || | | |
 | 4/18 | Big data and MapReduce methods || | | |

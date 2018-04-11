@@ -1,0 +1,871 @@
+Position,Track Name,Artist,Streams,URL,Date,Region,danceability,energy,speechiness,tempo,valence,acousticness,Artist Popularity,Label
+1.0,Chantaje,Shakira,253019.0,https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg,2017-01-01,ar,0.852,0.773,0.0776,102.034,0.907,0.187,86.0,1
+2.0,Vente Pa' Ca,Ricky Martin,223988.0,https://open.spotify.com/track/7DM4BPaS7uofFul3ywMe46,2017-01-01,ar,0.6629999999999999,0.92,0.226,99.935,0.5329999999999999,0.0043100000000000005,77.0,1
+3.0,Reggaetón Lento (Bailemos),CNCO,210943.0,https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo,2017-01-01,ar,0.7609999999999999,0.838,0.0502,93.974,0.71,0.4,81.0,1
+4.0,Safari,J Balvin,173865.0,https://open.spotify.com/track/6rQSrBHf7HlZjtcMZ4S4bO,2017-01-01,ar,0.508,0.687,0.326,180.044,0.555,0.551,94.0,1
+5.0,Shaky Shaky,Daddy Yankee,153956.0,https://open.spotify.com/track/58IL315gMSTD37DOZPJ2hf,2017-01-01,ar,0.899,0.626,0.292,88.007,0.873,0.076,92.0,1
+6.0,Traicionera,Sebastian Yatra,151140.0,https://open.spotify.com/track/5J1c3M4EldCfNxXwrwt8mT,2017-01-01,ar,0.7759999999999999,0.669,0.0638,91.012,0.6609999999999999,0.142,85.0,1
+7.0,Cuando Se Pone a Bailar,Rombai,148369.0,https://open.spotify.com/track/1MpKZi1zTXpERKwxmOu1PH,2017-01-01,ar,0.588,0.682,0.173,205.643,0.937,0.0851,67.0,1
+8.0,Otra Vez (feat. J Balvin),Zion & Lennox,143004.0,https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq,2017-01-01,ar,0.8320000000000001,0.772,0.1,96.016,0.7040000000000001,0.0559,82.0,1
+9.0,La Bicicleta,Carlos Vives,126389.0,https://open.spotify.com/track/0sXvAOmXgjR2QUqLK1MltU,2017-01-01,ar,0.736,0.964,0.129,179.935,0.953,0.198,80.0,1
+10.0,Dile Que Tu Me Quieres,Ozuna,112012.0,https://open.spotify.com/track/20ZAJdsKB5IGbGj4ilRt2o,2017-01-01,ar,0.721,0.687,0.0782,175.91400000000004,0.825,0.0998,95.0,1
+11.0,Andas En Mi Cabeza,Chino & Nacho,110395.0,https://open.spotify.com/track/5mey7CLLuFToM2P68Qu1gF,2017-01-01,ar,0.68,0.954,0.119,104.029,0.521,0.0244,69.0,1
+12.0,Desde Esa Noche,Thalía,104592.0,https://open.spotify.com/track/1pWYnQIlqxTh5bxuPmTG4E,2017-01-01,ar,0.78,0.929,0.0532,95.012,0.8370000000000001,0.171,70.0,1
+13.0,Borro Cassette,Maluma,101535.0,https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN,2017-01-01,ar,0.73,0.701,0.106,175.95,0.785,0.132,89.0,1
+14.0,Gyal You A Party Animal - Remix,Charly Black,99722.0,https://open.spotify.com/track/1AkTW13ysu0AJrwuM6UY0I,2017-01-01,ar,0.723,0.889,0.0939,101.032,0.701,0.0673,69.0,1
+15.0,Me Llamas (feat. Maluma) - Remix,Piso 21,95010.0,https://open.spotify.com/track/5hEM0JchdVzQ5PwvSfITeX,2017-01-01,ar,0.76,0.838,0.0529,93.05,0.745,0.547,82.0,1
+16.0,La Bicicleta - Remix,Carlos Vives,92723.0,https://open.spotify.com/track/7IRuf7FrdQvOGs0g9mSNGr,2017-01-01,ar,0.598,0.917,0.159,180.049,0.575,0.117,80.0,1
+17.0,DUELE EL CORAZON,Enrique Iglesias,91325.0,https://open.spotify.com/track/6YZdkObH88npeKrrkb8Ggf,2017-01-01,ar,0.7240000000000001,0.904,0.0966,90.999,0.846,0.0786,84.0,1
+18.0,Let Me Love You,DJ Snake,87926.0,https://open.spotify.com/track/4pdPtRcBmOSQDlJ3Fk945m,2017-01-01,ar,0.476,0.718,0.0576,199.864,0.142,0.0784,82.0,1
+19.0,La Noche No Es para Dormir,Mano Arriba,87033.0,https://open.spotify.com/track/3gEebOzxHpEwElicl1XBy0,2017-01-01,ar,0.5489999999999999,0.7979999999999999,0.0705,100.054,0.905,0.126,57.0,1
+20.0,Vacaciones,Wisin,86103.0,https://open.spotify.com/track/3dQDid3IUNhZy1OehIfYfE,2017-01-01,ar,0.772,0.909,0.166,96.031,0.6940000000000001,0.256,89.0,1
+21.0,Rockabye (feat. Sean Paul & Anne-Marie),Clean Bandit,76123.0,https://open.spotify.com/track/5knuzwU65gJK7IF5yJsuaW,2017-01-01,ar,0.72,0.763,0.0523,101.965,0.742,0.406,85.0,1
+22.0,Carnavalintro,CHANO,71963.0,https://open.spotify.com/track/0tGAPnTFwRJA6FZgYZ0BAe,2017-01-01,ar,0.608,0.8590000000000001,0.185,190.065,0.8,0.115,35.0,1
+23.0,Ay Mi Dios,IAmChino,71892.0,https://open.spotify.com/track/6stYbAJgTszHAHZMPxWWCY,2017-01-01,ar,0.7609999999999999,0.8290000000000001,0.0681,92.033,0.813,0.16699999999999998,63.0,1
+24.0,One Dance,Drake,71498.0,https://open.spotify.com/track/1xznGGDReH1oQq0xzbwXa3,2017-01-01,ar,0.7909999999999999,0.619,0.0532,103.989,0.371,0.00784,100.0,1
+25.0,My Way,Calvin Harris,70795.0,https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm,2017-01-01,ar,0.8190000000000001,0.913,0.0427,119.989,0.536,0.0935,88.0,1
+26.0,Cold Water (feat. Justin Bieber & MØ),Major Lazer,70260.0,https://open.spotify.com/track/6DNtNfH8hXkqOX1sjqmI7p,2017-01-01,ar,0.608,0.7979999999999999,0.0432,92.943,0.501,0.0736,85.0,1
+27.0,La Gozadera,Gente De Zona,70028.0,https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9,2017-01-01,ar,0.616,0.989,0.0483,95.036,0.902,0.166,79.0,1
+28.0,Llamame Mas Temprano,Mano Arriba,69382.0,https://open.spotify.com/track/5aHJug2wnupoGfgfxRudsk,2017-01-01,ar,0.828,0.8490000000000001,0.0749,100.014,0.966,0.162,57.0,1
+29.0,Starboy,The Weeknd,65518.0,https://open.spotify.com/track/5aAx2yezTd8zXrkmtKl66Z,2017-01-01,ar,0.6809999999999999,0.594,0.282,186.054,0.535,0.165,93.0,1
+30.0,Manicomio,Cosculluela,64998.0,https://open.spotify.com/track/3n58u3LOFw8mITLvfPvQBz,2017-01-01,ar,0.7440000000000001,0.754,0.24,180.03900000000004,0.841,0.0213,77.0,1
+31.0,Cuatro Babys,Maluma,64907.0,https://open.spotify.com/track/0JoHqmlqE0W0i9prt6kcHR,2017-01-01,ar,0.772,0.547,0.0541,130.099,0.0957,0.0983,89.0,1
+32.0,Don't Wanna Know,Maroon 5,61714.0,https://open.spotify.com/track/5MFzQMkrl1FOOng9tq6R9r,2017-01-01,ar,0.7829999999999999,0.623,0.08,100.048,0.447,0.338,89.0,1
+33.0,Sin Contrato - Remix,Maluma,59903.0,https://open.spotify.com/track/2xNZeeqmwMPVKnD7FSQfgt,2017-01-01,ar,0.733,0.907,0.158,96.053,0.6609999999999999,0.0264,89.0,1
+34.0,24K Magic,Bruno Mars,58801.0,https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P,2017-01-01,ar,0.818,0.8029999999999999,0.0797,106.97,0.632,0.034,92.0,1
+35.0,"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",Justin Timberlake,56170.0,https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc,2017-01-01,ar,0.667,0.83,0.0749,113.03,0.701,0.0123,89.0,1
+36.0,Fuego,Juanes,55902.0,https://open.spotify.com/track/0mwPE0lPOgnWf2bo14xedJ,2017-01-01,ar,0.7290000000000001,0.667,0.0938,94.952,0.913,0.0461,79.0,1
+37.0,Bobo,J Balvin,55360.0,https://open.spotify.com/track/7AtlMCIauSQZqiXSlbBPW6,2017-01-01,ar,0.7290000000000001,0.888,0.122,177.908,0.8,0.117,94.0,1
+38.0,In the Name of Love,Martin Garrix,54980.0,https://open.spotify.com/track/04DwTuZ2VBdJCCC5TROn7L,2017-01-01,ar,0.49,0.485,0.0406,133.889,0.196,0.0592,87.0,1
+39.0,Tu Ritmo,Los Bonnitos,54081.0,https://open.spotify.com/track/0BFgCEE7ozbyB1PpLpLyhM,2017-01-01,ar,0.785,0.764,0.0382,105.979,0.972,0.135,52.0,1
+40.0,I Took A Pill In Ibiza - Seeb Remix,Mike Posner,53270.0,https://open.spotify.com/track/17Fd6Yb7mSbinKG8LoWfFl,2017-01-01,ar,0.6629999999999999,0.713,0.112,101.965,0.69,0.0353,75.0,1
+41.0,Ya Me Enteré (feat. Nicky Jam) - Urban Version,Reik,52907.0,https://open.spotify.com/track/2SSYqDX8KTgy01NlqtUo0F,2017-01-01,ar,0.768,0.742,0.0443,114.679,0.797,0.234,81.0,1
+42.0,No Quiere Enamorarse (Remix) [feat. Daddy Yankee],Ozuna,52670.0,https://open.spotify.com/track/4vlbjBSMqycZk6t4HVRpnC,2017-01-01,ar,0.765,0.8140000000000001,0.0666,164.07299999999995,0.818,0.14400000000000002,95.0,1
+43.0,Te Quiero Pa´Mi,Don Omar,51352.0,https://open.spotify.com/track/3BY2mafsbsoKGqS380Xnuz,2017-01-01,ar,0.7609999999999999,0.82,0.0623,88.99700000000001,0.619,0.125,79.0,1
+44.0,Sin Contrato,Maluma,51115.0,https://open.spotify.com/track/09S64DUkxIX9EwIaULu6yN,2017-01-01,ar,0.782,0.7909999999999999,0.102,96.022,0.8959999999999999,0.14400000000000002,89.0,1
+45.0,Picky,Joey Montana,51113.0,https://open.spotify.com/track/4tPL9PeVZY4c0jUPtSD5nx,2017-01-01,ar,0.809,0.742,0.0598,93.233,0.785,0.146,75.0,1
+46.0,Work,Rihanna,50655.0,https://open.spotify.com/track/14WWzenpaEgQZlqPq2nk4v,2017-01-01,ar,0.725,0.534,0.0946,91.974,0.5579999999999999,0.0752,92.0,1
+47.0,Noche Loca,Marama,49100.0,https://open.spotify.com/track/0gzcET27nREY6aD8LJU9wD,2017-01-01,ar,0.752,0.753,0.0661,112.094,0.911,0.104,65.0,1
+48.0,Don't Let Me Down,The Chainsmokers,48767.0,https://open.spotify.com/track/0QsvXIfqM0zZoerQfsI9lm,2017-01-01,ar,0.542,0.8590000000000001,0.197,159.797,0.403,0.16,90.0,1
+49.0,Hasta el Amanecer,Nicky Jam,47672.0,https://open.spotify.com/track/5Fim1gaXBgsiFfsQAfQSDS,2017-01-01,ar,0.8320000000000001,0.608,0.0385,94.013,0.589,0.282,89.0,1
+50.0,Le Hace Falta un Beso,Agapornis,45251.0,https://open.spotify.com/track/300xUYXWhFA6Q1sbNvVItP,2017-01-01,ar,0.753,0.8109999999999999,0.0697,106.014,0.961,0.117,58.0,1
+51.0,Cake By The Ocean,DNCE,44524.0,https://open.spotify.com/track/2aFiaMXmWsM3Vj72F9ksBl,2017-01-01,ar,0.774,0.764,0.0518,118.997,0.912,0.156,78.0,1
+52.0,Chillax,Farruko,44495.0,https://open.spotify.com/track/1lxswgIpzV6HhENRvkflES,2017-01-01,ar,0.8270000000000001,0.6459999999999999,0.0766,92.057,0.512,0.0724,87.0,1
+53.0,Loquita,Marama,43894.0,https://open.spotify.com/track/2xjcDF21U2ccgE2LEeiMbf,2017-01-01,ar,0.698,0.6940000000000001,0.0419,144.018,0.926,0.284,65.0,1
+54.0,Te Vas,Ozuna,43704.0,https://open.spotify.com/track/2twUPIYOTqVivev47pf7bU,2017-01-01,ar,0.7959999999999999,0.29100000000000004,0.0403,176.03,0.923,0.836,95.0,1
+55.0,Closer,The Chainsmokers,43403.0,https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw,2017-01-01,ar,0.748,0.524,0.0338,95.01,0.6609999999999999,0.414,90.0,1
+56.0,Locuras contigo,Rombai,43260.0,https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg,2017-01-01,ar,0.723,0.774,0.0403,109.1,0.7709999999999999,0.179,67.0,1
+57.0,Treat You Better,Shawn Mendes,42815.0,https://open.spotify.com/track/4Hf7WnR761jpxPr5D46Bcd,2017-01-01,ar,0.624,0.8029999999999999,0.246,166.018,0.821,0.123,86.0,1
+58.0,Era Tranquila,Marama,42785.0,https://open.spotify.com/track/5OqaLWo9WbNPWDilrwNwzt,2017-01-01,ar,0.775,0.882,0.04,110.025,0.845,0.0922,65.0,1
+59.0,Baila,Agapornis,42127.0,https://open.spotify.com/track/3iS4VBJ3Bg1HyL3e6WNpgi,2017-01-01,ar,0.7959999999999999,0.838,0.0574,106.007,0.96,0.244,58.0,1
+60.0,Nena,Marama,41737.0,https://open.spotify.com/track/347TStOSY6IOqMB84Rpxwk,2017-01-01,ar,0.75,0.716,0.0336,110.068,0.8809999999999999,0.11,65.0,1
+61.0,Deja De Llorar,El Polaco,40065.0,https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe,2017-01-01,ar,0.75,0.943,0.228,90.095,0.779,0.279,55.0,1
+62.0,El Perdedor,Maluma,39691.0,https://open.spotify.com/track/1iEwyiSLAunPR6uouANE0O,2017-01-01,ar,0.7020000000000001,0.73,0.099,173.967,0.879,0.425,89.0,1
+63.0,Traicionera - Remix,Sebastian Yatra,37518.0,https://open.spotify.com/track/2webQDZmtGioeu3zUUi9We,2017-01-01,ar,0.7659999999999999,0.747,0.0619,91.06,0.856,0.0293,85.0,1
+64.0,Yo te propongo,Rombai,36808.0,https://open.spotify.com/track/0YFoSD5VhoVrRbrnFERpVM,2017-01-01,ar,0.851,0.867,0.0589,112.178,0.77,0.0514,67.0,1
+65.0,El Perdedor - The Remix,Maluma,36510.0,https://open.spotify.com/track/4QsPTKvdpgkA7mBAvclZTa,2017-01-01,ar,0.7509999999999999,0.742,0.12,173.94099999999997,0.85,0.3670000000000001,89.0,1
+66.0,Lo Intentamos,Marama,35965.0,https://open.spotify.com/track/4Kzk0koKwzCMiIx4rAqCZp,2017-01-01,ar,0.778,0.86,0.0672,112.093,0.7070000000000001,0.16899999999999998,65.0,1
+67.0,Hasta la luna,#TocoParaVos,35806.0,https://open.spotify.com/track/1A3yLIqelu1D7MCtw06Cu7,2017-01-01,ar,0.8370000000000001,0.605,0.0798,107.998,0.723,0.0124,55.0,1
+68.0,Comerte a Besos (feat. Cande Buasso),Pijama Party,34879.0,https://open.spotify.com/track/4UHZMWgKDjJ1zS0t6f6qPv,2017-01-01,ar,0.8079999999999999,0.59,0.0455,110.029,0.745,0.0319,54.0,1
+69.0,La Mordidita,Ricky Martin,34638.0,https://open.spotify.com/track/00i0O74dXdaKKdCrqHnfXm,2017-01-01,ar,0.725,0.903,0.0658,142.006,0.946,0.0344,77.0,1
+70.0,Ginza,J Balvin,34542.0,https://open.spotify.com/track/5N8nNuTmIzkZOfcxXlygUw,2017-01-01,ar,0.763,0.812,0.0792,101.95,0.828,0.187,94.0,1
+71.0,Call On Me - Ryan Riback Extended Remix,Starley,33892.0,https://open.spotify.com/track/78rIJddV4X0HkNAInEcYde,2017-01-01,ar,0.6759999999999999,0.843,0.0367,105.003,0.718,0.0623,70.0,1
+72.0,El Perdón,Nicky Jam,33188.0,https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr,2017-01-01,ar,0.628,0.69,0.0511,179.91099999999997,0.662,0.446,89.0,1
+73.0,Pasarla Bien,Marama,33111.0,https://open.spotify.com/track/0ZzVPCGdkpKcxAzMNDD5UZ,2017-01-01,ar,0.652,0.733,0.0906,108.062,0.754,0.0456,65.0,1
+74.0,No Llores,LOAN,32778.0,https://open.spotify.com/track/07GOnZWIiHWjLzUsaTv5yO,2017-01-01,ar,0.609,0.703,0.0939,209.86,0.715,0.0662,32.0,1
+75.0,Would I Lie To You - Radio Edit,David Guetta,32198.0,https://open.spotify.com/track/4PdJSsESm34djLfBde9Pr2,2017-01-01,ar,0.6709999999999999,0.826,0.309,123.986,0.774,0.00718,89.0,1
+76.0,I Feel It Coming,The Weeknd,30754.0,https://open.spotify.com/track/5GXAXm5YOmYT0kL5jHvYBt,2017-01-01,ar,0.768,0.813,0.128,92.994,0.579,0.4270000000000001,93.0,1
+77.0,Baila Conmigo,Juan Magán,30623.0,https://open.spotify.com/track/772io14jrMTxGJbijtDccQ,2017-01-01,ar,0.875,0.7090000000000001,0.0923,99.948,0.7929999999999999,0.0866,82.0,1
+78.0,Una Cerveza,Rafaga,30368.0,https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII,2017-01-01,ar,0.747,0.907,0.0515,98.005,0.757,0.316,62.0,1
+79.0,Me Ama Me Odia,Ozuna,29979.0,https://open.spotify.com/track/6041gM9Th1ViQcnzkIxnuv,2017-01-01,ar,0.737,0.6990000000000001,0.15,135.998,0.42,0.222,95.0,1
+80.0,Just Hold On,Steve Aoki,29609.0,https://open.spotify.com/track/3EmmCZoqpWOTY1g2GBwJoR,2017-01-01,ar,0.647,0.932,0.0824,114.991,0.374,0.00383,80.0,1
+81.0,Side To Side,Ariana Grande,29228.0,https://open.spotify.com/track/4pLwZjInHj3SimIyN9SnOz,2017-01-01,ar,0.648,0.738,0.247,159.145,0.603,0.0408,86.0,1
+82.0,Bailame Despacio,Xantos,28781.0,https://open.spotify.com/track/4OaTpLJIa2harufGxfOPUu,2017-01-01,ar,0.688,0.7190000000000001,0.0555,88.015,0.605,0.163,63.0,1
+83.0,Todo Comenzó Bailando,Marama,28728.0,https://open.spotify.com/track/2rrWhFrcSZcZQ2SDKPGKQ6,2017-01-01,ar,0.39,0.6409999999999999,0.0663,48.754,0.931,0.0738,65.0,1
+84.0,Cheap Thrills Remix,Sia,28288.0,https://open.spotify.com/track/59iNA6gwthoTJ6IgpBGGHW,2017-01-01,ar,0.534,0.7490000000000001,0.0749,179.975,0.6709999999999999,0.0776,88.0,1
+85.0,Se Pone Loca,CantoParaBailar,27694.0,https://open.spotify.com/track/0FVuUna31PTRmWGLs8W1o4,2017-01-01,ar,0.499,0.879,0.16399999999999998,205.829,0.959,0.158,47.0,1
+86.0,Cheap Thrills,Sia,26885.0,https://open.spotify.com/track/27SdWb2rFzO6GWiYDBTD9j,2017-01-01,ar,0.628,0.698,0.105,89.976,0.732,0.0472,88.0,1
+87.0,Work from Home,Fifth Harmony,26840.0,https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb,2017-01-01,ar,0.8029999999999999,0.585,0.0432,105.017,0.593,0.103,80.0,1
+88.0,We Don't Talk Anymore (feat. Selena Gomez),Charlie Puth,26777.0,https://open.spotify.com/track/68EMU2RD1ECNeOeJ5qAXCV,2017-01-01,ar,0.728,0.563,0.134,100.017,0.35200000000000004,0.621,87.0,1
+89.0,"Diles (feat. Arcangel, Nengo Flow, Dj Luian & Mambo Kings)",Farruko,25622.0,https://open.spotify.com/track/2FrnTVSHjgnEylKGdHRUK1,2017-01-01,ar,0.805,0.5820000000000001,0.0627,117.955,0.307,0.0971,87.0,1
+90.0,Pájaro Cantor,Abel Pintos,25525.0,https://open.spotify.com/track/16rQTTMtbn0ODLyflr0O6Q,2017-01-01,ar,0.611,0.87,0.0347,142.003,0.847,0.115,71.0,1
+91.0,Hasta Que Se Seque el Malecón - Remix,Jacob Forever,24999.0,https://open.spotify.com/track/6sMPwcpYtxm1mlgYbp1B0t,2017-01-01,ar,0.785,0.838,0.0381,100.066,0.765,0.362,67.0,1
+92.0,Amor y dolor,Carlos Baute,24874.0,https://open.spotify.com/track/4efQTJSX6Jca1hHZNi74Zd,2017-01-01,ar,0.7709999999999999,0.825,0.0441,92.009,0.812,0.305,69.0,1
+93.0,Si Te Vas,Agapornis,24819.0,https://open.spotify.com/track/3HoTiqEEY2SmTeq1XGINo3,2017-01-01,ar,0.69,0.706,0.0414,114.824,0.851,0.222,58.0,1
+94.0,Papi Shampu,De La Calle,24369.0,https://open.spotify.com/track/0o221VNm4azkzYYLtxDGgV,2017-01-01,ar,0.629,0.763,0.0926,94.009,0.8859999999999999,0.0831,55.0,1
+95.0,Ruleta Rusa,Kevin Roldan,24358.0,https://open.spotify.com/track/77KHmKnBmVGTjRCeMVXpWH,2017-01-01,ar,0.614,0.58,0.0588,120.092,0.63,0.308,73.0,1
+96.0,Dale Tu Amor,Agapornis,24345.0,https://open.spotify.com/track/3W9HjL7lmbYXL4kQ1kicH3,2017-01-01,ar,0.703,0.848,0.0616,105.981,0.922,0.328,58.0,1
+97.0,Me Reclama,Mambo Kingz,24260.0,https://open.spotify.com/track/4ojwGTehgBRAg52jbFgzJg,2017-01-01,ar,0.755,0.72,0.0826,175.93,0.713,0.348,85.0,1
+98.0,Márchate ahora,Los Totora,24133.0,https://open.spotify.com/track/3voxukrHBXctzxdSbCycey,2017-01-01,ar,0.76,0.775,0.0784,101.946,0.754,0.14800000000000002,56.0,1
+99.0,Bronceado,Marama,24077.0,https://open.spotify.com/track/4smbzhaRt7EYwO73SmFXyR,2017-01-01,ar,0.507,0.732,0.055,142.56799999999996,0.946,0.206,65.0,1
+100.0,Te Vas - Version Cumbia,aLee DJ,23981.0,https://open.spotify.com/track/0j8zA8KrITjLVoAm3H3X6u,2017-01-01,ar,0.6459999999999999,0.784,0.0342,150.165,0.978,0.128,39.0,1
+101.0,Bailando - Spanish Version,Enrique Iglesias,23646.0,https://open.spotify.com/track/32lm3769IRfcnrQV11LO4E,2017-01-01,ar,0.713,0.7829999999999999,0.124,90.937,0.958,0.0467,84.0,1
+102.0,Llegaste tú (feat. Reykon),Sofia Reyes,23181.0,https://open.spotify.com/track/79Bm3DTEYuQsDpUVHbSRsL,2017-01-01,ar,0.698,0.868,0.0855,102.989,0.485,0.259,75.0,1
+103.0,Por Fin Te Encontré,Cali Y El Dandee,23178.0,https://open.spotify.com/track/3GpvoKKWZyTwgbLEM9RmWM,2017-01-01,ar,0.6409999999999999,0.826,0.223,179.988,0.845,0.0536,74.0,1
+104.0,Fuiste,Gilda,23090.0,https://open.spotify.com/track/3jxP1S0xXvPBry3scDZj6h,2017-01-01,ar,0.841,0.902,0.0308,98.044,0.942,0.534,55.0,1
+105.0,No Me Arrepiento de Este Amor,Gilda,23046.0,https://open.spotify.com/track/6Bj9aK0jTMmjUp1y4Z7SVz,2017-01-01,ar,0.7709999999999999,0.852,0.0406,96.067,0.919,0.336,55.0,1
+106.0,Encantadora - Remix,Yandel,22948.0,https://open.spotify.com/track/0EpFfFZpCuqYFzHvxOtrZS,2017-01-01,ar,0.644,0.895,0.0469,169.98,0.887,0.172,87.0,1
+107.0,Si Te Dejas Llevar (feat. Juanka),Ozuna,22878.0,https://open.spotify.com/track/7rDi4fIeHSM3KAUYAKYMMN,2017-01-01,ar,0.745,0.8740000000000001,0.0465,81.98700000000002,0.85,0.097,95.0,1
+108.0,Sola Otra Vez,El Polaco,22560.0,https://open.spotify.com/track/1zwH02KhFWC4wOtiZ1We1g,2017-01-01,ar,0.669,0.902,0.0334,104.971,0.94,0.0454,55.0,1
+109.0,Curiosidad,Rombai,22396.0,https://open.spotify.com/track/4PCVVIrUDldF5r7RXtOB5W,2017-01-01,ar,0.758,0.848,0.057,113.973,0.885,0.0605,67.0,1
+110.0,Te Amo y Odio,Marama,22073.0,https://open.spotify.com/track/5TA9pPL5ATRFcyI9rRBMQ0,2017-01-01,ar,0.715,0.736,0.0347,99.871,0.76,0.277,65.0,1
+111.0,The Greatest,Sia,22060.0,https://open.spotify.com/track/7xHWNBFm6ObGEQPaUxHuKO,2017-01-01,ar,0.6679999999999999,0.725,0.266,191.944,0.7290000000000001,0.0102,88.0,1
+112.0,Ride,Twenty One Pilots,22015.0,https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW,2017-01-01,ar,0.645,0.713,0.0393,74.98899999999998,0.5660000000000001,0.00835,84.0,1
+113.0,Mi Tesoro (feat. Nicky Jam),Zion & Lennox,21803.0,https://open.spotify.com/track/5HABnFSYvl6mTmg8nSdzHa,2017-01-01,ar,0.725,0.711,0.0335,93.003,0.477,0.0821,82.0,1
+114.0,743,Miranda!,21584.0,https://open.spotify.com/track/08WLghN4UZFMGN532uvako,2017-01-01,ar,0.8490000000000001,0.759,0.0304,110.983,0.948,0.0951,79.0,1
+115.0,Dame la Mano,Los Bonnitos,21405.0,https://open.spotify.com/track/2zrcunkMh2pG74NKLQagf7,2017-01-01,ar,0.741,0.907,0.0325,109.973,0.912,0.0901,52.0,1
+116.0,Love Yourself,Justin Bieber,21354.0,https://open.spotify.com/track/3hB5DgAiMAQ4DzYbsMq1IT,2017-01-01,ar,0.609,0.378,0.438,100.418,0.515,0.835,91.0,1
+117.0,Una historia,#TocoParaVos,21108.0,https://open.spotify.com/track/6Ol4gn2vFyn4dckha1fGaN,2017-01-01,ar,0.6829999999999999,0.5920000000000001,0.0419,104.952,0.909,0.098,55.0,1
+118.0,La Llave,Agapornis,20952.0,https://open.spotify.com/track/1v78qANb9b176fgEzR2eaW,2017-01-01,ar,0.825,0.792,0.0666,119.994,0.914,0.0225,58.0,1
+119.0,De Pies a Cabeza,Maná,20942.0,https://open.spotify.com/track/2CkHE54EH44Qj945ynQRw7,2017-01-01,ar,0.695,0.8140000000000001,0.0461,169.988,0.8740000000000001,0.0571,76.0,1
+120.0,Me Estoy Enamorando,Agapornis,20900.0,https://open.spotify.com/track/0mX14Kpe4VTYmkqRgGslT5,2017-01-01,ar,0.727,0.906,0.0393,106.992,0.818,0.0687,58.0,1
+121.0,Ella,Agapornis,20643.0,https://open.spotify.com/track/6LxbbZYulsV3tCZvKpJgSh,2017-01-01,ar,0.7090000000000001,0.79,0.0511,97.105,0.7809999999999999,0.569,58.0,1
+122.0,This Is What You Came For,Calvin Harris,20349.0,https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y,2017-01-01,ar,0.63,0.928,0.0331,123.963,0.465,0.199,88.0,1
+123.0,Andas En Mi Cabeza - Remix,Chino & Nacho,20121.0,https://open.spotify.com/track/733ybNEEEXHYxfk8sK6MRO,2017-01-01,ar,0.72,0.933,0.0904,104.099,0.581,0.205,69.0,1
+124.0,This Girl (Kungs Vs. Cookin' On 3 Burners) - Kungs Vs. Cookin' On 3 Burners,Kungs,19920.0,https://open.spotify.com/track/0tICYNayWWhH9GPeFrfjfD,2017-01-01,ar,0.7929999999999999,0.7290000000000001,0.0394,121.972,0.488,0.08,71.0,1
+125.0,Yo Tomo Licor,Amar Azul,19889.0,https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU,2017-01-01,ar,0.767,0.901,0.0862,94.023,0.7509999999999999,0.319,59.0,1
+126.0,Hoy,Agapornis,19864.0,https://open.spotify.com/track/11aJTEmPwKKoKRTpsudE1H,2017-01-01,ar,0.7090000000000001,0.8190000000000001,0.0559,104.969,0.897,0.127,58.0,1
+127.0,Sorry,Justin Bieber,19775.0,https://open.spotify.com/track/69bp2EbF7Q2rqc5N3ylezZ,2017-01-01,ar,0.654,0.76,0.045,99.945,0.41,0.0797,91.0,1
+128.0,No Te Vayas,Marama,19753.0,https://open.spotify.com/track/6lip7aGS7oXloGk1XFCqWH,2017-01-01,ar,0.69,0.81,0.042,142.351,0.8909999999999999,0.211,65.0,1
+129.0,Un Beso,Danny Paz,19697.0,https://open.spotify.com/track/0mDYDLR1KToBR4plxAj4O4,2017-01-01,ar,0.773,0.85,0.18600000000000005,91.8,0.908,0.185,38.0,1
+130.0,Hoy Acá en el Baile (Cara de Gitana) - Versión el Pepo,El Pepo,19577.0,https://open.spotify.com/track/74onbSJ49kgKFGrwUwY9oC,2017-01-01,ar,0.7659999999999999,0.5479999999999999,0.0404,95.983,0.7909999999999999,0.0333,49.0,1
+131.0,Fanática Sensual,Plan B,19523.0,https://open.spotify.com/track/1BygxKyZjq2xjQiFMkSFGp,2017-01-01,ar,0.7929999999999999,0.853,0.0477,164.02200000000005,0.906,0.0937,72.0,1
+132.0,Trumpets,Sak Noel & Salvi,19427.0,https://open.spotify.com/track/5dH7o4TP3HYLvCjo4QAhhv,2017-01-01,ar,0.6759999999999999,0.708,0.225,100.025,0.435,0.00251,75.73218390804598,1
+133.0,"Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]",Anuel Aa,19335.0,https://open.spotify.com/track/5q2JbCNi4FcnglgPfxcV65,2017-01-01,ar,0.639,0.8690000000000001,0.147,169.801,0.767,0.27,78.0,1
+134.0,Heathens,Twenty One Pilots,19334.0,https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr,2017-01-01,ar,0.732,0.396,0.0286,90.024,0.5479999999999999,0.0841,84.0,1
+135.0,Ocho Cuarenta,Rodrigo,19319.0,https://open.spotify.com/track/6jDx3MNG0yJdrvEBZohKBE,2017-01-01,ar,0.614,0.7020000000000001,0.0316,147.98,0.851,0.0759,59.0,1
+136.0,El Taxi,Pitbull,19272.0,https://open.spotify.com/track/501PoxE6Qti2ekECimQeXK,2017-01-01,ar,0.8690000000000001,0.691,0.192,95.019,0.875,0.12,84.0,1
+137.0,The Mack,Nevada,19192.0,https://open.spotify.com/track/7aV2mflaASUmGhCErm7kBO,2017-01-01,ar,0.7070000000000001,0.883,0.0602,106.031,0.541,0.0707,60.0,1
+138.0,Que Bonito,Banda XXI,19093.0,https://open.spotify.com/track/3XmpHN0jwCV1unk8ygs1Ku,2017-01-01,ar,0.778,0.813,0.0304,140.031,0.962,0.371,57.0,1
+139.0,El Chisme,Reykon,18931.0,https://open.spotify.com/track/4VXejnj5WgM6H72ct2fSgQ,2017-01-01,ar,0.723,0.929,0.106,92.964,0.812,0.119,70.0,1
+140.0,Hymn For The Weekend - Seeb Remix,Coldplay,18823.0,https://open.spotify.com/track/1OAiWI2oPmglaOiv9fdioU,2017-01-01,ar,0.565,0.8490000000000001,0.0517,102.034,0.4270000000000001,0.00868,89.0,1
+141.0,Acércate (feat. Nicky Jam) - Remix,De La Ghetto,18810.0,https://open.spotify.com/track/35OC6rMxa8lJi8eDiUVShS,2017-01-01,ar,0.745,0.875,0.0444,88.007,0.728,0.0659,81.0,1
+142.0,Si Ella Quisiera,Justin Quiles,18769.0,https://open.spotify.com/track/7cIkMEpDhT7Vpw1FHOQqKC,2017-01-01,ar,0.77,0.612,0.086,90.02,0.63,0.0789,74.0,1
+143.0,El Bombón,Los Palmeras,18741.0,https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6,2017-01-01,ar,0.7390000000000001,0.768,0.0603,164.137,0.867,0.199,59.0,1
+144.0,Hello,Karol G,18555.0,https://open.spotify.com/track/1PGENMzwUy16wlpZiuLS65,2017-01-01,ar,0.8059999999999999,0.82,0.0617,94.985,0.845,0.449,79.0,1
+145.0,Cuando Me Enamoro,Banda XXI,18527.0,https://open.spotify.com/track/7IUFDlflcQjHNxg8H0us34,2017-01-01,ar,0.648,0.833,0.0301,141.918,0.91,0.104,57.0,1
+146.0,Yo tambien,Rombai,18433.0,https://open.spotify.com/track/1EK5Sm4E09P1lcdyKsygoV,2017-01-01,ar,0.5489999999999999,0.645,0.14800000000000002,200.174,0.909,0.0959,67.0,1
+147.0,Soy Cordobes,Rodrigo,18428.0,https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS,2017-01-01,ar,0.51,0.942,0.0939,158.372,0.818,0.155,59.0,1
+148.0,Linda,Marka Akme,18284.0,https://open.spotify.com/track/5L4iwTXzuuWcV0m0sEDrgj,2017-01-01,ar,0.812,0.7509999999999999,0.0473,87.985,0.904,0.139,47.0,1
+149.0,Nunca me Faltes,Antonio Rios,18253.0,https://open.spotify.com/track/3YCcsuRdJArE4rsAG5V3sW,2017-01-01,ar,0.767,0.7020000000000001,0.0316,104.619,0.8690000000000001,0.157,47.0,1
+150.0,Segundas Intenciones,Rombai,18247.0,https://open.spotify.com/track/1y2jGfgALBBNZL6tXPI2Ke,2017-01-01,ar,0.802,0.674,0.0562,110.02,0.83,0.152,67.0,1
+151.0,La Ventanita,Grupo Sombras,18237.0,https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2,2017-01-01,ar,0.662,0.813,0.0425,100.855,0.96,0.278,47.0,1
+152.0,Chica Real,El Villano,18209.0,https://open.spotify.com/track/0KrNNpgu7qGQPNQAQBLGwX,2017-01-01,ar,0.6609999999999999,0.907,0.203,94.069,0.87,0.0799,53.0,1
+153.0,Pierde Los Modales,J Balvin,18126.0,https://open.spotify.com/track/4r3itKA9HEJo48RG65OEnt,2017-01-01,ar,0.769,0.764,0.175,89.991,0.5920000000000001,0.194,94.0,1
+154.0,Una Cita - Remix,Alkilados,18103.0,https://open.spotify.com/track/6v3QCw4ca5cR4VkzpG0PHy,2017-01-01,ar,0.78,0.845,0.0724,95.981,0.6940000000000001,0.195,64.0,1
+155.0,Corazon De Seda (feat. Ozuna),Klasico,18065.0,https://open.spotify.com/track/0uRHot8ml8U8cYVwwzMwNT,2017-01-01,ar,0.841,0.6940000000000001,0.0937,90.03399999999998,0.83,0.0759,56.0,1
+156.0,Olvídala,Banda XXI,17636.0,https://open.spotify.com/track/1cJNFxiyjh8Ooqg5U4752G,2017-01-01,ar,0.736,0.73,0.0537,150.113,0.888,0.614,57.0,1
+157.0,La Cumbita,Tambó Tambó,17626.0,https://open.spotify.com/track/4De1d3fqH4Pnb6K20sRVBa,2017-01-01,ar,0.84,0.65,0.0678,92.698,0.747,0.112,47.0,1
+158.0,Si Me Dices Que Si (feat. Nicky Jam),Cosculluela,17442.0,https://open.spotify.com/track/3noN1TxpjbjjmKqssghvg8,2017-01-01,ar,0.67,0.679,0.118,172.06900000000005,0.7979999999999999,0.189,77.0,1
+159.0,Otra Copa (feat. Farruko),Justin Quiles,17336.0,https://open.spotify.com/track/5KX51uLJYo1S1MmITG7lHD,2017-01-01,ar,0.754,0.618,0.13,87.98299999999998,0.477,0.213,74.0,1
+160.0,Hola,Joey Montana,17168.0,https://open.spotify.com/track/03h8eaVgdJJ14cCKiO4ONX,2017-01-01,ar,0.639,0.828,0.0775,178.033,0.952,0.0545,75.0,1
+161.0,No Me Olvides,La Beriso,17000.0,https://open.spotify.com/track/7LDUiraavMZ6mb8hK3mXkj,2017-01-01,ar,0.402,0.767,0.041,155.933,0.328,0.0513,66.0,1
+162.0,Adios,Rombai,16874.0,https://open.spotify.com/track/6cwrN0Go9VBDFj4n7riKPU,2017-01-01,ar,0.7240000000000001,0.654,0.0985,139.451,0.708,0.16399999999999998,67.0,1
+163.0,Acá Estoy,El Reja,16865.0,https://open.spotify.com/track/5LRSzLW5nw0j1tglHlNOHp,2017-01-01,ar,0.731,0.863,0.0377,107.992,0.963,0.125,51.0,1
+164.0,Stressed Out,Twenty One Pilots,16845.0,https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn,2017-01-01,ar,0.7340000000000001,0.637,0.141,169.977,0.648,0.0462,84.0,1
+165.0,Si Ella Quisiera - Remix,Justin Quiles,16789.0,https://open.spotify.com/track/0A2h9QjoPdbVwa9LFiijqM,2017-01-01,ar,0.777,0.687,0.0722,89.99799999999998,0.6920000000000001,0.0385,74.0,1
+166.0,Amores Como el Nuestro,Los Charros,16760.0,https://open.spotify.com/track/6z6aUQtuqZzq2tbyVwHO6n,2017-01-01,ar,0.614,0.8759999999999999,0.0299,96.326,0.7879999999999999,0.385,51.0,1
+167.0,Taste Of Love,Maxi Trusso,16734.0,https://open.spotify.com/track/0Xry4aZncthPqpSjFhgsHl,2017-01-01,ar,0.6809999999999999,0.7929999999999999,0.0922,125.03,0.569,0.0154,46.0,1
+168.0,Que Raro,Feid,16670.0,https://open.spotify.com/track/3kg9JvQe6QJFKUQCN1oIQz,2017-01-01,ar,0.743,0.7709999999999999,0.319,171.935,0.775,0.396,61.0,1
+169.0,Te Busco (feat. Nicky Jam),Cosculluela,16642.0,https://open.spotify.com/track/6wHm04cn5HxK6pE2ITEdUS,2017-01-01,ar,0.743,0.773,0.109,88.95,0.794,0.202,77.0,1
+170.0,I Will Be There,Agapornis,16424.0,https://open.spotify.com/track/60LbXuVjG11t0cIendTtHh,2017-01-01,ar,0.7,0.809,0.0301,104.032,0.691,0.0277,58.0,1
+171.0,Una Noche Contigo,Marama,16390.0,https://open.spotify.com/track/5wWwIYTCgkiYfR5ZVZT3Go,2017-01-01,ar,0.7490000000000001,0.7140000000000001,0.0328,109.905,0.962,0.382,65.0,1
+173.0,Como Le Digo,Rodrigo,16260.0,https://open.spotify.com/track/4nH1lpWkgzQPpTYPPjWKaI,2017-01-01,ar,0.493,0.939,0.0609,160.082,0.765,0.0755,59.0,1
+175.0,Light It Up (feat. Nyla & Fuse ODG) - Remix,Major Lazer,16184.0,https://open.spotify.com/track/0L7loeTIg6akW84aEQZpCT,2017-01-01,ar,0.746,0.877,0.0666,107.985,0.7509999999999999,0.0375,85.0,1
+176.0,"La Ocasion (feat. Arcangel, Ozuna & Anuel Aa)",De La Ghetto,16131.0,https://open.spotify.com/track/498YWgZPJWIA4lphXtCNma,2017-01-01,ar,0.752,0.596,0.136,134.02,0.21600000000000005,0.268,81.0,1
+177.0,Cuando Pase El Temblor - Remasterizado 2007,Soda Stereo,16070.0,https://open.spotify.com/track/3uMYq07Kj5m564OQwdSCrD,2017-01-01,ar,0.652,0.607,0.0368,94.089,0.72,0.0314,76.0,1
+178.0,Jamas,RC BAND,16013.0,https://open.spotify.com/track/3bdgsOwSmdtKfo0K02BT8P,2017-01-01,ar,0.7090000000000001,0.637,0.0434,98.055,0.899,0.443,40.0,1
+179.0,Deja Que Te Bese,Alejandro Sanz,15920.0,https://open.spotify.com/track/0s6yB0ZFl1LvYHAnGhXFga,2017-01-01,ar,0.703,0.915,0.0586,104.876,0.54,0.146,77.0,1
+180.0,Time of Our Lives,Pitbull,15837.0,https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r,2017-01-01,ar,0.72,0.802,0.0582,124.043,0.723,0.0921,84.0,1
+181.0,Gyal You A Party Animal,Charly Black,15804.0,https://open.spotify.com/track/1mSzZKMIPZIkn3jFV7v62b,2017-01-01,ar,0.599,0.838,0.0996,128.85399999999998,0.847,0.0272,69.0,1
+182.0,Perfect Strangers,Jonas Blue,15747.0,https://open.spotify.com/track/5bZtRlMBU76vHuDOb1GM5u,2017-01-01,ar,0.736,0.835,0.0472,117.958,0.69,0.373,80.0,1
+183.0,Ego,Lali,15701.0,https://open.spotify.com/track/27xe7DYBq1xD5LIfkIrpAj,2017-01-01,ar,0.556,0.7559999999999999,0.0326,89.95700000000002,0.411,0.192,69.0,1
+184.0,Se Parece Más A Ti,Jambao,15600.0,https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf,2017-01-01,ar,0.6859999999999999,0.7759999999999999,0.0837,179.915,0.94,0.16,49.0,1
+185.0,Persiana Americana,Agapornis,15501.0,https://open.spotify.com/track/4amGeAvkzFunJTHZ0KJZba,2017-01-01,ar,0.7190000000000001,0.7090000000000001,0.0333,111.919,0.931,0.0277,58.0,1
+186.0,Carnaval,Maluma,14952.0,https://open.spotify.com/track/1nO4EGuBjR75IGbFYzqPxO,2017-01-01,ar,0.74,0.8590000000000001,0.033,130.011,0.782,0.0365,89.0,1
+187.0,Quiero Que Sepas,Juan Magán,14900.0,https://open.spotify.com/track/0fm7fJ4aZv6Wx0klIcyXPz,2017-01-01,ar,0.715,0.6559999999999999,0.0484,110.055,0.593,0.391,82.0,1
+188.0,Adventure Of A Lifetime,Coldplay,14834.0,https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M,2017-01-01,ar,0.638,0.924,0.0359,111.995,0.529,0.00205,89.0,1
+189.0,Volaré,Benjamín Amadeo,14786.0,https://open.spotify.com/track/34mvkVskpYxe7CfkEs3XCY,2017-01-01,ar,0.63,0.713,0.0443,81.999,0.547,0.264,47.0,1
+191.0,Madrugada,La Beriso,14684.0,https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9,2017-01-01,ar,0.637,0.455,0.0308,147.233,0.619,0.165,66.0,1
+192.0,What Do You Mean?,Justin Bieber,14498.0,https://open.spotify.com/track/3pzjHKrQSvXGHQ98dx18HI,2017-01-01,ar,0.845,0.5670000000000001,0.0956,125.02,0.7929999999999999,0.59,91.0,1
+193.0,En La Intimidad,Ozuna,14484.0,https://open.spotify.com/track/0QetVR4wwvyiTezQeFNdeZ,2017-01-01,ar,0.7490000000000001,0.6709999999999999,0.0568,113.077,0.12,0.0446,95.0,1
+194.0,Tus Ojos No Me Ven,Agapornis,14483.0,https://open.spotify.com/track/5lZzrsIShvSlXlYlJiaiEf,2017-01-01,ar,0.755,0.8590000000000001,0.0345,100.024,0.926,0.0865,58.0,1
+195.0,Una Ráfaga de Amor,Rafaga,14419.0,https://open.spotify.com/track/4i5NFoPWqTqlsR4WyoVFtB,2017-01-01,ar,0.773,0.918,0.0461,99.966,0.921,0.236,62.0,1
+196.0,Sólo necesito,#TocoParaVos,14397.0,https://open.spotify.com/track/7kK1cPOZ9RxZcgamiYysxw,2017-01-01,ar,0.68,0.73,0.0315,108.997,0.935,0.1,55.0,1
+197.0,Lean On (feat. MØ & DJ Snake),Major Lazer,14304.0,https://open.spotify.com/track/4WjH9Bzt3kx7z8kl0awxh4,2017-01-01,ar,0.723,0.809,0.0625,98.007,0.274,0.00346,85.0,1
+198.0,Sugar,Maroon 5,14248.0,https://open.spotify.com/track/494OU6M7NOf4ICYb4zWCf5,2017-01-01,ar,0.748,0.7879999999999999,0.0334,120.076,0.884,0.0591,89.0,1
+199.0,No hay más nada,Los Totora,14232.0,https://open.spotify.com/track/2nruW43pcr20cNm3DBCDbz,2017-01-01,ar,0.534,0.7340000000000001,0.229,210.158,0.809,0.0183,56.0,1
+200.0,Tal Vez,Marama,14204.0,https://open.spotify.com/track/6aZOHHz5AvwM4MA6ygFjIY,2017-01-01,ar,0.813,0.691,0.034,109.972,0.578,0.0447,65.0,1
+104.0,The Scientist,Coldplay,18534.0,https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle,2017-01-02,ar,0.56,0.442,0.0243,146.44799999999995,0.212,0.727,89.0,1
+117.0,Mercy,Shawn Mendes,16760.0,https://open.spotify.com/track/4TZy1wLyHec06pwgFYDh1a,2017-01-02,ar,0.469,0.68,0.117,147.734,0.374,0.13699999999999998,86.0,1
+121.0,Thinking Out Loud,Ed Sheeran,16365.0,https://open.spotify.com/track/1Slwb6dOYkBlWal1PGtnNg,2017-01-02,ar,0.7809999999999999,0.445,0.0295,78.998,0.591,0.474,97.0,1
+124.0,Crimen,Gustavo Cerati,16125.0,https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp,2017-01-02,ar,0.537,0.502,0.025,80.51100000000002,0.28800000000000003,0.44,70.0,1
+128.0,Faded,Alan Walker,15793.0,https://open.spotify.com/track/7gHs73wELdeycvS48JfIos,2017-01-02,ar,0.589,0.6509999999999999,0.0306,90.01100000000002,0.166,0.0291,84.0,1
+132.0,Starving,Hailee Steinfeld,15434.0,https://open.spotify.com/track/1qOLh0tI7trd1zdDKxYZTe,2017-01-02,ar,0.636,0.633,0.126,99.721,0.512,0.371,87.0,1
+135.0,"I Don’t Wanna Live Forever (Fifty Shades Darker) - From ""Fifty Shades Darker (Original Motion Picture Soundtrack)""",ZAYN,15328.0,https://open.spotify.com/track/3NdDpSvN911VPGivFlV5d0,2017-01-02,ar,0.735,0.451,0.0585,117.973,0.0862,0.0631,84.0,1
+138.0,Un Polvo,Maluma,14949.0,https://open.spotify.com/track/01vHGJRvJ6EZW9KO8NtZpi,2017-01-02,ar,0.8109999999999999,0.6809999999999999,0.0712,134.062,0.468,0.6729999999999999,89.0,1
+139.0,Say You Won't Let Go,James Arthur,14882.0,https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh,2017-01-02,ar,0.358,0.557,0.059,85.04299999999998,0.494,0.695,84.0,1
+143.0,All We Know,The Chainsmokers,14767.0,https://open.spotify.com/track/2rizacJSyD9S1IQUxUxnsK,2017-01-02,ar,0.662,0.586,0.0307,90.0,0.29600000000000004,0.097,90.0,1
+146.0,Photograph,Ed Sheeran,14560.0,https://open.spotify.com/track/6fxVffaTuwjgEk5h9QyRjy,2017-01-02,ar,0.614,0.379,0.0476,107.989,0.201,0.607,97.0,1
+148.0,Black Beatles,Rae Sremmurd,14454.0,https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo,2017-01-02,ar,0.794,0.6459999999999999,0.0614,145.931,0.322,0.13,83.0,1
+149.0,Ya Me Enteré,Reik,14359.0,https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja,2017-01-02,ar,0.619,0.452,0.028,131.981,0.174,0.502,81.0,1
+151.0,Creo,Callejeros,14270.0,https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ,2017-01-02,ar,0.382,0.912,0.0551,187.941,0.56,0.00169,65.0,1
+153.0,Rompecabezas de Amor,Las Pastillas del Abuelo,13701.0,https://open.spotify.com/track/6qs5C2MEAHfF2jUdEzpWut,2017-01-02,ar,0.597,0.64,0.0316,75.036,0.46,0.6459999999999999,65.0,1
+154.0,Puente,Gustavo Cerati,13689.0,https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo,2017-01-02,ar,0.444,0.471,0.0322,76.335,0.205,0.00161,70.0,1
+156.0,Ando buscando,Carlos Baute,13649.0,https://open.spotify.com/track/7BwJtE8KSbCQKOCTIAY3jX,2017-01-02,ar,0.7120000000000001,0.841,0.0455,98.003,0.6579999999999999,0.0685,69.0,1
+158.0,Dueles,Jesse & Joy,13504.0,https://open.spotify.com/track/1iRvhKiXRElIH2Uf4gd95P,2017-01-02,ar,0.531,0.8340000000000001,0.052000000000000005,142.026,0.526,0.277,78.0,1
+161.0,Me Quema,Paulina Rubio,13384.0,https://open.spotify.com/track/0VjbN2rfs40mHQ5mZN9UCE,2017-01-02,ar,0.747,0.7909999999999999,0.0986,92.046,0.6809999999999999,0.071,68.0,1
+163.0,Into You,Ariana Grande,13325.0,https://open.spotify.com/track/7yHEDfrJNd0zWOfXwydNH0,2017-01-02,ar,0.636,0.727,0.106,107.988,0.358,0.0161,86.0,1
+165.0,By Your Side,Jonas Blue,13171.0,https://open.spotify.com/track/1D3ODoXHBLpdxolZRHWV1j,2017-01-02,ar,0.696,0.743,0.0331,122.978,0.644,0.0778,80.0,1
+167.0,La noche,Andrés Calamaro,13080.0,https://open.spotify.com/track/1zI2cbdyNRPNQJONGMtHj2,2017-01-02,ar,0.574,0.853,0.0437,95.999,0.8909999999999999,0.0303,71.0,1
+169.0,Como Te Extraño,Abel Pintos,12882.0,https://open.spotify.com/track/2PlyHAHOb0kJrbfI1MFCYC,2017-01-02,ar,0.262,0.521,0.0376,63.42,0.228,0.4370000000000001,71.0,1
+170.0,Tan Fácil,CNCO,12876.0,https://open.spotify.com/track/1TxgZRcy3kZ7JaEp88MDbC,2017-01-02,ar,0.706,0.884,0.0435,90.036,0.506,0.292,81.0,1
+171.0,Traicionero,La Beriso,12688.0,https://open.spotify.com/track/0sOpGWXWkxNDev51Dst3fQ,2017-01-02,ar,0.675,0.7709999999999999,0.0282,132.03799999999998,0.619,0.127,66.0,1
+172.0,Quiero Que Vuelvas,Alejandro Fernandez,12499.0,https://open.spotify.com/track/2Zw7rSucHm0MIph9gmNiSn,2017-01-02,ar,0.81,0.474,0.0543,120.071,0.778,0.116,78.0,1
+173.0,Hymn For The Weekend,Coldplay,12452.0,https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy,2017-01-02,ar,0.49,0.743,0.0409,89.97399999999998,0.363,0.255,89.0,1
+174.0,Falsas Mentiras (feat. Ozuna),Los De La Nazza,12380.0,https://open.spotify.com/track/36JI0KHc591i9liHaFqDFG,2017-01-02,ar,0.637,0.679,0.151,87.37200000000001,0.621,0.0509,58.0,1
+175.0,Pretextos,Maluma,12299.0,https://open.spotify.com/track/7HDOS7qOhBxmcsWTv29PSK,2017-01-02,ar,0.8290000000000001,0.7120000000000001,0.135,86.979,0.644,0.253,89.0,1
+176.0,Legui,La Beriso,12153.0,https://open.spotify.com/track/6VhCpWspvtTNlx0EifVK3v,2017-01-02,ar,0.442,0.8909999999999999,0.0479,147.991,0.486,0.00136,66.0,1
+178.0,7 Years,Lukas Graham,12068.0,https://open.spotify.com/track/7129iqBafaphfc3WPCGC0L,2017-01-02,ar,0.728,0.489,0.0611,119.816,0.316,0.313,73.0,1
+179.0,Stitches,Shawn Mendes,12041.0,https://open.spotify.com/track/1WP1r7fuvRqZRnUaTi2I1Q,2017-01-02,ar,0.746,0.754,0.067,149.882,0.764,0.0152,86.0,1
+180.0,Quien Dijo Amigos,Carlitos Rossy,11991.0,https://open.spotify.com/track/5mmeEKfSZZiggiRsNF5kot,2017-01-02,ar,0.758,0.838,0.0798,87.995,0.91,0.343,59.0,1
+181.0,Trátame Suavemente - Remasterizado 2007,Soda Stereo,11972.0,https://open.spotify.com/track/65DBZofI0b79kfHTcWWDuU,2017-01-02,ar,0.738,0.8009999999999999,0.0284,122.857,0.532,0.0438,76.0,1
+183.0,Obsesionado,Farruko,11783.0,https://open.spotify.com/track/5Jt4zdXTd9y1zxihiNYQI1,2017-01-02,ar,0.696,0.8759999999999999,0.0801,169.02700000000004,0.669,0.0506,87.0,1
+184.0,Rocanroles Sin Destino,Callejeros,11697.0,https://open.spotify.com/track/46yA2K9FA0PaCbeWkezvFC,2017-01-02,ar,0.636,0.642,0.0284,125.96,0.328,0.126,65.0,1
+185.0,The Love You Got,Poncho,11667.0,https://open.spotify.com/track/3HZTBtQd6SPsCY1Nvo55f0,2017-01-02,ar,0.695,0.6,0.0352,124.0,0.332,0.02,41.0,1
+187.0,Spaghetti del Rock,Divididos,11645.0,https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr,2017-01-02,ar,0.626,0.389,0.0254,97.708,0.6559999999999999,0.677,61.0,1
+188.0,Hear Me Now,Alok,11630.0,https://open.spotify.com/track/1a5Yu5L18qNxVhXx38njON,2017-01-02,ar,0.789,0.442,0.0421,121.971,0.45,0.586,79.0,1
+190.0,Fake Love,Drake,11582.0,https://open.spotify.com/track/343YBumqHu19cGoGARUTsd,2017-01-02,ar,0.927,0.488,0.42,133.987,0.605,0.108,100.0,1
+192.0,Send My Love (To Your New Lover),Adele,11497.0,https://open.spotify.com/track/4BHzQ9C00ceJxfG16AlNWb,2017-01-02,ar,0.69,0.524,0.103,164.023,0.562,0.0415,85.0,1
+195.0,El Pecado,Ozuna,11294.0,https://open.spotify.com/track/5waUXf92wjHTSOmSQz02W4,2017-01-02,ar,0.74,0.645,0.13699999999999998,124.943,0.457,0.507,95.0,1
+197.0,"Tarara (Remix) [feat. Farruko, Ozuna, Cosculluela, Arcangel & Zion]",Alexio,11193.0,https://open.spotify.com/track/5GVvn3XvDtcXJpfN0GmtUp,2017-01-02,ar,0.743,0.752,0.229,82.11,0.465,0.188,65.0,1
+198.0,Bad Things (with Camila Cabello),Machine Gun Kelly,11135.0,https://open.spotify.com/track/1PSBzsahR2AKwLJgx8ehBj,2017-01-02,ar,0.675,0.69,0.132,137.817,0.272,0.21,81.0,1
+200.0,Qué Gano Olvidándote - Versión Urbana,Reik,11112.0,https://open.spotify.com/track/3H179O48ynsu9q8LOnFQZY,2017-01-02,ar,0.49,0.894,0.0947,197.989,0.653,0.0869,81.0,1
+151.0,Shed a Light,Robin Schulz,14231.0,https://open.spotify.com/track/1cG0umU5TKStygKsPFZ9pY,2017-01-03,ar,0.483,0.787,0.102,122.058,0.58,0.112,82.0,1
+190.0,Hoja en Blanco,Dread Mar I,11524.0,https://open.spotify.com/track/0oNpxZqwRZwVOD09fD0gzm,2017-01-03,ar,0.705,0.75,0.0468,140.037,0.5479999999999999,0.225,71.0,1
+195.0,Su Novio Anterior,El Villano,11343.0,https://open.spotify.com/track/64CvAy6EPQpxCNbW2LNze9,2017-01-03,ar,0.8640000000000001,0.615,0.0835,94.004,0.94,0.039,53.0,1
+196.0,Quisiera,CNCO,11238.0,https://open.spotify.com/track/4iPV0gcc8keTFl6qxqP73M,2017-01-03,ar,0.6629999999999999,0.8740000000000001,0.0506,91.85,0.5539999999999999,0.147,81.0,1
+197.0,Tan Fácil - Urban Remix,CNCO,11202.0,https://open.spotify.com/track/6ZvmnulA6jJY3lvveuCz77,2017-01-03,ar,0.8,0.8190000000000001,0.0461,93.055,0.599,0.136,81.0,1
+96.0,Ya No Hay Nadie Que Nos Pare,TINI,20323.0,https://open.spotify.com/track/6c9eHvNPci0RsK8Er0QI6v,2017-01-04,ar,0.345,0.648,0.277,200.416,0.7170000000000001,0.305,61.0,1
+112.0,Too Good,Drake,17926.0,https://open.spotify.com/track/11KJSRSgaDxqydKYiD2Jew,2017-01-04,ar,0.804,0.648,0.117,117.983,0.392,0.0573,100.0,1
+141.0,Love My Life,Robbie Williams,15153.0,https://open.spotify.com/track/1YW369EbVyjpeLE3YbsjKQ,2017-01-04,ar,0.5429999999999999,0.6859999999999999,0.0285,95.995,0.375,0.00601,73.0,1
+158.0,Mata,Marka Akme,13862.0,https://open.spotify.com/track/6h8rrNrOCdBbz37IhcvApT,2017-01-04,ar,0.8109999999999999,0.6759999999999999,0.0385,88.009,0.958,0.342,47.0,1
+184.0,Nunca quise,Intoxicados,11998.0,https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy,2017-01-04,ar,0.71,0.787,0.0279,118.002,0.8740000000000001,0.0891,60.0,1
+188.0,Abrazame,Rombai,11782.0,https://open.spotify.com/track/1n9hIe71hmoQKQpA7ClT9O,2017-01-04,ar,0.732,0.855,0.0391,115.03,0.6940000000000001,0.0496,67.0,1
+189.0,Make You Mine,Maxi Trusso,11743.0,https://open.spotify.com/track/02zBhKZIES8MMX9lvo1WKQ,2017-01-04,ar,0.782,0.8009999999999999,0.0903,109.997,0.46,0.527,46.0,1
+193.0,La niñera,AX 13,11554.0,https://open.spotify.com/track/7r8ku3BunFqO8MdxIMefaO,2017-01-04,ar,0.524,0.8029999999999999,0.0785,196.065,0.974,0.0809,46.0,1
+197.0,A las Nueve,No Te Va Gustar,11481.0,https://open.spotify.com/track/0uuEqOyKlABOB7hzWKcEeG,2017-01-04,ar,0.624,0.8029999999999999,0.0262,129.931,0.825,0.19,68.0,1
+199.0,Tu y Yo (feat. Daddy Yankee),Tommy Torres,11426.0,https://open.spotify.com/track/5Hiu520lWG4YPrMugnNnkP,2017-01-04,ar,0.507,0.583,0.0664,165.78599999999997,0.24,0.0509,68.0,1
+200.0,Aventura,Pijama Party,11408.0,https://open.spotify.com/track/1y9mv4NMheIuIUKf9hsIsy,2017-01-04,ar,0.531,0.815,0.0677,108.05,0.6859999999999999,0.0117,54.0,1
+149.0,Pull-Up,Jason Derulo,15162.0,https://open.spotify.com/track/1SYqEFrLotYNBTJbNXKEa5,2017-01-05,ar,0.643,0.759,0.155,191.955,0.46,0.0025800000000000003,87.0,1
+200.0,Detras De Ti (Remix) [feat. Ozuna],Jory Boy,11922.0,https://open.spotify.com/track/74eN3ZNL7krJw1BIcjA5pc,2017-01-05,ar,0.77,0.7240000000000001,0.154,172.00599999999997,0.8170000000000001,0.0639,70.0,1
+29.0,Shape of You,Ed Sheeran,57617.0,https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3,2017-01-06,ar,0.825,0.652,0.0802,95.977,0.931,0.581,97.0,1
+41.0,Castle on the Hill,Ed Sheeran,44713.0,https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT,2017-01-06,ar,0.461,0.8340000000000001,0.0989,135.007,0.471,0.0232,97.0,1
+164.0,No Money,Galantis,14161.0,https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd,2017-01-06,ar,0.6709999999999999,0.916,0.0397,126.01,0.8029999999999999,0.0282,78.0,1
+195.0,Chica Brasileña,El Super Hobby,12655.0,https://open.spotify.com/track/5gwCA6eUUqFNg5VVWo2Yzo,2017-01-06,ar,0.599,0.794,0.0645,140.561,0.971,0.606,48.0,1
+161.0,Una en un Millón - Remix,Alexis y Fido,15017.0,https://open.spotify.com/track/2BesEfIHzUb7viZwUkSAhE,2017-01-07,ar,0.792,0.8220000000000001,0.0512,95.021,0.773,0.525,73.0,1
+162.0,Enganchado #TocoParaVos - Cumbia Mix,#TocoParaVos,14864.0,https://open.spotify.com/track/7zW4IqrzU6dTLw3CM72Qbo,2017-01-07,ar,0.6579999999999999,0.435,0.0492,108.994,0.736,0.0197,55.0,1
+165.0,Quedate Conmigo,Marka Akme,14644.0,https://open.spotify.com/track/0Me4USNMue57mtUkMEdPTr,2017-01-07,ar,0.8370000000000001,0.78,0.0995,98.082,0.7659999999999999,0.622,47.0,1
+169.0,Enamorarnos Bailando,The Panas,14331.0,https://open.spotify.com/track/0VjofSmIfyEkTsl1tTm90w,2017-01-07,ar,0.348,0.8490000000000001,0.135,200.467,0.728,0.16,39.0,1
+181.0,Vale la pena,#TocoParaVos,13795.0,https://open.spotify.com/track/0cB2boMVCVfVrZYItg6Vmm,2017-01-07,ar,0.7020000000000001,0.638,0.0358,109.987,0.795,0.232,55.0,1
+183.0,Yo Bailaré (feat. Zenon Pereyra),Halconizados de Amor,13771.0,https://open.spotify.com/track/2olCTYZA0iEuLVv1W4gSg0,2017-01-07,ar,0.7929999999999999,0.605,0.0535,113.03,0.892,0.101,39.0,1
+188.0,Si Le Robo un Beso,VI-EM,13616.0,https://open.spotify.com/track/6jGe0g2BFj8IZuotfEq6v6,2017-01-07,ar,0.774,0.823,0.0336,104.084,0.927,0.13,48.0,1
+191.0,Tu beso y tu piel (feat. Gustas Mio),#TocoParaVos,13425.0,https://open.spotify.com/track/20fHUaxxdQ7DzMhHnni7Ih,2017-01-07,ar,0.448,0.58,0.0459,76.14699999999998,0.8590000000000001,0.051,55.0,1
+198.0,Nuestro Secreto,Pijama Party,13204.0,https://open.spotify.com/track/2Uqu3vMH3NxjaQBpgp7u6q,2017-01-07,ar,0.747,0.607,0.0456,110.113,0.6579999999999999,0.0222,54.0,1
+169.0,Amor para un Rato,Olvidate!,12109.0,https://open.spotify.com/track/47EEKhimMiDtUfYNR5Ii58,2017-01-08,ar,0.767,0.82,0.13699999999999998,110.076,0.785,0.0222,53.0,1
+190.0,I Would Like,Zara Larsson,12856.0,https://open.spotify.com/track/4Q4jmPHwu0wrJvqrld0FQ6,2017-01-11,ar,0.486,0.713,0.0524,121.028,0.297,0.0853,82.0,1
+195.0,Me Gusta,Ciro y los Persas,12529.0,https://open.spotify.com/track/3pMo77B4r1NwwIK78lO4xf,2017-01-11,ar,0.639,0.83,0.0267,132.015,0.698,0.0369,61.0,1
+196.0,Soy Peor,Bad Bunny,12508.0,https://open.spotify.com/track/5MT96Zz0ymUJNm8obKZQr0,2017-01-12,ar,0.732,0.605,0.086,115.942,0.14300000000000002,0.679,95.0,1
+64.0,Despacito (Featuring Daddy Yankee),Luis Fonsi,29165.0,https://open.spotify.com/track/4aWmUDTfIPGksMNLV2rQP2,2017-01-13,ar,0.66,0.7859999999999999,0.17,177.833,0.846,0.209,86.0,1
+131.0,Paris,The Chainsmokers,17150.0,https://open.spotify.com/track/72jbDTw1piOOj770jWNeaG,2017-01-13,ar,0.653,0.6579999999999999,0.0304,99.99,0.219,0.0215,90.0,1
+110.0,Cocoon,Milky Chance,21182.0,https://open.spotify.com/track/0L87MffumRNWrY2SNUFcvs,2017-01-14,ar,0.741,0.653,0.0327,114.033,0.81,0.0983,74.0,1
+133.0,Vente Pa' Ca - Urban Remix,Ricky Martin,18308.0,https://open.spotify.com/track/3pI6VigoXHkcL3VYLJfBhq,2017-01-14,ar,0.741,0.8909999999999999,0.0446,100.022,0.612,0.108,77.0,1
+184.0,A Ella Le Gusta la Noche,AX 13,13793.0,https://open.spotify.com/track/7xWM8ZsNUOMVBHQOE77Re9,2017-01-14,ar,0.455,0.8420000000000001,0.0833,199.864,0.648,0.207,46.0,1
+176.0,Piel a Piel,Dame 5,11914.0,https://open.spotify.com/track/2q3B7GLCEA4uYvuo2g5P82,2017-01-15,ar,0.7709999999999999,0.906,0.0506,111.64,0.433,0.0208,59.0,1
+156.0,La Rompe Corazones,Daddy Yankee,14598.0,https://open.spotify.com/track/4okba5wu9mMLXx79DXLKi3,2017-01-16,ar,0.685,0.8590000000000001,0.0553,176.018,0.8909999999999999,0.116,92.0,1
+169.0,El Amante,Nicky Jam,13262.0,https://open.spotify.com/track/3umS4y3uQDkqekNjVpiRUs,2017-01-16,ar,0.6829999999999999,0.691,0.0432,179.91,0.732,0.243,89.0,1
+196.0,Ya No Me Duele Más - Remix,Silvestre Dangond,11918.0,https://open.spotify.com/track/4CTjql34LKCJy5WOSgEhvA,2017-01-16,ar,0.7390000000000001,0.8809999999999999,0.0484,98.062,0.8390000000000001,0.175,69.0,1
+195.0,Desafio (feat. Maluma),Jory Boy,12167.0,https://open.spotify.com/track/3pk19nKnFSl9E4X7gqq10A,2017-01-17,ar,0.838,0.6779999999999999,0.0762,89.01100000000002,0.887,0.154,70.0,1
+196.0,Tu No Vive Asi (feat. Mambo Kingz & DJ Luian),Arcangel,12065.0,https://open.spotify.com/track/6NSMQFKgjpQb0KkjMDYIK0,2017-01-17,ar,0.815,0.514,0.361,120.054,0.623,0.54,85.0,1
+138.0,Vida Tranquila,Julián Serrano,17270.0,https://open.spotify.com/track/3gM8KetN3T4mQE4AO2vAHD,2017-01-18,ar,0.911,0.726,0.242,90.00299999999999,0.77,0.14400000000000002,40.0,1
+171.0,Got Me Started,TINI,13888.0,https://open.spotify.com/track/5lU0HnotLXdJgnEeAFzSrg,2017-01-18,ar,0.449,0.654,0.25,100.057,0.64,0.335,61.0,1
+140.0,Tu Arreglapenas,La Reserva,16381.0,https://open.spotify.com/track/01M85JZm3JMyHrWzvkfO5X,2017-01-19,ar,0.71,0.857,0.0445,109.993,0.79,0.517,51.0,1
+143.0,El Equivocado,Mano Arriba,16233.0,https://open.spotify.com/track/5vy1C7DD9xJ5fRB3KqV6Kq,2017-01-19,ar,0.736,0.795,0.0478,150.019,0.961,0.0977,57.0,1
+168.0,Deu Onda,MC G15,14210.0,https://open.spotify.com/track/0EPxmvsG1BY5td4aTOkWBF,2017-01-19,ar,0.931,0.604,0.0573,129.92600000000002,0.8640000000000001,0.456,72.0,1
+193.0,Sigo Extrañándote,J Balvin,12581.0,https://open.spotify.com/track/6qDF4wWL49CAVbgT7yuHl8,2017-01-19,ar,0.889,0.853,0.241,93.022,0.922,0.154,94.0,1
+160.0,Make My Love Go,Jay Sean,15376.0,https://open.spotify.com/track/5mMRgTxoeBjEAZdBjPGvaC,2017-01-20,ar,0.8220000000000001,0.733,0.0495,107.02,0.595,0.0434,69.0,1
+189.0,Lumbra,Cali Y El Dandee,12912.0,https://open.spotify.com/track/6VHdcVbiKLYYOcMbIqBcuK,2017-01-20,ar,0.7240000000000001,0.84,0.0392,92.01,0.835,0.053,74.0,1
+163.0,Insegura,VAS,15139.0,https://open.spotify.com/track/2jahKqF76dRFDwCqd6FzS7,2017-01-21,ar,0.7290000000000001,0.713,0.0382,108.035,0.7809999999999999,0.0987,29.0,1
+184.0,Dígame usted señorita,Kale “La Evolución”,13608.0,https://open.spotify.com/track/4Q7uDmFtF2IRxFwAvuPXRn,2017-01-21,ar,0.8,0.779,0.0448,96.004,0.645,0.0237,42.0,1
+199.0,Caile (feat. Zion & De La Ghetto),Revol,11604.0,https://open.spotify.com/track/626rYyBfeAeleh1F5t4B70,2017-01-23,ar,0.768,0.735,0.0669,129.99,0.303,0.202,66.0,1
+197.0,Baila Toma,"Osmani Garcia ""La Voz""",11625.0,https://open.spotify.com/track/1VUm0rdXGDjAOApxFxGFJ4,2017-01-24,ar,0.7490000000000001,0.713,0.0657,99.993,0.373,0.0158,59.0,1
+198.0,El Chisme (feat. J Alvarez & Kevin Roldan) - Remix,Reykon,11616.0,https://open.spotify.com/track/58EQDn2K9Gyj68YIckOLrN,2017-01-25,ar,0.748,0.909,0.0855,93.01,0.8320000000000001,0.0748,70.0,1
+199.0,Balada Del Diablo y La Muerte,La Renga,11574.0,https://open.spotify.com/track/4ObkiTmpsSU31gqGhTb8SH,2017-01-25,ar,0.4,0.755,0.0556,132.287,0.392,0.115,64.0,1
+152.0,La vida rosa,Angela Torres,14687.0,https://open.spotify.com/track/6S7CT8xrkOpDOXC4xjdhXt,2017-01-26,ar,0.698,0.8029999999999999,0.0632,148.123,0.87,0.166,55.0,1
+186.0,"How Far I'll Go - From ""Moana""",Alessia Cara,12441.0,https://open.spotify.com/track/5hYTyyh2odQKphUbMqc5gN,2017-01-26,ar,0.314,0.555,0.37,179.666,0.159,0.157,84.0,1
+194.0,Solo Dance,Martin Jensen,12129.0,https://open.spotify.com/track/6HUnnBwYZqcED1eQztxMBN,2017-01-26,ar,0.7440000000000001,0.836,0.0507,114.965,0.36,0.0435,76.0,1
+122.0,Scared to Be Lonely,Martin Garrix,18693.0,https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH,2017-01-27,ar,0.584,0.54,0.0576,137.972,0.195,0.0895,87.0,1
+145.0,Lo Niego Todo,Joaquín Sabina,16138.0,https://open.spotify.com/track/6oV8HazS5rJB3jU3oPhYep,2017-01-27,ar,0.617,0.585,0.0435,76.958,0.35200000000000004,0.721,72.0,1
+186.0,Sentí el Sabor,Rombai,13358.0,https://open.spotify.com/track/2TN5VueWaAxwkzHgmtDRMn,2017-01-27,ar,0.8109999999999999,0.6559999999999999,0.0696,104.957,0.931,0.0546,67.0,1
+101.0,Me Rehúso,Danny Ocean,21638.0,https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl,2017-01-28,ar,0.7440000000000001,0.804,0.0677,104.823,0.426,0.0231,81.0,1
+190.0,Alone,Alan Walker,12091.0,https://open.spotify.com/track/0JiVRyTJcJnmlwCZ854K4p,2017-01-30,ar,0.6759999999999999,0.929,0.0458,97.019,0.157,0.18600000000000005,84.0,1
+153.0,All Night,The Vamps,13932.0,https://open.spotify.com/track/1yNyoWWWikbLhwIGWjZuDW,2017-01-31,ar,0.563,0.775,0.0366,144.945,0.458,0.00251,77.0,1
+189.0,Otra Cosa,Daddy Yankee,12033.0,https://open.spotify.com/track/3g8HfTlZYA72i9V2JPwXOb,2017-01-31,ar,0.731,0.923,0.0751,96.045,0.634,0.22,92.0,1
+141.0,Otra Vez,Felix Gabriel,15527.0,https://open.spotify.com/track/4kdpq7Ez7T2cn75Jem2PEv,2017-02-01,ar,0.5870000000000001,0.306,0.0531,94.811,0.846,0.711,10.0,1
+186.0,Run Up (feat. PARTYNEXTDOOR & Nicki Minaj),Major Lazer,12479.0,https://open.spotify.com/track/0fg8CqpjdojMyXLNzM2PaJ,2017-02-01,ar,0.8029999999999999,0.743,0.0681,108.005,0.674,0.105,85.0,1
+187.0,A Veces Vuelvo,Catupecu Machu,12475.0,https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM,2017-02-01,ar,0.596,0.83,0.0353,126.565,0.607,0.0189,56.0,1
+189.0,Personalmente,Las Pelotas,12303.0,https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD,2017-02-01,ar,0.5589999999999999,0.711,0.0269,155.934,0.769,0.333,60.0,1
+193.0,All Time Low,Jon Bellion,12044.0,https://open.spotify.com/track/1CnPYaKxTVb4LWOtiGOm0m,2017-02-01,ar,0.609,0.57,0.104,90.195,0.531,0.0556,76.0,1
+159.0,Issues,Julia Michaels,14167.0,https://open.spotify.com/track/1sXUWdKx03aP9Gmzft58rt,2017-02-02,ar,0.6829999999999999,0.4270000000000001,0.0777,113.634,0.426,0.368,87.0,1
+182.0,I Got You,Bebe Rexha,12994.0,https://open.spotify.com/track/1FUViuNSldssMIawrOXF2i,2017-02-02,ar,0.609,0.887,0.0507,97.99,0.316,0.0504,88.0,1
+188.0,Weak,AJR,12814.0,https://open.spotify.com/track/3E2Zh20GDCR9B1EYjfXWyv,2017-02-02,ar,0.6729999999999999,0.637,0.0429,123.98,0.6779999999999999,0.13699999999999998,77.0,1
+196.0,La del Control,Eloy,12742.0,https://open.spotify.com/track/6GifecgpowoFIJCJCBtR8l,2017-02-03,ar,0.779,0.747,0.0435,87.99799999999998,0.6729999999999999,0.285,57.0,1
+198.0,Believer,Imagine Dragons,12663.0,https://open.spotify.com/track/0CcQNd8CINkwQfe1RDtGV6,2017-02-03,ar,0.779,0.787,0.108,124.982,0.708,0.0524,91.0,1
+159.0,On My Way,Tiësto,13967.0,https://open.spotify.com/track/4hiUYb2nb6NlfTP9CD38Pe,2017-02-04,ar,0.629,0.764,0.036000000000000004,123.972,0.5770000000000001,0.00981,81.0,1
+107.0,La Máquina de Ser Feliz,Charly García,17609.0,https://open.spotify.com/track/52qq2T7uXlpI7Kfb4otWNk,2017-02-06,ar,0.5870000000000001,0.64,0.0299,110.006,0.233,0.539,64.0,1
+128.0,Million Reasons,Lady Gaga,15458.0,https://open.spotify.com/track/50PWlIBU7PlGGwzgN8TiFJ,2017-02-06,ar,0.6679999999999999,0.449,0.0451,129.889,0.154,0.477,82.0,1
+172.0,"City Of Stars - From ""La La Land"" Soundtrack",Ryan Gosling,12296.0,https://open.spotify.com/track/0LtVx5vsq9nfpGsWgjUin6,2017-02-06,ar,0.483,0.121,0.0349,106.032,0.419,0.91,65.0,1
+192.0,Adiós,Gustavo Cerati,11343.0,https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k,2017-02-06,ar,0.495,0.596,0.024,94.124,0.284,0.14,70.0,1
+193.0,All of Me,John Legend,11296.0,https://open.spotify.com/track/2q6tgiA9tpb6DMguABwCWE,2017-02-06,ar,0.422,0.264,0.0322,119.93,0.331,0.922,82.0,1
+131.0,El Lavarropa,Gonzo Vizán,15973.0,https://open.spotify.com/track/5iOz59b6B51cmVxa6NxTux,2017-02-08,ar,0.769,0.81,0.0655,97.992,0.606,0.0141,4.0,1
+186.0,Seguir Viviendo Sin Tu Amor,Luis Alberto Spinetta,12267.0,https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg,2017-02-08,ar,0.679,0.368,0.0251,104.931,0.736,0.6890000000000001,58.0,1
+194.0,Water Under the Bridge,Adele,12168.0,https://open.spotify.com/track/4vb4mFvYsr2h6enhjJsq9Y,2017-02-09,ar,0.596,0.838,0.0704,94.982,0.472,0.0189,85.0,1
+51.0,Chained To The Rhythm,Katy Perry,38926.0,https://open.spotify.com/track/6520aj0B4FSKGVuKNsOCOi,2017-02-10,ar,0.448,0.8009999999999999,0.165,189.798,0.462,0.0733,85.0,1
+66.0,En el Séptimo Día (SEP7IMO DIA),Soda Stereo,26896.0,https://open.spotify.com/track/2OYXpaYf86alQxLNsv8zYD,2017-02-10,ar,0.529,0.935,0.0335,106.047,0.7290000000000001,0.0005139999999999999,76.0,1
+118.0,Alguien Robo,Sebastian Yatra,17883.0,https://open.spotify.com/track/5i50gKdLAjjIr7UxRT5IVy,2017-02-10,ar,0.745,0.921,0.08199999999999999,92.973,0.6509999999999999,0.0897,85.0,1
+189.0,Al Filo de Tu Amor,Carlos Vives,12824.0,https://open.spotify.com/track/77a9893yxuz36cBUmBzA8E,2017-02-10,ar,0.7120000000000001,0.901,0.0595,97.98,0.845,0.051,80.0,1
+191.0,"Simple (feat. Cosculluela, Nengo Flow & Baby Rasta y Gringo)",DJ Luian,12766.0,https://open.spotify.com/track/15kZDQoTtpkya2kG8ZPJoi,2017-02-10,ar,0.752,0.613,0.26,168.062,0.851,0.17600000000000002,86.0,1
+179.0,Sé Que Te Duele,Alejandro Fernandez,11376.0,https://open.spotify.com/track/5vZfgeDfNhlkKeJqjzSAmg,2017-02-12,ar,0.682,0.858,0.0708,94.954,0.753,0.245,78.0,1
+143.0,That's What I Like,Bruno Mars,14432.0,https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU,2017-02-13,ar,0.853,0.56,0.0406,134.066,0.86,0.013,92.0,1
+170.0,Someone Like You,Adele,13236.0,https://open.spotify.com/track/4kflIGfjdZJW4ot2ioixTB,2017-02-14,ar,0.5589999999999999,0.33,0.0285,135.109,0.285,0.892,85.0,1
+177.0,When I Was Your Man,Bruno Mars,12938.0,https://open.spotify.com/track/0B7wvvmu9EISAwZnOpjhNI,2017-02-14,ar,0.601,0.271,0.0403,145.494,0.411,0.937,92.0,1
+173.0,De Música Ligera,Soda Stereo,13473.0,https://open.spotify.com/track/2WD9ggmpZE7Wodh3qVVCgg,2017-02-15,ar,0.542,0.7140000000000001,0.028,124.26,0.76,0.00487,76.0,1
+178.0,Nada Personal - Remasterizado 2007,Soda Stereo,12908.0,https://open.spotify.com/track/4PBou1i63krEp3jKCPhxVD,2017-02-15,ar,0.763,0.939,0.0488,124.396,0.448,0.422,76.0,1
+181.0,Que Lo Nuestro Se Quede Nuestro,Carlos Rivera,12802.0,https://open.spotify.com/track/3rtxFFGZ10e2vYBo7PsPf2,2017-02-15,ar,0.464,0.444,0.027000000000000003,144.092,0.294,0.488,72.0,1
+132.0,It Ain't Me (with Selena Gomez),Kygo,16637.0,https://open.spotify.com/track/3eR23VReFzcdmS7TYCrhCe,2017-02-16,ar,0.64,0.5329999999999999,0.0706,99.968,0.515,0.119,87.0,1
+90.0,How Would You Feel (Paean),Ed Sheeran,21751.0,https://open.spotify.com/track/6PJ8FF6UR8FZXfEvpHkIVN,2017-02-17,ar,0.617,0.439,0.0269,139.97899999999998,0.242,0.424,97.0,1
+98.0,Cold,Maroon 5,20621.0,https://open.spotify.com/track/5NNlUMcOEOdoOIwwaWXv0k,2017-02-17,ar,0.703,0.715,0.114,99.924,0.4970000000000001,0.139,89.0,1
+139.0,Héroe Favorito,Romeo Santos,16673.0,https://open.spotify.com/track/6RFJxVj9tL0Xrd3Jve4Vo4,2017-02-17,ar,0.865,0.6779999999999999,0.06,128.02100000000002,0.778,0.7070000000000001,84.0,1
+191.0,Love Incredible (feat. Camila Cabello),Cashmere Cat,12963.0,https://open.spotify.com/track/43hDboyy6vJ6z2Jx5sHnCF,2017-02-17,ar,0.339,0.508,0.162,166.68099999999995,0.191,0.0531,76.0,1
+194.0,Nunca Me Olvides - Remix,Yandel,12638.0,https://open.spotify.com/track/7pyEd6g5y7SYdKNgRtleEB,2017-02-17,ar,0.802,0.8140000000000001,0.0647,95.009,0.586,0.331,87.0,1
+164.0,Love,Lana Del Rey,13224.0,https://open.spotify.com/track/0n2bvWvMwr0gbjcuTm92eW,2017-02-20,ar,0.322,0.35200000000000004,0.0309,70.429,0.266,0.455,84.0,1
+175.0,Ganas Locas,Prince Royce,12854.0,https://open.spotify.com/track/7JpzzaCzljQdfnG7wPRqSe,2017-02-22,ar,0.589,0.905,0.0521,176.014,0.7559999999999999,0.0386,83.0,1
+189.0,Romantic - NOTD Remix,Stanaj,11953.0,https://open.spotify.com/track/3SGWp9fJCzgK0WcpcKSQdy,2017-02-22,ar,0.746,0.631,0.231,104.047,0.342,0.218,65.0,1
+65.0,Something Just Like This,The Chainsmokers,26711.0,https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW,2017-02-23,ar,0.617,0.635,0.0317,103.019,0.446,0.0498,90.0,1
+51.0,SUBEME LA RADIO,Enrique Iglesias,42718.0,https://open.spotify.com/track/7nKBxz47S9SD79N086fuhn,2017-02-24,ar,0.684,0.823,0.0773,91.048,0.647,0.0744,84.0,1
+62.0,Rivalidad,Charly García,30444.0,https://open.spotify.com/track/6vuWyGYpQfhBC1WFW1fkOR,2017-02-24,ar,0.6659999999999999,0.825,0.0383,109.986,0.636,0.067,64.0,1
+70.0,Primavera,Charly García,26867.0,https://open.spotify.com/track/0VSzEeOuXTAI3kbG4TXBth,2017-02-24,ar,0.7509999999999999,0.6809999999999999,0.026,109.99,0.8109999999999999,0.149,64.0,1
+71.0,Ella Es Tan Kubrick,Charly García,26781.0,https://open.spotify.com/track/2074PxLJhsulJcP0ivfUSj,2017-02-24,ar,0.765,0.924,0.0313,121.985,0.918,0.121,64.0,1
+88.0,Lluvia,Charly García,23403.0,https://open.spotify.com/track/2n2PrSqZeDQB19NSgO01YP,2017-02-24,ar,0.688,0.71,0.0245,110.005,0.66,0.15,64.0,1
+89.0,Otro,Charly García,23366.0,https://open.spotify.com/track/7eFJEG6vPVRfvEB8QqKuKx,2017-02-24,ar,0.688,0.519,0.0367,77.49600000000002,0.6,0.476,64.0,1
+104.0,Amigos de Dios,Charly García,21172.0,https://open.spotify.com/track/5ilKoWnPiMGkhRKhY0Z6fV,2017-02-24,ar,0.637,0.904,0.0344,106.985,0.5539999999999999,0.0401,64.0,1
+109.0,Believe,Charly García,20842.0,https://open.spotify.com/track/0zTGCdMONzCEzG6Sqx4lgt,2017-02-24,ar,0.597,0.915,0.0302,135.011,0.627,0.000343,64.0,1
+117.0,Spector,Charly García,19509.0,https://open.spotify.com/track/62oTd25XqwmcLDTnmvxNUF,2017-02-24,ar,0.616,0.682,0.0323,128.095,0.715,0.226,64.0,1
+129.0,Mundo B,Charly García,18488.0,https://open.spotify.com/track/5uTio0a7NcuYPPWIHnueNU,2017-02-24,ar,0.5529999999999999,0.59,0.0272,124.012,0.214,0.254,64.0,1
+183.0,Deja vu,Prince Royce,13680.0,https://open.spotify.com/track/46HdsiK0uR26B2dY9QPzda,2017-02-24,ar,0.732,0.8009999999999999,0.0327,123.981,0.8240000000000001,0.39,83.0,1
+188.0,Stay (with Alessia Cara),Zedd,13384.0,https://open.spotify.com/track/0dA2Mk56wEzDgegdC6R17g,2017-02-24,ar,0.679,0.634,0.0654,102.013,0.498,0.232,87.0,1
+200.0,No Lo Niegues (feat. Sammy & Falsetto),Dayme y El High,12691.0,https://open.spotify.com/track/5FcGBPGcyOPKfsExbSlmzd,2017-02-25,ar,0.8,0.7509999999999999,0.0607,92.002,0.769,0.00688,59.0,1
+182.0,Baila Morena,Dame 5,11518.0,https://open.spotify.com/track/5ut9BH3m0lH2kRfZc3YSKV,2017-02-28,ar,0.43,0.7490000000000001,0.225,208.205,0.892,0.0452,59.0,1
+188.0,Slide,Calvin Harris,11342.0,https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl,2017-02-28,ar,0.736,0.795,0.0545,104.066,0.511,0.498,88.0,1
+199.0,Pa Ti,Bad Bunny,10794.0,https://open.spotify.com/track/17nOaHsTn06jxuU9NpHuFU,2017-02-28,ar,0.7659999999999999,0.715,0.231,128.085,0.555,0.348,95.0,1
+154.0,Tú Sí Sabes Quererme,Natalia Lafourcade,14114.0,https://open.spotify.com/track/6p3yxt0uJJshAS3CT0znQg,2017-03-01,ar,0.664,0.46,0.105,170.05700000000004,0.792,0.782,76.0,1
+52.0,Perfect,Ed Sheeran,41448.0,https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v,2017-03-03,ar,0.599,0.448,0.0232,95.05,0.168,0.163,97.0,1
+53.0,Dive,Ed Sheeran,40834.0,https://open.spotify.com/track/51ChrwmUPDJvedPQnIU8Ls,2017-03-03,ar,0.7609999999999999,0.386,0.0399,134.94299999999998,0.526,0.355,97.0,1
+56.0,New Man,Ed Sheeran,39177.0,https://open.spotify.com/track/5HDPtsnyb3maFmPL8LLUTG,2017-03-03,ar,0.78,0.745,0.145,94.026,0.862,0.0559,97.0,1
+57.0,Eraser,Ed Sheeran,38397.0,https://open.spotify.com/track/7oolFzHipTMg2nL7shhdz2,2017-03-03,ar,0.64,0.812,0.0834,86.01299999999998,0.914,0.086,97.0,1
+60.0,Galway Girl,Ed Sheeran,36684.0,https://open.spotify.com/track/0afhq8XCExXpqazXczTSve,2017-03-03,ar,0.624,0.8759999999999999,0.1,99.943,0.7809999999999999,0.0735,97.0,1
+63.0,Happier,Ed Sheeran,35495.0,https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB,2017-03-03,ar,0.522,0.385,0.0288,89.792,0.236,0.536,97.0,1
+71.0,Barcelona,Ed Sheeran,30225.0,https://open.spotify.com/track/3Lfiu5sZ4M4B6JaKMBc0FU,2017-03-03,ar,0.747,0.76,0.187,99.975,0.682,0.448,97.0,1
+72.0,What Do I Know?,Ed Sheeran,29836.0,https://open.spotify.com/track/2pJZ1v8HezrAoZ0Fhzby92,2017-03-03,ar,0.838,0.4920000000000001,0.038,115.092,0.895,0.251,97.0,1
+73.0,Hearts Don't Break Around Here,Ed Sheeran,29824.0,https://open.spotify.com/track/2dfHh7ECGxfNqZTQno09Vk,2017-03-03,ar,0.604,0.366,0.0267,105.177,0.181,0.7190000000000001,97.0,1
+76.0,Supermarket Flowers,Ed Sheeran,27570.0,https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG,2017-03-03,ar,0.589,0.242,0.0442,89.749,0.257,0.914,97.0,1
+78.0,Bibia Be Ye Ye,Ed Sheeran,26005.0,https://open.spotify.com/track/6SznMYPQJHzr3IwsAHLId2,2017-03-03,ar,0.738,0.677,0.0824,127.067,0.882,0.52,97.0,1
+80.0,Green Light,Lorde,25491.0,https://open.spotify.com/track/0gbBzIqrECJOEPvQJIBFs5,2017-03-03,ar,0.616,0.7140000000000001,0.0982,128.924,0.24,0.0162,82.0,1
+81.0,Nancy Mulligan,Ed Sheeran,24992.0,https://open.spotify.com/track/35QZaWQRkmnAVqBF1TLCxQ,2017-03-03,ar,0.68,0.852,0.0349,101.993,0.858,0.117,97.0,1
+84.0,Save Myself,Ed Sheeran,24444.0,https://open.spotify.com/track/6TIU9Ehmi6dMzZK73Ym4yj,2017-03-03,ar,0.552,0.29,0.0448,78.842,0.481,0.85,97.0,1
+110.0,Hula Hoop,Daddy Yankee,20524.0,https://open.spotify.com/track/7BEI30TTNhwnkCyNUDmFrr,2017-03-03,ar,0.8009999999999999,0.8220000000000001,0.0831,176.048,0.946,0.113,92.0,1
+141.0,Hypnotised,Coldplay,16968.0,https://open.spotify.com/track/5LXj9Ch3O9ATm1NoHT8GXn,2017-03-03,ar,0.513,0.6829999999999999,0.032,120.056,0.153,0.339,89.0,1
+159.0,Si Tu Novio Te Deja Sola,J Balvin,14924.0,https://open.spotify.com/track/0RFFFGtPn6a58RHY3ccVYX,2017-03-04,ar,0.716,0.461,0.0614,121.99,0.535,0.545,94.0,1
+180.0,Hermosa Ingrata,Juanes,13355.0,https://open.spotify.com/track/3H0Vda4LvcNlwRQpNd8MHJ,2017-03-04,ar,0.593,0.773,0.0489,93.76,0.964,0.196,79.0,1
+188.0,Te de Campana,DJ Tetraguy,12093.0,https://open.spotify.com/track/0StRt2W3IPe2MnpixQi6e5,2017-03-05,ar,0.843,0.901,0.0831,105.017,0.6709999999999999,0.0408,75.73218390804598,1
+65.0,Cae el Sol / Planta (SEP7IMO DIA),Soda Stereo,28999.0,https://open.spotify.com/track/0tkUZvL9ZbNLnzJ4jHeiOL,2017-03-10,ar,0.259,0.816,0.0366,117.968,0.359,0.00293,76.0,1
+68.0,Prófugos (SEP7IMO DIA),Soda Stereo,27556.0,https://open.spotify.com/track/70ivSNwJpoFzyU3vomPRYk,2017-03-10,ar,0.537,0.905,0.037000000000000005,127.004,0.345,0.000684,76.0,1
+70.0,De Música Ligera (SEP7IMO DIA),Soda Stereo,26992.0,https://open.spotify.com/track/0v1p6H03NUVHhOu3nXD7GC,2017-03-10,ar,0.581,0.792,0.0356,123.912,0.516,0.00934,76.0,1
+72.0,"Ella Usó, Un Misil (SEP7IMO DIA)",Soda Stereo,26042.0,https://open.spotify.com/track/1tgb1PGMFHkMIOuwX7gGKv,2017-03-10,ar,0.429,0.608,0.0331,86.986,0.298,0.0231,76.0,1
+73.0,Picnic en el 4to B / Te Hacen Falta Vitaminas / Mi Novia Tiene Bíceps (SEP7IMO DIA),Soda Stereo,25657.0,https://open.spotify.com/track/466XGyJj6LHJcpeR3RhhJX,2017-03-10,ar,0.354,0.953,0.112,93.683,0.657,0.0025800000000000003,76.0,1
+75.0,Hey Ma (with Pitbull & J Balvin feat. Camila Cabello) - Spanish Version,Pitbull,25192.0,https://open.spotify.com/track/2Vdub5mY4lad7w64bFPUez,2017-03-10,ar,0.489,0.962,0.215,104.563,0.518,0.0277,84.0,1
+90.0,En Remolinos (SEP7IMO DIA),Soda Stereo,22997.0,https://open.spotify.com/track/3edjkiAggwnau6qjUVbIMh,2017-03-10,ar,0.375,0.778,0.0433,95.959,0.0975,0.00391,76.0,1
+96.0,Persiana Americana (SEP7IMO DIA),Soda Stereo,22182.0,https://open.spotify.com/track/09OiYtiWY76FsodXCJ9Ym9,2017-03-10,ar,0.5720000000000001,0.911,0.0392,100.95,0.528,0.000264,76.0,1
+100.0,Signos (SEP7IMO DIA),Soda Stereo,21486.0,https://open.spotify.com/track/02Io6R1p3g7HXae5QoOtxo,2017-03-10,ar,0.426,0.687,0.0393,125.155,0.23,0.182,76.0,1
+105.0,Planeador (SEP7IMO DIA),Soda Stereo,20828.0,https://open.spotify.com/track/45utWFSZB3s3IZWdx4UHuc,2017-03-10,ar,0.379,0.453,0.0315,128.797,0.184,0.175,76.0,1
+106.0,Un Millón de Años Luz (SEP7IMO DIA),Soda Stereo,20739.0,https://open.spotify.com/track/1xfLMIPxxnRrAUkJKZxPD6,2017-03-10,ar,0.474,0.8220000000000001,0.0395,96.094,0.196,0.00315,76.0,1
+125.0,Intro Luna Roja (SEP7IMO DIA),Soda Stereo,18567.0,https://open.spotify.com/track/0YTM2rY4IAExNO5oH64xKR,2017-03-10,ar,0.206,0.614,0.0524,77.36,0.0692,0.99,76.0,1
+126.0,Cuando Pase el Temblor (SEP7IMO DIA),Soda Stereo,18534.0,https://open.spotify.com/track/6WtvylZrf7yrWowHsmf92l,2017-03-10,ar,0.619,0.669,0.0316,96.023,0.596,0.0184,76.0,1
+128.0,Luna Roja (SEP7IMO DIA),Soda Stereo,18341.0,https://open.spotify.com/track/1wsDi2GVqi42m0meazoeNg,2017-03-10,ar,0.442,0.789,0.03,94.937,0.198,1.74e-05,76.0,1
+136.0,En la Ciudad de la Furia (SEP7IMO DIA),Soda Stereo,17959.0,https://open.spotify.com/track/4jwKmJZHwg6ntWwkm9olTz,2017-03-10,ar,0.539,0.933,0.0542,126.027,0.524,0.00333,76.0,1
+144.0,Crema de Estrellas (SEP7IMO DIA),Soda Stereo,17690.0,https://open.spotify.com/track/2RZxjJ2Bx3IJjtrsWFFHRH,2017-03-10,ar,0.449,0.301,0.0286,137.735,0.0967,0.602,76.0,1
+145.0,Hombre al Agua (SEP7IMO DIA),Soda Stereo,17668.0,https://open.spotify.com/track/0oqZnZRnOO2VWi1D1XCbT0,2017-03-10,ar,0.551,0.6659999999999999,0.0299,96.964,0.388,0.00496,76.0,1
+150.0,Sueles Dejarme Solo (SEP7IMO DIA),Soda Stereo,17106.0,https://open.spotify.com/track/0FoQu6F6IsBvNovgPYn0xL,2017-03-10,ar,0.227,0.7190000000000001,0.0348,73.618,0.115,0.000852,76.0,1
+167.0,Primavera 0 (SEP7IMO DIA),Soda Stereo,15967.0,https://open.spotify.com/track/3YDRIccvxModclwFdQzV7N,2017-03-10,ar,0.445,0.894,0.0676,135.017,0.122,0.00182,76.0,1
+176.0,El Tesoro de los Inocentes,Indio Solari y los Fundamentalistas del Aire Acondicionado,15423.0,https://open.spotify.com/track/7qGn9WweEDJw8KZwJqB1KN,2017-03-10,ar,0.264,0.71,0.0341,170.02700000000004,0.505,0.000127,59.0,1
+179.0,Efecto Doppler (SEP7IMO DIA),Soda Stereo,15348.0,https://open.spotify.com/track/4FPZCGIAYVJ3fQve5yqRWL,2017-03-10,ar,0.47,0.5670000000000001,0.0314,111.023,0.6940000000000001,0.0426,76.0,1
+192.0,Terapia de Amor Intensiva (SEP7IMO DIA),Soda Stereo,14633.0,https://open.spotify.com/track/3wy5XqAAA5uEdTjsDuG8GE,2017-03-10,ar,0.469,0.619,0.0289,90.037,0.444,0.467,76.0,1
+172.0,Dile Que Tu Me Quieres Remix (feat. Yandel),Ozuna,14120.0,https://open.spotify.com/track/09QOedW1xozFDsXUI7jTeV,2017-03-11,ar,0.71,0.74,0.0596,175.93599999999995,0.882,0.103,95.0,1
+197.0,Para Enamorarte,CNCO,12652.0,https://open.spotify.com/track/3B21fRFqPLmTd9zAlK0I8A,2017-03-11,ar,0.8170000000000001,0.6759999999999999,0.0379,115.999,0.7959999999999999,0.0924,81.0,1
+195.0,Intento,Ulises Bueno,10892.0,https://open.spotify.com/track/1nvomogWZSfnw3H4Uti0eL,2017-03-12,ar,0.7190000000000001,0.847,0.0546,146.00799999999995,0.642,0.18,65.0,1
+145.0,Flight 956,Indio Solari y los Fundamentalistas del Aire Acondicionado,14312.0,https://open.spotify.com/track/5AOOf1MoFJPTJyinMqjhu6,2017-03-13,ar,0.51,0.913,0.0477,120.054,0.41,0.0299,59.0,1
+183.0,Había una Vez …,Indio Solari y los Fundamentalistas del Aire Acondicionado,12560.0,https://open.spotify.com/track/2mjtPZJEuPaUn4YD2s0BC8,2017-03-14,ar,0.529,0.847,0.0295,106.994,0.725,0.00078,59.0,1
+190.0,Reyes de la Noche,Guasones,12255.0,https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0,2017-03-15,ar,0.512,0.845,0.0381,139.955,0.659,0.1,60.0,1
+192.0,Una Nueva Noche Fría,Callejeros,12127.0,https://open.spotify.com/track/39KmBOGkD1ztCbVeo2uspA,2017-03-15,ar,0.52,0.914,0.0498,137.995,0.58,0.00337,65.0,1
+199.0,Flaca,Andrés Calamaro,11952.0,https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED,2017-03-16,ar,0.7390000000000001,0.745,0.0267,109.326,0.949,0.21,71.0,1
+112.0,Shape of You (Latin Remix) [feat. Zion & Lennox],Ed Sheeran,18499.0,https://open.spotify.com/track/5nCtCCB5i1OfbADvynNw0i,2017-03-17,ar,0.787,0.872,0.0871,95.995,0.46,0.168,97.0,1
+179.0,Si Tú La Ves,Nicky Jam,13700.0,https://open.spotify.com/track/4yN6xPLopmTLvc27pO9LIE,2017-03-17,ar,0.685,0.731,0.093,177.912,0.7859999999999999,0.204,89.0,1
+190.0,Symphony (feat. Zara Larsson),Clean Bandit,13247.0,https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8,2017-03-17,ar,0.7070000000000001,0.629,0.0563,122.863,0.457,0.259,85.0,1
+149.0,Me Gusta - Remix,Alkilados,15852.0,https://open.spotify.com/track/7pueb0FHOYlKAJPXhVhwml,2017-03-18,ar,0.789,0.8079999999999999,0.063,99.974,0.662,0.0671,64.0,1
+197.0,Vacaciones - Remix,Wisin,12499.0,https://open.spotify.com/track/42QpgFFhu8SIKFK2dp0kUj,2017-03-18,ar,0.7020000000000001,0.93,0.0674,96.027,0.585,0.0758,89.0,1
+185.0,Olha a Explosão,MC Kevinho,11514.0,https://open.spotify.com/track/6m2LNopVJKsvBB9l7Z1rwn,2017-03-19,ar,0.7659999999999999,0.62,0.127,89.988,0.3670000000000001,0.104,81.0,1
+197.0,La Disco La Parte En Dos,aLee DJ,11138.0,https://open.spotify.com/track/5eKz6EomwRhyEySGEmCuRA,2017-03-19,ar,0.8009999999999999,0.865,0.0568,100.055,0.847,0.208,39.0,1
+126.0,Passionfruit,Drake,15213.0,https://open.spotify.com/track/7hDc8b7IXETo14hHIHdnhd,2017-03-20,ar,0.809,0.463,0.0396,111.98,0.364,0.256,100.0,1
+179.0,No Te Hagas,Jory Boy,11929.0,https://open.spotify.com/track/5hKjEpYrJIJs6uPl7zw6Y6,2017-03-20,ar,0.748,0.69,0.0477,131.972,0.433,0.0353,70.0,1
+191.0,Free Smoke,Drake,11615.0,https://open.spotify.com/track/05KOgYg8PGeJyyWBPi5ja8,2017-03-20,ar,0.617,0.4920000000000001,0.448,141.953,0.208,0.0621,100.0,1
+181.0,Ahora Dice,Chris Jeday,12429.0,https://open.spotify.com/track/22eADXu8DfOAUEDw4vU8qy,2017-03-21,ar,0.708,0.693,0.138,143.965,0.4270000000000001,0.246,76.0,1
+186.0,Prohibido,Callejeros,12270.0,https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g,2017-03-22,ar,0.47,0.915,0.038,153.891,0.96,0.0347,65.0,1
+200.0,Amárrame,Mon Laferte,11825.0,https://open.spotify.com/track/0u13src3QcditRU5VPduML,2017-03-22,ar,0.6759999999999999,0.6759999999999999,0.0391,90.039,0.8240000000000001,0.21600000000000005,75.0,1
+197.0,Egoísta,Justin Quiles,12306.0,https://open.spotify.com/track/5ESAML4PZAbsiTK6OgRV2q,2017-03-23,ar,0.526,0.809,0.389,169.859,0.435,0.0353,74.0,1
+124.0,Andromeda (feat. DRAM),Gorillaz,16458.0,https://open.spotify.com/track/2C0KFbb4v9CNWR5c9jWcKC,2017-03-24,ar,0.7879999999999999,0.472,0.0475,130.084,0.257,0.003,80.0,1
+175.0,Escápate Conmigo,Wisin,13253.0,https://open.spotify.com/track/2cnKEkpVUSV4wnjQiTWfH6,2017-03-24,ar,0.747,0.8640000000000001,0.0599,92.028,0.754,0.0245,89.0,1
+198.0,Diabla - Official Remix,Farruko,12232.0,https://open.spotify.com/track/2OxUtaKYeahAGNaBiahXtR,2017-03-25,ar,0.684,0.725,0.0863,137.945,0.575,0.448,87.0,1
+143.0,Swalla (feat. Nicki Minaj & Ty Dolla $ign),Jason Derulo,13609.0,https://open.spotify.com/track/6kex4EBAj0WHXDKZMEJaaF,2017-03-27,ar,0.696,0.8170000000000001,0.109,98.064,0.782,0.075,87.0,1
+187.0,Saturnz Barz (feat. Popcaan),Gorillaz,11966.0,https://open.spotify.com/track/7l9CE3wmEGOUYw1j4ETjnL,2017-03-27,ar,0.383,0.621,0.113,80.051,0.213,0.0272,80.0,1
+198.0,Everyday,Ariana Grande,12131.0,https://open.spotify.com/track/3FiE2d325mIOc4YjkSLVJR,2017-03-30,ar,0.635,0.738,0.0519,130.971,0.428,0.0192,86.0,1
+130.0,Una Leyenda China,Residente,16497.0,https://open.spotify.com/track/534SMMNlixsiLrw7sJWx6y,2017-03-31,ar,0.649,0.634,0.0443,108.04,0.7,0.108,73.0,1
+141.0,The One,The Chainsmokers,15666.0,https://open.spotify.com/track/0wfbD5rAksdXUzRvMfM3x5,2017-03-31,ar,0.76,0.303,0.0284,99.991,0.15,0.238,90.0,1
+164.0,Enter Sandman,Metallica,14217.0,https://open.spotify.com/track/1bdXMstfxFWYSkEFTnJMoN,2017-03-31,ar,0.5770000000000001,0.828,0.0298,123.257,0.604,0.00213,83.0,1
+200.0,Can't Feel My Face,The Weeknd,12287.0,https://open.spotify.com/track/6RsWqX8zABZLhZydXxEFOm,2017-03-31,ar,0.7020000000000001,0.77,0.0482,107.951,0.593,0.124,93.0,1
+110.0,Reggaetón Lento (Bailemos) - Remix,CNCO,18782.0,https://open.spotify.com/track/1T45DsQ4HFLJgthyedAa8V,2017-04-01,ar,0.743,0.86,0.0516,93.996,0.757,0.369,81.0,1
+120.0,Encanto,Don Omar,17343.0,https://open.spotify.com/track/0OEQGwBfL4b9KX0RwfOiW6,2017-04-01,ar,0.746,0.88,0.0518,172.003,0.901,0.145,79.0,1
+136.0,Reptilia,The Strokes,16236.0,https://open.spotify.com/track/2hmibAtdObO8F4tnhLENuQ,2017-04-01,ar,0.488,0.65,0.0336,158.011,0.77,0.000597,76.0,1
+188.0,"Me, Myself & I",G-Eazy,12846.0,https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC,2017-04-01,ar,0.757,0.672,0.0955,111.996,0.382,0.0186,90.0,1
+198.0,Final Song,MØ,12344.0,https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7,2017-04-01,ar,0.695,0.672,0.0345,104.988,0.245,0.014,81.0,1
+200.0,Don't Leave,Snakehips,12149.0,https://open.spotify.com/track/0Zx8khUcEfCFK2AEoIhC92,2017-04-01,ar,0.657,0.703,0.0753,122.381,0.338,0.222,74.0,1
+146.0,Last Nite,The Strokes,13566.0,https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA,2017-04-03,ar,0.624,0.91,0.0297,104.042,0.767,0.0285,76.0,1
+178.0,Party Monster,The Weeknd,12067.0,https://open.spotify.com/track/4F7A0DXBrmUAkp32uenhZt,2017-04-03,ar,0.585,0.612,0.0806,77.487,0.188,0.181,93.0,1
+188.0,You Don't Know Me - Radio Edit,Jax Jones,11477.0,https://open.spotify.com/track/00lNx0OcTJrS3MKHcB80HY,2017-04-03,ar,0.8759999999999999,0.669,0.138,124.007,0.682,0.163,80.0,1
+189.0,The Hills,The Weeknd,11464.0,https://open.spotify.com/track/25khomWgBVamSdKw7hzm3l,2017-04-03,ar,0.35600000000000004,0.5670000000000001,0.0798,135.553,0.109,0.0861,93.0,1
+196.0,Someday,The Strokes,11241.0,https://open.spotify.com/track/56NkIxSZZiMpFP5ZNSxtnT,2017-04-03,ar,0.542,0.531,0.0301,105.97,0.6709999999999999,0.0033,76.0,1
+198.0,HUMBLE.,Kendrick Lamar,11556.0,https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS,2017-04-04,ar,0.904,0.611,0.0888,150.02,0.4,0.000259,97.0,1
+170.0,Hey DJ - Pop Version,CNCO,12722.0,https://open.spotify.com/track/2kAe8s00cKth2AfcLEbFi9,2017-04-06,ar,0.721,0.7340000000000001,0.0841,179.956,0.6679999999999999,0.113,81.0,1
+51.0,Sign of the Times,Harry Styles,41052.0,https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN,2017-04-07,ar,0.516,0.595,0.0313,119.972,0.222,0.0275,79.0,1
+64.0,Me Enamoré,Shakira,29431.0,https://open.spotify.com/track/4qknM1pQz53QOyfDVTjcM9,2017-04-07,ar,0.74,0.879,0.105,103.71,0.948,0.193,86.0,1
+75.0,Hey DJ,CNCO,25732.0,https://open.spotify.com/track/209gZgcfLq2aUuu51vOWBl,2017-04-07,ar,0.792,0.8190000000000001,0.0867,89.98,0.433,0.0309,81.0,1
+85.0,Break Up Every Night,The Chainsmokers,22567.0,https://open.spotify.com/track/6cPyTS0Kk2sc4xQwC93kOg,2017-04-07,ar,0.624,0.8059999999999999,0.0437,149.999,0.528,0.00411,90.0,1
+183.0,Still Got Time,ZAYN,12274.0,https://open.spotify.com/track/000xQL6tZNLJzIrtIgxqSl,2017-04-08,ar,0.748,0.627,0.0644,120.963,0.524,0.131,84.0,1
+163.0,Mask Off,Future,11955.0,https://open.spotify.com/track/3rOSwuTsUlJp0Pu0MkN8r8,2017-04-10,ar,0.833,0.434,0.431,150.062,0.281,0.0102,93.0,1
+173.0,Now Or Never,Halsey,12849.0,https://open.spotify.com/track/0Nhu3zSYbEz32IYiobV75e,2017-04-12,ar,0.6629999999999999,0.575,0.0458,110.04,0.458,0.1,88.0,1
+93.0,Love Me Down Easy,Oriana,19429.0,https://open.spotify.com/track/1RrLC61fYtdg4Umkwfn1bh,2017-04-14,ar,0.679,0.71,0.265,104.025,0.235,0.461,48.0,1
+160.0,Me Acostumbre (feat. Bad Bunny),Arcangel,13089.0,https://open.spotify.com/track/2FIm6YsSGL5acOqSuJDh5s,2017-04-14,ar,0.8079999999999999,0.586,0.16899999999999998,124.041,0.568,0.6409999999999999,85.0,1
+162.0,Báilame,Nacho,13324.0,https://open.spotify.com/track/7lRsNbdOGykkMAgsqs4R1C,2017-04-15,ar,0.8170000000000001,0.8690000000000001,0.18,96.029,0.561,0.163,79.0,1
+192.0,Dame Esta Noche,The Panas,11580.0,https://open.spotify.com/track/1X1oBjkT63tulB4Ogndoip,2017-04-15,ar,0.759,0.955,0.0728,115.036,0.787,0.21600000000000005,39.0,1
+160.0,The Cure,Lady Gaga,12497.0,https://open.spotify.com/track/51PIvodunv6NmX5250zxAh,2017-04-16,ar,0.696,0.503,0.0356,99.977,0.5589999999999999,0.0745,82.0,1
+1.0,Despacito - Remix,Luis Fonsi,259697.0,https://open.spotify.com/track/5CtI0qwDJkDQGwXD1H1cLb,2017-04-17,ar,0.6940000000000001,0.815,0.12,88.931,0.813,0.229,86.0,1
+160.0,Me Mata,Bad Bunny,12799.0,https://open.spotify.com/track/2wgDAPgBhFA7pnIbm0YOhP,2017-04-17,ar,0.841,0.53,0.205,114.028,0.6859999999999999,0.551,95.0,1
+198.0,Te Quiero Igual,Andrés Calamaro,11280.0,https://open.spotify.com/track/4Y7nAGTGPq8jikscC0jIHy,2017-04-18,ar,0.532,0.884,0.0398,128.07399999999998,0.7809999999999999,0.14800000000000002,71.0,1
+197.0,DNA.,Kendrick Lamar,11447.0,https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj,2017-04-19,ar,0.637,0.514,0.365,139.931,0.402,0.0047,97.0,1
+123.0,There's Nothing Holdin' Me Back,Shawn Mendes,16277.0,https://open.spotify.com/track/79cuOz3SPQTuFrp8WgftAu,2017-04-20,ar,0.857,0.8,0.0583,121.996,0.966,0.381,86.0,1
+129.0,Lust for Life (with The Weeknd),Lana Del Rey,15609.0,https://open.spotify.com/track/5LYQSNHZxEA880URXFHg6h,2017-04-20,ar,0.499,0.6759999999999999,0.0582,99.979,0.295,0.588,84.0,1
+36.0,Felices los 4,Maluma,58179.0,https://open.spotify.com/track/0qYTZCo5Bwh1nsUFGZP3zn,2017-04-21,ar,0.755,0.789,0.146,93.973,0.737,0.231,89.0,1
+108.0,Besándote,Piso 21,18842.0,https://open.spotify.com/track/13X0XdLMOdtbXVtAj2ox4h,2017-04-21,ar,0.7240000000000001,0.809,0.056,95.037,0.496,0.0345,82.0,1
+118.0,El Que Olvida,Ricardo Arjona,18306.0,https://open.spotify.com/track/69dW5grE2KVwjl0ACruk0k,2017-04-21,ar,0.454,0.703,0.0349,81.082,0.29,0.0512,77.0,1
+149.0,Hard Times,Paramore,15901.0,https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh,2017-04-21,ar,0.695,0.818,0.0334,119.965,0.916,0.00647,80.0,1
+161.0,Attention,Charlie Puth,14621.0,https://open.spotify.com/track/4iLqG9SeJSnt0cSPICSjxv,2017-04-21,ar,0.774,0.626,0.0432,100.041,0.777,0.0969,87.0,1
+182.0,Qué Me Has Hecho,Chayanne,13526.0,https://open.spotify.com/track/3nUNwSYEUv9bmUc3de0Owv,2017-04-21,ar,0.745,0.8740000000000001,0.0377,95.028,0.532,0.179,72.0,1
+149.0,El Tesoro,El Mato A Un Policia Motorizado,13626.0,https://open.spotify.com/track/6eiNg8p7GYO7x0GXM4zplv,2017-04-24,ar,0.679,0.7509999999999999,0.0296,112.868,0.573,0.0779,58.0,1
+175.0,Mil Horas,Los Abuelos De La Nada,12364.0,https://open.spotify.com/track/7uKe068f3goRFEhH6MCbun,2017-04-25,ar,0.6970000000000001,0.386,0.0798,99.796,0.5539999999999999,0.306,59.0,1
+184.0,No Promises (feat. Demi Lovato),Cheat Codes,11876.0,https://open.spotify.com/track/1louJpMmzEicAn7lzDalPW,2017-04-26,ar,0.741,0.667,0.134,112.956,0.595,0.0575,83.0,1
+192.0,Arrancacorazones,Attaque 77,11695.0,https://open.spotify.com/track/2zogXcCqvKJwh3o67W3GG3,2017-04-26,ar,0.486,0.764,0.0328,114.729,0.387,0.0679,59.0,1
+193.0,Otra Vuelta de Tuerca,Las Pastillas del Abuelo,11636.0,https://open.spotify.com/track/3Azo521e0Tacq8znJWaDQO,2017-04-26,ar,0.69,0.86,0.0421,144.968,0.951,0.14300000000000002,65.0,1
+196.0,Juntos a la Par,Pappo,11523.0,https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc,2017-04-26,ar,0.476,0.456,0.0316,84.052,0.46,0.556,53.0,1
+61.0,Tu Foto,Ozuna,33775.0,https://open.spotify.com/track/0Szp49tpFasIjX04Mcsydp,2017-04-28,ar,0.735,0.482,0.0508,175.907,0.795,0.205,95.0,1
+89.0,Una y Otra Vez,Rombai,22320.0,https://open.spotify.com/track/3VSt7R9LHTomKGP1RhkvuT,2017-04-28,ar,0.685,0.799,0.0542,105.069,0.892,0.122,67.0,1
+118.0,First Time,Kygo,17965.0,https://open.spotify.com/track/2Gl0FzuLxflY6nPifJp5Dr,2017-04-28,ar,0.633,0.5920000000000001,0.112,90.066,0.679,0.197,87.0,1
+125.0,Bon appétit,Katy Perry,17626.0,https://open.spotify.com/track/61WbtB6ujkpNAsAf5LjF4b,2017-04-28,ar,0.797,0.792,0.0607,106.038,0.54,0.111,85.0,1
+147.0,Ascension (feat. Vince Staples),Gorillaz,15949.0,https://open.spotify.com/track/2bBMODHVTXGwE2aZYfbgCt,2017-04-28,ar,0.6759999999999999,0.905,0.147,152.186,0.519,0.594,80.0,1
+169.0,Thunder,Imagine Dragons,14470.0,https://open.spotify.com/track/0tKcYR2II1VCQWT79i5NrW,2017-04-28,ar,0.6,0.81,0.0479,167.88,0.298,0.00683,91.0,1
+179.0,Strobelite (feat. Peven Everett),Gorillaz,13791.0,https://open.spotify.com/track/6XGddj522FQRHXEhBtjiJu,2017-04-28,ar,0.64,0.8640000000000001,0.0869,105.107,0.4970000000000001,0.0409,80.0,1
+183.0,I'm the One,DJ Khaled,13603.0,https://open.spotify.com/track/3DXncPQOG4VBw3QHh3S817,2017-04-28,ar,0.609,0.6679999999999999,0.0367,80.92399999999998,0.8109999999999999,0.0552,83.0,1
+195.0,Oncemil,Abel Pintos,13204.0,https://open.spotify.com/track/3y5ahYM9zwyOCt3mieZ0PZ,2017-04-28,ar,0.633,0.698,0.0301,144.172,0.369,0.161,71.0,1
+197.0,Momentz (feat. De La Soul),Gorillaz,13020.0,https://open.spotify.com/track/2RCp9QBnFSxdKe8RD4xF8s,2017-04-28,ar,0.7809999999999999,0.98,0.285,140.235,0.487,0.0549,80.0,1
+197.0,Déjame te explico,Reykon,11591.0,https://open.spotify.com/track/7jzpAD8q77nwEmSsqUeUjy,2017-04-30,ar,0.836,0.78,0.0665,92.994,0.865,0.26,70.0,1
+177.0,Si Ella Quisiera (Remix) [feat. Yandel & Gadiel],Justin Quiles,12174.0,https://open.spotify.com/track/1Kerea7WH2f330cdQimwZk,2017-05-01,ar,0.763,0.687,0.114,90.12,0.723,0.0357,74.0,1
+160.0,The Night We Met,Lord Huron,13048.0,https://open.spotify.com/track/6mORGLOz79w6VsCRLWYYuK,2017-05-02,ar,0.453,0.371,0.0449,174.02900000000002,0.1,0.968,74.0,1
+165.0,Sweet Creature,Harry Styles,12706.0,https://open.spotify.com/track/13sXuI5RjMHm7dz7O3spYs,2017-05-02,ar,0.4270000000000001,0.262,0.0276,104.085,0.228,0.746,79.0,1
+183.0,Bon Appétit,Katy Perry,11993.0,https://open.spotify.com/track/14oOKFGuXu8DqvOe1W8vao,2017-05-03,ar,0.797,0.7909999999999999,0.0626,106.044,0.516,0.115,85.0,1
+190.0,Más Que Ayer,Arcangel,11772.0,https://open.spotify.com/track/37vqCDZ6g5pZ5gqDS90MDP,2017-05-03,ar,0.708,0.687,0.0324,89.985,0.5710000000000001,0.271,85.0,1
+127.0,Call on Me - Ryan Riback Remix,Starley,16261.0,https://open.spotify.com/track/56RVUAFH9NF8zhTZ5A9KVF,2017-05-04,ar,0.691,0.821,0.0401,104.961,0.759,0.136,70.0,1
+132.0,Slow Hands,Niall Horan,15887.0,https://open.spotify.com/track/167NczpNbRF7oWakJaY3Hh,2017-05-04,ar,0.728,0.426,0.0509,85.90799999999999,0.8440000000000001,0.0142,80.0,1
+170.0,La Última Vez,Anuel Aa,14727.0,https://open.spotify.com/track/4J1e3hbf0e5YUZjkxyJWD3,2017-05-05,ar,0.7809999999999999,0.46,0.0725,96.973,0.45,0.937,78.0,1
+192.0,Po' encima (feat. Bryant Myers),Arcangel,13035.0,https://open.spotify.com/track/7sWdGtYvzlzuQRAoZ7fGeO,2017-05-05,ar,0.789,0.77,0.274,176.042,0.923,0.272,85.0,1
+198.0,Mi Religión,Yandel,12678.0,https://open.spotify.com/track/2bdD0eYH8XirjVAXq68JAN,2017-05-05,ar,0.762,0.828,0.0465,90.012,0.6709999999999999,0.0851,87.0,1
+112.0,Bebé - Remix,Brytiago,18001.0,https://open.spotify.com/track/2jVJYU4X3aD8hlTco3MlsN,2017-05-06,ar,0.615,0.752,0.0572,172.0,0.868,0.171,76.0,1
+199.0,Puti Short,De La Calle,12465.0,https://open.spotify.com/track/1KTnaTJgCt0F3WwMNjL5T6,2017-05-06,ar,0.81,0.826,0.13,97.87,0.947,0.45,55.0,1
+198.0,Stay Together,Noah Cyrus,11378.0,https://open.spotify.com/track/5R4HqXCZ6uTjxxnGdLt2S6,2017-05-10,ar,0.659,0.589,0.0541,72.015,0.339,0.174,80.0,1
+112.0,Malibu,Miley Cyrus,16543.0,https://open.spotify.com/track/2habSXqcJGExM6JJyskY7O,2017-05-11,ar,0.565,0.782,0.0506,140.004,0.4,0.0577,81.0,1
+162.0,Wonderwall - Remastered,Oasis,13462.0,https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa,2017-05-11,ar,0.378,0.8959999999999999,0.0407,174.30200000000005,0.469,0.000452,81.0,1
+62.0,Two Ghosts,Harry Styles,32318.0,https://open.spotify.com/track/4B1rpPmQXwj78wk6aIGwwU,2017-05-12,ar,0.386,0.407,0.0268,69.387,0.456,0.234,79.0,1
+64.0,La Quiero Conocer,Marama,31552.0,https://open.spotify.com/track/2HNBSacyB6jm04n9dX2Mse,2017-05-12,ar,0.642,0.6609999999999999,0.111,107.807,0.792,0.156,65.0,1
+78.0,Meet Me in the Hallway,Harry Styles,25791.0,https://open.spotify.com/track/4u9Y4Z9i9VaAbBK7rW1Rha,2017-05-12,ar,0.537,0.383,0.0247,104.252,0.339,0.747,79.0,1
+85.0,Kiwi,Harry Styles,24294.0,https://open.spotify.com/track/33SNO8AaciGbNaQFkxvPrW,2017-05-12,ar,0.375,0.93,0.0561,147.124,0.491,0.00064,79.0,1
+88.0,Carolina,Harry Styles,24066.0,https://open.spotify.com/track/3Dwq1oiOFys6Sxr5SslmXw,2017-05-12,ar,0.624,0.6729999999999999,0.0268,121.986,0.458,0.0005690000000000001,79.0,1
+89.0,Only Angel,Harry Styles,23847.0,https://open.spotify.com/track/5Lbsc65org0b85kNsPkluY,2017-05-12,ar,0.5539999999999999,0.8420000000000001,0.0397,114.036,0.348,0.287,79.0,1
+94.0,Woman,Harry Styles,21687.0,https://open.spotify.com/track/33bURv895AN4FkBvgFo2dx,2017-05-12,ar,0.624,0.647,0.0335,136.02200000000002,0.379,0.0169,79.0,1
+98.0,Ever Since New York,Harry Styles,20783.0,https://open.spotify.com/track/5LABCxgmP7DATATIJXOh6n,2017-05-12,ar,0.389,0.537,0.0309,127.964,0.383,0.2,79.0,1
+108.0,From the Dining Table,Harry Styles,19740.0,https://open.spotify.com/track/1IF5UcqRO42D12vYwceOY6,2017-05-12,ar,0.6709999999999999,0.156,0.0371,94.08,0.201,0.804,79.0,1
+158.0,Rollin,Calvin Harris,15206.0,https://open.spotify.com/track/3FDrI0FLKzrYQiWxPhqV2W,2017-05-12,ar,0.754,0.762,0.0849,92.002,0.6729999999999999,0.45,88.0,1
+186.0,Uh amor (feat. Lionel Ferro),#TocoParaVos,13659.0,https://open.spotify.com/track/5iwXmJp9HTaGdLexUNQlNp,2017-05-12,ar,0.805,0.649,0.107,91.927,0.705,0.128,55.0,1
+195.0,Shape of You - Versión Cumbia,DJ Pirata,12992.0,https://open.spotify.com/track/7MruO65t7LwBCvRHMp0D3p,2017-05-12,ar,0.8420000000000001,0.727,0.128,89.98299999999998,0.909,0.381,46.0,1
+150.0,El Ratico,Juanes,14974.0,https://open.spotify.com/track/0pc964i59EXbSItfDHMneb,2017-05-13,ar,0.693,0.687,0.0503,88.932,0.78,0.111,79.0,1
+191.0,Si No Vuelves,Gente De Zona,13154.0,https://open.spotify.com/track/0PE1dlvMZeBqEbm4BtVVSZ,2017-05-13,ar,0.6809999999999999,0.912,0.04,92.021,0.667,0.102,79.0,1
+156.0,Un Ratito Mas,Bryant Myers,13009.0,https://open.spotify.com/track/21lnmphofXWWeSSx0PEMjc,2017-05-15,ar,0.662,0.628,0.0468,139.898,0.202,0.145,79.0,1
+46.0,Bad Liar,Selena Gomez,43563.0,https://open.spotify.com/track/1sCxVKWImDZSZKvG0U9B23,2017-05-18,ar,0.953,0.41,0.0705,121.074,0.718,0.175,88.0,1
+65.0,Like a Stone,Audioslave,28022.0,https://open.spotify.com/track/2xt2piJx6jlFkjS77YiqpL,2017-05-18,ar,0.614,0.568,0.0276,107.849,0.516,0.00797,72.0,1
+87.0,Black Hole Sun,Soundgarden,22177.0,https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD,2017-05-18,ar,0.354,0.825,0.0406,105.495,0.16,0.000203,71.0,1
+93.0,Show Me How to Live,Audioslave,20966.0,https://open.spotify.com/track/21tuvt3CXIsNquc32v8jpc,2017-05-18,ar,0.433,0.8540000000000001,0.0483,89.4,0.368,0.000336,72.0,1
+124.0,Be Yourself,Audioslave,15916.0,https://open.spotify.com/track/7r9ZTgy31yObGZE6ZYDlQg,2017-05-18,ar,0.423,0.845,0.0559,116.602,0.317,0.14300000000000002,72.0,1
+132.0,Cochise,Audioslave,15539.0,https://open.spotify.com/track/4OCzAGgyWsUKpdWufYywZm,2017-05-18,ar,0.452,0.873,0.0613,80.473,0.433,0.000519,72.0,1
+138.0,I Am the Highway,Audioslave,15253.0,https://open.spotify.com/track/4Im33JWLEobPtMTTAw7GUF,2017-05-18,ar,0.341,0.662,0.0335,174.875,0.2,0.105,72.0,1
+185.0,Quit (feat. Ariana Grande),Cashmere Cat,12880.0,https://open.spotify.com/track/4Q5yMlwAfAoitqg4r9oZHN,2017-05-18,ar,0.365,0.413,0.0507,84.74600000000002,0.125,0.103,76.0,1
+58.0,Crying in the Club,Camila Cabello,36446.0,https://open.spotify.com/track/1SJtlNRJDeYHioymcvsqev,2017-05-19,ar,0.334,0.617,0.383,85.227,0.603,0.334,92.0,1
+62.0,Strip That Down,Liam Payne,34298.0,https://open.spotify.com/track/4Ro98RCK90oHqqSZUnTFq5,2017-05-19,ar,0.87,0.488,0.0537,106.008,0.519,0.221,84.0,1
+93.0,Swish Swish,Katy Perry,21606.0,https://open.spotify.com/track/3VRk65lHSwqd90TAkQqhvB,2017-05-19,ar,0.835,0.7190000000000001,0.0559,119.946,0.532,0.0182,85.0,1
+175.0,Me Quedo Con Vos,Olvidate!,13979.0,https://open.spotify.com/track/047wZQy2qgOm5WKIeZ91LK,2017-05-19,ar,0.701,0.853,0.0737,115.001,0.912,0.111,53.0,1
+181.0,Esa Boquita,J Alvarez,13821.0,https://open.spotify.com/track/3tWeAH4IYIrxV2jrUk9Ab3,2017-05-19,ar,0.7240000000000001,0.7509999999999999,0.09,180.021,0.949,0.397,72.0,1
+199.0,Switch,Iggy Azalea,13080.0,https://open.spotify.com/track/02LZ1fGJE8fB56yTlCVMEV,2017-05-19,ar,0.914,0.624,0.0531,109.977,0.34600000000000003,0.00348,75.0,1
+107.0,Una Lady Como Tú,Manuel Turizo,18852.0,https://open.spotify.com/track/7MHN1aCFtLXjownGhvEQlF,2017-05-20,ar,0.7879999999999999,0.477,0.0434,94.983,0.86,0.5489999999999999,86.0,1
+193.0,Blockia,Bad Bunny,12567.0,https://open.spotify.com/track/3uPLiBTUgz7wrGJ2mw1rzM,2017-05-20,ar,0.773,0.583,0.054000000000000006,138.009,0.373,0.206,95.0,1
+160.0,I Have Questions,Camila Cabello,13465.0,https://open.spotify.com/track/3NgCzSW98SsqBdpYcnm4kv,2017-05-22,ar,0.393,0.555,0.276,167.99900000000005,0.22,0.405,92.0,1
+73.0,There for You,Martin Garrix,25575.0,https://open.spotify.com/track/6jA8HL9i4QGzsj6fjoxp8Y,2017-05-26,ar,0.611,0.644,0.0553,105.969,0.13,0.124,87.0,1
+121.0,Strangers,Halsey,17434.0,https://open.spotify.com/track/4C5ewaZ05vyXM23jFJdwd4,2017-05-26,ar,0.69,0.784,0.056,109.969,0.284,0.01,88.0,1
+184.0,No Vacancy,OneRepublic,10663.0,https://open.spotify.com/track/6XOYVSmNDjKUNMXooU4s4z,2017-05-28,ar,0.71,0.73,0.0607,99.986,0.48,0.0571,83.0,1
+181.0,Ahora Me Llama,Karol G,12232.0,https://open.spotify.com/track/61HHDBLqF3AmSvLfHKNGd2,2017-05-29,ar,0.664,0.5760000000000001,0.0349,134.934,0.121,0.0073,79.0,1
+192.0,Tan Distintos,Guasones,12108.0,https://open.spotify.com/track/5lVxdKsJkQClhBLK7lfurE,2017-06-01,ar,0.6659999999999999,0.85,0.0281,121.026,0.741,0.0117,60.0,1
+62.0,Bonita,J Balvin,29433.0,https://open.spotify.com/track/0atfY1ew83Ql9nNnJiD2t5,2017-06-03,ar,0.782,0.8640000000000001,0.0402,96.049,0.866,0.0116,94.0,1
+127.0,Tamo Activo,Los Turros,16473.0,https://open.spotify.com/track/3bdZxtSur7qHEfqIofeh5w,2017-06-03,ar,0.901,0.507,0.309,96.045,0.722,0.0826,49.0,1
+156.0,Quiéreme,Jacob Forever,14133.0,https://open.spotify.com/track/4sA0dk2U5tJiPYtx3ZrbIf,2017-06-03,ar,0.613,0.71,0.0639,176.101,0.395,0.375,67.0,1
+178.0,Prendido Fuego,No Te Va Gustar,13016.0,https://open.spotify.com/track/0jwRuf0oR6FcDetPlpJ5z6,2017-06-03,ar,0.34600000000000003,0.547,0.0323,182.922,0.498,0.287,68.0,1
+182.0,Autodestructivo,No Te Va Gustar,12702.0,https://open.spotify.com/track/0eTU0Br9OK8LybsjrXl6gH,2017-06-03,ar,0.7070000000000001,0.698,0.0287,124.975,0.879,0.0324,68.0,1
+183.0,Down,Fifth Harmony,12600.0,https://open.spotify.com/track/7LEydI5NfjY6mZfKwYIptZ,2017-06-03,ar,0.53,0.512,0.133,196.121,0.401,0.0162,80.0,1
+198.0,Y el Mundo Me Comió a Mi,No Te Va Gustar,12009.0,https://open.spotify.com/track/5w5iSI6HkxJc0LIoqnKz2F,2017-06-03,ar,0.672,0.807,0.0332,122.025,0.615,0.0193,68.0,1
+150.0,Para Cuando Me Muera,No Te Va Gustar,13493.0,https://open.spotify.com/track/7zpDy3s9gMgAS7e0cYjLpx,2017-06-05,ar,0.7709999999999999,0.593,0.039,113.979,0.85,0.0177,68.0,1
+159.0,Y el Mundo Me Comió a Mí,No Te Va Gustar,13355.0,https://open.spotify.com/track/6As0g0aBOtE30CcieMKjtd,2017-06-05,ar,0.6709999999999999,0.802,0.0326,122.053,0.612,0.0215,68.0,1
+174.0,Quería Ser Como Él,No Te Va Gustar,12588.0,https://open.spotify.com/track/2gRa1eZhojckmX1wZPikAY,2017-06-05,ar,0.6920000000000001,0.7170000000000001,0.0255,91.983,0.698,0.0471,68.0,1
+197.0,Guante Blanco,No Te Va Gustar,11488.0,https://open.spotify.com/track/7aVJckZFBbTxdDecITXNQf,2017-06-05,ar,0.654,0.8170000000000001,0.0369,125.986,0.502,0.0302,68.0,1
+198.0,One Last Time,Ariana Grande,11464.0,https://open.spotify.com/track/7bJwvubZZaoGE1AGEfu8Fi,2017-06-05,ar,0.624,0.618,0.0322,125.036,0.122,0.115,86.0,1
+182.0,Buscando Huellas (feat. J Balvin & Sean Paul),Major Lazer,12681.0,https://open.spotify.com/track/6urlj8N8TL3MK0ATNGIZYW,2017-06-07,ar,0.696,0.8490000000000001,0.289,108.127,0.502,0.0457,85.0,1
+194.0,"Know No Better (feat. Travis Scott, Camila Cabello & Quavo)",Major Lazer,12167.0,https://open.spotify.com/track/3Ytr1SUCUi6J3L9dRFx5iH,2017-06-07,ar,0.738,0.8140000000000001,0.0999,119.041,0.483,0.132,85.0,1
+190.0,Yellow,Coldplay,12258.0,https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg,2017-06-08,ar,0.429,0.6609999999999999,0.0281,173.365,0.285,0.00239,89.0,1
+196.0,Unforgettable,French Montana,12030.0,https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe,2017-06-08,ar,0.726,0.769,0.123,97.985,0.733,0.0293,88.0,1
+35.0,2U (feat. Justin Bieber),David Guetta,57541.0,https://open.spotify.com/track/3A7qX2QjDlPnazUsRk5y0M,2017-06-09,ar,0.5479999999999999,0.65,0.0591,144.937,0.557,0.219,89.0,1
+157.0,Déjà Vu,Katy Perry,14839.0,https://open.spotify.com/track/5q9stUg2W38X9PyzgIOdhH,2017-06-09,ar,0.638,0.619,0.0667,120.049,0.171,0.3720000000000001,85.0,1
+194.0,...Baby One More Time - Recorded at Spotify Studios NYC,Ed Sheeran,12862.0,https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L,2017-06-09,ar,0.792,0.307,0.0522,104.511,0.631,0.189,97.0,1
+132.0,Loca (feat. Cali Y El Dandee),Maite Perroni,17060.0,https://open.spotify.com/track/05ZXXyeZFhZtA6DAP3Aw7x,2017-06-10,ar,0.7509999999999999,0.8390000000000001,0.054000000000000006,95.019,0.639,0.11,69.0,1
+142.0,Mala Mujer,C. Tangana,15982.0,https://open.spotify.com/track/6puxHBNwu2Nmm7uD3Rd2MP,2017-06-10,ar,0.836,0.731,0.133,100.974,0.473,0.238,70.0,1
+194.0,Perro Fiel,Shakira,12916.0,https://open.spotify.com/track/70lnL3QaSOIIyMa2X9aVRL,2017-06-10,ar,0.75,0.76,0.198,183.817,0.893,0.187,86.0,1
+137.0,Feels,Calvin Harris,17177.0,https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke,2017-06-16,ar,0.893,0.745,0.0571,101.018,0.872,0.0642,88.0,1
+183.0,All I Can Think About Is You,Coldplay,14082.0,https://open.spotify.com/track/4gDyoe1FImDlXVt58ssnMf,2017-06-16,ar,0.348,0.7120000000000001,0.0335,73.102,0.424,0.155,89.0,1
+171.0,Paradinha,Anitta,14365.0,https://open.spotify.com/track/05rJdH2MRLJ3sQoEUO78qs,2017-06-17,ar,0.695,0.775,0.0887,180.054,0.8690000000000001,0.0117,87.0,1
+178.0,Te Robo Remix,Gigolo Y La Exce,13874.0,https://open.spotify.com/track/2qHiGVZkLDpQr5MsBWspSD,2017-06-17,ar,0.764,0.735,0.066,93.013,0.667,0.181,67.0,1
+192.0,"Ayer 2 (feat. Dj Nelson, J Balvin, Nicky Jam, Cosculluela)",Anuel Aa,13131.0,https://open.spotify.com/track/5ZF3889W92eTBOROe0lPNN,2017-06-17,ar,0.813,0.7709999999999999,0.0718,91.998,0.785,0.142,78.0,1
+139.0,Quédate Conmigo,Chyno Miranda,13656.0,https://open.spotify.com/track/0a9b4sUavOWgyc9jeScv7Y,2017-06-18,ar,0.733,0.901,0.108,98.003,0.77,0.0792,62.0,1
+108.0,Wild Thoughts,DJ Khaled,16198.0,https://open.spotify.com/track/1OAh8uOEOvTDqkKFsKksCi,2017-06-19,ar,0.6709999999999999,0.672,0.0688,97.98,0.632,0.0329,83.0,1
+177.0,Sin Principio Ni Final,Abel Pintos,12463.0,https://open.spotify.com/track/6ihwy1c6tsMC6AWANIrhH2,2017-06-19,ar,0.5760000000000001,0.5429999999999999,0.0362,129.885,0.439,0.124,71.0,1
+194.0,Mama,Jonas Blue,11664.0,https://open.spotify.com/track/0NiXXAI876aGImAd6rTj8w,2017-06-19,ar,0.746,0.7929999999999999,0.0412,104.027,0.557,0.11,80.0,1
+200.0,More Than You Know,Axwell /\ Ingrosso,10642.0,https://open.spotify.com/track/3PEgB3fkiojxms35ntsTgs,2017-06-20,ar,0.644,0.743,0.0355,123.074,0.544,0.034,81.0,1
+173.0,Fix You,Coldplay,13528.0,https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q,2017-06-22,ar,0.209,0.418,0.0338,138.265,0.123,0.163,89.0,1
+174.0,Ahora Imagino Cosas,El Mato A Un Policia Motorizado,13493.0,https://open.spotify.com/track/5iQfFljjs2rwXYe68V9VyE,2017-06-22,ar,0.495,0.919,0.0589,140.05100000000002,0.7240000000000001,0.00811,58.0,1
+185.0,La Noche Eterna,El Mato A Un Policia Motorizado,13009.0,https://open.spotify.com/track/0oTDAJdyXD32cvawlw4Vpd,2017-06-22,ar,0.687,0.494,0.0248,104.988,0.301,0.13699999999999998,58.0,1
+196.0,No Vacancy (with Sebastián Yatra),OneRepublic,12470.0,https://open.spotify.com/track/3Gqj86AgnD8EiIOFIGLubs,2017-06-22,ar,0.6890000000000001,0.772,0.047,99.989,0.53,0.0629,83.0,1
+80.0,I Don’t Know Why,Imagine Dragons,23852.0,https://open.spotify.com/track/15dnkAHcHC0vrIUlbiPiqU,2017-06-23,ar,0.475,0.657,0.0708,132.071,0.0707,0.0058,91.0,1
+81.0,Naistumichiu,CHANO,23635.0,https://open.spotify.com/track/6vBeZiyYQmb0eD1Fj3RThI,2017-06-23,ar,0.589,0.846,0.0317,96.963,0.6409999999999999,0.145,35.0,1
+132.0,Whatever It Takes,Imagine Dragons,17521.0,https://open.spotify.com/track/4IWAyPf1KMq7JCyGeCjTeH,2017-06-23,ar,0.675,0.649,0.0315,134.955,0.537,0.0429,91.0,1
+169.0,Imitadora,Romeo Santos,14709.0,https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe,2017-06-23,ar,0.737,0.7090000000000001,0.045,125.997,0.556,0.333,84.0,1
+182.0,Walking The Wire,Imagine Dragons,14099.0,https://open.spotify.com/track/6jmngk8Fwup05JZ6kgXEGX,2017-06-23,ar,0.539,0.768,0.0336,99.961,0.12,0.0168,91.0,1
+186.0,Lejos,Dame 5,13992.0,https://open.spotify.com/track/6Kk4fza1rX70tVY3ZZcsic,2017-06-23,ar,0.454,0.684,0.21600000000000005,199.545,0.706,0.248,59.0,1
+66.0,"Soy Peor Remix (feat. J Balvin, Ozuna & Arcangel)",Bad Bunny,29901.0,https://open.spotify.com/track/4UG962ViiLqoUyx0RjCcwP,2017-06-24,ar,0.8190000000000001,0.457,0.135,115.997,0.273,0.222,95.0,1
+167.0,Loco Enamorado,Abraham Mateo,15125.0,https://open.spotify.com/track/4N1c5rmWOzRmB9SMacr5wB,2017-06-24,ar,0.69,0.872,0.0588,94.0,0.731,0.226,75.0,1
+191.0,Give Me One Reason,Tom & Collins,13719.0,https://open.spotify.com/track/41yQ2QuCdwpQu1Z2rBiCBp,2017-06-24,ar,0.883,0.841,0.0643,114.944,0.775,0.0119,46.0,1
+193.0,Bailame despacio - Piso 21 Remix,Xantos,13646.0,https://open.spotify.com/track/7LFLJWIQFHsaDw5FOltT5Z,2017-06-24,ar,0.632,0.8240000000000001,0.0491,176.021,0.716,0.158,63.0,1
+179.0,Bebe (feat. Anuel AA),Ozuna,12357.0,https://open.spotify.com/track/6SIrNxmmdbv1KUbFBu1PaN,2017-06-25,ar,0.7390000000000001,0.688,0.157,169.829,0.5820000000000001,0.551,95.0,1
+199.0,Tu y Yo,Pijama Party,11464.0,https://open.spotify.com/track/4FZZy7ESCCm9Q8cqyy1ZKP,2017-06-25,ar,0.688,0.81,0.0342,105.025,0.797,0.217,54.0,1
+198.0,Me Gustas,Kevin Roldan,12204.0,https://open.spotify.com/track/2d8rQXA25Yk5ZE3XW1eTXs,2017-06-26,ar,0.8340000000000001,0.65,0.158,96.933,0.389,0.0278,73.0,1
+139.0,Devuélveme El Corazón,Sebastian Yatra,15164.0,https://open.spotify.com/track/2uWg6P3lEsS1qQ2qg11TUx,2017-06-27,ar,0.563,0.8009999999999999,0.0854,153.958,0.294,0.098,85.0,1
+97.0,El Amante - Remix,Nicky Jam,19263.0,https://open.spotify.com/track/04f13iELcsYpY2yeLiAcfq,2017-06-29,ar,0.8029999999999999,0.767,0.0535,89.96799999999998,0.598,0.311,89.0,1
+152.0,Signs,Drake,14975.0,https://open.spotify.com/track/5EnYT6F7wEcdege6mDHEfO,2017-06-29,ar,0.8009999999999999,0.727,0.0606,107.371,0.218,0.0864,100.0,1
+33.0,Mi Gente,J Balvin,63705.0,https://open.spotify.com/track/2rb5MvYT7ZIxbKW5hfcHx8,2017-06-30,ar,0.5429999999999999,0.677,0.0993,103.809,0.294,0.0148,94.0,1
+169.0,Cash Out,Calvin Harris,14508.0,https://open.spotify.com/track/0Ws8D3EWUDgY962Xftb0h5,2017-06-30,ar,0.722,0.79,0.241,94.965,0.434,0.152,88.0,1
+170.0,Versace On The Floor (Bruno Mars vs. David Guetta),Bruno Mars,14380.0,https://open.spotify.com/track/5UJshy5HDHdNEVqlJwzsQB,2017-06-30,ar,0.747,0.701,0.0429,100.012,0.589,0.108,92.0,1
+183.0,Kung Fu,Dasoul,13932.0,https://open.spotify.com/track/0B6GRS3vGtzu6w5BQXqWMq,2017-06-30,ar,0.8170000000000001,0.804,0.0651,104.996,0.57,0.13699999999999998,61.0,1
+181.0,Netflixxx,Brytiago,14314.0,https://open.spotify.com/track/5gFAT2DbEt4TOMXyAMEixG,2017-07-01,ar,0.7070000000000001,0.609,0.126,134.91,0.579,0.711,76.0,1
+192.0,Tanto Amor,Abel Pintos,13677.0,https://open.spotify.com/track/12dlQ3DhTydNecGP6atzIu,2017-07-01,ar,0.604,0.556,0.0267,143.907,0.264,0.136,71.0,1
+197.0,Bailame Despacio - Piso 21 Remix,Xantos,13489.0,https://open.spotify.com/track/0EhyUkKRh4olNJY0lJ9rhG,2017-07-01,ar,0.632,0.8240000000000001,0.0491,176.021,0.716,0.158,63.0,1
+199.0,Ahora mirame,Ulises Bueno,13323.0,https://open.spotify.com/track/780CrNUSw5RrRWHSOf9sAA,2017-07-01,ar,0.735,0.917,0.0389,149.961,0.8109999999999999,0.0673,65.0,1
+159.0,Motivos (En Vivo),Abel Pintos,14019.0,https://open.spotify.com/track/5wqbrRK8dhrW1rByRnQ1V2,2017-07-03,ar,0.495,0.703,0.0602,103.624,0.221,0.435,71.0,1
+113.0,Ni Tú Ni Yo,Jennifer Lopez,18589.0,https://open.spotify.com/track/5xMzazov0IHYllrc8U2K6F,2017-07-05,ar,0.6729999999999999,0.907,0.07400000000000001,109.04,0.768,0.123,79.0,1
+124.0,Get Low (with Liam Payne),Zedd,18816.0,https://open.spotify.com/track/1CKd1PnqfYx0H12V9MSaIY,2017-07-07,ar,0.716,0.917,0.0527,107.969,0.501,0.0215,87.0,1
+185.0,A L I E N S,Coldplay,14431.0,https://open.spotify.com/track/6pwvH9LfroBLqd3dez9vBz,2017-07-07,ar,0.425,0.878,0.038,148.002,0.252,0.00156,89.0,1
+193.0,A Ella,Karol G,13340.0,https://open.spotify.com/track/3nqrj9bM1clIkejk7BVPtX,2017-07-08,ar,0.727,0.795,0.22,181.76,0.584,0.231,79.0,1
+71.0,Tu No Metes Cabra,Bad Bunny,24420.0,https://open.spotify.com/track/10nQ3Pj0o1XotcikgJPVKD,2017-07-10,ar,0.7829999999999999,0.653,0.272,91.964,0.41,0.6729999999999999,95.0,1
+166.0,Escápate Conmigo - Remix,Wisin,13985.0,https://open.spotify.com/track/5P45f6HakSHDwdFj5dO5K5,2017-07-10,ar,0.799,0.8,0.07400000000000001,92.015,0.414,0.0495,89.0,1
+75.0,Fetish (feat. Gucci Mane),Selena Gomez,26644.0,https://open.spotify.com/track/0XLOf9LhyazPX9Ld8jPiUq,2017-07-13,ar,0.708,0.61,0.0574,123.038,0.305,0.0204,88.0,1
+198.0,Sorry Not Sorry,Demi Lovato,13744.0,https://open.spotify.com/track/25C5CowdsfXld2jJanbiex,2017-07-13,ar,0.701,0.638,0.238,144.084,0.868,0.0252,90.0,1
+116.0,Miracles (Someone Special),Coldplay,20589.0,https://open.spotify.com/track/6uJwPeBGb3swi85TSr9iIz,2017-07-14,ar,0.626,0.8220000000000001,0.0434,97.003,0.374,0.0164,89.0,1
+118.0,Mayores,Becky G,19984.0,https://open.spotify.com/track/7JNh1cfm0eXjqFVOzKLyau,2017-07-14,ar,0.743,0.855,0.0436,96.989,0.871,0.141,81.0,1
+153.0,Besarte,Rombai,16777.0,https://open.spotify.com/track/6Ar0Rcqv4AMonCshpAIheB,2017-07-14,ar,0.753,0.735,0.0385,125.384,0.635,0.247,67.0,1
+199.0,Something Just Like This - Tokyo Remix,Coldplay,14376.0,https://open.spotify.com/track/5ffwnb6hqsKZp8cG6q90OW,2017-07-14,ar,0.365,0.86,0.0586,102.863,0.14300000000000002,0.00173,89.0,1
+190.0,I Like Me Better,Lauv,13682.0,https://open.spotify.com/track/1wjzFQodRWrPcQ0AnYnvQ9,2017-07-15,ar,0.752,0.505,0.253,91.97,0.419,0.535,84.0,1
+196.0,Aire,Axel,13488.0,https://open.spotify.com/track/7vhesMGuUU7By3RWmS73wO,2017-07-15,ar,0.482,0.632,0.0315,130.785,0.179,0.4370000000000001,57.0,1
+197.0,Felices los 4 - Salsa Version,Maluma,13422.0,https://open.spotify.com/track/33F4IHQ2JcXWSDXNA9b4tK,2017-07-15,ar,0.7490000000000001,0.8420000000000001,0.0425,95.562,0.8540000000000001,0.373,89.0,1
+183.0,New Rules,Dua Lipa,13947.0,https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0,2017-07-19,ar,0.7709999999999999,0.696,0.0755,116.054,0.6559999999999999,0.00256,92.0,1
+137.0,In The End,Linkin Park,17799.0,https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq,2017-07-20,ar,0.5529999999999999,0.9,0.0584,105.213,0.398,0.0113,87.0,1
+188.0,Numb,Linkin Park,13977.0,https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h,2017-07-20,ar,0.496,0.863,0.0381,110.018,0.243,0.0046,87.0,1
+54.0,Back to You (feat. Bebe Rexha & Digital Farm Animals),Louis Tomlinson,44353.0,https://open.spotify.com/track/7F9vK8hNFMml4GtHsaXui6,2017-07-21,ar,0.6829999999999999,0.53,0.142,75.016,0.645,0.207,76.0,1
+81.0,Bella y Sensual,Romeo Santos,27557.0,https://open.spotify.com/track/0ERbK7qVqveCaBWIiYCrl3,2017-07-21,ar,0.635,0.713,0.0937,179.864,0.7490000000000001,0.228,84.0,1
+122.0,Heavy (feat. Kiiara),Linkin Park,20248.0,https://open.spotify.com/track/104buTcnP2AsxqB7U1FIZ4,2017-07-21,ar,0.59,0.6709999999999999,0.0706,149.982,0.438,0.0484,87.0,1
+139.0,What I've Done,Linkin Park,18571.0,https://open.spotify.com/track/4kfm1uI9QGaoN9qm6CkAMn,2017-07-21,ar,0.623,0.93,0.0324,120.119,0.287,0.0141,87.0,1
+199.0,La Tonta,Jimena Baron,14420.0,https://open.spotify.com/track/0imzSFFJDCdKruduJHFN6A,2017-07-21,ar,0.8009999999999999,0.551,0.0427,124.009,0.885,0.115,53.0,1
+169.0,El Farsante,Ozuna,13493.0,https://open.spotify.com/track/2LW4Zu7FcrwjWm3t5Rv3Oq,2017-07-23,ar,0.753,0.732,0.0562,120.056,0.325,0.214,95.0,1
+197.0,Gabriela,Ulises Bueno,12130.0,https://open.spotify.com/track/0yDywtFV5WIZBFGuC082Mo,2017-07-23,ar,0.645,0.8,0.0524,147.91,0.62,0.344,65.0,1
+192.0,Me soltaste,Jesse & Joy,14353.0,https://open.spotify.com/track/02yD6Wmpx5kLAoXLQOnuEb,2017-07-27,ar,0.4,0.398,0.0385,111.661,0.16,0.7859999999999999,78.0,1
+103.0,Una Na,Lali,23306.0,https://open.spotify.com/track/2LqIRA261mwY69KVA7Lw6L,2017-07-28,ar,0.499,0.758,0.16,125.218,0.43,0.019,69.0,1
+164.0,Robarte un Beso,Carlos Vives,16064.0,https://open.spotify.com/track/4z3GJkrtH97Bj6fRta983T,2017-07-29,ar,0.748,0.884,0.0501,95.046,0.6779999999999999,0.0902,80.0,1
+167.0,Sobredosis,Romeo Santos,14039.0,https://open.spotify.com/track/1WbXIpiGBJkCiv3hn40iPB,2017-07-31,ar,0.759,0.639,0.0511,128.01,0.682,0.207,84.0,1
+190.0,El Pibe de los Astilleros,Patricio Rey y sus Redonditos de Ricota,12841.0,https://open.spotify.com/track/02ZtIbjdZKpvdeUNmY0LWp,2017-07-31,ar,0.618,0.6990000000000001,0.0275,112.33,0.61,0.0109,68.0,1
+192.0,Corazón Fugitivo,La Renga,12791.0,https://open.spotify.com/track/08Az8ihw2PvIlj4cpLsZgT,2017-07-31,ar,0.568,0.948,0.0309,132.012,0.519,0.0002,64.0,1
+194.0,Amigos y Enemigos - Remix,Noriel,12725.0,https://open.spotify.com/track/2sA4woGW5KgEgGXXxOKPAZ,2017-07-31,ar,0.752,0.748,0.0895,115.01,0.4970000000000001,0.289,80.0,1
+192.0,Fue Tan Bueno,La Franela,12961.0,https://open.spotify.com/track/0i2elQQdEZwsDX5icf0Co8,2017-08-01,ar,0.6409999999999999,0.516,0.0256,94.005,0.745,0.0177,53.0,1
+113.0,Báilame - Remix,Nacho,19034.0,https://open.spotify.com/track/3VClLWqNn80Llv0PJOsKgr,2017-08-02,ar,0.7909999999999999,0.866,0.0497,96.011,0.71,0.248,79.0,1
+87.0,OMG,Camila Cabello,26350.0,https://open.spotify.com/track/4xBjsLUSjcx2h7PcRikpQp,2017-08-04,ar,0.655,0.5760000000000001,0.0536,139.953,0.16699999999999998,0.0295,92.0,1
+112.0,Krippy Kush,Farruko,21261.0,https://open.spotify.com/track/3rgjBiAMVGnxmsTDmUy8vb,2017-08-04,ar,0.708,0.56,0.129,163.043,0.411,0.0668,87.0,1
+177.0,Una Lady Como Tú - Remix,Manuel Turizo,15412.0,https://open.spotify.com/track/7MMRoGvm7uhoUVhGvHJ3yW,2017-08-04,ar,0.518,0.532,0.0771,95.008,0.741,0.392,86.0,1
+182.0,Kissing Strangers,DNCE,15193.0,https://open.spotify.com/track/2YMyVYNLmFDD0KGtNkkgFa,2017-08-04,ar,0.7759999999999999,0.741,0.041,120.079,0.8540000000000001,0.0506,78.0,1
+188.0,Que Va,Alex Sensation,14911.0,https://open.spotify.com/track/7ofxPmTNMj2GP07g1VZa0O,2017-08-04,ar,0.7709999999999999,0.835,0.0507,91.012,0.8170000000000001,0.13,75.0,1
+123.0,Si Tu Lo Dejas,Rvssian,20029.0,https://open.spotify.com/track/2naJy8SKJ27gj6ZhRPDKaz,2017-08-05,ar,0.713,0.5770000000000001,0.0436,115.021,0.387,0.0286,72.0,1
+176.0,Glorious (feat. Skylar Grey),Macklemore,13684.0,https://open.spotify.com/track/3HVr6jTVwBHBa2flM0eURR,2017-08-07,ar,0.731,0.794,0.0522,139.994,0.35600000000000004,0.0323,86.0,1
+97.0,Explícale,Yandel,23849.0,https://open.spotify.com/track/48yAM9xWBwT4Ac9G1y20rw,2017-08-11,ar,0.8079999999999999,0.69,0.14800000000000002,125.086,0.64,0.0583,87.0,1
+153.0,Deja Vu,Gustavo Cerati,17211.0,https://open.spotify.com/track/4suom7B7d6DQa2YTPBT1lv,2017-08-11,ar,0.491,0.863,0.0365,138.958,0.271,8.909999999999997e-05,70.0,1
+178.0,Without You (feat. Sandro Cavazza),Avicii,15053.0,https://open.spotify.com/track/6WbADFqMvR8N5u0BvtsWQE,2017-08-11,ar,0.652,0.855,0.0441,134.009,0.279,0.00179,84.0,1
+135.0,Se Preparó,Ozuna,18332.0,https://open.spotify.com/track/3mxWDt0eKXfl4C1e4oIP0J,2017-08-12,ar,0.7390000000000001,0.821,0.0852,171.077,0.693,0.222,95.0,1
+174.0,Dure Dure,Jencarlos,15067.0,https://open.spotify.com/track/42MoYJb42qprlpJU0OEhAT,2017-08-12,ar,0.653,0.84,0.222,180.141,0.638,0.07200000000000001,59.0,1
+199.0,Sua Cara (feat. Anitta & Pabllo Vittar),Major Lazer,13886.0,https://open.spotify.com/track/3ibRxEv4KkcU9e259eyNJA,2017-08-12,ar,0.789,0.767,0.0715,99.957,0.637,0.00812,85.0,1
+192.0,"Si Me Muero (feat. Farruko, Lary Over, Nengo Flow & Darell)",Pepe Quintana,12532.0,https://open.spotify.com/track/7gLApUvGknNvpqeRtgp7S9,2017-08-13,ar,0.7390000000000001,0.679,0.062,133.002,0.289,0.032,65.0,1
+191.0,La Estrategia,Cali Y El Dandee,13368.0,https://open.spotify.com/track/5fqE4mcMADOX0qTuIlpLZL,2017-08-14,ar,0.393,0.703,0.263,165.59900000000005,0.23,0.14800000000000002,74.0,1
+73.0,Friends (with BloodPop®),Justin Bieber,29770.0,https://open.spotify.com/track/7iNIg7XDEaYECfWD5dJ9Va,2017-08-17,ar,0.7440000000000001,0.752,0.0368,104.99,0.65,0.00398,91.0,1
+187.0,Havana,Camila Cabello,14698.0,https://open.spotify.com/track/0ofbQMrRDsUaVKq2mGLEAb,2017-08-17,ar,0.768,0.517,0.0312,104.992,0.418,0.18600000000000005,92.0,1
+200.0,Would You Ever,Skrillex,14061.0,https://open.spotify.com/track/57p8CBvPOxrvyCbn6ttl5r,2017-08-17,ar,0.653,0.91,0.0566,126.047,0.0921,0.0079,83.0,1
+87.0,Reggaetón Lento (Remix),CNCO,28371.0,https://open.spotify.com/track/3zoYkqS4y2BsGVShPL2nTE,2017-08-18,ar,0.527,0.907,0.11,93.813,0.664,0.154,81.0,1
+126.0,Sólo Mía,Yandel,21299.0,https://open.spotify.com/track/3WM3XDNCzEsLvtp59D9oF7,2017-08-18,ar,0.757,0.733,0.2,174.05,0.8640000000000001,0.213,87.0,1
+144.0,Know No Better (feat. Travis Scott & Quavo) - Bad Bunny Remix,Major Lazer,19096.0,https://open.spotify.com/track/1YCCa9beW7JkFxflje5ERB,2017-08-18,ar,0.7959999999999999,0.815,0.0859,119.048,0.604,0.26,85.0,1
+161.0,3 A.M.,Jesse & Joy,17723.0,https://open.spotify.com/track/0yyZN5ASdrYu0XYWFzfxUu,2017-08-18,ar,0.7020000000000001,0.84,0.0879,101.99,0.624,0.0112,78.0,1
+182.0,Sexto Sentido (feat. Bad Bunny),Gigolo Y La Exce,16198.0,https://open.spotify.com/track/3iDPALl8BoUbuXZgy6EOWY,2017-08-18,ar,0.7140000000000001,0.624,0.0651,140.984,0.5,0.39,67.0,1
+155.0,Criminal,Natti Natasha,14948.0,https://open.spotify.com/track/3dINUTtt8noTn16rHcpTTp,2017-08-21,ar,0.816,0.8059999999999999,0.0563,79.987,0.8220000000000001,0.0347,81.0,1
+15.0,Tú Foto,Ozuna,112661.0,https://open.spotify.com/track/5zSOVwaY3sVjnmLhuEfsuf,2017-08-25,ar,0.748,0.565,0.0476,175.92,0.812,0.16399999999999998,95.0,1
+29.0,Look What You Made Me Do,Taylor Swift,72782.0,https://open.spotify.com/track/2VjtYe7gpfUi2OkGxR2O2z,2017-08-25,ar,0.767,0.6709999999999999,0.142,128.072,0.474,0.21,90.0,1
+98.0,Cumpleaños,Ozuna,23889.0,https://open.spotify.com/track/6La6oWlGposkrgvLjjRJju,2017-08-25,ar,0.664,0.748,0.0628,170.107,0.735,0.0889,95.0,1
+144.0,He Like That,Fifth Harmony,17936.0,https://open.spotify.com/track/0m2orA1i5lLZUOt9XLwSd0,2017-08-25,ar,0.5920000000000001,0.6809999999999999,0.141,147.016,0.491,0.362,80.0,1
+183.0,Lo Que Pasa en la Noche,Mano Arriba,15337.0,https://open.spotify.com/track/2eOleVJlGvBE027wpnYt2H,2017-08-26,ar,0.6659999999999999,0.762,0.0545,150.058,0.802,0.0093,57.0,1
+181.0,Silence,Marshmello,14328.0,https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU,2017-08-28,ar,0.52,0.7609999999999999,0.0853,141.971,0.28600000000000003,0.256,92.0,1
+197.0,Quiero Repetir,Ozuna,13389.0,https://open.spotify.com/track/0MIcPSq9n2z5H8TAfEstri,2017-08-28,ar,0.608,0.753,0.368,97.626,0.482,0.103,95.0,1
+139.0,What Lovers Do (feat. SZA),Maroon 5,19216.0,https://open.spotify.com/track/6YVpU5vVxezJCYeQUxIkRT,2017-09-01,ar,0.795,0.611,0.0711,110.016,0.404,0.0793,89.0,1
+132.0,Suena El Dembow,Joey Montana,19788.0,https://open.spotify.com/track/5TysCiZtv1HnSWcTcUFusI,2017-09-02,ar,0.688,0.8590000000000001,0.0609,92.042,0.695,0.18600000000000005,75.0,1
+98.0,...Ready For It?,Taylor Swift,20742.0,https://open.spotify.com/track/19WjVVgXjdKXfLXoaDPwTM,2017-09-03,ar,0.616,0.77,0.142,160.049,0.412,0.0573,90.0,1
+188.0,B.U.H.O (feat. Duki & Klave),Midel,13899.0,https://open.spotify.com/track/6F9BrSf6kqJkV6Uyq589uj,2017-09-04,ar,0.8959999999999999,0.715,0.0544,128.01,0.513,0.195,59.0,1
+196.0,Lean,El Nene La amenaza,13474.0,https://open.spotify.com/track/3NWdNMJXQm2u1X4BFge4Ag,2017-09-04,ar,0.73,0.62,0.0908,127.025,0.273,0.235,69.0,1
+174.0,La Realidad (Remix),Pusho,15289.0,https://open.spotify.com/track/2PgsOTPkF25VJ9cZmUjSKE,2017-09-05,ar,0.72,0.7240000000000001,0.319,176.16299999999995,0.614,0.386,69.0,1
+196.0,Una Flor,Ozuna,13801.0,https://open.spotify.com/track/1N9VY22tQUnD84bNWUsyKe,2017-09-05,ar,0.69,0.402,0.116,96.89,0.298,0.736,95.0,1
+84.0,Dusk Till Dawn - Radio Edit,ZAYN,27343.0,https://open.spotify.com/track/1j4kHkkpqZRBwE0A4CN4Yv,2017-09-08,ar,0.258,0.4370000000000001,0.039,180.043,0.0967,0.101,84.0,1
+94.0,Too Good At Goodbyes - Edit,Sam Smith,25208.0,https://open.spotify.com/track/0mel2N9Ws9r4yLQn5QE21Y,2017-09-08,ar,0.653,0.378,0.0533,91.835,0.54,0.6579999999999999,89.0,1
+153.0,Como Antes,Yandel,18008.0,https://open.spotify.com/track/5YzA563GXTuwQaRq24z1k5,2017-09-08,ar,0.813,0.8759999999999999,0.172,94.987,0.746,0.182,87.0,1
+155.0,Muy Personal,Yandel,17876.0,https://open.spotify.com/track/1oNtIPC2XBWpE7A1x9YjQi,2017-09-08,ar,0.565,0.763,0.09,169.929,0.809,0.0671,87.0,1
+159.0,No Quiero Amores,Yandel,17732.0,https://open.spotify.com/track/37sexcbewtWiE8PDuLRFrY,2017-09-08,ar,0.6659999999999999,0.6579999999999999,0.209,182.18400000000003,0.562,0.0147,87.0,1
+102.0,Too Good At Goodbyes,Sam Smith,22960.0,https://open.spotify.com/track/7oAraczbemGSNWqnbkU87R,2017-09-09,ar,0.515,0.378,0.065,91.883,0.536,0.618,89.0,1
+175.0,1-800-273-8255,Logic,15438.0,https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV,2017-09-11,ar,0.629,0.5720000000000001,0.0387,100.015,0.386,0.57,92.0,1
+192.0,Besame,Valentino,14507.0,https://open.spotify.com/track/7Ckhk1XW5NV2k4jpqtQNlz,2017-09-13,ar,0.767,0.705,0.0521,94.013,0.52,0.342,68.0,1
+110.0,Too Much To Ask,Niall Horan,22754.0,https://open.spotify.com/track/2NkbRmygVirMQFCjSkyY7Q,2017-09-15,ar,0.443,0.55,0.041,77.52,0.188,0.371,80.0,1
+121.0,Make It Right,Foo Fighters,20890.0,https://open.spotify.com/track/33OVwHAdsrJELptAp74TqW,2017-09-15,ar,0.5589999999999999,0.933,0.0561,141.939,0.45,0.00078,81.0,1
+143.0,La Formula (feat. Chris Jeday),De La Ghetto,18861.0,https://open.spotify.com/track/4XCQtUoRSh22Ep18ULmDnT,2017-09-15,ar,0.701,0.845,0.0668,172.028,0.7559999999999999,0.118,81.0,1
+160.0,Run,Foo Fighters,18056.0,https://open.spotify.com/track/1wLQwg0mloy3yXjL0jPE0N,2017-09-15,ar,0.359,0.893,0.0665,136.115,0.185,3.4e-05,81.0,1
+172.0,The Sky Is A Neighborhood,Foo Fighters,16970.0,https://open.spotify.com/track/3kdMzXOcrDIdSWLdONHNK5,2017-09-15,ar,0.358,0.5489999999999999,0.0693,130.733,0.5329999999999999,0.000799,81.0,1
+182.0,T-Shirt,Foo Fighters,16613.0,https://open.spotify.com/track/3OG5wVO27N3HtdtxPLpPFt,2017-09-15,ar,0.313,0.348,0.0637,145.60299999999995,0.503,0.00135,81.0,1
+188.0,Unforgettable - Latin Remix,French Montana,16087.0,https://open.spotify.com/track/4zii9cq9ZgxYJFnaxM3Tul,2017-09-16,ar,0.7490000000000001,0.784,0.171,97.985,0.655,0.0714,88.0,1
+198.0,No vaya a ser,Pablo Alborán,15564.0,https://open.spotify.com/track/2yajAy8Va9VTk3yhF9B3ET,2017-09-16,ar,0.731,0.687,0.0586,99.995,0.5770000000000001,0.232,79.0,1
+86.0,DNA,BTS,26086.0,https://open.spotify.com/track/5SE57ljOIUJ1ybL9U6CuBH,2017-09-18,ar,0.598,0.775,0.0545,129.819,0.687,0.022,88.0,1
+101.0,Best Of Me,BTS,22514.0,https://open.spotify.com/track/2tdq0CeAGSfhI2l4Gwkvgx,2017-09-18,ar,0.6509999999999999,0.7559999999999999,0.0762,121.96,0.473,0.0298,88.0,1
+128.0,dimple,BTS,19006.0,https://open.spotify.com/track/3ryjLm3oupIjJFGc39naNi,2017-09-18,ar,0.612,0.8440000000000001,0.0756,134.868,0.653,0.142,88.0,1
+138.0,Pied Piper,BTS,18052.0,https://open.spotify.com/track/0ffweDHrg4bZqdG4IfGYuo,2017-09-18,ar,0.583,0.7120000000000001,0.0326,94.051,0.7759999999999999,0.2,88.0,1
+139.0,Intro: Serendipity,BTS,18027.0,https://open.spotify.com/track/7iV733e1KacKrFRaBNxVEf,2017-09-18,ar,0.476,0.581,0.12,129.56799999999998,0.282,0.523,88.0,1
+143.0,MIC Drop,BTS,17603.0,https://open.spotify.com/track/2SYa5Lx1uoCvyDIW4oee9b,2017-09-18,ar,0.667,0.889,0.0918,169.959,0.541,0.00912,88.0,1
+150.0,Go Go,BTS,17202.0,https://open.spotify.com/track/5nq1uTNIR1cBR72T87viS0,2017-09-18,ar,0.856,0.617,0.0841,136.082,0.759,0.171,88.0,1
+178.0,rockstar,Post Malone,15749.0,https://open.spotify.com/track/1OmcAT5Y8eg5bUPv9qJT4R,2017-09-20,ar,0.58,0.531,0.0776,159.786,0.141,0.128,96.0,1
+188.0,Es Mi Culpa,Luciano Pereyra,15059.0,https://open.spotify.com/track/4AJRUZy9JvRp9KZYYE5K8T,2017-09-20,ar,0.639,0.623,0.0598,79.816,0.501,0.612,65.0,1
+200.0,Lento,Nfasis,14384.0,https://open.spotify.com/track/1EF6lZrvbCuLwPUKJ7Pfrg,2017-09-21,ar,0.831,0.545,0.0847,95.968,0.7290000000000001,0.0256,59.0,1
+118.0,Como Tú,Luciano Pereyra,21281.0,https://open.spotify.com/track/7IwNPHjpZMkggv0qlh1rUO,2017-09-22,ar,0.62,0.873,0.0845,187.046,0.962,0.114,65.0,1
+200.0,Terremoto Pa Tu Cola,El Apache Ness,15358.0,https://open.spotify.com/track/1J9WTzQ3ZU6sAUdhdkTOCn,2017-09-22,ar,0.932,0.5529999999999999,0.16899999999999998,99.928,0.861,0.42,50.0,1
+195.0,Te De Campana,Atomic Otro Way,14154.0,https://open.spotify.com/track/6OdD1XrpFD5BuxiAMFUWZC,2017-09-24,ar,0.8109999999999999,0.927,0.0835,105.045,0.706,0.0485,56.0,1
+114.0,Hello Cotto,Duki,20016.0,https://open.spotify.com/track/1tkikMrqW4NvmzIfIyNXw7,2017-09-28,ar,0.6679999999999999,0.799,0.311,140.13299999999998,0.431,0.0495,77.0,1
+36.0,Mi Gente (feat. Beyoncé),J Balvin,69272.0,https://open.spotify.com/track/7fwXWKdDNI5IutOMc5OKYw,2017-09-29,ar,0.705,0.7140000000000001,0.0792,104.996,0.434,0.0249,94.0,1
+71.0,Vuelve,Daddy Yankee,31587.0,https://open.spotify.com/track/0lJCqIx5BhZtf6QtYI2fbv,2017-09-29,ar,0.73,0.5379999999999999,0.0319,130.023,0.215,0.188,92.0,1
+197.0,Zafar,La Vela Puerca,13475.0,https://open.spotify.com/track/0ZYcjnsXrs7BxWGnU0uVeV,2017-10-02,ar,0.664,0.455,0.0255,102.266,0.74,0.0758,64.0,1
+192.0,Esta Saliendo El Sol,Intoxicados,14579.0,https://open.spotify.com/track/2pmHBQiIjVfTyn3p1rRbSB,2017-10-03,ar,0.695,0.68,0.0264,122.967,0.887,0.0168,60.0,1
+199.0,Mala Mujer - Remix,C. Tangana,14591.0,https://open.spotify.com/track/1UnEj1Xn1um7EtICzThjUU,2017-10-04,ar,0.8079999999999999,0.746,0.131,100.987,0.596,0.329,70.0,1
+165.0,Díganle,Leslie Grace,16932.0,https://open.spotify.com/track/4C1opPFRPafp6yj4AJPBRB,2017-10-06,ar,0.847,0.69,0.0752,91.986,0.653,0.0973,74.0,1
+181.0,Ahora Me Llama - Remix,Karol G,16150.0,https://open.spotify.com/track/0mQD5ilmghCieAw6E6YFrd,2017-10-06,ar,0.669,0.616,0.0416,134.918,0.224,0.0378,79.0,1
+194.0,Me Descontrola,Alexis y Fido,15810.0,https://open.spotify.com/track/3slazms3TpwswQBlwZ20hb,2017-10-07,ar,0.858,0.7509999999999999,0.0808,92.062,0.7090000000000001,0.177,73.0,1
+196.0,Síguelo Bailando,Ozuna,13490.0,https://open.spotify.com/track/5Y9fnynLlIvqtM710MHzfz,2017-10-08,ar,0.855,0.664,0.0607,98.015,0.626,0.165,95.0,1
+181.0,Stargazing,Kygo,14301.0,https://open.spotify.com/track/0Zbbxnx4SGGHoIow4PpISP,2017-10-09,ar,0.677,0.4970000000000001,0.0809,99.137,0.419,0.152,87.0,1
+186.0,With Or Without You,U2,14151.0,https://open.spotify.com/track/3yvlcIteooc31cPjyWPTw1,2017-10-10,ar,0.541,0.4370000000000001,0.0288,110.162,0.127,0.000196,80.0,1
+187.0,Saturno,Pablo Alborán,14100.0,https://open.spotify.com/track/2oKjjRzItVu8JZScrpzFTx,2017-10-10,ar,0.278,0.5720000000000001,0.0407,95.351,0.311,0.392,79.0,1
+169.0,Qué Es Dios?,Las Pastillas del Abuelo,14679.0,https://open.spotify.com/track/5P29BFj3HVX4iEsK7lCa0t,2017-10-11,ar,0.705,0.6829999999999999,0.0271,138.023,0.535,0.0184,65.0,1
+199.0,Campanas en la Noche,Los Tipitos,13206.0,https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD,2017-10-11,ar,0.636,0.593,0.0567,145.972,0.742,0.303,56.0,1
+165.0,Just Like You,Louis Tomlinson,16020.0,https://open.spotify.com/track/5IF6IBPqbclVR7SQKmCIyA,2017-10-12,ar,0.703,0.628,0.203,138.032,0.471,0.364,76.0,1
+173.0,How Long,Charlie Puth,14921.0,https://open.spotify.com/track/32DGGj6KlNuBr6WaqRxpxi,2017-10-12,ar,0.8490000000000001,0.581,0.0767,110.008,0.779,0.189,87.0,1
+156.0,SUTRA,Sebastian Yatra,17999.0,https://open.spotify.com/track/5TmZYdHW6HJ9gt7Aokuql5,2017-10-13,ar,0.746,0.745,0.146,180.081,0.828,0.0474,85.0,1
+200.0,What About Us,P!nk,15003.0,https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb,2017-10-13,ar,0.489,0.588,0.0507,113.617,0.187,0.0285,84.0,1
+118.0,Ropa Interior,Justin Quiles,22334.0,https://open.spotify.com/track/0Dou2nphs2oZYr7uOcW1YI,2017-10-14,ar,0.759,0.807,0.0363,92.031,0.6809999999999999,0.263,74.0,1
+196.0,Te Quiero Más,TINI,16362.0,https://open.spotify.com/track/1LJZUPoyDiYLO4DQS6pWS0,2017-10-14,ar,0.877,0.862,0.101,115.024,0.833,0.362,61.0,1
+198.0,Destroy,Lit Killah,13870.0,https://open.spotify.com/track/4cK9Q0g8LpOYaVyEjTCWGD,2017-10-17,ar,0.9,0.74,0.301,150.007,0.701,0.0579,62.0,1
+194.0,Feel It Still,Portugal. The Man,14275.0,https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK,2017-10-19,ar,0.8009999999999999,0.795,0.0504,79.028,0.754,0.0417,81.0,1
+78.0,Mamita,CNCO,27717.0,https://open.spotify.com/track/5ojXuKXBYq0apcNucYSDXq,2017-10-20,ar,0.8029999999999999,0.7240000000000001,0.0541,91.035,0.496,0.112,81.0,1
+103.0,Gorgeous,Taylor Swift,23634.0,https://open.spotify.com/track/0CLnkxpa3M4eA3HeGaERat,2017-10-20,ar,0.794,0.537,0.16899999999999998,92.022,0.418,0.079,90.0,1
+152.0,Mi Mala,Mau y Ricky,18429.0,https://open.spotify.com/track/4XP6qLtHI0n9UjIPTsuqe8,2017-10-20,ar,0.737,0.624,0.199,172.03599999999997,0.8029999999999999,0.0149,72.0,1
+179.0,On The Loose,Niall Horan,16354.0,https://open.spotify.com/track/4kVo85bcmBkvMBcJl42XCA,2017-10-20,ar,0.721,0.613,0.0332,124.012,0.665,0.00745,80.0,1
+188.0,Vivo Pensando En Ti,Felipe Peláez,15845.0,https://open.spotify.com/track/0H7cz1bR7w9PulJL7Na774,2017-10-21,ar,0.797,0.777,0.0772,99.987,0.575,0.237,64.0,1
+189.0,"0 Sentimientos (Remix) [feat. Noriel, Darkiel, Lyan, Messiah & Baby Rasta]",Jon Z,14089.0,https://open.spotify.com/track/4COGASZEbAxmH6k5gYMo6G,2017-10-22,ar,0.894,0.721,0.258,107.963,0.392,0.155,73.0,1
+193.0,Luna Llena,Paulo Londra,13848.0,https://open.spotify.com/track/2IHHv2q579pCRw5Xkj0Fs6,2017-10-22,ar,0.841,0.732,0.185,160.048,0.461,0.139,73.0,1
+183.0,Déjala Que Vuelva (feat. Manuel Turizo),Piso 21,15228.0,https://open.spotify.com/track/33bnxcjePIkcmNjEFTJX0l,2017-10-24,ar,0.6809999999999999,0.7879999999999999,0.0785,170.019,0.8390000000000001,0.0482,82.0,1
+187.0,Destino o Casualidad,Melendi,14924.0,https://open.spotify.com/track/02IJFWVjLSM811RsySQusA,2017-10-24,ar,0.546,0.494,0.157,153.30100000000004,0.353,0.499,76.0,1
+194.0,QLO,Jimena Baron,14497.0,https://open.spotify.com/track/4gvolyZ9mVlB7jmifBeUpT,2017-10-24,ar,0.715,0.601,0.0373,99.995,0.391,0.0171,53.0,1
+166.0,Wolves,Selena Gomez,16528.0,https://open.spotify.com/track/0tBbt8CrmxbjRP0pueQkyU,2017-10-25,ar,0.72,0.807,0.0432,124.946,0.305,0.129,88.0,1
+188.0,Let You Down,NF,15466.0,https://open.spotify.com/track/6mrKP2jyIQmM0rw6fQryjr,2017-10-25,ar,0.659,0.716,0.111,148.015,0.4370000000000001,0.33,86.0,1
+196.0,Lonely Together (feat. Rita Ora),Avicii,15238.0,https://open.spotify.com/track/2OALaHcDdKkjYEpAr0Qzab,2017-10-25,ar,0.647,0.669,0.0594,103.099,0.229,0.146,84.0,1
+156.0,Solo a Solas (feat. Maluma),Cosculluela,18120.0,https://open.spotify.com/track/4iKuG50iHNBaybQOo11yrN,2017-10-27,ar,0.7659999999999999,0.6459999999999999,0.281,86.928,0.6459999999999999,0.187,77.0,1
+194.0,Desperte Sin Ti (Remix),Noriel,15665.0,https://open.spotify.com/track/4QYQgJhBryglC2hEpVGrZU,2017-10-27,ar,0.738,0.62,0.0661,115.031,0.204,0.17,80.0,1
+153.0,"Tu No Metes Cabra Remix (feat. Daddy Yankee, Anuel AA & Cosculluela)",Bad Bunny,18757.0,https://open.spotify.com/track/0QQNA8bZqefrGfsShzlZkb,2017-10-28,ar,0.846,0.58,0.28600000000000003,91.967,0.479,0.446,95.0,1
+200.0,Farsante,DJ Yayo,12876.0,https://open.spotify.com/track/3PWNdFSPifegH4NqnIIvzZ,2017-10-29,ar,0.921,0.466,0.0517,104.033,0.484,0.0272,54.0,1
+183.0,Gucci Gang,Lil Pump,14475.0,https://open.spotify.com/track/43ZyHQITOjhciSUUNPVRHc,2017-10-30,ar,0.936,0.523,0.0597,119.889,0.6990000000000001,0.239,84.0,1
+198.0,Blow Your Mind (Mwah),Dua Lipa,13510.0,https://open.spotify.com/track/2eAAEa8pxKF7My0EO4rFgR,2017-10-30,ar,0.654,0.7959999999999999,0.122,108.854,0.491,0.0188,92.0,1
+58.0,What Lovers Do,Maroon 5,35158.0,https://open.spotify.com/track/5SDCeGVT08a1RMXIBJF2O5,2017-11-01,ar,0.799,0.601,0.071,110.001,0.45,0.0982,89.0,1
+191.0,Every Breath You Take - Remastered 2003,The Police,14362.0,https://open.spotify.com/track/5C0LFQARavkPpn7JgA4sLk,2017-11-01,ar,0.82,0.452,0.0348,117.401,0.74,0.5429999999999999,76.0,1
+56.0,Corazón,Maluma,45698.0,https://open.spotify.com/track/4lESS6vuruP6a79KWRaQou,2017-11-03,ar,0.871,0.768,0.122,98.989,0.765,0.28300000000000003,89.0,1
+58.0,Sensualidad,Bad Bunny,44175.0,https://open.spotify.com/track/5hcisvFMidkMJlElTO9Qmw,2017-11-03,ar,0.807,0.6809999999999999,0.0983,140.006,0.6759999999999999,0.423,95.0,1
+175.0,Boom Boom,RedOne,17008.0,https://open.spotify.com/track/4NzenFNqsYRvrG7rLdF1Ej,2017-11-03,ar,0.7490000000000001,0.759,0.0451,110.004,0.584,0.004529999999999999,61.0,1
+179.0,Bella,Wolfine,16708.0,https://open.spotify.com/track/1Ft13La2daEGqz5yWJC7lx,2017-11-03,ar,0.909,0.493,0.0735,94.016,0.8440000000000001,0.128,80.0,1
+158.0,Romance,Nacho,18315.0,https://open.spotify.com/track/2ljGNdaz00VLUfqVfJjCAb,2017-11-04,ar,0.706,0.6809999999999999,0.0454,88.96600000000002,0.784,0.207,79.0,1
+200.0,Será - En Vivo,Las Pelotas,13310.0,https://open.spotify.com/track/1aYjm9O8FgoTLCL7OKNKu8,2017-11-05,ar,0.484,0.94,0.0357,131.476,0.762,0.0169,60.0,1
+187.0,Hacer un puente,La Franela,14230.0,https://open.spotify.com/track/18Q3WTfyWX1tdS1cp42NhA,2017-11-06,ar,0.522,0.659,0.0291,167.989,0.386,0.254,53.0,1
+191.0,Pray,Sam Smith,14076.0,https://open.spotify.com/track/7DsX5K72fewVGb47qj7Tbg,2017-11-06,ar,0.386,0.377,0.0484,172.618,0.168,0.317,89.0,1
+197.0,Por Favor - Spanglish Version,Fifth Harmony,14340.0,https://open.spotify.com/track/2vHDurkzJ8dhCzoPzqiE2C,2017-11-07,ar,0.759,0.76,0.0706,98.029,0.733,0.188,80.0,1
+64.0,She Don't Give a FO (feat. Khea),Duki,35221.0,https://open.spotify.com/track/7ehmaSwhEZv4aaJzxsVMGY,2017-11-08,ar,0.8540000000000001,0.556,0.14,119.938,0.342,0.345,77.0,1
+179.0,Lola,Duki,16116.0,https://open.spotify.com/track/1zZY7jIGBBGfUCSgNsVuRg,2017-11-09,ar,0.861,0.454,0.132,94.0,0.58,0.29600000000000004,77.0,1
+109.0,"Amor, Amor, Amor",Jennifer Lopez,23753.0,https://open.spotify.com/track/7h9sdbDEBfkWSmO4mzGED6,2017-11-10,ar,0.743,0.917,0.0968,112.941,0.491,0.0389,79.0,1
+187.0,Ready for the Night,Duki,16398.0,https://open.spotify.com/track/7JIjlqksUcoVWOM3XdINe6,2017-11-10,ar,0.8809999999999999,0.575,0.046,126.041,0.34,0.00596,77.0,1
+198.0,Joga o Bum Bum Tamtam,MC Fioti,16034.0,https://open.spotify.com/track/7KBfjlQ85Fqs2MCCvXSW0c,2017-11-11,ar,0.957,0.667,0.0856,132.01,0.556,0.826,77.0,1
+135.0,Havana - Remix,Camila Cabello,19069.0,https://open.spotify.com/track/3whrwq4DtvucphBPUogRuJ,2017-11-12,ar,0.7509999999999999,0.579,0.0321,105.031,0.349,0.398,92.0,1
+169.0,Walk On Water (feat. Beyoncé),Eminem,16113.0,https://open.spotify.com/track/5b2QnYcT9rQIkhRWt4HztQ,2017-11-13,ar,0.49,0.598,0.18600000000000005,84.00399999999998,0.61,0.8009999999999999,94.0,1
+178.0,Move Your Body,Wisin,15638.0,https://open.spotify.com/track/33VNLJpKEeCfSnHMq8ZX8o,2017-11-13,ar,0.48,0.861,0.255,160.80200000000005,0.5379999999999999,0.126,89.0,1
+179.0,"Let Me Go (with Alesso, Florida Georgia Line & watt)",Hailee Steinfeld,15614.0,https://open.spotify.com/track/5AEtlRudpgdT5FtNiuly6Y,2017-11-13,ar,0.659,0.7170000000000001,0.0581,103.036,0.71,0.0393,87.0,1
+94.0,Luna LLena,Paulo,23410.0,https://open.spotify.com/track/552FgBxuh4rltfhgk7yNZg,2017-11-14,ar,0.841,0.732,0.185,160.048,0.461,0.139,73.0,1
+177.0,#Natural,Paty Cantú,16213.0,https://open.spotify.com/track/6QY4K8DzL1HtAZbz7BGGOx,2017-11-14,ar,0.8029999999999999,0.825,0.053,97.015,0.833,0.0903,70.0,1
+193.0,Be The One,Dua Lipa,15140.0,https://open.spotify.com/track/7FCfMXYTIiQ9b4hDYs4Iol,2017-11-14,ar,0.6609999999999999,0.6509999999999999,0.0499,87.46,0.368,0.117,92.0,1
+197.0,Paradise,Coldplay,14949.0,https://open.spotify.com/track/7wBrglFVTNCcW6IhdgBkm1,2017-11-14,ar,0.449,0.585,0.0268,139.627,0.203,0.0522,89.0,1
+198.0,A Head Full Of Dreams,Coldplay,14879.0,https://open.spotify.com/track/6f49kbOuQSOsStBpyGvQfA,2017-11-14,ar,0.45,0.92,0.0733,122.979,0.0773,0.002,89.0,1
+152.0,A Sky Full of Stars,Coldplay,17709.0,https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ,2017-11-15,ar,0.551,0.636,0.0281,124.996,0.153,0.00713,89.0,1
+153.0,Viva La Vida,Coldplay,17658.0,https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b,2017-11-15,ar,0.485,0.619,0.0289,138.017,0.416,0.0941,89.0,1
+170.0,Up&Up,Coldplay,16529.0,https://open.spotify.com/track/31L9yLXSj6LpCFupyMV6CR,2017-11-15,ar,0.48,0.718,0.0603,163.987,0.252,0.0485,89.0,1
+173.0,Is That For Me,Alesso,16384.0,https://open.spotify.com/track/2KwojFDebQV4J2b0JMRR5Q,2017-11-15,ar,0.7609999999999999,0.785,0.0505,104.992,0.58,0.234,83.0,1
+195.0,IDGAF,Dua Lipa,15966.0,https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr,2017-11-16,ar,0.836,0.552,0.0851,97.036,0.525,0.0433,92.0,1
+37.0,Échame La Culpa,Luis Fonsi,74028.0,https://open.spotify.com/track/1zsG4eaZmkA1dvjDDsAGLK,2017-11-17,ar,0.7240000000000001,0.895,0.0411,96.022,0.64,0.0322,86.0,1
+64.0,Tu Novia,Lali,38509.0,https://open.spotify.com/track/7lVNnyDGPPGHo3XVvvuVZ5,2017-11-17,ar,0.733,0.728,0.0307,131.98,0.561,0.135,69.0,1
+191.0,Que Rico Baila,Rombai,17112.0,https://open.spotify.com/track/5QTWB74jDroxV6DvMqV533,2017-11-17,ar,0.768,0.7659999999999999,0.0528,103.998,0.74,0.244,67.0,1
+200.0,No Vendo Trap,Duki,16217.0,https://open.spotify.com/track/4Sg1SDOCbsWBcqA0ZEBDxf,2017-11-17,ar,0.8079999999999999,0.5589999999999999,0.208,120.974,0.6990000000000001,0.634,77.0,1
+153.0,Downtown,Anitta,15023.0,https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D,2017-11-20,ar,0.775,0.679,0.135,166.00799999999995,0.619,0.18,87.0,1
+197.0,A Fuego - Remix,DrefQuila,12948.0,https://open.spotify.com/track/2i0FJ19sVfhcv5Npr2dEZv,2017-11-20,ar,0.759,0.376,0.0501,116.004,0.331,0.7,66.0,1
+182.0,El Desorden,Ozuna,15265.0,https://open.spotify.com/track/0JOUrhZGMCx3lk9VosAQWl,2017-11-21,ar,0.838,0.81,0.0891,164.04,0.889,0.22,95.0,1
+132.0,Krippy Kush - Remix,Farruko,18528.0,https://open.spotify.com/track/038kavjqUaGIYZL5lYocvX,2017-11-22,ar,0.743,0.6709999999999999,0.122,163.22899999999996,0.499,0.0512,87.0,1
+70.0,GPS,Maluma,33404.0,https://open.spotify.com/track/3t6j6WNv2OSn6qm5Vxynub,2017-11-24,ar,0.841,0.629,0.114,143.94899999999996,0.6759999999999999,0.188,89.0,1
+75.0,Loca,Cazzu,31829.0,https://open.spotify.com/track/0vnrhysrKKRdNYFKLAGzRc,2017-11-24,ar,0.8340000000000001,0.753,0.0486,113.058,0.462,0.342,70.0,1
+135.0,MIC Drop (feat. Desiigner) [Steve Aoki Remix],BTS,19546.0,https://open.spotify.com/track/7Ed6BkggCS2KaKY5YlINaF,2017-11-24,ar,0.613,0.8420000000000001,0.219,169.917,0.645,0.0157,88.0,1
+136.0,SUBEME LA RADIO REMIX,Enrique Iglesias,19521.0,https://open.spotify.com/track/3VgLQi51JI6avrVmP9lL4B,2017-11-24,ar,0.688,0.795,0.0752,91.03,0.617,0.0329,84.0,1
+143.0,Todo Comienza en la Disco,Wisin,19162.0,https://open.spotify.com/track/5P45FGGEl99tHmKx6RaP9C,2017-11-24,ar,0.826,0.836,0.0654,91.992,0.887,0.0961,89.0,1
+194.0,Choka Choka,Chayanne,16020.0,https://open.spotify.com/track/02wdwZ0ffTX0AAGYRNqMwF,2017-11-24,ar,0.703,0.763,0.0883,173.957,0.622,0.0122,72.0,1
+199.0,"Lean (feat. Towy, Osquel, Beltito & Sammy & Falsetto)",Super Yei,15782.0,https://open.spotify.com/track/5DoLhdU27owX1NMrKLUbUl,2017-11-24,ar,0.863,0.669,0.282,164.062,0.947,0.111,60.0,1
+163.0,Versace On The Floor,Bruno Mars,17894.0,https://open.spotify.com/track/0kN8xEmgMW9mh7UmDYHlJP,2017-11-25,ar,0.578,0.574,0.0454,174.15200000000004,0.301,0.196,92.0,1
+169.0,Vitamina,Maluma,15828.0,https://open.spotify.com/track/5W9oqM9MkYU0DVBic748ZJ,2017-11-26,ar,0.6729999999999999,0.593,0.0515,131.98,0.183,0.0589,89.0,1
+199.0,Locked Out Of Heaven,Bruno Mars,14782.0,https://open.spotify.com/track/5g7sDjBhZ4I3gcFIpkrLuI,2017-11-26,ar,0.728,0.6970000000000001,0.0456,143.986,0.87,0.0556,92.0,1
+168.0,23,Maluma,15947.0,https://open.spotify.com/track/6iHkZiRJcULoqasbboOgig,2017-11-27,ar,0.833,0.524,0.21600000000000005,133.993,0.541,0.168,89.0,1
+171.0,Besos En Guerra,Morat,15836.0,https://open.spotify.com/track/1d0c62VFYauOOgxZ2eFUxx,2017-11-27,ar,0.6859999999999999,0.97,0.0532,143.957,0.763,0.135,79.0,1
+175.0,Just The Way You Are,Bruno Mars,15767.0,https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ,2017-11-27,ar,0.637,0.843,0.0432,109.012,0.434,0.0151,92.0,1
+200.0,La Lokita Del Septum,Duki,14693.0,https://open.spotify.com/track/0Ov7pMzLa1wDpgmZfnCClN,2017-11-27,ar,0.715,0.387,0.102,139.79,0.264,0.0737,77.0,1
+65.0,Rockstar,Duki,33129.0,https://open.spotify.com/track/1iidvirbvLhm05k83k4N64,2017-11-28,ar,0.878,0.855,0.094,123.991,0.33,0.0906,77.0,1
+200.0,Dime Cosas Lindas,Dame 5,15315.0,https://open.spotify.com/track/335SGs7Q58sUqkbgqF5Z3J,2017-11-29,ar,0.491,0.8420000000000001,0.314,153.466,0.757,0.189,59.0,1
+189.0,Te Robo,Zato DJ,16215.0,https://open.spotify.com/track/7iWkLOkV4TzEIH7ciP6guB,2017-11-30,ar,0.907,0.7020000000000001,0.0455,101.998,0.6579999999999999,0.631,53.0,1
+63.0,Perfect Duet (Ed Sheeran & Beyoncé),Ed Sheeran,41957.0,https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI,2017-12-01,ar,0.5870000000000001,0.299,0.0263,94.992,0.35600000000000004,0.779,97.0,1
+100.0,Miss You,Louis Tomlinson,25293.0,https://open.spotify.com/track/3zxrecYFao03IrrcyFiaMU,2017-12-01,ar,0.541,0.69,0.206,180.239,0.6809999999999999,0.0216,76.0,1
+138.0,Déjate Llevar,Juan Magán,19901.0,https://open.spotify.com/track/3xWEI23MLJrD0dpDcDUTW6,2017-12-01,ar,0.675,0.7240000000000001,0.0787,92.051,0.506,0.0166,82.0,1
+152.0,Juraste,Sky,19193.0,https://open.spotify.com/track/1xrbyp16GiuTEttWGqNQE6,2017-12-01,ar,0.64,0.77,0.196,82.1,0.797,0.153,63.0,1
+49.0,Chambea,Bad Bunny,55475.0,https://open.spotify.com/track/6ElmxV9B2mSNscEjP27M7i,2017-12-02,ar,0.855,0.868,0.153,115.979,0.632,0.242,95.0,1
+182.0,Hola (feat. Maluma),Flo Rida,15571.0,https://open.spotify.com/track/6ayTAnEwP3Yo4DOjLsN5r2,2017-12-04,ar,0.757,0.711,0.0769,113.026,0.649,0.0207,81.0,1
+198.0,Dime Si Vas a Volver,Bad Bunny,14989.0,https://open.spotify.com/track/5rqTZC65iasIJYBwJnUZaM,2017-12-04,ar,0.7,0.569,0.298,180.081,0.245,0.405,95.0,1
+71.0,Condenado Para el Millon,Paulo Londra,32334.0,https://open.spotify.com/track/5UjhWsB5rddZEPlNUcGDLV,2017-12-05,ar,0.54,0.7240000000000001,0.28,149.793,0.184,0.00621,73.0,1
+106.0,Es Tarde,Juanes,22787.0,https://open.spotify.com/track/3ktSe2NHl8RO1Fjh7mcvam,2017-12-05,ar,0.7859999999999999,0.7829999999999999,0.0673,96.968,0.738,0.149,79.0,1
+107.0,Never Be the Same - Radio Edit,Camila Cabello,24412.0,https://open.spotify.com/track/0BlY60NrN0fFWbdW3RW40q,2017-12-07,ar,0.652,0.682,0.0788,129.942,0.269,0.156,92.0,1
+179.0,Real Friends,Camila Cabello,17986.0,https://open.spotify.com/track/4V6MRo0CEAC9MwAm7dkPuL,2017-12-07,ar,0.74,0.303,0.117,91.958,0.8190000000000001,0.835,92.0,1
+138.0,Esperándote,Manuel Turizo,20636.0,https://open.spotify.com/track/1nfyE13arjOuO54HH0zmqj,2017-12-09,ar,0.6970000000000001,0.648,0.128,186.125,0.313,0.425,86.0,1
+143.0,Never Be the Same,Camila Cabello,18373.0,https://open.spotify.com/track/6VpQdig9pdpTSIFItgkJV5,2017-12-11,ar,0.643,0.7090000000000001,0.0733,129.961,0.264,0.145,92.0,1
+178.0,Dembow,Danny Ocean,16014.0,https://open.spotify.com/track/2EzRdhuoPyNJDlep7lnNf2,2017-12-11,ar,0.802,0.7440000000000001,0.078,99.983,0.45,0.0807,81.0,1
+200.0,Muevelo Mami,Iacho,15086.0,https://open.spotify.com/track/2BIxGGD8Rs7OmJqkzmfxG2,2017-12-11,ar,0.815,0.698,0.0372,139.94799999999998,0.7170000000000001,0.125,59.0,1
+96.0,How Long (feat. French Montana) - Remix,Charlie Puth,24156.0,https://open.spotify.com/track/6ju3FaV3aVLzGzwERKZuFK,2017-12-12,ar,0.863,0.631,0.0822,109.99,0.89,0.17,87.0,1
+129.0,Si Te Lastime,Seven Kayne,20036.0,https://open.spotify.com/track/7k09lnI8FXcEREvDps6oPJ,2017-12-12,ar,0.742,0.505,0.0958,140.128,0.213,0.14300000000000002,63.0,1
+102.0,Joga O Bum Bum Tam Tam,MC Fioti,24761.0,https://open.spotify.com/track/58tUwXG7xKE7gzNOp6Msca,2017-12-15,ar,0.94,0.4920000000000001,0.108,131.97899999999998,0.447,0.627,77.0,1
+111.0,Bum Bum Tam Tam,MC Fioti,23678.0,https://open.spotify.com/track/4zWO4gvuFtw6EJZC5FFGlr,2017-12-15,ar,0.8959999999999999,0.6729999999999999,0.139,131.99,0.7140000000000001,0.34600000000000003,77.0,1
+187.0,River (feat. Ed Sheeran),Eminem,16655.0,https://open.spotify.com/track/1cS0TgbR263ey9jn0MwD2s,2017-12-15,ar,0.754,0.743,0.495,90.053,0.6609999999999999,0.165,94.0,1
+133.0,Háblame Bajito,Abraham Mateo,20063.0,https://open.spotify.com/track/1s46xFwjfRUkRlPlX3PwPk,2017-12-16,ar,0.7909999999999999,0.6459999999999999,0.117,92.026,0.256,0.135,75.0,1
+96.0,Dorado,Ecko,22152.0,https://open.spotify.com/track/3J4cbpVuuo8sdLWcEajRA3,2017-12-17,ar,0.841,0.797,0.28600000000000003,140.014,0.508,0.0757,64.0,1
+113.0,Algo Tiene,Natalie Perez,19923.0,https://open.spotify.com/track/5HMLzZJYj3gRo2ulIBSC5d,2017-12-17,ar,0.61,0.687,0.03,88.93,0.847,0.644,49.0,1
+178.0,Me Tiene Mal,Paulo,14928.0,https://open.spotify.com/track/0ARuGcZhMlufZpE6BfKri8,2017-12-18,ar,0.6659999999999999,0.5770000000000001,0.276,84.355,0.5770000000000001,0.921,73.0,1
+199.0,Camara Lenta,Paulo,14322.0,https://open.spotify.com/track/5JrmBHuqKgomak23Q4Ju3l,2017-12-18,ar,0.8079999999999999,0.5589999999999999,0.128,130.054,0.4370000000000001,0.6579999999999999,73.0,1
+199.0,Confiado & Tranquilo,Paulo Londra,14344.0,https://open.spotify.com/track/1Ch9GzbQRNGweMmLqG855b,2017-12-19,ar,0.505,0.674,0.139,120.456,0.552,0.285,73.0,1
+132.0,Vai malandra (feat. Tropkillaz e DJ Yuri Martins),Anitta,21970.0,https://open.spotify.com/track/6u0EAxf1OJTLS7CvInuNd7,2017-12-22,ar,0.8759999999999999,0.55,0.152,129.924,0.557,0.0227,87.0,1
+157.0,Bonita - Remix,J Balvin,19659.0,https://open.spotify.com/track/400nZFg9JEXd9DTBJf1PE3,2017-12-22,ar,0.7979999999999999,0.905,0.0375,96.005,0.59,0.0127,94.0,1
+171.0,La Modelo,Ozuna,18512.0,https://open.spotify.com/track/2m2ZGfJcs3lHWNPzhWH3XH,2017-12-22,ar,0.8220000000000001,0.743,0.0451,98.005,0.78,0.213,95.0,1
+93.0,Enamorado de Ti,La Nueva Luna,32024.0,https://open.spotify.com/track/0Ir7G0Xba6PIDUBKObagNA,2017-12-24,ar,0.454,0.907,0.0504,198.131,0.895,0.184,57.0,1
+111.0,Te Vas a Arrepentir,La Nueva Luna,28331.0,https://open.spotify.com/track/5Rb1YFwlxt1AgMaqbOpZzf,2017-12-24,ar,0.7090000000000001,0.7929999999999999,0.0391,93.988,0.904,0.295,57.0,1
+114.0,All I Want for Christmas Is You,Mariah Carey,27256.0,https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn,2017-12-24,ar,0.335,0.625,0.0386,150.27700000000004,0.34600000000000003,0.16399999999999998,77.0,1
+131.0,Enganchado Santafecino,Los Palmeras,27298.0,https://open.spotify.com/track/5I7jv3YVvaWIdsWgJdBEZ5,2017-12-25,ar,0.45,0.64,0.0663,87.198,0.675,0.383,59.0,1
+148.0,Adicto A Ti,Walter Olmos,24445.0,https://open.spotify.com/track/0Ldh6OMRNPUAkDazVwnKWP,2017-12-25,ar,0.585,0.841,0.0408,156.982,0.928,0.188,50.0,1
+150.0,Mentirosa,Rafaga,24338.0,https://open.spotify.com/track/2e3fohSwZ9nU6Q2tks0fFz,2017-12-25,ar,0.635,0.823,0.102,200.943,0.821,0.0833,62.0,1
+166.0,Soy,Ulises Bueno,22629.0,https://open.spotify.com/track/37Zjm314NQVXqID6ju970m,2017-12-25,ar,0.618,0.877,0.0481,147.946,0.616,0.0984,65.0,1
+167.0,La Cola,Los Palmeras,22508.0,https://open.spotify.com/track/45W2wFalCHxcTtrWuH60Ii,2017-12-25,ar,0.778,0.79,0.0601,93.054,0.871,0.355,59.0,1
+172.0,Te Quiero Tanto,La Nueva Luna,21469.0,https://open.spotify.com/track/1qvxbaReYVaxLdVRgXroQP,2017-12-25,ar,0.7759999999999999,0.807,0.0449,93.55,0.904,0.206,57.0,1
+173.0,Y Ahora Te Vas,La Nueva Luna,21422.0,https://open.spotify.com/track/4m98XzyCOTlI1ykM8PlTgj,2017-12-25,ar,0.7290000000000001,0.89,0.068,92.721,0.8170000000000001,0.241,57.0,1
+177.0,Tramposa Y Mentirosa,Leo Mattioli,21042.0,https://open.spotify.com/track/6KzeUBu1BE8q24CblG6oku,2017-12-25,ar,0.562,0.7559999999999999,0.0487,87.771,0.841,0.217,59.0,1
+182.0,La Cabaña,La K'onga,20371.0,https://open.spotify.com/track/2cTKuxpHcPzDFRbbhE2WxP,2017-12-25,ar,0.6679999999999999,0.867,0.106,79.048,0.669,0.512,51.0,1
+190.0,Por lo que yo te quiero,Walter Olmos,19819.0,https://open.spotify.com/track/6q8IfvTRGvi2IZUmkavsr9,2017-12-25,ar,0.478,0.932,0.0769,158.524,0.752,0.172,50.0,1
+58.0,Vete,Khea,41132.0,https://open.spotify.com/track/2rZB6indPhp8C5AZK1PpkS,2017-12-26,ar,0.619,0.563,0.0865,139.653,0.25,0.29,76.0,1
+185.0,La Dama,Karol G,17570.0,https://open.spotify.com/track/18Lf9mbzkZnQDjksUhpIqY,2017-12-29,ar,0.8420000000000001,0.7709999999999999,0.195,99.989,0.75,0.122,79.0,1
+158.0,Billie Jean,Michael Jackson,20993.0,https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5,2017-12-31,ar,0.92,0.654,0.0401,117.046,0.847,0.0236,84.0,1
+112.0,Danza Kuduro,Don Omar,31703.0,https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw,2018-01-01,ar,0.467,0.92,0.239,130.012,0.8490000000000001,0.0813,79.0,1
+162.0,Vivir Mi Vida,Marc Anthony,23901.0,https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ,2018-01-01,ar,0.655,0.877,0.0344,105.017,0.893,0.344,78.0,1
+173.0,La Pollera Amarilla,"Gladys ""La bomba tucumana""",21941.0,https://open.spotify.com/track/03G43mO3a34IGIsyDd4sj5,2018-01-01,ar,0.86,0.5670000000000001,0.0816,98.33,0.904,0.488,32.0,1
+174.0,Una Calle Nos Separa,Nestor En Bloque,21903.0,https://open.spotify.com/track/4UUbQorHhl3LGvK1BrfKTE,2018-01-01,ar,0.7609999999999999,0.8029999999999999,0.0596,134.971,0.77,0.231,52.0,1
+180.0,Yo me Enamoré,Amar Azul,21407.0,https://open.spotify.com/track/6wWLC6V7TJ7NEygWHc1CFh,2018-01-01,ar,0.816,0.908,0.241,94.985,0.928,0.17800000000000002,59.0,1
+186.0,Porque te Amo,La Cumbia,20820.0,https://open.spotify.com/track/25DfDOwP1giHlA05V3LyUR,2018-01-01,ar,0.639,0.88,0.0362,99.042,0.972,0.293,53.0,1
+190.0,El Embrujo,Los Palmeras,20612.0,https://open.spotify.com/track/34ayIgjQsK3f7fJis67UWg,2018-01-01,ar,0.664,0.772,0.0967,199.915,0.8109999999999999,0.154,59.0,1
+194.0,Violeta,Alcides,20288.0,https://open.spotify.com/track/44ZRUhwJopErgSsvJ8iH7I,2018-01-01,ar,0.7659999999999999,0.733,0.0439,135.299,0.936,0.187,37.0,1
+200.0,Dime si eres feliz,La Champions Liga,19826.0,https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD,2018-01-01,ar,0.741,0.59,0.0913,179.861,0.961,0.28300000000000003,53.0,1
+200.0,Relax,Paulo Londra,14752.0,https://open.spotify.com/track/3lRdAB8pde348eiSc25Aq9,2018-01-02,ar,0.8320000000000001,0.348,0.3670000000000001,112.969,0.546,0.7859999999999999,73.0,1
+193.0,Ojalá (feat. Darell),De La Ghetto,15974.0,https://open.spotify.com/track/3EMDvnVpQd9RZJvKSpOhUm,2018-01-05,ar,0.64,0.529,0.0893,128.101,0.177,0.3720000000000001,81.0,1
+200.0,Amantes,Greeicy,16147.0,https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD,2018-01-06,ar,0.8,0.6809999999999999,0.0912,92.027,0.637,0.14,68.0,1
+164.0,Finesse (Remix) [feat. Cardi B],Bruno Mars,17449.0,https://open.spotify.com/track/3Vo4wInECJQuz9BIBMOu8i,2018-01-08,ar,0.7040000000000001,0.8590000000000001,0.0996,105.115,0.926,0.0185,92.0,1
+185.0,El Granjero,Arcangel,16406.0,https://open.spotify.com/track/7k3SjypJ8lF9WWu8Op0We0,2018-01-08,ar,0.7070000000000001,0.632,0.153,149.91299999999995,0.741,0.302,85.0,1
+199.0,Cámara Lenta,Paulo Londra,15566.0,https://open.spotify.com/track/0DFxA6i4yu8AORcdPrDEmd,2018-01-08,ar,0.8140000000000001,0.56,0.111,130.04,0.441,0.669,73.0,1
+25.0,Hellow Cotto,Mueva Records,99580.0,https://open.spotify.com/track/6iqyAmNK8VeMthNAASNPgA,2018-01-09,ar,0.6659999999999999,0.795,0.34600000000000003,139.959,0.435,0.0758,40.0,1
+198.0,Tacos Altos,Farruko,15771.0,https://open.spotify.com/track/66pK7thQ0yw1xlqw8AQSlw,2018-01-09,ar,0.8370000000000001,0.562,0.248,139.931,0.204,0.221,87.0,1

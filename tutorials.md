@@ -275,7 +275,6 @@ title: Tutorials
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/267/main.ipynb">267. main</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/268/Explore Titanic Dataset for Prediction of Survival .ipynb">268. Explore Titanic Dataset for Prediction of Survival </a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/269/Collab.ipynb">269. Collab</a></li>
-<li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/269/pre-process.ipynb">269. pre-process</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/270/Tutorial.ipynb">270. Tutorial</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/271/model.ipynb">271. model</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/272/Bokeh Tutorial.ipynb">272. Bokeh Tutorial</a></li>

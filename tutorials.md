@@ -221,7 +221,7 @@ title: Tutorials
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/213/Tutorial.ipynb">213. Tutorial</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/214/handout/predicting-esports-matches-using-trueskill-library.ipynb">214. predicting-esports-matches-using-trueskill-library</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/215/tutorial/tutorial.ipynb">215. tutorial</a></li>
-<li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/216/tutorial_sijiac.ipynb">216. tutorial_sijiac</a></li>
+<li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/216/tutorial_sijiac.ipynb">216. tutorial</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/217/spaCy.ipynb">217. spaCy</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/218/Latent Dirichlet Allocation (LDA).ipynb">218. Latent Dirichlet Allocation (LDA)</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/219/handin/Tutorial.ipynb">219. Tutorial</a></li>

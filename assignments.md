@@ -20,7 +20,7 @@ All assignments are due at 11:59pm ET (midnight) on the due date, and will be re
 | [Homework 2](/hw/hw2/handout.tar.gz) | 2/7 | 2/21 |
 | [Homework 3](/hw/hw3/handout.tar.gz) | 2/21 | 3/7 |
 | [Tutorial](/tutorial/tutorial.pdf) | 2/21 | 2/28 ([proposal](https://goo.gl/forms/MCDJmktk8jBuRBrb2)), 3/30 |
-| [Homework 4](/hw/hw4/handout.tar.gz) | 3/28 | 4/11 |
+| [Homework 4](/hw/hw4/handout.tar.gz), [Contest Data](/hw/hw4/contest_data.zip) | 3/28 | 4/11 |
 | Homework 5 | 4/11 | 4/25 |
 | [Final project](project/project.pdf) | 3/7 | 3/26 ([proposal](https://goo.gl/forms/lMvLGDnpRQEoAobu1)), 5/9 (video), 5/11 (report)|
 

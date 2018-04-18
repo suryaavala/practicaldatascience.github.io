@@ -130,7 +130,7 @@ title: Tutorials
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/124/cryptocurrencySentimentAnalysis.ipynb">124. cryptocurrencySentimentAnalysis</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/125/OpenFlight_Data_Visualization.ipynb">125. OpenFlight_Data_Visualization</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/126/Plotly_Tutorial.ipynb">126. Plotly_Tutorial</a></li>
-<li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/127/midi_classifier">127. midi_classifier</a></li>
+<li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/127/midi_classifier.ipynb">127. midi_classifier</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/128/aws_lambda_s3_tutorial.ipynb">128. aws_lambda_s3_tutorial</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/129/Bilibili/bilibili.ipynb">129. bilibili</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/130/ExploreBTC.ipynb">130. ExploreBTC</a></li>

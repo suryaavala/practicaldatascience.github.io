@@ -5,8 +5,8 @@ title: Tutorials
 <ul>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/0/tutorial_final.ipynb">0. tutorial_final</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/1/tutorial_aajith/IMDB Movie Classification.ipynb">1. IMDB Movie Classification</a></li>
-<li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/3/sentiment analysis.ipynb">3. sentiment analysis</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/2/handin/Random Forest Classification.ipynb">2. Random Forest Classification</a></li>
+<li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/3/sentiment analysis.ipynb">3. sentiment analysis</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/4/NetworkX.ipynb">4. NetworkX</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/5/Tutorial/tutorial.ipynb">5. tutorial</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/6/tutorial/Network Analysis Tutorial.ipynb">6. Network Analysis Tutorial</a></li>
@@ -130,7 +130,7 @@ title: Tutorials
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/124/cryptocurrencySentimentAnalysis.ipynb">124. cryptocurrencySentimentAnalysis</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/125/OpenFlight_Data_Visualization.ipynb">125. OpenFlight_Data_Visualization</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/126/Plotly_Tutorial.ipynb">126. Plotly_Tutorial</a></li>
-<li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/127/127_time series.ipynb">127. 127_time series</a></li>
+<li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/127/midi_classifier.ipynb">127. midi_classifier</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/128/aws_lambda_s3_tutorial.ipynb">128. aws_lambda_s3_tutorial</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/129/Bilibili/bilibili.ipynb">129. bilibili</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/130/ExploreBTC.ipynb">130. ExploreBTC</a></li>

@@ -39,7 +39,7 @@ This page lists the class lectures and recitations, plus additional material (sl
 | 4/11 | Deep learning | [<i class="fa fa-file-pdf-o"></i>](/notes/deep_learning/deep_learning.pdf)  | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d2a1aa06-6741-427c-b46c-a8bf0138b764) | [<i class="fa fa-question"></i>](https://goo.gl/forms/6fKgE0FGylCi1KWw1) |
 | | **Additional topics**  | | | | |
 | 4/16 | Big data and MapReduce methods  | [<i class="fa fa-file-pdf-o"></i>](/notes/mapreduce/mapreduce.pdf)  | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d6e065a4-cb31-41a5-8b44-a8c40138d5d6) | |
-| 4/18 | Probabilistic modeling | [<i class="fa fa-file-pdf-o"></i>](/notes/probabilistic_modeling/probabilistic_modeling.pdf) | | | |
+| 4/18 | Probabilistic modeling | [<i class="fa fa-file-pdf-o"></i>](/notes/probabilistic_modeling/probabilistic_modeling.pdf) | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8bc73784-15e2-4b18-87e3-a8c60139025c) | |
 | 4/23 | Debugging data science | | | | |
 | 4/25 | A data science walkthrough | | | | |
 | 4/30 | Data science jobs | | | | |

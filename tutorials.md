@@ -195,7 +195,7 @@ title: Tutorials
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/189/handin/Tutorial.ipynb">189. Tutorial</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/190/pds_tutorial_rrbhatia/TutorialEmotionMap.ipynb">190. TutorialEmotionMap</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/190/pds_tutorial_rrbhatia/Untitled1.ipynb">190. Untitled1</a></li>
-<li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/191/Untitled.ipynb">191. Untitled</a></li>
+<li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/191/Seaborn.ipynb">191. Seaborn</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/192/An Intuitive Guide for Hidden Markov Model.ipynb">192. An Intuitive Guide for Hidden Markov Model</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/193/Tutorial_nbview_compatible.ipynb">193. Tutorial_nbview_compatible</a></li>
 <li><a href="http://nbviewer.jupyter.org/url/datasciencecourse.org/tutorial_final/193/Tutorial_static_images.ipynb">193. Tutorial_static_images</a></li>

@@ -32,19 +32,19 @@ This page lists the class lectures and recitations, plus additional material (sl
 | 3/21 | Maxiumum likelihood estimation, naive Bayes | [<i class="fa fa-file-pdf-o"></i>](/notes/mle/mle.pdf) | [<i class="fa fa-file-text-o"></i>](/notes/mle)  | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a2f8bcbe-636e-4a03-9ddc-a8aa01390794) | [<i class="fa fa-question"></i>](https://goo.gl/forms/HWQAaKb1QOWv3qzf2) |
 | 3/26 | Hypothesis testing and experimental design | [<i class="fa fa-file-pdf-o"></i>](/notes/hypothesis_testing/hypothesis_testing.pdf) | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2381c1ec-ba25-48e6-ac09-a8af01386c20) | [<i class="fa fa-question"></i>](https://goo.gl/forms/XVyljTZF1oPqGzJq1) |
 | | **Advanced modeling techniques** |  | | | |
-| 3/28 | Clustering and dimensionality reduction  |[<i class="fa fa-file-pdf-o"></i>](/notes/unsupervised/unsupervised.pdf) | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=050c9e80-1b16-4852-9df7-a8b10138f6e6) | [<i class="fa fa-question"></i>](https://goo.gl/forms/NeZsmZuWsFnj7dYS2) |
+| 3/28 | Clustering and dimensionality reduction  |[<i class="fa fa-file-pdf-o"></i>](/notes/unsupervised/unsupervised.pdf) | [<i class="fa fa-file-text-o"></i>](/notes/unsupervised) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=050c9e80-1b16-4852-9df7-a8b10138f6e6) | [<i class="fa fa-question"></i>](https://goo.gl/forms/NeZsmZuWsFnj7dYS2) |
 | 4/2  | Recommender systems | [<i class="fa fa-file-pdf-o"></i>](/notes/recommender/recommender_systems.pdf) | [<i class="fa fa-file-text-o"></i>](/notes/recommender) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d201afa4-ba5d-4e47-b822-a8b601383dab)| [<i class="fa fa-question"></i>](https://goo.gl/forms/xtQMdymgD85O9vtu2)|   
 | 4/4  | Anomaly detection | [<i class="fa fa-file-pdf-o"></i>](/notes/anomaly_detection/anomaly_detection.pdf)  | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=94549858-3ff6-4910-8364-a8b80138f8b5) | [<i class="fa fa-question"></i>](https://goo.gl/forms/zZ8Yo8QUm8Ic0pZw1) |
 | 4/9  | Decision trees, interpretable models | [<i class="fa fa-file-pdf-o"></i>](/notes/decision_trees/decision_trees.pdf) | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=528b2d49-7497-479a-877f-a8bd0139747f) | [<i class="fa fa-question"></i>](https://goo.gl/forms/HTjrDQTef7BV8TAC2) |
 | 4/11 | Deep learning | [<i class="fa fa-file-pdf-o"></i>](/notes/deep_learning/deep_learning.pdf)  | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d2a1aa06-6741-427c-b46c-a8bf0138b764) | [<i class="fa fa-question"></i>](https://goo.gl/forms/6fKgE0FGylCi1KWw1) |
 | | **Additional topics**  | | | | |
 | 4/16 | Big data and MapReduce methods  | [<i class="fa fa-file-pdf-o"></i>](/notes/mapreduce/mapreduce.pdf)  | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d6e065a4-cb31-41a5-8b44-a8c40138d5d6) | |
-| 4/18 | Probabilistic modeling | [<i class="fa fa-file-pdf-o"></i>](/notes/probabilistic_modeling/probabilistic_modeling.pdf) | | | |
+| 4/18 | Probabilistic modeling | [<i class="fa fa-file-pdf-o"></i>](/notes/probabilistic_modeling/probabilistic_modeling.pdf) | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8bc73784-15e2-4b18-87e3-a8c60139025c) | |
 | 4/23 | Debugging data science | | | | |
 | 4/25 | A data science walkthrough | | | | |
 | 4/30 | Data science jobs | | | | |
 | 5/2  | The future of data science and Q&A | | | | |
-
+ 
 
 ## Recitations and optional lectures
 

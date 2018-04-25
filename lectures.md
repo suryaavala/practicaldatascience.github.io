@@ -44,7 +44,7 @@ This page lists the class lectures and recitations, plus additional material (sl
 | 4/25 | A data science walkthrough | | | | |
 | 4/30 | Data science jobs | | | | |
 | 5/2  | The future of data science and Q&A | | | | |
- 
+
 
 ## Recitations and optional lectures
 
@@ -58,3 +58,4 @@ This page lists the class lectures and recitations, plus additional material (sl
 | 3/30 | HW 4 | [<i class="fa fa-file-text-o"></i>](/hw/hw4/recitation4.zip) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ecb3a841-ff01-4a5d-a6fc-a8b3015b0bac) |
 | 4/5  | Time series (optional lecture) | [<i class="fa fa-file-pdf-o"></i>](/notes/time_series/time_series.pdf)  | [<i class="fa fa-video-camera"></i>](https://youtu.be/ks6S2LnFWo8) |
 | 4/6 | HW 4 Office Hours | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=10154824-d1c9-4374-b20b-a8ba014bd1ad) |
+| 4/23 | HW 5 Recitation | [<i class="fa fa-file-text-o"></i>](/hw/hw5/rec.zip) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=96a66bfe-7488-4c5a-8b53-a8cb015ffbcf)

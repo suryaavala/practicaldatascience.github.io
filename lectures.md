@@ -41,7 +41,7 @@ This page lists the class lectures and recitations, plus additional material (sl
 | 4/16 | Big data and MapReduce methods  | [<i class="fa fa-file-pdf-o"></i>](/notes/mapreduce/mapreduce.pdf)  | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d6e065a4-cb31-41a5-8b44-a8c40138d5d6) | [<i class="fa fa-question"></i>](https://goo.gl/forms/qiwYsubTqNr74WEp2) |
 | 4/18 | Probabilistic modeling | [<i class="fa fa-file-pdf-o"></i>](/notes/probabilistic_modeling/probabilistic_modeling.pdf) | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8bc73784-15e2-4b18-87e3-a8c60139025c) | [<i class="fa fa-question"></i>](https://goo.gl/forms/xI9RWfPPBgvboU5B2) |
 | 4/23 | Debugging data science | [<i class="fa fa-file-pdf-o"></i>](/notes/debugging/debugging.pdf) | [<i class="fa fa-file-text-o"></i>](/notes/debugging) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=74cd32fe-b6d8-44aa-850e-a8cb013918a7) | [<i class="fa fa-question"></i>](https://goo.gl/forms/Ov9ULfUDYMy8XLMS2) |
-| 4/25 | A data science walkthrough | | | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=393e3944-bedb-4177-9aeb-a8cd01397899) | |
+| 4/25 | A data science walkthrough | | [<i class="fa fa-file-text-o"></i>](/notes/walkthrough/walkthrough.tar.gz) | [<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=393e3944-bedb-4177-9aeb-a8cd01397899) | |
 | 4/30 | Data science walkthrough (pt 2) | | | | |
 | 5/2  | The future of data science and Q&A | | | | |
 

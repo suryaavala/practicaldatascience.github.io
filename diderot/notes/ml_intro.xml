@@ -14,7 +14,7 @@ Intro to machine learning
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-chapter:make_up_label_for_md::intro
+chapter:Intro-to-machine-learning::intro
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -35,7 +35,7 @@ chapter:make_up_label_for_md::intro
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::download
+grp:Intro-to-machine-learning::download
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -59,7 +59,7 @@ grp:make_up_label_for_md::download
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::download
+grm:Intro-to-machine-learning::download
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -98,7 +98,7 @@ Introduction
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::introduction
+sec:Intro-to-machine-learning::introduction
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -119,7 +119,7 @@ sec:make_up_label_for_md::introduction
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::lecture
+grp:Intro-to-machine-learning::lecture
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -143,7 +143,7 @@ grp:make_up_label_for_md::lecture
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::lecture
+grm:Intro-to-machine-learning::lecture
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -181,7 +181,7 @@ This lecture transition to the next unit in this course.  Whereas the previous l
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::machine
+grp:Intro-to-machine-learning::machine
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -205,7 +205,7 @@ grp:make_up_label_for_md::machine
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::machine
+grm:Intro-to-machine-learning::machine
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -246,7 +246,7 @@ Introduction to machine learning
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::machine
+sec:Intro-to-machine-learning::machine
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -267,7 +267,7 @@ sec:make_up_label_for_md::machine
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::learning
+grp:Intro-to-machine-learning::learning
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -291,7 +291,7 @@ grp:make_up_label_for_md::learning
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::learning
+grm:Intro-to-machine-learning::learning
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -331,7 +331,7 @@ classify one of following images as a digit between 0 and 9:
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_2_
+grp:Intro-to-machine-learning::_2_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -355,7 +355,7 @@ grp:make_up_label_for_md::_2_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_1_
+grm:Intro-to-machine-learning::_1_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -393,7 +393,7 @@ grm:make_up_label_for_md::_1_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::traditional
+grp:Intro-to-machine-learning::traditional
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -417,7 +417,7 @@ grp:make_up_label_for_md::traditional
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::traditional
+grm:Intro-to-machine-learning::traditional
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -465,7 +465,7 @@ high-level concepts like the general "shape" of a character is quite challenge.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::approach
+grp:Intro-to-machine-learning::approach
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -489,7 +489,7 @@ grp:make_up_label_for_md::approach
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::approach
+grm:Intro-to-machine-learning::approach
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -541,7 +541,7 @@ Example: predicting peak electrical power
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::predicting
+sec:Intro-to-machine-learning::predicting
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -562,7 +562,7 @@ sec:make_up_label_for_md::predicting
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::consider
+grp:Intro-to-machine-learning::consider
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -586,7 +586,7 @@ grp:make_up_label_for_md::consider
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::consider
+grm:Intro-to-machine-learning::consider
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -641,7 +641,7 @@ people may use, in an attempt to predict future consumption.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::easy
+grp:Intro-to-machine-learning::easy
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -665,7 +665,7 @@ grp:make_up_label_for_md::easy
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::easy
+grm:Intro-to-machine-learning::easy
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -707,7 +707,7 @@ the area (which can be easily downloaded from the [WeFacts](http://wefacts.org) 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::python
+grp:Intro-to-machine-learning::python
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -731,7 +731,7 @@ grp:make_up_label_for_md::python
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::python
+grm:Intro-to-machine-learning::python
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -773,7 +773,7 @@ import glob
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::load
+grp:Intro-to-machine-learning::load
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -797,7 +797,7 @@ grp:make_up_label_for_md::load
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::load
+grm:Intro-to-machine-learning::load
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -865,7 +865,7 @@ df_summer = df[list(map(lambda x : x[4:6] in ["06", "07", "08"], df.index))].cop
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::scatter
+grp:Intro-to-machine-learning::scatter
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -889,7 +889,7 @@ grp:make_up_label_for_md::scatter
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::scatter
+grm:Intro-to-machine-learning::scatter
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -933,7 +933,7 @@ plt.ylabel("Peak Demand (GW)")
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_4_
+grp:Intro-to-machine-learning::_4_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -957,7 +957,7 @@ grp:make_up_label_for_md::_4_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_3_
+grm:Intro-to-machine-learning::_3_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -995,7 +995,7 @@ grm:make_up_label_for_md::_3_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::turns
+grp:Intro-to-machine-learning::turns
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1019,7 +1019,7 @@ grp:make_up_label_for_md::turns
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::turns
+grm:Intro-to-machine-learning::turns
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1059,7 +1059,7 @@ electrical demand.  Thus, we may hypothesize that we can form a fairly good pred
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::peakdemand
+grp:Intro-to-machine-learning::peakdemand
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1083,7 +1083,7 @@ grp:make_up_label_for_md::peakdemand
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::peakdemand
+grm:Intro-to-machine-learning::peakdemand
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1125,7 +1125,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::seems
+grp:Intro-to-machine-learning::seems
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1149,7 +1149,7 @@ grp:make_up_label_for_md::seems
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::seems
+grm:Intro-to-machine-learning::seems
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1187,7 +1187,7 @@ where $\theta_1$ is the slope of the line and $\theta_2$ is the intercept term (
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::theta
+grp:Intro-to-machine-learning::theta
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1211,7 +1211,7 @@ grp:make_up_label_for_md::theta
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::theta
+grm:Intro-to-machine-learning::theta
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1265,7 +1265,7 @@ plt.ylabel("Peak Demand (GW)")
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_6_
+grp:Intro-to-machine-learning::_6_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1289,7 +1289,7 @@ grp:make_up_label_for_md::_6_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_5_
+grm:Intro-to-machine-learning::_5_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1327,7 +1327,7 @@ grm:make_up_label_for_md::_5_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::naturally
+grp:Intro-to-machine-learning::naturally
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1351,7 +1351,7 @@ grp:make_up_label_for_md::naturally
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::naturally
+grm:Intro-to-machine-learning::naturally
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1400,7 +1400,7 @@ Finding good parameters
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::finding
+sec:Intro-to-machine-learning::finding
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1421,7 +1421,7 @@ sec:make_up_label_for_md::finding
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::question
+grp:Intro-to-machine-learning::question
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1445,7 +1445,7 @@ grp:make_up_label_for_md::question
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::question
+grm:Intro-to-machine-learning::question
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1483,7 +1483,7 @@ The question, of course, is how we find "good" values for $\theta_1$ and $\theta
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::objective
+grp:Intro-to-machine-learning::objective
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1507,7 +1507,7 @@ grp:make_up_label_for_md::objective
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::objective
+grm:Intro-to-machine-learning::objective
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1545,7 +1545,7 @@ grm:make_up_label_for_md::objective
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::hightemperature
+grp:Intro-to-machine-learning::hightemperature
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1569,7 +1569,7 @@ grp:make_up_label_for_md::hightemperature
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::hightemperature
+grm:Intro-to-machine-learning::hightemperature
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1611,7 +1611,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::want
+grp:Intro-to-machine-learning::want
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1635,7 +1635,7 @@ grp:make_up_label_for_md::want
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::want
+grm:Intro-to-machine-learning::want
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1673,7 +1673,7 @@ we want to make this quantity as close as possible, averaged over all the days, 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::days
+grp:Intro-to-machine-learning::days
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1697,7 +1697,7 @@ grp:make_up_label_for_md::days
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::days
+grm:Intro-to-machine-learning::days
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1739,7 +1739,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::abbreviate
+grp:Intro-to-machine-learning::abbreviate
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1763,7 +1763,7 @@ grp:make_up_label_for_md::abbreviate
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::abbreviate
+grm:Intro-to-machine-learning::abbreviate
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1801,7 +1801,7 @@ which we abbreviate as $E(\theta)$ to emphasize the fact that we are going to be
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::minimizing
+grp:Intro-to-machine-learning::minimizing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1825,7 +1825,7 @@ grp:make_up_label_for_md::minimizing
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::minimizing
+grm:Intro-to-machine-learning::minimizing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1865,7 +1865,7 @@ In this figure, for regions on the left of the plot, the slope is negative, whil
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::partial
+grp:Intro-to-machine-learning::partial
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1889,7 +1889,7 @@ grp:make_up_label_for_md::partial
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::partial
+grm:Intro-to-machine-learning::partial
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1927,7 +1927,7 @@ grm:make_up_label_for_md::partial
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_8_
+grp:Intro-to-machine-learning::_8_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1951,7 +1951,7 @@ grp:make_up_label_for_md::_8_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_7_
+grm:Intro-to-machine-learning::_7_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1993,7 +1993,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::derivative
+grp:Intro-to-machine-learning::derivative
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2017,7 +2017,7 @@ grp:make_up_label_for_md::derivative
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::derivative
+grm:Intro-to-machine-learning::derivative
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2055,7 +2055,7 @@ is just the derivative of $f$ with respect to $\theta_j$, _treating all other co
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_10_
+grp:Intro-to-machine-learning::_10_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2079,7 +2079,7 @@ grp:make_up_label_for_md::_10_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_9_
+grm:Intro-to-machine-learning::_9_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2121,7 +2121,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::derivatives
+grp:Intro-to-machine-learning::derivatives
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2145,7 +2145,7 @@ grp:make_up_label_for_md::derivatives
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::derivatives
+grm:Intro-to-machine-learning::derivatives
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2183,7 +2183,7 @@ then the partial derivatives are given by
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_12_
+grp:Intro-to-machine-learning::_12_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2207,7 +2207,7 @@ grp:make_up_label_for_md::_12_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_11_
+grm:Intro-to-machine-learning::_11_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2255,7 +2255,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::simply
+grp:Intro-to-machine-learning::simply
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2279,7 +2279,7 @@ grp:make_up_label_for_md::simply
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::simply
+grm:Intro-to-machine-learning::simply
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2320,7 +2320,7 @@ The gradient descent algorithm (first pass)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::gradient
+sec:Intro-to-machine-learning::gradient
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2341,7 +2341,7 @@ sec:make_up_label_for_md::gradient
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::extending
+grp:Intro-to-machine-learning::extending
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2365,7 +2365,7 @@ grp:make_up_label_for_md::extending
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::extending
+grm:Intro-to-machine-learning::extending
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2403,7 +2403,7 @@ Extending our intuition above, the gradient descent algorithm for multivariate f
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::basic
+grp:Intro-to-machine-learning::basic
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2427,7 +2427,7 @@ grp:make_up_label_for_md::basic
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::basic
+grm:Intro-to-machine-learning::basic
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2471,7 +2471,7 @@ grm:make_up_label_for_md::basic
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::notation
+grp:Intro-to-machine-learning::notation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2495,7 +2495,7 @@ grp:make_up_label_for_md::notation
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::notation
+grm:Intro-to-machine-learning::notation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2533,7 +2533,7 @@ In fact, other than the fact that the notation gets trickier when you have matri
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_14_
+grp:Intro-to-machine-learning::_14_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2557,7 +2557,7 @@ grp:make_up_label_for_md::_14_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_13_
+grm:Intro-to-machine-learning::_13_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2599,7 +2599,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::compute
+grp:Intro-to-machine-learning::compute
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2623,7 +2623,7 @@ grp:make_up_label_for_md::compute
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::compute
+grm:Intro-to-machine-learning::compute
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2661,7 +2661,7 @@ Let's compute the partial derivatives of this function with respect to $\theta_1
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_16_
+grp:Intro-to-machine-learning::_16_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2685,7 +2685,7 @@ grp:make_up_label_for_md::_16_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_15_
+grm:Intro-to-machine-learning::_15_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2737,7 +2737,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::line
+grp:Intro-to-machine-learning::line
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2761,7 +2761,7 @@ grp:make_up_label_for_md::line
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::line
+grm:Intro-to-machine-learning::line
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2799,7 +2799,7 @@ where in the second line we use the linearity of the derivative, in the third li
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_18_
+grp:Intro-to-machine-learning::_18_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2823,7 +2823,7 @@ grp:make_up_label_for_md::_18_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_17_
+grm:Intro-to-machine-learning::_17_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2875,7 +2875,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::proceed
+grp:Intro-to-machine-learning::proceed
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2899,7 +2899,7 @@ grp:make_up_label_for_md::proceed
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::proceed
+grm:Intro-to-machine-learning::proceed
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2937,7 +2937,7 @@ where all the derivatives proceed identically except for the fact that the coeff
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_20_
+grp:Intro-to-machine-learning::_20_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2961,7 +2961,7 @@ grp:make_up_label_for_md::_20_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_19_
+grm:Intro-to-machine-learning::_19_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3009,7 +3009,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::small
+grp:Intro-to-machine-learning::small
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3033,7 +3033,7 @@ grp:make_up_label_for_md::small
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::small
+grm:Intro-to-machine-learning::small
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3071,7 +3071,7 @@ where $\alpha$ is some small positive constant (indicating how big of a step in 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::data
+grp:Intro-to-machine-learning::data
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3095,7 +3095,7 @@ grp:make_up_label_for_md::data
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::data
+grm:Intro-to-machine-learning::data
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3133,7 +3133,7 @@ grm:make_up_label_for_md::data
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::normalize
+grp:Intro-to-machine-learning::normalize
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3157,7 +3157,7 @@ grp:make_up_label_for_md::normalize
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::normalize
+grm:Intro-to-machine-learning::normalize
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3195,7 +3195,7 @@ We can normalize data in a number of ways, but a simple strategy is just to tran
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_22_
+grp:Intro-to-machine-learning::_22_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3219,7 +3219,7 @@ grp:make_up_label_for_md::_22_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_21_
+grm:Intro-to-machine-learning::_21_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3261,7 +3261,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::temperature
+grp:Intro-to-machine-learning::temperature
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3285,7 +3285,7 @@ grp:make_up_label_for_md::temperature
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::temperature
+grm:Intro-to-machine-learning::temperature
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3323,7 +3323,7 @@ and similarly for $\tilde{y}^{(i)}$.  Let's normalize our temperature/demand dat
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::summer
+grp:Intro-to-machine-learning::summer
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3347,7 +3347,7 @@ grp:make_up_label_for_md::summer
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::summer
+grm:Intro-to-machine-learning::summer
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3399,7 +3399,7 @@ plt.ylabel("Normalized Demand")
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_24_
+grp:Intro-to-machine-learning::_24_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3423,7 +3423,7 @@ grp:make_up_label_for_md::_24_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_23_
+grm:Intro-to-machine-learning::_23_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3461,7 +3461,7 @@ grm:make_up_label_for_md::_23_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::look
+grp:Intro-to-machine-learning::look
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3485,7 +3485,7 @@ grp:make_up_label_for_md::look
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::look
+grm:Intro-to-machine-learning::look
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3526,7 +3526,7 @@ Visualizing gradient descent
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::visualizing
+sec:Intro-to-machine-learning::visualizing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3547,7 +3547,7 @@ sec:make_up_label_for_md::visualizing
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::gradient
+grp:Intro-to-machine-learning::gradient
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3571,7 +3571,7 @@ grp:make_up_label_for_md::gradient
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::gradient
+grm:Intro-to-machine-learning::gradient
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3609,7 +3609,7 @@ Now let's look at the gradient descent algorithm.  This will initialize $\theta_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::array
+grp:Intro-to-machine-learning::array
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3633,7 +3633,7 @@ grp:make_up_label_for_md::array
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::array
+grm:Intro-to-machine-learning::array
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3687,7 +3687,7 @@ for t in range(101):
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::iteration
+grp:Intro-to-machine-learning::iteration
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3711,7 +3711,7 @@ grp:make_up_label_for_md::iteration
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::iteration
+grm:Intro-to-machine-learning::iteration
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3773,7 +3773,7 @@ Iteration 100:  [ 1.05595808 -0.18522191]
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::visualize
+grp:Intro-to-machine-learning::visualize
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3797,7 +3797,7 @@ grp:make_up_label_for_md::visualize
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::visualize
+grm:Intro-to-machine-learning::visualize
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3835,7 +3835,7 @@ Let's visualize what this looks like in a couple different ways.  First, let's l
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::descent
+grp:Intro-to-machine-learning::descent
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3859,7 +3859,7 @@ grp:make_up_label_for_md::descent
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::descent
+grm:Intro-to-machine-learning::descent
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3931,7 +3931,7 @@ def plot_fit(theta):
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::clearly
+grp:Intro-to-machine-learning::clearly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3955,7 +3955,7 @@ grp:make_up_label_for_md::clearly
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::clearly
+grm:Intro-to-machine-learning::clearly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3993,7 +3993,7 @@ Clearly, after zero iterations of gradient descent, the function just is a strai
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::plot
+grp:Intro-to-machine-learning::plot
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4017,7 +4017,7 @@ grp:make_up_label_for_md::plot
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::plot
+grm:Intro-to-machine-learning::plot
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4057,7 +4057,7 @@ plot_fit(gradient_descent(0))
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_26_
+grp:Intro-to-machine-learning::_26_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4081,7 +4081,7 @@ grp:make_up_label_for_md::_26_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_25_
+grm:Intro-to-machine-learning::_25_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4119,7 +4119,7 @@ grm:make_up_label_for_md::_25_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::already
+grp:Intro-to-machine-learning::already
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4143,7 +4143,7 @@ grp:make_up_label_for_md::already
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::already
+grm:Intro-to-machine-learning::already
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4181,7 +4181,7 @@ After just one iteration, we already start to see the line becoming a better fit
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::fit
+grp:Intro-to-machine-learning::fit
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4205,7 +4205,7 @@ grp:make_up_label_for_md::fit
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::fit
+grm:Intro-to-machine-learning::fit
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4245,7 +4245,7 @@ plot_fit(gradient_descent(1))
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_28_
+grp:Intro-to-machine-learning::_28_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4269,7 +4269,7 @@ grp:make_up_label_for_md::_28_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_27_
+grm:Intro-to-machine-learning::_27_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4307,7 +4307,7 @@ grm:make_up_label_for_md::_27_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::five
+grp:Intro-to-machine-learning::five
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4331,7 +4331,7 @@ grp:make_up_label_for_md::five
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::five
+grm:Intro-to-machine-learning::five
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4369,7 +4369,7 @@ After five iterations the fit is better still.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_30_
+grp:Intro-to-machine-learning::_30_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4393,7 +4393,7 @@ grp:make_up_label_for_md::_30_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_29_
+grm:Intro-to-machine-learning::_29_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4433,7 +4433,7 @@ plot_fit(gradient_descent(5))
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_32_
+grp:Intro-to-machine-learning::_32_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4457,7 +4457,7 @@ grp:make_up_label_for_md::_32_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_31_
+grm:Intro-to-machine-learning::_31_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4495,7 +4495,7 @@ grm:make_up_label_for_md::_31_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::iterations
+grp:Intro-to-machine-learning::iterations
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4519,7 +4519,7 @@ grp:make_up_label_for_md::iterations
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::iterations
+grm:Intro-to-machine-learning::iterations
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4557,7 +4557,7 @@ After 10 iterations.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_34_
+grp:Intro-to-machine-learning::_34_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4581,7 +4581,7 @@ grp:make_up_label_for_md::_34_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_33_
+grm:Intro-to-machine-learning::_33_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4621,7 +4621,7 @@ plot_fit(gradient_descent(10))
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_36_
+grp:Intro-to-machine-learning::_36_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4645,7 +4645,7 @@ grp:make_up_label_for_md::_36_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_35_
+grm:Intro-to-machine-learning::_35_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4683,7 +4683,7 @@ grm:make_up_label_for_md::_35_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_38_
+grp:Intro-to-machine-learning::_38_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4707,7 +4707,7 @@ grp:make_up_label_for_md::_38_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_37_
+grm:Intro-to-machine-learning::_37_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4745,7 +4745,7 @@ After 50 iterations.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_40_
+grp:Intro-to-machine-learning::_40_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4769,7 +4769,7 @@ grp:make_up_label_for_md::_40_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_39_
+grm:Intro-to-machine-learning::_39_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4809,7 +4809,7 @@ plot_fit(gradient_descent(50))
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_42_
+grp:Intro-to-machine-learning::_42_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4833,7 +4833,7 @@ grp:make_up_label_for_md::_42_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_41_
+grm:Intro-to-machine-learning::_41_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4871,7 +4871,7 @@ grm:make_up_label_for_md::_41_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_44_
+grp:Intro-to-machine-learning::_44_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4895,7 +4895,7 @@ grp:make_up_label_for_md::_44_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_43_
+grm:Intro-to-machine-learning::_43_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4933,7 +4933,7 @@ After 100 iterations
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_46_
+grp:Intro-to-machine-learning::_46_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4957,7 +4957,7 @@ grp:make_up_label_for_md::_46_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_45_
+grm:Intro-to-machine-learning::_45_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4997,7 +4997,7 @@ plot_fit(gradient_descent(100))
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_48_
+grp:Intro-to-machine-learning::_48_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5021,7 +5021,7 @@ grp:make_up_label_for_md::_48_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_47_
+grm:Intro-to-machine-learning::_47_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5062,7 +5062,7 @@ Error versus iteration
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::error
+sec:Intro-to-machine-learning::error
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5083,7 +5083,7 @@ sec:make_up_label_for_md::error
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::average
+grp:Intro-to-machine-learning::average
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5107,7 +5107,7 @@ grp:make_up_label_for_md::average
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::average
+grm:Intro-to-machine-learning::average
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5145,7 +5145,7 @@ We can also look at the average error versus iteration.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::iters
+grp:Intro-to-machine-learning::iters
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5169,7 +5169,7 @@ grp:make_up_label_for_md::iters
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::iters
+grm:Intro-to-machine-learning::iters
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5233,7 +5233,7 @@ plt.ylabel("Average error")
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_50_
+grp:Intro-to-machine-learning::_50_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5257,7 +5257,7 @@ grp:make_up_label_for_md::_50_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_49_
+grm:Intro-to-machine-learning::_49_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5295,7 +5295,7 @@ grm:make_up_label_for_md::_49_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::error
+grp:Intro-to-machine-learning::error
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5319,7 +5319,7 @@ grp:make_up_label_for_md::error
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::error
+grm:Intro-to-machine-learning::error
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5357,7 +5357,7 @@ Note that because the error decreases so quickly, it's not that easy to see what
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::semilogy
+grp:Intro-to-machine-learning::semilogy
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5381,7 +5381,7 @@ grp:make_up_label_for_md::semilogy
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::semilogy
+grm:Intro-to-machine-learning::semilogy
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5427,7 +5427,7 @@ plt.ylabel("Average error minus optimal")
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_52_
+grp:Intro-to-machine-learning::_52_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5451,7 +5451,7 @@ grp:make_up_label_for_md::_52_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_51_
+grm:Intro-to-machine-learning::_51_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5489,7 +5489,7 @@ grm:make_up_label_for_md::_51_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::decreasing
+grp:Intro-to-machine-learning::decreasing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5513,7 +5513,7 @@ grp:make_up_label_for_md::decreasing
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::decreasing
+grm:Intro-to-machine-learning::decreasing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5554,7 +5554,7 @@ Visualizing parameter updates
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::parameter
+sec:Intro-to-machine-learning::parameter
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5575,7 +5575,7 @@ sec:make_up_label_for_md::parameter
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::final
+grp:Intro-to-machine-learning::final
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5599,7 +5599,7 @@ grp:make_up_label_for_md::final
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::final
+grm:Intro-to-machine-learning::final
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5637,7 +5637,7 @@ As a final visualization, let's look at what with the gradient updates in parame
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::params
+grp:Intro-to-machine-learning::params
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5661,7 +5661,7 @@ grp:make_up_label_for_md::params
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::params
+grm:Intro-to-machine-learning::params
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5723,7 +5723,7 @@ def err(theta):
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::thetas
+grp:Intro-to-machine-learning::thetas
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5747,7 +5747,7 @@ grp:make_up_label_for_md::thetas
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::thetas
+grm:Intro-to-machine-learning::thetas
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5815,7 +5815,7 @@ plt.ylabel("theta2")
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_54_
+grp:Intro-to-machine-learning::_54_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5839,7 +5839,7 @@ grp:make_up_label_for_md::_54_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_53_
+grm:Intro-to-machine-learning::_53_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5880,7 +5880,7 @@ Omitting normalization
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::omitting
+sec:Intro-to-machine-learning::omitting
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5901,7 +5901,7 @@ sec:make_up_label_for_md::omitting
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::happens
+grp:Intro-to-machine-learning::happens
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5925,7 +5925,7 @@ grp:make_up_label_for_md::happens
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::happens
+grm:Intro-to-machine-learning::happens
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5963,7 +5963,7 @@ What happens if we run this same process without first normalizing the data?  Le
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::unnor
+grp:Intro-to-machine-learning::unnor
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5987,7 +5987,7 @@ grp:make_up_label_for_md::unnor
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::unnor
+grm:Intro-to-machine-learning::unnor
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6041,7 +6041,7 @@ def gradient_descent_unnor(iters, alpha=1.0):
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::alpha
+grp:Intro-to-machine-learning::alpha
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6065,7 +6065,7 @@ grp:make_up_label_for_md::alpha
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::alpha
+grm:Intro-to-machine-learning::alpha
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6105,7 +6105,7 @@ gradient_descent_unnor(100, alpha=1.0);
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::users
+grp:Intro-to-machine-learning::users
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6129,7 +6129,7 @@ grp:make_up_label_for_md::users
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::users
+grm:Intro-to-machine-learning::users
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6177,7 +6177,7 @@ grm:make_up_label_for_md::users
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::parameters
+grp:Intro-to-machine-learning::parameters
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6201,7 +6201,7 @@ grp:make_up_label_for_md::parameters
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::parameters
+grm:Intro-to-machine-learning::parameters
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6239,7 +6239,7 @@ Our parameters start blowing up and quickly cause numerical overflow.  The issue
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_56_
+grp:Intro-to-machine-learning::_56_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6263,7 +6263,7 @@ grp:make_up_label_for_md::_56_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_55_
+grm:Intro-to-machine-learning::_55_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6303,7 +6303,7 @@ gradient_descent_unnor(100, alpha=0.0001);
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::pre
+grp:Intro-to-machine-learning::pre
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6327,7 +6327,7 @@ grp:make_up_label_for_md::pre
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::pre
+grm:Intro-to-machine-learning::pre
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6387,7 +6387,7 @@ Iteration  90:  [ 0.0271675  -0.00023449]
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::nowhere
+grp:Intro-to-machine-learning::nowhere
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6411,7 +6411,7 @@ grp:make_up_label_for_md::nowhere
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::nowhere
+grm:Intro-to-machine-learning::nowhere
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6449,7 +6449,7 @@ The problem here is that we are nowhere _near_ converged to the solution.  Let's
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_58_
+grp:Intro-to-machine-learning::_58_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6473,7 +6473,7 @@ grp:make_up_label_for_md::_58_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_57_
+grm:Intro-to-machine-learning::_57_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6513,7 +6513,7 @@ gradient_descent_unnor(1000000, alpha=0.0001);
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::-0
+grp:Intro-to-machine-learning::-0
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6537,7 +6537,7 @@ grp:make_up_label_for_md::-0
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::-0
+grm:Intro-to-machine-learning::-0
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6597,7 +6597,7 @@ Iteration 900000:  [ 0.03827684 -0.89858621]
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::million
+grp:Intro-to-machine-learning::million
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6621,7 +6621,7 @@ grp:make_up_label_for_md::million
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::million
+grm:Intro-to-machine-learning::million
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6662,7 +6662,7 @@ Getting the answer back in the original coordinates
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::getting
+sec:Intro-to-machine-learning::getting
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6683,7 +6683,7 @@ sec:make_up_label_for_md::getting
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::fortunately
+grp:Intro-to-machine-learning::fortunately
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6707,7 +6707,7 @@ grp:make_up_label_for_md::fortunately
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::fortunately
+grm:Intro-to-machine-learning::fortunately
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6745,7 +6745,7 @@ Fortunately, we don't need to resort to solving the system in the original coord
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::y-a
+grp:Intro-to-machine-learning::y-a
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6769,7 +6769,7 @@ grp:make_up_label_for_md::y-a
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::y-a
+grm:Intro-to-machine-learning::y-a
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6823,7 +6823,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_60_
+grp:Intro-to-machine-learning::_60_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6847,7 +6847,7 @@ grp:make_up_label_for_md::_60_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_59_
+grm:Intro-to-machine-learning::_59_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6885,7 +6885,7 @@ where
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_62_
+grp:Intro-to-machine-learning::_62_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6909,7 +6909,7 @@ grp:make_up_label_for_md::_62_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_61_
+grm:Intro-to-machine-learning::_61_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6951,7 +6951,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::define
+grp:Intro-to-machine-learning::define
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6975,7 +6975,7 @@ grp:make_up_label_for_md::define
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::define
+grm:Intro-to-machine-learning::define
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7013,7 +7013,7 @@ and where we define
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_64_
+grp:Intro-to-machine-learning::_64_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7037,7 +7037,7 @@ grp:make_up_label_for_md::_64_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_63_
+grm:Intro-to-machine-learning::_63_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7085,7 +7085,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::might
+grp:Intro-to-machine-learning::might
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7109,7 +7109,7 @@ grp:make_up_label_for_md::might
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::might
+grm:Intro-to-machine-learning::might
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7147,7 +7147,7 @@ That might seem like a lot, but all it's saying is that there is an easy formula
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::min
+grp:Intro-to-machine-learning::min
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7171,7 +7171,7 @@ grp:make_up_label_for_md::min
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::min
+grm:Intro-to-machine-learning::min
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7215,7 +7215,7 @@ theta_hat = np.array([b * theta[0] / d, b*theta[1] + a - c*b*theta[0]/d])
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::temp
+grp:Intro-to-machine-learning::temp
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7239,7 +7239,7 @@ grp:make_up_label_for_md::temp
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::temp
+grm:Intro-to-machine-learning::temp
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7291,7 +7291,7 @@ plt.ylabel("Peak Demand (GW)")
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_66_
+grp:Intro-to-machine-learning::_66_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7315,7 +7315,7 @@ grp:make_up_label_for_md::_66_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_65_
+grm:Intro-to-machine-learning::_65_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7353,7 +7353,7 @@ grm:make_up_label_for_md::_65_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::course
+grp:Intro-to-machine-learning::course
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7377,7 +7377,7 @@ grp:make_up_label_for_md::course
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::course
+grm:Intro-to-machine-learning::course
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7420,7 +7420,7 @@ Machine learning in general
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::learning
+sec:Intro-to-machine-learning::learning
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7441,7 +7441,7 @@ sec:make_up_label_for_md::learning
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::including
+grp:Intro-to-machine-learning::including
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7465,7 +7465,7 @@ grp:make_up_label_for_md::including
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::including
+grm:Intro-to-machine-learning::including
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7503,7 +7503,7 @@ There was a lot to this example, including collecting the data, deriving the gra
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::general
+grp:Intro-to-machine-learning::general
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7527,7 +7527,7 @@ grp:make_up_label_for_md::general
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::general
+grm:Intro-to-machine-learning::general
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7565,7 +7565,7 @@ To define machine learning is more general terms, we're going to first introduce
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::inputs
+grp:Intro-to-machine-learning::inputs
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7589,7 +7589,7 @@ grp:make_up_label_for_md::inputs
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::inputs
+grm:Intro-to-machine-learning::inputs
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7638,7 +7638,7 @@ The canonical machine learning problem
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::canonical
+sec:Intro-to-machine-learning::canonical
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7659,7 +7659,7 @@ sec:make_up_label_for_md::canonical
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::ingredients
+grp:Intro-to-machine-learning::ingredients
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7683,7 +7683,7 @@ grp:make_up_label_for_md::ingredients
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::ingredients
+grm:Intro-to-machine-learning::ingredients
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7721,7 +7721,7 @@ With this ingredients defined we can, believe it or not, write down just about _
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::minimize
+grp:Intro-to-machine-learning::minimize
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7745,7 +7745,7 @@ grp:make_up_label_for_md::minimize
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::minimize
+grm:Intro-to-machine-learning::minimize
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7789,7 +7789,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::loss
+grp:Intro-to-machine-learning::loss
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7813,7 +7813,7 @@ grp:make_up_label_for_md::loss
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::loss
+grm:Intro-to-machine-learning::loss
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7851,7 +7851,7 @@ grm:make_up_label_for_md::loss
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::form
+grp:Intro-to-machine-learning::form
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7875,7 +7875,7 @@ grp:make_up_label_for_md::form
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::form
+grm:Intro-to-machine-learning::form
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7919,7 +7919,7 @@ grm:make_up_label_for_md::form
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::three
+grp:Intro-to-machine-learning::three
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7943,7 +7943,7 @@ grp:make_up_label_for_md::three
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::three
+grm:Intro-to-machine-learning::three
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7981,7 +7981,7 @@ These three elements (in different forms, of course), make up the entirety of al
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::give
+grp:Intro-to-machine-learning::give
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8005,7 +8005,7 @@ grp:make_up_label_for_md::give
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::give
+grm:Intro-to-machine-learning::give
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8043,7 +8043,7 @@ To give a preview of what is to come, we're going to list a few names of common 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::hypothesis
+grp:Intro-to-machine-learning::hypothesis
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8067,7 +8067,7 @@ grp:make_up_label_for_md::hypothesis
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::hypothesis
+grm:Intro-to-machine-learning::hypothesis
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8192,7 +8192,7 @@ Instantiation on demand forecasting setting
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::instantiation
+sec:Intro-to-machine-learning::instantiation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8213,7 +8213,7 @@ sec:make_up_label_for_md::instantiation
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::make
+grp:Intro-to-machine-learning::make
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8237,7 +8237,7 @@ grp:make_up_label_for_md::make
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::make
+grm:Intro-to-machine-learning::make
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8275,7 +8275,7 @@ Let's make all this a bit more concrete by considering how we apply this framewo
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::function
+grp:Intro-to-machine-learning::function
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8299,7 +8299,7 @@ grp:make_up_label_for_md::function
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::function
+grm:Intro-to-machine-learning::function
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8347,7 +8347,7 @@ grm:make_up_label_for_md::function
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::exactly
+grp:Intro-to-machine-learning::exactly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8371,7 +8371,7 @@ grp:make_up_label_for_md::exactly
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::exactly
+grm:Intro-to-machine-learning::exactly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8409,7 +8409,7 @@ Thus, the machine learning problem in question, which of course exactly matches 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_68_
+grp:Intro-to-machine-learning::_68_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8433,7 +8433,7 @@ grp:make_up_label_for_md::_68_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_67_
+grm:Intro-to-machine-learning::_67_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8477,7 +8477,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::defined
+grp:Intro-to-machine-learning::defined
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8501,7 +8501,7 @@ grp:make_up_label_for_md::defined
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::defined
+grm:Intro-to-machine-learning::defined
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8544,7 +8544,7 @@ Least squares revisited
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::least
+sec:Intro-to-machine-learning::least
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8565,7 +8565,7 @@ sec:make_up_label_for_md::least
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::formal
+grp:Intro-to-machine-learning::formal
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8589,7 +8589,7 @@ grp:make_up_label_for_md::formal
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::formal
+grm:Intro-to-machine-learning::formal
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8627,7 +8627,7 @@ With a more formal framework is place for describing machine learning algorithms
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::main
+grp:Intro-to-machine-learning::main
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8651,7 +8651,7 @@ grp:make_up_label_for_md::main
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::main
+grm:Intro-to-machine-learning::main
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8689,7 +8689,7 @@ Before we define the main elements of the least-squares problem, let's make one 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_70_
+grp:Intro-to-machine-learning::_70_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8713,7 +8713,7 @@ grp:make_up_label_for_md::_70_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_69_
+grm:Intro-to-machine-learning::_69_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8755,7 +8755,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::append
+grp:Intro-to-machine-learning::append
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8779,7 +8779,7 @@ grp:make_up_label_for_md::append
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::append
+grm:Intro-to-machine-learning::append
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8817,7 +8817,7 @@ i.e., we just append a constant to our inputs and call this the new input the al
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::isweekday
+grp:Intro-to-machine-learning::isweekday
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8841,7 +8841,7 @@ grp:make_up_label_for_md::isweekday
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::isweekday
+grm:Intro-to-machine-learning::isweekday
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8883,7 +8883,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::point
+grp:Intro-to-machine-learning::point
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8907,7 +8907,7 @@ grp:make_up_label_for_md::point
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::point
+grm:Intro-to-machine-learning::point
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8945,7 +8945,7 @@ but the point is that we will always have a constant term 1 be the final feature
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_72_
+grp:Intro-to-machine-learning::_72_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8969,7 +8969,7 @@ grp:make_up_label_for_md::_72_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_71_
+grm:Intro-to-machine-learning::_71_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9011,7 +9011,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::feature
+grp:Intro-to-machine-learning::feature
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9035,7 +9035,7 @@ grp:make_up_label_for_md::feature
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::feature
+grm:Intro-to-machine-learning::feature
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9073,7 +9073,7 @@ Because the final feature is always one, the final coefficient $\theta_n$ always
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::least
+grp:Intro-to-machine-learning::least
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9097,7 +9097,7 @@ grp:make_up_label_for_md::least
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::least
+grm:Intro-to-machine-learning::least
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9135,7 +9135,7 @@ Now let's define the key ingredients of the least square problem.  Note that the
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::linear
+grp:Intro-to-machine-learning::linear
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9159,7 +9159,7 @@ grp:make_up_label_for_md::linear
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::linear
+grm:Intro-to-machine-learning::linear
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9201,7 +9201,7 @@ grm:make_up_label_for_md::linear
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::specify
+grp:Intro-to-machine-learning::specify
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9225,7 +9225,7 @@ grp:make_up_label_for_md::specify
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::specify
+grm:Intro-to-machine-learning::specify
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9263,7 +9263,7 @@ These specify the first two elements of a machine learning algorithm, but how do
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_74_
+grp:Intro-to-machine-learning::_74_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9287,7 +9287,7 @@ grp:make_up_label_for_md::_74_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_73_
+grm:Intro-to-machine-learning::_73_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9329,7 +9329,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::shorthand
+grp:Intro-to-machine-learning::shorthand
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9353,7 +9353,7 @@ grp:make_up_label_for_md::shorthand
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::shorthand
+grm:Intro-to-machine-learning::shorthand
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9391,7 +9391,7 @@ where we will again use $E(\theta)$ as shorthand for this objective.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::explore
+grp:Intro-to-machine-learning::explore
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9415,7 +9415,7 @@ grp:make_up_label_for_md::explore
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::explore
+grm:Intro-to-machine-learning::explore
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9454,7 +9454,7 @@ Gradient descent for least squares
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::descent
+sec:Intro-to-machine-learning::descent
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9475,7 +9475,7 @@ sec:make_up_label_for_md::descent
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::recall
+grp:Intro-to-machine-learning::recall
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9499,7 +9499,7 @@ grp:make_up_label_for_md::recall
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::recall
+grm:Intro-to-machine-learning::recall
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9537,7 +9537,7 @@ Recall that the gradient descent algorithm takes a small step in the direction o
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_76_
+grp:Intro-to-machine-learning::_76_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9561,7 +9561,7 @@ grp:make_up_label_for_md::_76_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_75_
+grm:Intro-to-machine-learning::_75_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9615,7 +9615,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::observation
+grp:Intro-to-machine-learning::observation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9639,7 +9639,7 @@ grp:make_up_label_for_md::observation
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::observation
+grm:Intro-to-machine-learning::observation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9677,7 +9677,7 @@ where the key observation in moving from like 3 to 4 is that when we differentia
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::squares
+grp:Intro-to-machine-learning::squares
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9701,7 +9701,7 @@ grp:make_up_label_for_md::squares
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::squares
+grm:Intro-to-machine-learning::squares
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9739,7 +9739,7 @@ Thus, gradient descent for the least squares algorithm takes the following form
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::hr
+grp:Intro-to-machine-learning::hr
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9763,7 +9763,7 @@ grp:make_up_label_for_md::hr
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::hr
+grm:Intro-to-machine-learning::hr
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9801,7 +9801,7 @@ grm:make_up_label_for_md::hr
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::initialize
+grp:Intro-to-machine-learning::initialize
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9825,7 +9825,7 @@ grp:make_up_label_for_md::initialize
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::initialize
+grm:Intro-to-machine-learning::initialize
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9863,7 +9863,7 @@ grm:make_up_label_for_md::initialize
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_78_
+grp:Intro-to-machine-learning::_78_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9887,7 +9887,7 @@ grp:make_up_label_for_md::_78_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_77_
+grm:Intro-to-machine-learning::_77_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9927,7 +9927,7 @@ grm:make_up_label_for_md::_77_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::repeat
+grp:Intro-to-machine-learning::repeat
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9951,7 +9951,7 @@ grp:make_up_label_for_md::repeat
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::repeat
+grm:Intro-to-machine-learning::repeat
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9989,7 +9989,7 @@ grm:make_up_label_for_md::repeat
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_80_
+grp:Intro-to-machine-learning::_80_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10013,7 +10013,7 @@ grp:make_up_label_for_md::_80_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_79_
+grm:Intro-to-machine-learning::_79_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10053,7 +10053,7 @@ grm:make_up_label_for_md::_79_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_82_
+grp:Intro-to-machine-learning::_82_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10077,7 +10077,7 @@ grp:make_up_label_for_md::_82_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_81_
+grm:Intro-to-machine-learning::_81_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10115,7 +10115,7 @@ grm:make_up_label_for_md::_81_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_84_
+grp:Intro-to-machine-learning::_84_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10139,7 +10139,7 @@ grp:make_up_label_for_md::_84_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_83_
+grm:Intro-to-machine-learning::_83_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10177,7 +10177,7 @@ grm:make_up_label_for_md::_83_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::looks
+grp:Intro-to-machine-learning::looks
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10201,7 +10201,7 @@ grp:make_up_label_for_md::looks
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::looks
+grm:Intro-to-machine-learning::looks
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10239,7 +10239,7 @@ Let's see how this looks is code.  It's important to emphasize that this is _not
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::shape
+grp:Intro-to-machine-learning::shape
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10263,7 +10263,7 @@ grp:make_up_label_for_md::shape
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::shape
+grm:Intro-to-machine-learning::shape
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10332,7 +10332,7 @@ Evaluation on peak demand forecasting
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::evaluation
+sec:Intro-to-machine-learning::evaluation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10353,7 +10353,7 @@ sec:make_up_label_for_md::evaluation
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::works
+grp:Intro-to-machine-learning::works
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10377,7 +10377,7 @@ grp:make_up_label_for_md::works
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::works
+grm:Intro-to-machine-learning::works
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10415,7 +10415,7 @@ Let's see how this function works in practice.  To do so, we're going to cosider
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::weekday
+grp:Intro-to-machine-learning::weekday
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10439,7 +10439,7 @@ grp:make_up_label_for_md::weekday
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::weekday
+grm:Intro-to-machine-learning::weekday
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10485,7 +10485,7 @@ df_summer.loc[:,"IsWeekday"] = weekday
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::true
+grp:Intro-to-machine-learning::true
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10509,7 +10509,7 @@ grp:make_up_label_for_md::true
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::true
+grm:Intro-to-machine-learning::true
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10561,7 +10561,7 @@ plt.legend(["Weekdays", "Weekends"])
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_86_
+grp:Intro-to-machine-learning::_86_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10585,7 +10585,7 @@ grp:make_up_label_for_md::_86_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_85_
+grm:Intro-to-machine-learning::_85_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10623,7 +10623,7 @@ grm:make_up_label_for_md::_85_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::illustrated
+grp:Intro-to-machine-learning::illustrated
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10647,7 +10647,7 @@ grp:make_up_label_for_md::illustrated
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::illustrated
+grm:Intro-to-machine-learning::illustrated
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10685,7 +10685,7 @@ As illustrated in the figure, viewed this way it is clear that, on average, the 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::create
+grp:Intro-to-machine-learning::create
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10709,7 +10709,7 @@ grp:make_up_label_for_md::create
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::create
+grm:Intro-to-machine-learning::create
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10747,7 +10747,7 @@ Let's also create a normalized data set for our new least squares prediction pro
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::cols
+grp:Intro-to-machine-learning::cols
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10771,7 +10771,7 @@ grp:make_up_label_for_md::cols
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::cols
+grm:Intro-to-machine-learning::cols
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10837,7 +10837,7 @@ ranges = normalize_data(X, y, [True, True, False])
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::find
+grp:Intro-to-machine-learning::find
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10861,7 +10861,7 @@ grp:make_up_label_for_md::find
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::find
+grm:Intro-to-machine-learning::find
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10899,7 +10899,7 @@ Now let's run gradient descent to find our parameters, and convert them back int
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::range
+grp:Intro-to-machine-learning::range
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10923,7 +10923,7 @@ grp:make_up_label_for_md::range
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::range
+grm:Intro-to-machine-learning::range
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10965,7 +10965,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_88_
+grp:Intro-to-machine-learning::_88_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10989,7 +10989,7 @@ grp:make_up_label_for_md::_88_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_87_
+grm:Intro-to-machine-learning::_87_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11027,7 +11027,7 @@ then
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::n-1
+grp:Intro-to-machine-learning::n-1
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11051,7 +11051,7 @@ grp:make_up_label_for_md::n-1
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::n-1
+grm:Intro-to-machine-learning::n-1
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11093,7 +11093,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_90_
+grp:Intro-to-machine-learning::_90_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11117,7 +11117,7 @@ grp:make_up_label_for_md::_90_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_89_
+grm:Intro-to-machine-learning::_89_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11155,7 +11155,7 @@ where
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_92_
+grp:Intro-to-machine-learning::_92_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11179,7 +11179,7 @@ grp:make_up_label_for_md::_92_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_91_
+grm:Intro-to-machine-learning::_91_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11221,7 +11221,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::unnormalize
+grp:Intro-to-machine-learning::unnormalize
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11245,7 +11245,7 @@ grp:make_up_label_for_md::unnormalize
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::unnormalize
+grm:Intro-to-machine-learning::unnormalize
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11299,7 +11299,7 @@ print(theta)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::-1
+grp:Intro-to-machine-learning::-1
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11323,7 +11323,7 @@ grp:make_up_label_for_md::-1
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::-1
+grm:Intro-to-machine-learning::-1
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11365,7 +11365,7 @@ grm:make_up_label_for_md::-1
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::model
+grp:Intro-to-machine-learning::model
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11389,7 +11389,7 @@ grp:make_up_label_for_md::model
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::model
+grm:Intro-to-machine-learning::model
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11427,7 +11427,7 @@ Finally, we can visualize the model fit by plotting the resulting predictions fo
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::marker
+grp:Intro-to-machine-learning::marker
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11451,7 +11451,7 @@ grp:make_up_label_for_md::marker
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::marker
+grm:Intro-to-machine-learning::marker
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11509,7 +11509,7 @@ plt.legend(["Weekday prediction", "Weekend prediction", "Weekdays", "Weekends"])
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_94_
+grp:Intro-to-machine-learning::_94_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11533,7 +11533,7 @@ grp:make_up_label_for_md::_94_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_93_
+grm:Intro-to-machine-learning::_93_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11574,7 +11574,7 @@ Analytic solution
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::analytic
+sec:Intro-to-machine-learning::analytic
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11595,7 +11595,7 @@ sec:make_up_label_for_md::analytic
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::appealing
+grp:Intro-to-machine-learning::appealing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11619,7 +11619,7 @@ grp:make_up_label_for_md::appealing
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::appealing
+grm:Intro-to-machine-learning::appealing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11659,7 +11659,7 @@ then we can see that the derivative doesn't just point is the direction of funct
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::convenient
+grp:Intro-to-machine-learning::convenient
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11683,7 +11683,7 @@ grp:make_up_label_for_md::convenient
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::convenient
+grm:Intro-to-machine-learning::convenient
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11721,7 +11721,7 @@ To make the notation a bit more convenient, we introduce an additional term call
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_96_
+grp:Intro-to-machine-learning::_96_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11745,7 +11745,7 @@ grp:make_up_label_for_md::_96_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_95_
+grm:Intro-to-machine-learning::_95_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11793,7 +11793,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::things
+grp:Intro-to-machine-learning::things
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11817,7 +11817,7 @@ grp:make_up_label_for_md::things
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::things
+grm:Intro-to-machine-learning::things
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11855,7 +11855,7 @@ There are a few important things to note here.  First, the gradient as we define
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::restating
+grp:Intro-to-machine-learning::restating
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11879,7 +11879,7 @@ grp:make_up_label_for_md::restating
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::restating
+grm:Intro-to-machine-learning::restating
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11917,7 +11917,7 @@ Restating what we said above with this notation, the condition that $f(\theta)$ 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::write
+grp:Intro-to-machine-learning::write
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11941,7 +11941,7 @@ grp:make_up_label_for_md::write
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::write
+grm:Intro-to-machine-learning::write
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11979,7 +11979,7 @@ First, let's write the gradient of the least squares objective more succinctly. 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_98_
+grp:Intro-to-machine-learning::_98_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12003,7 +12003,7 @@ grp:make_up_label_for_md::_98_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_97_
+grm:Intro-to-machine-learning::_97_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12045,7 +12045,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::term
+grp:Intro-to-machine-learning::term
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12069,7 +12069,7 @@ grp:make_up_label_for_md::term
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::term
+grm:Intro-to-machine-learning::term
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12107,7 +12107,7 @@ Since the only term here that depends on $j$ is the final $x^{(i)}_j$, this imme
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_100_
+grp:Intro-to-machine-learning::_100_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12131,7 +12131,7 @@ grp:make_up_label_for_md::_100_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_99_
+grm:Intro-to-machine-learning::_99_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12173,7 +12173,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::succintly
+grp:Intro-to-machine-learning::succintly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12197,7 +12197,7 @@ grp:make_up_label_for_md::succintly
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::succintly
+grm:Intro-to-machine-learning::succintly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12235,7 +12235,7 @@ Let's use the fact that $\sum_{k=1}^n \theta_k x_k \equiv \theta^T x = x^T \thet
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_102_
+grp:Intro-to-machine-learning::_102_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12259,7 +12259,7 @@ grp:make_up_label_for_md::_102_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_101_
+grm:Intro-to-machine-learning::_101_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12309,7 +12309,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::lines
+grp:Intro-to-machine-learning::lines
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12333,7 +12333,7 @@ grp:make_up_label_for_md::lines
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::lines
+grm:Intro-to-machine-learning::lines
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12371,7 +12371,7 @@ where in both lines we used the distributive property of matrix multiplication a
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_104_
+grp:Intro-to-machine-learning::_104_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12395,7 +12395,7 @@ grp:make_up_label_for_md::_104_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_103_
+grm:Intro-to-machine-learning::_103_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12445,7 +12445,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::terms
+grp:Intro-to-machine-learning::terms
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12469,7 +12469,7 @@ grp:make_up_label_for_md::terms
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::terms
+grm:Intro-to-machine-learning::terms
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12507,7 +12507,7 @@ where note that the $\frac{2}{m}$ terms will cancel, leading to the final soluti
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::expressions
+grp:Intro-to-machine-learning::expressions
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12531,7 +12531,7 @@ grp:make_up_label_for_md::expressions
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::expressions
+grm:Intro-to-machine-learning::expressions
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12569,7 +12569,7 @@ If expressions like this seems hard to follow at first, a good strategy is to de
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::denoted
+grp:Intro-to-machine-learning::denoted
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12593,7 +12593,7 @@ grp:make_up_label_for_md::denoted
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::denoted
+grm:Intro-to-machine-learning::denoted
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12631,7 +12631,7 @@ Let's see what this looks like in code.  The following code will compute the $\s
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::analytic
+grp:Intro-to-machine-learning::analytic
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12655,7 +12655,7 @@ grp:make_up_label_for_md::analytic
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::analytic
+grm:Intro-to-machine-learning::analytic
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12709,7 +12709,7 @@ def analytic_ls(X,y):
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::apply
+grp:Intro-to-machine-learning::apply
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12733,7 +12733,7 @@ grp:make_up_label_for_md::apply
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::apply
+grm:Intro-to-machine-learning::apply
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12771,7 +12771,7 @@ Let's apply this function to the (unnormalized) data above.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::astype
+grp:Intro-to-machine-learning::astype
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12795,7 +12795,7 @@ grp:make_up_label_for_md::astype
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::astype
+grm:Intro-to-machine-learning::astype
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12841,7 +12841,7 @@ print(theta)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_106_
+grp:Intro-to-machine-learning::_106_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12865,7 +12865,7 @@ grp:make_up_label_for_md::_106_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_105_
+grm:Intro-to-machine-learning::_105_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12907,7 +12907,7 @@ grm:make_up_label_for_md::_105_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::answer
+grp:Intro-to-machine-learning::answer
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12931,7 +12931,7 @@ grp:make_up_label_for_md::answer
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::answer
+grm:Intro-to-machine-learning::answer
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12972,7 +12972,7 @@ Matrix/vector notation: one more level
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::matrix
+sec:Intro-to-machine-learning::matrix
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12993,7 +12993,7 @@ sec:make_up_label_for_md::matrix
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::solutione
+grp:Intro-to-machine-learning::solutione
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13017,7 +13017,7 @@ grp:make_up_label_for_md::solutione
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::solutione
+grm:Intro-to-machine-learning::solutione
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13055,7 +13055,7 @@ To make the least squares solutione even simpler (and remember, this _is_ about 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_108_
+grp:Intro-to-machine-learning::_108_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13079,7 +13079,7 @@ grp:make_up_label_for_md::_108_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_107_
+grm:Intro-to-machine-learning::_107_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13139,7 +13139,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::matrix
+grp:Intro-to-machine-learning::matrix
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13163,7 +13163,7 @@ grp:make_up_label_for_md::matrix
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::matrix
+grm:Intro-to-machine-learning::matrix
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13202,7 +13202,7 @@ Note that these are actually exactly the matrix/vector we already formed for our
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::represent
+grp:Intro-to-machine-learning::represent
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13226,7 +13226,7 @@ grp:make_up_label_for_md::represent
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::represent
+grm:Intro-to-machine-learning::represent
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13264,7 +13264,7 @@ Let's now consider how to succintly represent the term
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_110_
+grp:Intro-to-machine-learning::_110_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13288,7 +13288,7 @@ grp:make_up_label_for_md::_110_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_109_
+grm:Intro-to-machine-learning::_109_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13330,7 +13330,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::using
+grp:Intro-to-machine-learning::using
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13354,7 +13354,7 @@ grp:make_up_label_for_md::using
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::using
+grm:Intro-to-machine-learning::using
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13392,7 +13392,7 @@ using this notation.  First, note that the vector $X \theta - y$ (an $m$ dimenio
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_112_
+grp:Intro-to-machine-learning::_112_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13416,7 +13416,7 @@ grp:make_up_label_for_md::_112_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_111_
+grm:Intro-to-machine-learning::_111_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13458,7 +13458,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::formula
+grp:Intro-to-machine-learning::formula
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13482,7 +13482,7 @@ grp:make_up_label_for_md::formula
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::formula
+grm:Intro-to-machine-learning::formula
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13520,7 +13520,7 @@ This formula both provides a convenient way to compute the entire gradient (we c
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_114_
+grp:Intro-to-machine-learning::_114_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13544,7 +13544,7 @@ grp:make_up_label_for_md::_114_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_113_
+grm:Intro-to-machine-learning::_113_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13586,7 +13586,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::let
+grp:Intro-to-machine-learning::let
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13610,7 +13610,7 @@ grp:make_up_label_for_md::let
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::let
+grm:Intro-to-machine-learning::let
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13648,7 +13648,7 @@ Let's see what this looks like in code.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::linalg
+grp:Intro-to-machine-learning::linalg
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13672,7 +13672,7 @@ grp:make_up_label_for_md::linalg
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::linalg
+grm:Intro-to-machine-learning::linalg
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13714,7 +13714,7 @@ print(theta)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_116_
+grp:Intro-to-machine-learning::_116_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13738,7 +13738,7 @@ grp:make_up_label_for_md::_116_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_115_
+grm:Intro-to-machine-learning::_115_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13780,7 +13780,7 @@ grm:make_up_label_for_md::_115_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::single
+grp:Intro-to-machine-learning::single
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13804,7 +13804,7 @@ grp:make_up_label_for_md::single
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::single
+grm:Intro-to-machine-learning::single
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13845,7 +13845,7 @@ Alternative loss functions
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::alternative
+sec:Intro-to-machine-learning::alternative
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13866,7 +13866,7 @@ sec:make_up_label_for_md::alternative
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::although
+grp:Intro-to-machine-learning::although
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13890,7 +13890,7 @@ grp:make_up_label_for_md::although
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::although
+grm:Intro-to-machine-learning::although
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13928,7 +13928,7 @@ Although this section properly doesn't belong here, given that the heading of th
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_118_
+grp:Intro-to-machine-learning::_118_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13952,7 +13952,7 @@ grp:make_up_label_for_md::_118_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_117_
+grm:Intro-to-machine-learning::_117_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13994,7 +13994,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::perfectly
+grp:Intro-to-machine-learning::perfectly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14018,7 +14018,7 @@ grp:make_up_label_for_md::perfectly
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::perfectly
+grm:Intro-to-machine-learning::perfectly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14056,7 +14056,7 @@ This is a perfectly reasonable way to measure error (perhaps even more intuitive
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::unfortunately
+grp:Intro-to-machine-learning::unfortunately
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14080,7 +14080,7 @@ grp:make_up_label_for_md::unfortunately
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::unfortunately
+grm:Intro-to-machine-learning::unfortunately
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14118,7 +14118,7 @@ Unfortunately, for the absolute loss, there is no longer a closed-form solution 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_120_
+grp:Intro-to-machine-learning::_120_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14142,7 +14142,7 @@ grp:make_up_label_for_md::_120_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_119_
+grm:Intro-to-machine-learning::_119_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14184,7 +14184,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::sometimes
+grp:Intro-to-machine-learning::sometimes
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14208,7 +14208,7 @@ grp:make_up_label_for_md::sometimes
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::sometimes
+grm:Intro-to-machine-learning::sometimes
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14246,7 +14246,7 @@ This objective is sometimes refered to a the _mean absolute error_, and the resu
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::noting
+grp:Intro-to-machine-learning::noting
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14270,7 +14270,7 @@ grp:make_up_label_for_md::noting
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::noting
+grm:Intro-to-machine-learning::noting
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14308,7 +14308,7 @@ Noting that the derivative of the absolute value is simply given by the sign of 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::sign
+grp:Intro-to-machine-learning::sign
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14332,7 +14332,7 @@ grp:make_up_label_for_md::sign
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::sign
+grm:Intro-to-machine-learning::sign
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14374,7 +14374,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::equation
+grp:Intro-to-machine-learning::equation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14398,7 +14398,7 @@ grp:make_up_label_for_md::equation
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::equation
+grm:Intro-to-machine-learning::equation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14436,7 +14436,7 @@ where in the last equation we note that this refers to the $\mathrm{sign}$ funct
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::zeros
+grp:Intro-to-machine-learning::zeros
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14460,7 +14460,7 @@ grp:make_up_label_for_md::zeros
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::zeros
+grm:Intro-to-machine-learning::zeros
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14520,7 +14520,7 @@ def gradient_descent_rr(X, y, iters, alpha=1.0):
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::float
+grp:Intro-to-machine-learning::float
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14544,7 +14544,7 @@ grp:make_up_label_for_md::float
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::float
+grm:Intro-to-machine-learning::float
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14590,7 +14590,7 @@ ranges = normalize_data(X, y, [True, True, False])
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::errs
+grp:Intro-to-machine-learning::errs
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14614,7 +14614,7 @@ grp:make_up_label_for_md::errs
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::errs
+grm:Intro-to-machine-learning::errs
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14658,7 +14658,7 @@ print(theta)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_122_
+grp:Intro-to-machine-learning::_122_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14682,7 +14682,7 @@ grp:make_up_label_for_md::_122_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_121_
+grm:Intro-to-machine-learning::_121_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14724,7 +14724,7 @@ grm:make_up_label_for_md::_121_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::color
+grp:Intro-to-machine-learning::color
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14748,7 +14748,7 @@ grp:make_up_label_for_md::color
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::color
+grm:Intro-to-machine-learning::color
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14806,7 +14806,7 @@ plt.legend(["Weekday prediction", "Weekend prediction", "Weekdays", "Weekends"])
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_124_
+grp:Intro-to-machine-learning::_124_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14830,7 +14830,7 @@ grp:make_up_label_for_md::_124_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_123_
+grm:Intro-to-machine-learning::_123_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14868,7 +14868,7 @@ grm:make_up_label_for_md::_123_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::really
+grp:Intro-to-machine-learning::really
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14892,7 +14892,7 @@ grp:make_up_label_for_md::really
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::really
+grm:Intro-to-machine-learning::really
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14935,7 +14935,7 @@ Libraries for machine learning in Python
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::libraries
+sec:Intro-to-machine-learning::libraries
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14956,7 +14956,7 @@ sec:make_up_label_for_md::libraries
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::conclude
+grp:Intro-to-machine-learning::conclude
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14980,7 +14980,7 @@ grp:make_up_label_for_md::conclude
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::conclude
+grm:Intro-to-machine-learning::conclude
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -15018,7 +15018,7 @@ Finally, we conclude with some information about the types of libraries we will 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::despite
+grp:Intro-to-machine-learning::despite
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -15042,7 +15042,7 @@ grp:make_up_label_for_md::despite
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::despite
+grm:Intro-to-machine-learning::despite
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -15080,7 +15080,7 @@ One important note, however, is that (despite some ongoing efforts to make it mo
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::caveat
+grp:Intro-to-machine-learning::caveat
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -15104,7 +15104,7 @@ grp:make_up_label_for_md::caveat
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::caveat
+grm:Intro-to-machine-learning::caveat
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -15143,7 +15143,7 @@ Linear regression in scikit-learn
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::linear
+sec:Intro-to-machine-learning::linear
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -15164,7 +15164,7 @@ sec:make_up_label_for_md::linear
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::predictions
+grp:Intro-to-machine-learning::predictions
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -15188,7 +15188,7 @@ grp:make_up_label_for_md::predictions
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::predictions
+grm:Intro-to-machine-learning::predictions
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -15226,7 +15226,7 @@ Let's look at how we specify a model, fit it to data, and make predictions in sc
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::values
+grp:Intro-to-machine-learning::values
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -15250,7 +15250,7 @@ grp:make_up_label_for_md::values
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::values
+grm:Intro-to-machine-learning::values
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -15292,7 +15292,7 @@ y = df_summer["Load"].values.copy()
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::import
+grp:Intro-to-machine-learning::import
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -15316,7 +15316,7 @@ grp:make_up_label_for_md::import
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::import
+grm:Intro-to-machine-learning::import
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -15354,7 +15354,7 @@ Now we can import and initialize our model.  In general, scikit-learn has a diff
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::sklearn
+grp:Intro-to-machine-learning::sklearn
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -15378,7 +15378,7 @@ grp:make_up_label_for_md::sklearn
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::sklearn
+grm:Intro-to-machine-learning::sklearn
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -15422,7 +15422,7 @@ model = LinearRegression(fit_intercept=True, normalize=False)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::class
+grp:Intro-to-machine-learning::class
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -15446,7 +15446,7 @@ grp:make_up_label_for_md::class
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::class
+grm:Intro-to-machine-learning::class
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -15484,7 +15484,7 @@ Note that when we create this class we haven't actually passed any data to the s
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_126_
+grp:Intro-to-machine-learning::_126_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -15508,7 +15508,7 @@ grp:make_up_label_for_md::_126_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_125_
+grm:Intro-to-machine-learning::_125_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -15548,7 +15548,7 @@ model.fit(X, y)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::linearregression
+grp:Intro-to-machine-learning::linearregression
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -15572,7 +15572,7 @@ grp:make_up_label_for_md::linearregression
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::linearregression
+grm:Intro-to-machine-learning::linearregression
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -15614,7 +15614,7 @@ LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::prediction
+grp:Intro-to-machine-learning::prediction
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -15638,7 +15638,7 @@ grp:make_up_label_for_md::prediction
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::prediction
+grm:Intro-to-machine-learning::prediction
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -15676,7 +15676,7 @@ Finally, when we want to make a prediction on a _new_ data point, we call the `m
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::predict
+grp:Intro-to-machine-learning::predict
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -15700,7 +15700,7 @@ grp:make_up_label_for_md::predict
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::predict
+grm:Intro-to-machine-learning::predict
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -15744,7 +15744,7 @@ print(model.predict(Xnew))
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_128_
+grp:Intro-to-machine-learning::_128_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -15768,7 +15768,7 @@ grp:make_up_label_for_md::_128_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_127_
+grm:Intro-to-machine-learning::_127_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -15810,7 +15810,7 @@ grm:make_up_label_for_md::_127_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::inspect
+grp:Intro-to-machine-learning::inspect
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -15834,7 +15834,7 @@ grp:make_up_label_for_md::inspect
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::inspect
+grm:Intro-to-machine-learning::inspect
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -15872,7 +15872,7 @@ Finally, if we want to inspect the internal state of the classifier (i.e., the p
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::print
+grp:Intro-to-machine-learning::print
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -15896,7 +15896,7 @@ grp:make_up_label_for_md::print
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::print
+grm:Intro-to-machine-learning::print
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -15936,7 +15936,7 @@ print(model.coef_, model.intercept_)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_130_
+grp:Intro-to-machine-learning::_130_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -15960,7 +15960,7 @@ grp:make_up_label_for_md::_130_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_129_
+grm:Intro-to-machine-learning::_129_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -16002,7 +16002,7 @@ grm:make_up_label_for_md::_129_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::expected
+grp:Intro-to-machine-learning::expected
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -16026,7 +16026,7 @@ grp:make_up_label_for_md::expected
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::expected
+grm:Intro-to-machine-learning::expected
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -16067,7 +16067,7 @@ Scikit-learn vs. pure Python
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::scikit-learn
+sec:Intro-to-machine-learning::scikit-learn
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -16088,7 +16088,7 @@ sec:make_up_label_for_md::scikit-learn
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::simple
+grp:Intro-to-machine-learning::simple
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -16112,7 +16112,7 @@ grp:make_up_label_for_md::simple
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::simple
+grm:Intro-to-machine-learning::simple
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -16150,7 +16150,7 @@ For an algorithm as simple as least-squares, I highly recommend that you just im
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::intercept
+grp:Intro-to-machine-learning::intercept
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -16174,7 +16174,7 @@ grp:make_up_label_for_md::intercept
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::intercept
+grm:Intro-to-machine-learning::intercept
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -16222,7 +16222,7 @@ print(theta)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_132_
+grp:Intro-to-machine-learning::_132_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -16246,7 +16246,7 @@ grp:make_up_label_for_md::_132_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_131_
+grm:Intro-to-machine-learning::_131_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -16288,7 +16288,7 @@ grm:make_up_label_for_md::_131_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::making
+grp:Intro-to-machine-learning::making
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -16312,7 +16312,7 @@ grp:make_up_label_for_md::making
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::making
+grm:Intro-to-machine-learning::making
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -16350,7 +16350,7 @@ Making predictions is also just one line of code, forming $X \theta$.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::xnew
+grp:Intro-to-machine-learning::xnew
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -16374,7 +16374,7 @@ grp:make_up_label_for_md::xnew
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::xnew
+grm:Intro-to-machine-learning::xnew
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -16416,7 +16416,7 @@ print(Xnew @ theta)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_134_
+grp:Intro-to-machine-learning::_134_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -16440,7 +16440,7 @@ grp:make_up_label_for_md::_134_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_133_
+grm:Intro-to-machine-learning::_133_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -16482,7 +16482,7 @@ grm:make_up_label_for_md::_133_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::something
+grp:Intro-to-machine-learning::something
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -16506,7 +16506,7 @@ grp:make_up_label_for_md::something
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::something
+grm:Intro-to-machine-learning::something
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...

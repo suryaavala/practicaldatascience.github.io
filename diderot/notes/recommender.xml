@@ -14,7 +14,7 @@ Recommender systems and collaborative filtering
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-chapter:make_up_label_for_md::recommender
+chapter:Recommender-systems-and-collaborative-filtering::recommender
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -35,7 +35,7 @@ chapter:make_up_label_for_md::recommender
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::download
+grp:Recommender-systems-and-collaborative-filtering::download
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -59,7 +59,7 @@ grp:make_up_label_for_md::download
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::download
+grm:Recommender-systems-and-collaborative-filtering::download
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -98,7 +98,7 @@ Introduction
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::introduction
+sec:Recommender-systems-and-collaborative-filtering::introduction
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -119,7 +119,7 @@ sec:make_up_label_for_md::introduction
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::recommender
+grp:Recommender-systems-and-collaborative-filtering::recommender
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -143,7 +143,7 @@ grp:make_up_label_for_md::recommender
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::recommender
+grm:Recommender-systems-and-collaborative-filtering::recommender
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -181,7 +181,7 @@ Recommender systems are ubiquitous in many online sites.  If you've ever been re
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::broadly
+grp:Recommender-systems-and-collaborative-filtering::broadly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -205,7 +205,7 @@ grp:make_up_label_for_md::broadly
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::broadly
+grm:Recommender-systems-and-collaborative-filtering::broadly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -243,7 +243,7 @@ Broadly speaking, there are a number of sources of information we can use to mak
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::although
+grp:Recommender-systems-and-collaborative-filtering::although
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -267,7 +267,7 @@ grp:make_up_label_for_md::although
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::although
+grm:Recommender-systems-and-collaborative-filtering::although
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -305,7 +305,7 @@ Although there are techniques that combine all these types of data, in this set 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::discussion
+grp:Recommender-systems-and-collaborative-filtering::discussion
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -329,7 +329,7 @@ grp:make_up_label_for_md::discussion
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::discussion
+grm:Recommender-systems-and-collaborative-filtering::discussion
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -370,7 +370,7 @@ Collaborative filtering
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::collaborative
+sec:Recommender-systems-and-collaborative-filtering::collaborative
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -391,7 +391,7 @@ sec:make_up_label_for_md::collaborative
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::collaborative
+grp:Recommender-systems-and-collaborative-filtering::collaborative
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -415,7 +415,7 @@ grp:make_up_label_for_md::collaborative
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::collaborative
+grm:Recommender-systems-and-collaborative-filtering::collaborative
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -453,7 +453,7 @@ _Collaborative filtering_ is one way to build recommendation systems, that (at l
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::cccc
+grp:Recommender-systems-and-collaborative-filtering::cccc
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -477,7 +477,7 @@ grp:make_up_label_for_md::cccc
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::cccc
+grm:Recommender-systems-and-collaborative-filtering::cccc
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -531,7 +531,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::setting
+grp:Recommender-systems-and-collaborative-filtering::setting
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -555,7 +555,7 @@ grp:make_up_label_for_md::setting
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::setting
+grm:Recommender-systems-and-collaborative-filtering::setting
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -593,7 +593,7 @@ For example, in this setting user 1 would assign a ratings of 1, 1, 2, 3 to item
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::course
+grp:Recommender-systems-and-collaborative-filtering::course
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -617,7 +617,7 @@ grp:make_up_label_for_md::course
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::course
+grm:Recommender-systems-and-collaborative-filtering::course
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -655,7 +655,7 @@ Of course, in general, we _won't_ have ratings for every user for every item (th
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_2_
+grp:Recommender-systems-and-collaborative-filtering::_2_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -679,7 +679,7 @@ grp:make_up_label_for_md::_2_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_1_
+grm:Recommender-systems-and-collaborative-filtering::_1_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -733,7 +733,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::filtering
+grp:Recommender-systems-and-collaborative-filtering::filtering
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -757,7 +757,7 @@ grp:make_up_label_for_md::filtering
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::filtering
+grm:Recommender-systems-and-collaborative-filtering::filtering
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -795,7 +795,7 @@ The task of collaborative filtering, then, is to "fill in" the remaining entries
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::want
+grp:Recommender-systems-and-collaborative-filtering::want
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -819,7 +819,7 @@ grp:make_up_label_for_md::want
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::want
+grm:Recommender-systems-and-collaborative-filtering::want
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -858,7 +858,7 @@ Example: MovieLens data set
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::movielens
+sec:Recommender-systems-and-collaborative-filtering::movielens
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -879,7 +879,7 @@ sec:make_up_label_for_md::movielens
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::homework
+grp:Recommender-systems-and-collaborative-filtering::homework
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -903,7 +903,7 @@ grp:make_up_label_for_md::homework
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::homework
+grm:Recommender-systems-and-collaborative-filtering::homework
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -941,7 +941,7 @@ The example we'll use in these notes (and which you'll use in the homework), is 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::python
+grp:Recommender-systems-and-collaborative-filtering::python
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -965,7 +965,7 @@ grp:make_up_label_for_md::python
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::python
+grm:Recommender-systems-and-collaborative-filtering::python
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1011,7 +1011,7 @@ X = np.asarray(sp.coo_matrix((df["rating"], (df["userId"]-1, df["movieId"]-1))).
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::generating
+grp:Recommender-systems-and-collaborative-filtering::generating
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1035,7 +1035,7 @@ grp:make_up_label_for_md::generating
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::generating
+grm:Recommender-systems-and-collaborative-filtering::generating
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1073,7 +1073,7 @@ Note that we're generating a dense matrix of user IDs by movie IDs, and for larg
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::valid
+grp:Recommender-systems-and-collaborative-filtering::valid
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1097,7 +1097,7 @@ grp:make_up_label_for_md::valid
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::valid
+grm:Recommender-systems-and-collaborative-filtering::valid
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1143,7 +1143,7 @@ print(X.shape)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::pre
+grp:Recommender-systems-and-collaborative-filtering::pre
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1167,7 +1167,7 @@ grp:make_up_label_for_md::pre
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::pre
+grm:Recommender-systems-and-collaborative-filtering::pre
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1209,7 +1209,7 @@ grm:make_up_label_for_md::pre
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::format
+grp:Recommender-systems-and-collaborative-filtering::format
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1233,7 +1233,7 @@ grp:make_up_label_for_md::format
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::format
+grm:Recommender-systems-and-collaborative-filtering::format
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1271,7 +1271,7 @@ Note that in this format, the zero entries correspond to unknown elements, not t
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::form
+grp:Recommender-systems-and-collaborative-filtering::form
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1295,7 +1295,7 @@ grp:make_up_label_for_md::form
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::form
+grm:Recommender-systems-and-collaborative-filtering::form
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1339,7 +1339,7 @@ movie_means = np.array([X[X[:,i]!=0,i].mean() for i in range(X.shape[1])])
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::basic
+grp:Recommender-systems-and-collaborative-filtering::basic
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1363,7 +1363,7 @@ grp:make_up_label_for_md::basic
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::basic
+grm:Recommender-systems-and-collaborative-filtering::basic
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1401,7 +1401,7 @@ Finally, we can get some basic sense of this dataset by looking at average ratin
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::hist
+grp:Recommender-systems-and-collaborative-filtering::hist
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1425,7 +1425,7 @@ grp:make_up_label_for_md::hist
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::hist
+grm:Recommender-systems-and-collaborative-filtering::hist
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1469,7 +1469,7 @@ plt.ylabel("Count")
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_4_
+grp:Recommender-systems-and-collaborative-filtering::_4_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1493,7 +1493,7 @@ grp:make_up_label_for_md::_4_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_3_
+grm:Recommender-systems-and-collaborative-filtering::_3_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1531,7 +1531,7 @@ grm:make_up_label_for_md::_3_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::movie
+grp:Recommender-systems-and-collaborative-filtering::movie
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1555,7 +1555,7 @@ grp:make_up_label_for_md::movie
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::movie
+grm:Recommender-systems-and-collaborative-filtering::movie
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1599,7 +1599,7 @@ plt.ylabel("Count")
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_6_
+grp:Recommender-systems-and-collaborative-filtering::_6_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1623,7 +1623,7 @@ grp:make_up_label_for_md::_6_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_5_
+grm:Recommender-systems-and-collaborative-filtering::_5_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1661,7 +1661,7 @@ grm:make_up_label_for_md::_5_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::reviews
+grp:Recommender-systems-and-collaborative-filtering::reviews
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1685,7 +1685,7 @@ grp:make_up_label_for_md::reviews
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::reviews
+grm:Recommender-systems-and-collaborative-filtering::reviews
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1733,7 +1733,7 @@ plt.ylabel("Number of Movies")
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_8_
+grp:Recommender-systems-and-collaborative-filtering::_8_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1757,7 +1757,7 @@ grp:make_up_label_for_md::_8_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_7_
+grm:Recommender-systems-and-collaborative-filtering::_7_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1795,7 +1795,7 @@ grm:make_up_label_for_md::_7_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::astype
+grp:Recommender-systems-and-collaborative-filtering::astype
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1819,7 +1819,7 @@ grp:make_up_label_for_md::astype
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::astype
+grm:Recommender-systems-and-collaborative-filtering::astype
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1867,7 +1867,7 @@ plt.ylabel("Number of Users")
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_10_
+grp:Recommender-systems-and-collaborative-filtering::_10_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1891,7 +1891,7 @@ grp:make_up_label_for_md::_10_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_9_
+grm:Recommender-systems-and-collaborative-filtering::_9_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1929,7 +1929,7 @@ grm:make_up_label_for_md::_9_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::know
+grp:Recommender-systems-and-collaborative-filtering::know
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1953,7 +1953,7 @@ grp:make_up_label_for_md::know
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::know
+grm:Recommender-systems-and-collaborative-filtering::know
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1991,7 +1991,7 @@ Finally, since I know you're likely curious, here are the best and worst reviewe
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::best
+grp:Recommender-systems-and-collaborative-filtering::best
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2015,7 +2015,7 @@ grp:make_up_label_for_md::best
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::best
+grm:Recommender-systems-and-collaborative-filtering::best
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2057,7 +2057,7 @@ print("\n".join([movie_to_title[a] for a in np.argsort(movie_means)[-5:]]))
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::love
+grp:Recommender-systems-and-collaborative-filtering::love
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2081,7 +2081,7 @@ grp:make_up_label_for_md::love
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::love
+grm:Recommender-systems-and-collaborative-filtering::love
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2131,7 +2131,7 @@ Anne Frank Remembered (1995)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::worst
+grp:Recommender-systems-and-collaborative-filtering::worst
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2155,7 +2155,7 @@ grp:make_up_label_for_md::worst
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::worst
+grm:Recommender-systems-and-collaborative-filtering::worst
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2197,7 +2197,7 @@ print("\n".join([movie_to_title[a] for a in np.argsort(movie_means)[:5]]))
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::apartment
+grp:Recommender-systems-and-collaborative-filtering::apartment
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2221,7 +2221,7 @@ grp:make_up_label_for_md::apartment
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::apartment
+grm:Recommender-systems-and-collaborative-filtering::apartment
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2274,7 +2274,7 @@ Historical note: the Netflix Prize
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::historical
+sec:Recommender-systems-and-collaborative-filtering::historical
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2295,7 +2295,7 @@ sec:make_up_label_for_md::historical
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::field
+grp:Recommender-systems-and-collaborative-filtering::field
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2319,7 +2319,7 @@ grp:make_up_label_for_md::field
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::field
+grm:Recommender-systems-and-collaborative-filtering::field
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2357,7 +2357,7 @@ The field of collaborative filtering received a substantial boost in popularity 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::though
+grp:Recommender-systems-and-collaborative-filtering::though
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2381,7 +2381,7 @@ grp:make_up_label_for_md::though
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::though
+grm:Recommender-systems-and-collaborative-filtering::though
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2422,7 +2422,7 @@ Types of collaborative filtering algorithms
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::types
+sec:Recommender-systems-and-collaborative-filtering::types
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2443,7 +2443,7 @@ sec:make_up_label_for_md::types
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::possible
+grp:Recommender-systems-and-collaborative-filtering::possible
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2467,7 +2467,7 @@ grp:make_up_label_for_md::possible
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::possible
+grm:Recommender-systems-and-collaborative-filtering::possible
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2505,7 +2505,7 @@ While there are several possible algorithms for collaborative filtering, broadly
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::user-user
+grp:Recommender-systems-and-collaborative-filtering::user-user
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2529,7 +2529,7 @@ grp:make_up_label_for_md::user-user
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::user-user
+grm:Recommender-systems-and-collaborative-filtering::user-user
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2573,7 +2573,7 @@ grm:make_up_label_for_md::user-user
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::discuss
+grp:Recommender-systems-and-collaborative-filtering::discuss
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2597,7 +2597,7 @@ grp:make_up_label_for_md::discuss
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::discuss
+grm:Recommender-systems-and-collaborative-filtering::discuss
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2640,7 +2640,7 @@ User-user methods
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::user-user
+sec:Recommender-systems-and-collaborative-filtering::user-user
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2661,7 +2661,7 @@ sec:make_up_label_for_md::user-user
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::mentioned
+grp:Recommender-systems-and-collaborative-filtering::mentioned
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2685,7 +2685,7 @@ grp:make_up_label_for_md::mentioned
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::mentioned
+grm:Recommender-systems-and-collaborative-filtering::mentioned
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2723,7 +2723,7 @@ As mentioned above, the key idea of the user-user approach is that in order to p
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::start
+grp:Recommender-systems-and-collaborative-filtering::start
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2747,7 +2747,7 @@ grp:make_up_label_for_md::start
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::start
+grm:Recommender-systems-and-collaborative-filtering::start
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2785,7 +2785,7 @@ To start, let's introduce a slightly more formal bit of notation to define our p
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::ij
+grp:Recommender-systems-and-collaborative-filtering::ij
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2809,7 +2809,7 @@ grp:make_up_label_for_md::ij
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::ij
+grm:Recommender-systems-and-collaborative-filtering::ij
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2851,7 +2851,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::ikijj
+grp:Recommender-systems-and-collaborative-filtering::ikijj
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2875,7 +2875,7 @@ grp:make_up_label_for_md::ikijj
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::ikijj
+grm:Recommender-systems-and-collaborative-filtering::ikijj
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2913,7 +2913,7 @@ where $\bar{x}_i$ denotes the average of the observed ratings for user $i$, and 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::works
+grp:Recommender-systems-and-collaborative-filtering::works
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2937,7 +2937,7 @@ grp:make_up_label_for_md::works
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::works
+grm:Recommender-systems-and-collaborative-filtering::works
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2975,7 +2975,7 @@ Let's see how this works in code.  For now, let's suppose we have all the user/u
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::predict
+grp:Recommender-systems-and-collaborative-filtering::predict
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2999,7 +2999,7 @@ grp:make_up_label_for_md::predict
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::predict
+grm:Recommender-systems-and-collaborative-filtering::predict
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3045,7 +3045,7 @@ def predict_user_user(X, W, user_means, i, j):
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::assuming
+grp:Recommender-systems-and-collaborative-filtering::assuming
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3069,7 +3069,7 @@ grp:make_up_label_for_md::assuming
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::assuming
+grm:Recommender-systems-and-collaborative-filtering::assuming
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3107,7 +3107,7 @@ Assuming a similarity matrix of all ones, let's see how the system predict that 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::ones
+grp:Recommender-systems-and-collaborative-filtering::ones
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3131,7 +3131,7 @@ grp:make_up_label_for_md::ones
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::ones
+grm:Recommender-systems-and-collaborative-filtering::ones
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3179,7 +3179,7 @@ print("User: 10, ", movie_to_title[1], predict_user_user(X, W, user_means, 10, 1
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::user
+grp:Recommender-systems-and-collaborative-filtering::user
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3203,7 +3203,7 @@ grp:make_up_label_for_md::user
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::user
+grm:Recommender-systems-and-collaborative-filtering::user
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3251,7 +3251,7 @@ User: 10,  Jumanji (1995) 3.88839173024
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::computing
+grp:Recommender-systems-and-collaborative-filtering::computing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3275,7 +3275,7 @@ grp:make_up_label_for_md::computing
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::computing
+grm:Recommender-systems-and-collaborative-filtering::computing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3313,7 +3313,7 @@ Since computing predictions one at a time is fairly slow, let's see how we can f
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::means
+grp:Recommender-systems-and-collaborative-filtering::means
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3337,7 +3337,7 @@ grp:make_up_label_for_md::means
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::means
+grm:Recommender-systems-and-collaborative-filtering::means
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3383,7 +3383,7 @@ def predict_user_user(X, W, user_means, i):
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::bins
+grp:Recommender-systems-and-collaborative-filtering::bins
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3407,7 +3407,7 @@ grp:make_up_label_for_md::bins
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::bins
+grm:Recommender-systems-and-collaborative-filtering::bins
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3447,7 +3447,7 @@ plt.hist(predict_user_user(X, W, user_means, 0), bins=20)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_12_
+grp:Recommender-systems-and-collaborative-filtering::_12_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3471,7 +3471,7 @@ grp:make_up_label_for_md::_12_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_11_
+grm:Recommender-systems-and-collaborative-filtering::_11_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3510,7 +3510,7 @@ Computing weights
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::computing
+sec:Recommender-systems-and-collaborative-filtering::computing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3531,7 +3531,7 @@ sec:make_up_label_for_md::computing
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::weights
+grp:Recommender-systems-and-collaborative-filtering::weights
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3555,7 +3555,7 @@ grp:make_up_label_for_md::weights
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::weights
+grm:Recommender-systems-and-collaborative-filtering::weights
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3593,7 +3593,7 @@ Of course (since the weights are all equal) we aren't doing too much here, mainl
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::pearson
+grp:Recommender-systems-and-collaborative-filtering::pearson
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3617,7 +3617,7 @@ grp:make_up_label_for_md::pearson
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::pearson
+grm:Recommender-systems-and-collaborative-filtering::pearson
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3655,7 +3655,7 @@ grm:make_up_label_for_md::pearson
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::ik
+grp:Recommender-systems-and-collaborative-filtering::ik
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3679,7 +3679,7 @@ grp:make_up_label_for_md::ik
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::ik
+grm:Recommender-systems-and-collaborative-filtering::ik
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3721,7 +3721,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::correlation
+grp:Recommender-systems-and-collaborative-filtering::correlation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3745,7 +3745,7 @@ grp:make_up_label_for_md::correlation
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::correlation
+grm:Recommender-systems-and-collaborative-filtering::correlation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3783,7 +3783,7 @@ The Pearson correlation between two users gives the weight
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::kj
+grp:Recommender-systems-and-collaborative-filtering::kj
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3807,7 +3807,7 @@ grp:make_up_label_for_md::kj
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::kj
+grm:Recommender-systems-and-collaborative-filtering::kj
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3851,7 +3851,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::normal
+grp:Recommender-systems-and-collaborative-filtering::normal
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3875,7 +3875,7 @@ grp:make_up_label_for_md::normal
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::normal
+grm:Recommender-systems-and-collaborative-filtering::normal
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3913,7 +3913,7 @@ which is just the normal Pearson correlation coefficient but only computed over 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::computed
+grp:Recommender-systems-and-collaborative-filtering::computed
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3937,7 +3937,7 @@ grp:make_up_label_for_md::computed
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::computed
+grm:Recommender-systems-and-collaborative-filtering::computed
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3975,7 +3975,7 @@ The Pearson correlation can be computed via the following function (we add $10^{
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::return
+grp:Recommender-systems-and-collaborative-filtering::return
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3999,7 +3999,7 @@ grp:make_up_label_for_md::return
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::return
+grm:Recommender-systems-and-collaborative-filtering::return
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4049,7 +4049,7 @@ pearson(X,user_means, 1, 2)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::-0
+grp:Recommender-systems-and-collaborative-filtering::-0
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4073,7 +4073,7 @@ grp:make_up_label_for_md::-0
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::-0
+grm:Recommender-systems-and-collaborative-filtering::-0
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4115,7 +4115,7 @@ grm:make_up_label_for_md::-0
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::inefficient
+grp:Recommender-systems-and-collaborative-filtering::inefficient
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4139,7 +4139,7 @@ grp:make_up_label_for_md::inefficient
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::inefficient
+grm:Recommender-systems-and-collaborative-filtering::inefficient
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4177,7 +4177,7 @@ However, as before, it's inefficient to compute these individually for each pair
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::norm
+grp:Recommender-systems-and-collaborative-filtering::norm
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4201,7 +4201,7 @@ grp:make_up_label_for_md::norm
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::norm
+grm:Recommender-systems-and-collaborative-filtering::norm
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4251,7 +4251,7 @@ W[1,2]
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_14_
+grp:Recommender-systems-and-collaborative-filtering::_14_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4275,7 +4275,7 @@ grp:make_up_label_for_md::_14_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_13_
+grm:Recommender-systems-and-collaborative-filtering::_13_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4317,7 +4317,7 @@ grm:make_up_label_for_md::_13_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::downside
+grp:Recommender-systems-and-collaborative-filtering::downside
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4341,7 +4341,7 @@ grp:make_up_label_for_md::downside
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::downside
+grm:Recommender-systems-and-collaborative-filtering::downside
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4379,7 +4379,7 @@ One downside to the standard pearson correlation as defined above is that if use
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::common
+grp:Recommender-systems-and-collaborative-filtering::common
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4403,7 +4403,7 @@ grp:make_up_label_for_md::common
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::common
+grm:Recommender-systems-and-collaborative-filtering::common
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4455,7 +4455,7 @@ W[1,2]
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_16_
+grp:Recommender-systems-and-collaborative-filtering::_16_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4479,7 +4479,7 @@ grp:make_up_label_for_md::_16_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_15_
+grm:Recommender-systems-and-collaborative-filtering::_15_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4521,7 +4521,7 @@ grm:make_up_label_for_md::_15_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::cosine
+grp:Recommender-systems-and-collaborative-filtering::cosine
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4545,7 +4545,7 @@ grp:make_up_label_for_md::cosine
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::cosine
+grm:Recommender-systems-and-collaborative-filtering::cosine
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4583,7 +4583,7 @@ grm:make_up_label_for_md::cosine
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_18_
+grp:Recommender-systems-and-collaborative-filtering::_18_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4607,7 +4607,7 @@ grp:make_up_label_for_md::_18_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_17_
+grm:Recommender-systems-and-collaborative-filtering::_17_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4649,7 +4649,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::notice
+grp:Recommender-systems-and-collaborative-filtering::notice
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4673,7 +4673,7 @@ grp:make_up_label_for_md::notice
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::notice
+grm:Recommender-systems-and-collaborative-filtering::notice
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4711,7 +4711,7 @@ Notice that (again, in the common definition of cosine similarity for collaborat
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::compute
+grp:Recommender-systems-and-collaborative-filtering::compute
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4735,7 +4735,7 @@ grp:make_up_label_for_md::compute
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::compute
+grm:Recommender-systems-and-collaborative-filtering::compute
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4773,7 +4773,7 @@ The following code will compute the cosine similarity (this time just directly a
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::sqrt
+grp:Recommender-systems-and-collaborative-filtering::sqrt
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4797,7 +4797,7 @@ grp:make_up_label_for_md::sqrt
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::sqrt
+grm:Recommender-systems-and-collaborative-filtering::sqrt
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4843,7 +4843,7 @@ W_cosine = all_cosine(X)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::nearest
+grp:Recommender-systems-and-collaborative-filtering::nearest
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4867,7 +4867,7 @@ grp:make_up_label_for_md::nearest
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::nearest
+grm:Recommender-systems-and-collaborative-filtering::nearest
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4905,7 +4905,7 @@ grm:make_up_label_for_md::nearest
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::otherwise
+grp:Recommender-systems-and-collaborative-filtering::otherwise
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4929,7 +4929,7 @@ grp:make_up_label_for_md::otherwise
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::otherwise
+grm:Recommender-systems-and-collaborative-filtering::otherwise
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4973,7 +4973,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::effectively
+grp:Recommender-systems-and-collaborative-filtering::effectively
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4997,7 +4997,7 @@ grp:make_up_label_for_md::effectively
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::effectively
+grm:Recommender-systems-and-collaborative-filtering::effectively
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5035,7 +5035,7 @@ Doing so effectively looks just at the most similar users (i.e., the "nearest ne
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::existing
+grp:Recommender-systems-and-collaborative-filtering::existing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5059,7 +5059,7 @@ grp:make_up_label_for_md::existing
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::existing
+grm:Recommender-systems-and-collaborative-filtering::existing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5097,7 +5097,7 @@ For any existing weight matrix we can limit it to the nearest neightbors with th
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::neighbors
+grp:Recommender-systems-and-collaborative-filtering::neighbors
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5121,7 +5121,7 @@ grp:make_up_label_for_md::neighbors
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::neighbors
+grm:Recommender-systems-and-collaborative-filtering::neighbors
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5169,7 +5169,7 @@ W_pearson_100 = nearest_neighbors(W_pearson, 100)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::part
+grp:Recommender-systems-and-collaborative-filtering::part
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5193,7 +5193,7 @@ grp:make_up_label_for_md::part
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::part
+grm:Recommender-systems-and-collaborative-filtering::part
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5231,7 +5231,7 @@ Because it's part of the homework (at least for the case of matrix factorization
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::plt
+grp:Recommender-systems-and-collaborative-filtering::plt
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5255,7 +5255,7 @@ grp:make_up_label_for_md::plt
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::plt
+grm:Recommender-systems-and-collaborative-filtering::plt
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5295,7 +5295,7 @@ plt.hist(predict_user_user(X, W_pearson, user_means, 0), bins=20)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_20_
+grp:Recommender-systems-and-collaborative-filtering::_20_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5319,7 +5319,7 @@ grp:make_up_label_for_md::_20_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_19_
+grm:Recommender-systems-and-collaborative-filtering::_19_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5357,7 +5357,7 @@ grm:make_up_label_for_md::_19_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::using
+grp:Recommender-systems-and-collaborative-filtering::using
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5381,7 +5381,7 @@ grp:make_up_label_for_md::using
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::using
+grm:Recommender-systems-and-collaborative-filtering::using
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5419,7 +5419,7 @@ Using the Pearson correlation produces a great deal more spread in the predictio
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_22_
+grp:Recommender-systems-and-collaborative-filtering::_22_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5443,7 +5443,7 @@ grp:make_up_label_for_md::_22_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_21_
+grm:Recommender-systems-and-collaborative-filtering::_21_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5483,7 +5483,7 @@ plt.hist(predict_user_user(X, W_pearson_100, user_means, 0), bins=20)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_24_
+grp:Recommender-systems-and-collaborative-filtering::_24_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5507,7 +5507,7 @@ grp:make_up_label_for_md::_24_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_23_
+grm:Recommender-systems-and-collaborative-filtering::_23_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5545,7 +5545,7 @@ grm:make_up_label_for_md::_23_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::happening
+grp:Recommender-systems-and-collaborative-filtering::happening
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5569,7 +5569,7 @@ grp:make_up_label_for_md::happening
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::happening
+grm:Recommender-systems-and-collaborative-filtering::happening
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5607,7 +5607,7 @@ What's happening here is that if we restrict ourselves to only the 100 nearest n
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_26_
+grp:Recommender-systems-and-collaborative-filtering::_26_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5631,7 +5631,7 @@ grp:make_up_label_for_md::_26_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_25_
+grm:Recommender-systems-and-collaborative-filtering::_25_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5671,7 +5671,7 @@ plt.hist(predict_user_user(X, W_cosine, user_means, 0), bins=20)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_28_
+grp:Recommender-systems-and-collaborative-filtering::_28_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5695,7 +5695,7 @@ grp:make_up_label_for_md::_28_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_27_
+grm:Recommender-systems-and-collaborative-filtering::_27_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5738,7 +5738,7 @@ Item-item approaches
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::item-item
+sec:Recommender-systems-and-collaborative-filtering::item-item
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5759,7 +5759,7 @@ sec:make_up_label_for_md::item-item
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::mention
+grp:Recommender-systems-and-collaborative-filtering::mention
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5783,7 +5783,7 @@ grp:make_up_label_for_md::mention
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::mention
+grm:Recommender-systems-and-collaborative-filtering::mention
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5821,7 +5821,7 @@ We'll mention item-item approaches only very briefly here, because the math is e
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::jk
+grp:Recommender-systems-and-collaborative-filtering::jk
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5845,7 +5845,7 @@ grp:make_up_label_for_md::jk
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::jk
+grm:Recommender-systems-and-collaborative-filtering::jk
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5887,7 +5887,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::sums
+grp:Recommender-systems-and-collaborative-filtering::sums
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5911,7 +5911,7 @@ grp:make_up_label_for_md::sums
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::sums
+grm:Recommender-systems-and-collaborative-filtering::sums
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5949,7 +5949,7 @@ where here $\bar{x}_j$ denotes the average rating for _item j_ (not per-user, as
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::nice
+grp:Recommender-systems-and-collaborative-filtering::nice
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5973,7 +5973,7 @@ grp:make_up_label_for_md::nice
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::nice
+grm:Recommender-systems-and-collaborative-filtering::nice
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6011,7 +6011,7 @@ One nice this above the approach is that we can reuse all the exact same functio
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::item
+grp:Recommender-systems-and-collaborative-filtering::item
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6035,7 +6035,7 @@ grp:make_up_label_for_md::item
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::item
+grm:Recommender-systems-and-collaborative-filtering::item
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6081,7 +6081,7 @@ W_pearson = all_pearson(X.T, movie_means)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::list
+grp:Recommender-systems-and-collaborative-filtering::list
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6105,7 +6105,7 @@ grp:make_up_label_for_md::list
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::list
+grm:Recommender-systems-and-collaborative-filtering::list
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6143,7 +6143,7 @@ Note that to get a list of all user predictions, we'd need how to iterate over a
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::xhat
+grp:Recommender-systems-and-collaborative-filtering::xhat
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6167,7 +6167,7 @@ grp:make_up_label_for_md::xhat
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::xhat
+grm:Recommender-systems-and-collaborative-filtering::xhat
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6207,7 +6207,7 @@ Xhat = np.array([predict_item_item(X, W_pearson, movie_means, i) for i in range(
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_30_
+grp:Recommender-systems-and-collaborative-filtering::_30_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6231,7 +6231,7 @@ grp:make_up_label_for_md::_30_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_29_
+grm:Recommender-systems-and-collaborative-filtering::_29_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6271,7 +6271,7 @@ plt.hist(Xhat[0,:], bins=20)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_32_
+grp:Recommender-systems-and-collaborative-filtering::_32_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6295,7 +6295,7 @@ grp:make_up_label_for_md::_32_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_31_
+grm:Recommender-systems-and-collaborative-filtering::_31_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6333,7 +6333,7 @@ grm:make_up_label_for_md::_31_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::element
+grp:Recommender-systems-and-collaborative-filtering::element
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6357,7 +6357,7 @@ grp:make_up_label_for_md::element
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::element
+grm:Recommender-systems-and-collaborative-filtering::element
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6398,7 +6398,7 @@ Matrix factorization
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::matrix
+sec:Recommender-systems-and-collaborative-filtering::matrix
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6419,7 +6419,7 @@ sec:make_up_label_for_md::matrix
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::going
+grp:Recommender-systems-and-collaborative-filtering::going
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6443,7 +6443,7 @@ grp:make_up_label_for_md::going
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::going
+grm:Recommender-systems-and-collaborative-filtering::going
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6481,7 +6481,7 @@ Finally, we'll going to last consider a slightly different approach to collabora
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::core
+grp:Recommender-systems-and-collaborative-filtering::core
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6505,7 +6505,7 @@ grp:make_up_label_for_md::core
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::core
+grm:Recommender-systems-and-collaborative-filtering::core
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6543,7 +6543,7 @@ The core idea of the matrix factorization approach to matrix factorization is th
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::uv
+grp:Recommender-systems-and-collaborative-filtering::uv
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6567,7 +6567,7 @@ grp:make_up_label_for_md::uv
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::uv
+grm:Recommender-systems-and-collaborative-filtering::uv
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6609,7 +6609,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::nx
+grp:Recommender-systems-and-collaborative-filtering::nx
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6633,7 +6633,7 @@ grp:make_up_label_for_md::nx
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::nx
+grm:Recommender-systems-and-collaborative-filtering::nx
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6671,7 +6671,7 @@ where $k \ll m,n$.  This is similar to other methods such as PCA that we covered
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::define
+grp:Recommender-systems-and-collaborative-filtering::define
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6695,7 +6695,7 @@ grp:make_up_label_for_md::define
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::define
+grm:Recommender-systems-and-collaborative-filtering::define
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6733,7 +6733,7 @@ Let's define this a bit more formally in terms of the specific elements rows and
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_34_
+grp:Recommender-systems-and-collaborative-filtering::_34_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6757,7 +6757,7 @@ grp:make_up_label_for_md::_34_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_33_
+grm:Recommender-systems-and-collaborative-filtering::_33_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6799,7 +6799,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::parameters
+grp:Recommender-systems-and-collaborative-filtering::parameters
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6823,7 +6823,7 @@ grp:make_up_label_for_md::parameters
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::parameters
+grm:Recommender-systems-and-collaborative-filtering::parameters
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6861,7 +6861,7 @@ where here our parameters are just all the $u$ and $v$ vectors, $\theta = \\{u_{
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::measure
+grp:Recommender-systems-and-collaborative-filtering::measure
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6885,7 +6885,7 @@ grp:make_up_label_for_md::measure
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::measure
+grm:Recommender-systems-and-collaborative-filtering::measure
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6923,7 +6923,7 @@ To measure the performance of a given set of parameters, we'll use the squared l
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_36_
+grp:Recommender-systems-and-collaborative-filtering::_36_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6947,7 +6947,7 @@ grp:make_up_label_for_md::_36_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_35_
+grm:Recommender-systems-and-collaborative-filtering::_35_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6989,7 +6989,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::evaluatd
+grp:Recommender-systems-and-collaborative-filtering::evaluatd
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7013,7 +7013,7 @@ grp:make_up_label_for_md::evaluatd
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::evaluatd
+grm:Recommender-systems-and-collaborative-filtering::evaluatd
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7051,7 +7051,7 @@ but evaluatd _only_ for those entries where we have actually observed a rating i
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_38_
+grp:Recommender-systems-and-collaborative-filtering::_38_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7075,7 +7075,7 @@ grp:make_up_label_for_md::_38_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_37_
+grm:Recommender-systems-and-collaborative-filtering::_37_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7117,7 +7117,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::optimization
+grp:Recommender-systems-and-collaborative-filtering::optimization
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7141,7 +7141,7 @@ grp:make_up_label_for_md::optimization
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::optimization
+grm:Recommender-systems-and-collaborative-filtering::optimization
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7179,7 +7179,7 @@ our optimization problem is to find parameters that minimize
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::minimize
+grp:Recommender-systems-and-collaborative-filtering::minimize
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7203,7 +7203,7 @@ grp:make_up_label_for_md::minimize
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::minimize
+grm:Recommender-systems-and-collaborative-filtering::minimize
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7248,7 +7248,7 @@ Alternating least squares
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::alternating
+sec:Recommender-systems-and-collaborative-filtering::alternating
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7269,7 +7269,7 @@ sec:make_up_label_for_md::alternating
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::solve
+grp:Recommender-systems-and-collaborative-filtering::solve
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7293,7 +7293,7 @@ grp:make_up_label_for_md::solve
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::solve
+grm:Recommender-systems-and-collaborative-filtering::solve
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7331,7 +7331,7 @@ Finally, how do we solve this optimization problem?  There are actually a number
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::-1
+grp:Recommender-systems-and-collaborative-filtering::-1
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7355,7 +7355,7 @@ grp:make_up_label_for_md::-1
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::-1
+grm:Recommender-systems-and-collaborative-filtering::-1
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7403,7 +7403,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::analytical
+grp:Recommender-systems-and-collaborative-filtering::analytical
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7427,7 +7427,7 @@ grp:make_up_label_for_md::analytical
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::analytical
+grm:Recommender-systems-and-collaborative-filtering::analytical
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7468,7 +7468,7 @@ Relation to PCA
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::relation
+sec:Recommender-systems-and-collaborative-filtering::relation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7489,7 +7489,7 @@ sec:make_up_label_for_md::relation
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::close
+grp:Recommender-systems-and-collaborative-filtering::close
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7513,7 +7513,7 @@ grp:make_up_label_for_md::close
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::close
+grm:Recommender-systems-and-collaborative-filtering::close
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7551,7 +7551,7 @@ As mentioned above, there is a close relationship between matrix factorization f
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::somewhat
+grp:Recommender-systems-and-collaborative-filtering::somewhat
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7575,7 +7575,7 @@ grp:make_up_label_for_md::somewhat
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::somewhat
+grm:Recommender-systems-and-collaborative-filtering::somewhat
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...

@@ -14,7 +14,7 @@ Debugging data science
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-chapter:make_up_label_for_md::debugging
+chapter:Debugging-data-science::debugging
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -35,7 +35,7 @@ chapter:make_up_label_for_md::debugging
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::download
+grp:Debugging-data-science::download
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -59,7 +59,7 @@ grp:make_up_label_for_md::download
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::download
+grm:Debugging-data-science::download
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -98,7 +98,7 @@ Introduction
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::introduction
+sec:Debugging-data-science::introduction
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -119,7 +119,7 @@ sec:make_up_label_for_md::introduction
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::vast
+grp:Debugging-data-science::vast
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -143,7 +143,7 @@ grp:make_up_label_for_md::vast
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::vast
+grm:Debugging-data-science::vast
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -193,7 +193,7 @@ set; it's what they do second, when that first thing doesn't work.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::writing
+grp:Debugging-data-science::writing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -217,7 +217,7 @@ grp:make_up_label_for_md::writing
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::writing
+grm:Debugging-data-science::writing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -256,7 +256,7 @@ Traditional debugging
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::traditional
+sec:Debugging-data-science::traditional
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -277,7 +277,7 @@ sec:make_up_label_for_md::traditional
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::debugging
+grp:Debugging-data-science::debugging
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -301,7 +301,7 @@ grp:make_up_label_for_md::debugging
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::debugging
+grm:Debugging-data-science::debugging
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -340,7 +340,7 @@ there are a lot of formalisms here that I won't discuss, the following illustrat
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::given
+grp:Debugging-data-science::given
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -364,7 +364,7 @@ grp:make_up_label_for_md::given
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::given
+grm:Debugging-data-science::given
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -405,7 +405,7 @@ Data science debugging: an example
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::data
+sec:Debugging-data-science::data
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -426,7 +426,7 @@ sec:make_up_label_for_md::data
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::compare
+grp:Debugging-data-science::compare
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -450,7 +450,7 @@ grp:make_up_label_for_md::compare
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::compare
+grm:Debugging-data-science::compare
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -488,7 +488,7 @@ Let's compare this now to a typical data science debugging problem.  Let's say t
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::look
+grp:Debugging-data-science::look
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -512,7 +512,7 @@ grp:make_up_label_for_md::look
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::look
+grm:Debugging-data-science::look
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -550,7 +550,7 @@ So I go ahead and look to take a data science approach to this problem.  I can l
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::fire
+grp:Debugging-data-science::fire
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -574,7 +574,7 @@ grp:make_up_label_for_md::fire
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::fire
+grm:Debugging-data-science::fire
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -612,7 +612,7 @@ I fire up whatever my favorite classification may be (I'd start with just linear
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::discussion
+grp:Debugging-data-science::discussion
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -636,7 +636,7 @@ grp:make_up_label_for_md::discussion
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::discussion
+grm:Debugging-data-science::discussion
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -674,7 +674,7 @@ So, what do I do next?  From our discussion of machine learning, there appear to
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::fundamental
+grp:Debugging-data-science::fundamental
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -698,7 +698,7 @@ grp:make_up_label_for_md::fundamental
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::fundamental
+grm:Debugging-data-science::fundamental
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -739,7 +739,7 @@ Aside: debugging machine learning vs. debugging data science
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::aside
+sec:Debugging-data-science::aside
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -760,7 +760,7 @@ sec:make_up_label_for_md::aside
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::although
+grp:Debugging-data-science::although
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -784,7 +784,7 @@ grp:make_up_label_for_md::although
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::although
+grm:Debugging-data-science::although
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -827,7 +827,7 @@ The first step of data science debugging: determine if the problem is impossible
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::step
+sec:Debugging-data-science::step
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -848,7 +848,7 @@ sec:make_up_label_for_md::step
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::going
+grp:Debugging-data-science::going
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -872,7 +872,7 @@ grp:make_up_label_for_md::going
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::going
+grm:Debugging-data-science::going
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -910,7 +910,7 @@ There is not going to be any magic here, and the process of debugging data scien
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::mind
+grp:Debugging-data-science::mind
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -934,7 +934,7 @@ grp:make_up_label_for_md::mind
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::mind
+grm:Debugging-data-science::mind
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -972,7 +972,7 @@ With that in mind, the first step to debugging a data science problem is typical
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::basic
+grp:Debugging-data-science::basic
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -996,7 +996,7 @@ grp:make_up_label_for_md::basic
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::basic
+grm:Debugging-data-science::basic
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1034,7 +1034,7 @@ Here's a basic rule for getting a handle on this question: after defining your i
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::simple
+grp:Debugging-data-science::simple
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1058,7 +1058,7 @@ grp:make_up_label_for_md::simple
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::simple
+grm:Debugging-data-science::simple
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1096,7 +1096,7 @@ This is a very simple step, but students often ignore this task because machine 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::solve
+grp:Debugging-data-science::solve
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1120,7 +1120,7 @@ grp:make_up_label_for_md::solve
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::solve
+grm:Debugging-data-science::solve
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1158,7 +1158,7 @@ So, try to solve the classification problem yourself. For example, write a littl
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::naturally
+grp:Debugging-data-science::naturally
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1182,7 +1182,7 @@ grp:make_up_label_for_md::naturally
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::naturally
+grm:Debugging-data-science::naturally
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1220,7 +1220,7 @@ Naturally, there are cases where you won't be able to immediately predict the co
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::point
+grp:Debugging-data-science::point
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1244,7 +1244,7 @@ grp:make_up_label_for_md::point
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::point
+grm:Debugging-data-science::point
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1283,7 +1283,7 @@ Some additional details
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::additional
+sec:Debugging-data-science::additional
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1304,7 +1304,7 @@ sec:make_up_label_for_md::additional
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::move
+grp:Debugging-data-science::move
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1328,7 +1328,7 @@ grp:make_up_label_for_md::move
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::move
+grm:Debugging-data-science::move
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1366,7 +1366,7 @@ Before we move on to how to handle these these two cases, there are a few items 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::imbalanced
+grp:Debugging-data-science::imbalanced
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1390,7 +1390,7 @@ grp:make_up_label_for_md::imbalanced
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::imbalanced
+grm:Debugging-data-science::imbalanced
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1428,7 +1428,7 @@ In imbalanced data sets, one class label (i.e., one type out output) may be a wh
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::regression
+grp:Debugging-data-science::regression
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1452,7 +1452,7 @@ grp:make_up_label_for_md::regression
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::regression
+grm:Debugging-data-science::regression
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1495,7 +1495,7 @@ What to do with an "impossible" problem
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::impossible
+sec:Debugging-data-science::impossible
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1516,7 +1516,7 @@ sec:make_up_label_for_md::impossible
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::gone
+grp:Debugging-data-science::gone
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1540,7 +1540,7 @@ grp:make_up_label_for_md::gone
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::gone
+grm:Debugging-data-science::gone
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1578,7 +1578,7 @@ So you have now gone through the exercise described above, built a script that s
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_2_
+grp:Debugging-data-science::_2_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1602,7 +1602,7 @@ grp:make_up_label_for_md::_2_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_1_
+grm:Debugging-data-science::_1_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1640,7 +1640,7 @@ What do you do now?
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::absolutely
+grp:Debugging-data-science::absolutely
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1664,7 +1664,7 @@ grp:make_up_label_for_md::absolutely
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::absolutely
+grm:Debugging-data-science::absolutely
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1702,7 +1702,7 @@ What you should absolutely _not_ do is try to throw more machine learning algori
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::tempting
+grp:Debugging-data-science::tempting
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1726,7 +1726,7 @@ grp:make_up_label_for_md::tempting
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::tempting
+grm:Debugging-data-science::tempting
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1765,7 +1765,7 @@ Gathering more, different, features (i.e., changing the inputs)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::gathering
+sec:Debugging-data-science::gathering
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1786,7 +1786,7 @@ sec:make_up_label_for_md::gathering
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::course
+grp:Debugging-data-science::course
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1810,7 +1810,7 @@ grp:make_up_label_for_md::course
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::course
+grm:Debugging-data-science::course
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1848,7 +1848,7 @@ This is of course the holy grail of any data science problem.  Maybe the problem
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::spot
+grp:Debugging-data-science::spot
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1872,7 +1872,7 @@ grp:make_up_label_for_md::spot
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::spot
+grm:Debugging-data-science::spot
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1913,7 +1913,7 @@ integrating a new feature into your pipelines and visualization (and certainly b
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::consult
+grp:Debugging-data-science::consult
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1937,7 +1937,7 @@ grp:make_up_label_for_md::consult
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::consult
+grm:Debugging-data-science::consult
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1978,7 +1978,7 @@ already attempting to solve this problem manually, find out what data sources th
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::make
+grp:Debugging-data-science::make
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2002,7 +2002,7 @@ grp:make_up_label_for_md::make
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::make
+grm:Debugging-data-science::make
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2043,7 +2043,7 @@ Changing the problem (i.e., changing the outputs).
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::changing
+sec:Debugging-data-science::changing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2064,7 +2064,7 @@ sec:make_up_label_for_md::changing
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::alternative
+grp:Debugging-data-science::alternative
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2088,7 +2088,7 @@ grp:make_up_label_for_md::alternative
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::alternative
+grm:Debugging-data-science::alternative
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2126,7 +2126,7 @@ The alternative to changing the inputs, of course, is to change the outputs of t
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::change
+grp:Debugging-data-science::change
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2150,7 +2150,7 @@ grp:make_up_label_for_md::change
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::change
+grm:Debugging-data-science::change
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2190,7 +2190,7 @@ grm:make_up_label_for_md::change
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::prediction
+grp:Debugging-data-science::prediction
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2214,7 +2214,7 @@ grp:make_up_label_for_md::prediction
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::prediction
+grm:Debugging-data-science::prediction
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2256,7 +2256,7 @@ Characterizing uncertainty is much easier in the setting of simpler linear model
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::elements
+grp:Debugging-data-science::elements
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2280,7 +2280,7 @@ grp:make_up_label_for_md::elements
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::elements
+grm:Debugging-data-science::elements
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2323,7 +2323,7 @@ What do to with a "feasible" problem
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::feasible
+sec:Debugging-data-science::feasible
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2344,7 +2344,7 @@ sec:make_up_label_for_md::feasible
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::good
+grp:Debugging-data-science::good
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2368,7 +2368,7 @@ grp:make_up_label_for_md::good
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::good
+grm:Debugging-data-science::good
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2406,7 +2406,7 @@ Good news!  You have found (or really, created) a problem where you're able your
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::went
+grp:Debugging-data-science::went
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2430,7 +2430,7 @@ grp:make_up_label_for_md::went
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::went
+grm:Debugging-data-science::went
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2468,7 +2468,7 @@ As you went through the process of manually classifying examples, you probably s
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::discuss
+grp:Debugging-data-science::discuss
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2492,7 +2492,7 @@ grp:make_up_label_for_md::discuss
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::discuss
+grm:Debugging-data-science::discuss
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2531,7 +2531,7 @@ FATAL ERROR in LaTeX to html translation
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::understand
+sec:Debugging-data-science::understand
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2552,7 +2552,7 @@ sec:make_up_label_for_md::understand
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::performance
+grp:Debugging-data-science::performance
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2576,7 +2576,7 @@ grp:make_up_label_for_md::performance
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::performance
+grm:Debugging-data-science::performance
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2621,7 +2621,7 @@ one of high variance.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::slightly
+grp:Debugging-data-science::slightly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2645,7 +2645,7 @@ grp:make_up_label_for_md::slightly
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::slightly
+grm:Debugging-data-science::slightly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2686,7 +2686,7 @@ models).  If the figure looks like this:
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::training
+grp:Debugging-data-science::training
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2710,7 +2710,7 @@ grp:make_up_label_for_md::training
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::training
+grm:Debugging-data-science::training
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2748,7 +2748,7 @@ grm:make_up_label_for_md::training
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::high
+grp:Debugging-data-science::high
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2772,7 +2772,7 @@ grp:make_up_label_for_md::high
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::high
+grm:Debugging-data-science::high
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2812,7 +2812,7 @@ samples.  If, on the other hand, your figure looks like this:
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::validation
+grp:Debugging-data-science::validation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2836,7 +2836,7 @@ grp:make_up_label_for_md::validation
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::validation
+grm:Debugging-data-science::validation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2874,7 +2874,7 @@ grm:make_up_label_for_md::validation
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::variance
+grp:Debugging-data-science::variance
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2898,7 +2898,7 @@ grp:make_up_label_for_md::variance
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::variance
+grm:Debugging-data-science::variance
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2938,7 +2938,7 @@ data.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::situation
+grp:Debugging-data-science::situation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2962,7 +2962,7 @@ grp:make_up_label_for_md::situation
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::situation
+grm:Debugging-data-science::situation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3012,7 +3012,7 @@ and make sure the classifier is able to use these to determine its classificatio
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::need
+grp:Debugging-data-science::need
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3036,7 +3036,7 @@ grp:make_up_label_for_md::need
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::need
+grm:Debugging-data-science::need
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3087,7 +3087,7 @@ always substantially outperform testing loss.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::approach
+grp:Debugging-data-science::approach
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3111,7 +3111,7 @@ grp:make_up_label_for_md::approach
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::approach
+grm:Debugging-data-science::approach
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3159,7 +3159,7 @@ FATAL ERROR in LaTeX to html translation
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::optimization
+sec:Debugging-data-science::optimization
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3180,7 +3180,7 @@ sec:make_up_label_for_md::optimization
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::rarely
+grp:Debugging-data-science::rarely
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3204,7 +3204,7 @@ grp:make_up_label_for_md::rarely
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::rarely
+grm:Debugging-data-science::rarely
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3260,7 +3260,7 @@ FATAL ERROR in LaTeX to html translation
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::loss
+sec:Debugging-data-science::loss
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3281,7 +3281,7 @@ sec:make_up_label_for_md::loss
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::remember
+grp:Debugging-data-science::remember
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3305,7 +3305,7 @@ grp:make_up_label_for_md::remember
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::remember
+grm:Debugging-data-science::remember
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3350,7 +3350,7 @@ the error that you casre about.  In the case that the two figures diverge, e.g.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::likely
+grp:Debugging-data-science::likely
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3374,7 +3374,7 @@ grp:make_up_label_for_md::likely
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::likely
+grm:Debugging-data-science::likely
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3425,7 +3425,7 @@ FATAL ERROR in LaTeX to html translation
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::go
+sec:Debugging-data-science::go
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3446,7 +3446,7 @@ sec:make_up_label_for_md::go
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::facetious
+grp:Debugging-data-science::facetious
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3470,7 +3470,7 @@ grp:make_up_label_for_md::facetious
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::facetious
+grm:Debugging-data-science::facetious
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3517,7 +3517,7 @@ has been made using deep learning techniques in recent years.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::case
+grp:Debugging-data-science::case
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3541,7 +3541,7 @@ grp:make_up_label_for_md::case
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::case
+grm:Debugging-data-science::case
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3585,7 +3585,7 @@ you will actually encounter in practice.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::astonishing
+grp:Debugging-data-science::astonishing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3609,7 +3609,7 @@ grp:make_up_label_for_md::astonishing
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::astonishing
+grm:Debugging-data-science::astonishing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3658,7 +3658,7 @@ The possibility of unreasonably good performance
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::possibility
+sec:Debugging-data-science::possibility
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3679,7 +3679,7 @@ sec:make_up_label_for_md::possibility
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::know
+grp:Debugging-data-science::know
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3703,7 +3703,7 @@ grp:make_up_label_for_md::know
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::know
+grm:Debugging-data-science::know
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3741,7 +3741,7 @@ Because I know you won't actually wait to do any machine learning until you deve
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::find
+grp:Debugging-data-science::find
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3765,7 +3765,7 @@ grp:make_up_label_for_md::find
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::find
+grm:Debugging-data-science::find
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3803,7 +3803,7 @@ If you go through this exercise and find that you _cannot_ perform well on this 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::bring
+grp:Debugging-data-science::bring
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3827,7 +3827,7 @@ grp:make_up_label_for_md::bring
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::bring
+grm:Debugging-data-science::bring
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3865,7 +3865,7 @@ I bring this all up because in these settings there is, sadly, a very good chanc
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::classifying
+grp:Debugging-data-science::classifying
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3889,7 +3889,7 @@ grp:make_up_label_for_md::classifying
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::classifying
+grm:Debugging-data-science::classifying
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3930,7 +3930,7 @@ Conclusion
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::conclusion
+sec:Debugging-data-science::conclusion
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3951,7 +3951,7 @@ sec:make_up_label_for_md::conclusion
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::document
+grp:Debugging-data-science::document
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3975,7 +3975,7 @@ grp:make_up_label_for_md::document
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::document
+grm:Debugging-data-science::document
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4013,7 +4013,7 @@ This document has been an attempt to synthesize some of the techniques I have fo
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::predicts
+grp:Debugging-data-science::predicts
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4037,7 +4037,7 @@ grp:make_up_label_for_md::predicts
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::predicts
+grm:Debugging-data-science::predicts
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4103,7 +4103,7 @@ grm:make_up_label_for_md::predicts
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::faculty
+grp:Debugging-data-science::faculty
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4127,7 +4127,7 @@ grp:make_up_label_for_md::faculty
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::faculty
+grm:Debugging-data-science::faculty
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4165,7 +4165,7 @@ Another faculty member at CMU tells me a story about a paper on practical system
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::really
+grp:Debugging-data-science::really
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4189,7 +4189,7 @@ grp:make_up_label_for_md::really
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::really
+grm:Debugging-data-science::really
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...

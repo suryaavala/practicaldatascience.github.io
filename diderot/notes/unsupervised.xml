@@ -14,7 +14,7 @@
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-chapter:make_up_label_for_md::unsupervised
+chapter:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::unsupervised
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -35,7 +35,7 @@ chapter:make_up_label_for_md::unsupervised
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::download
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::download
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -59,7 +59,7 @@ grp:make_up_label_for_md::download
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::download
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::download
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -98,7 +98,7 @@ Introduction
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::introduction
+sec:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::introduction
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -119,7 +119,7 @@ sec:make_up_label_for_md::introduction
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::presented
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::presented
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -143,7 +143,7 @@ grp:make_up_label_for_md::presented
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::presented
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::presented
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -181,7 +181,7 @@ Thus far, we have presented machine learning methods largely in the context of _
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::going
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::going
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -205,7 +205,7 @@ grp:make_up_label_for_md::going
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::going
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::going
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -246,7 +246,7 @@ An ML framework for unsupervised learning
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::framework
+sec:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::framework
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -267,7 +267,7 @@ sec:make_up_label_for_md::framework
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::recall
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::recall
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -291,7 +291,7 @@ grp:make_up_label_for_md::recall
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::recall
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::recall
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -329,7 +329,7 @@ Recall from our presentations on supervised learnign that the three aspects of a
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::hypothesis
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::hypothesis
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -353,7 +353,7 @@ grp:make_up_label_for_md::hypothesis
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::hypothesis
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::hypothesis
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -393,7 +393,7 @@ grm:make_up_label_for_md::hypothesis
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::loss
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::loss
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -417,7 +417,7 @@ grp:make_up_label_for_md::loss
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::loss
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::loss
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -457,7 +457,7 @@ grm:make_up_label_for_md::loss
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_2_
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_2_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -481,7 +481,7 @@ grp:make_up_label_for_md::_2_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_1_
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_1_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -523,7 +523,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::optimization
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::optimization
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -547,7 +547,7 @@ grp:make_up_label_for_md::optimization
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::optimization
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::optimization
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -587,7 +587,7 @@ grm:make_up_label_for_md::optimization
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::minimize
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::minimize
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -611,7 +611,7 @@ grp:make_up_label_for_md::minimize
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::minimize
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::minimize
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -655,7 +655,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::minimizing
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::minimizing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -679,7 +679,7 @@ grp:make_up_label_for_md::minimizing
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::minimizing
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::minimizing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -720,7 +720,7 @@ K-means clustering
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::clustering
+sec:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::clustering
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -741,7 +741,7 @@ sec:make_up_label_for_md::clustering
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::supervised
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::supervised
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -765,7 +765,7 @@ grp:make_up_label_for_md::supervised
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::supervised
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::supervised
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -803,7 +803,7 @@ As our first example of an supervised learning algorithm, we're going to conside
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::consider
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::consider
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -827,7 +827,7 @@ grp:make_up_label_for_md::consider
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::consider
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::consider
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -865,7 +865,7 @@ Consider the following set of 100 data points.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::python
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::python
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -889,7 +889,7 @@ grp:make_up_label_for_md::python
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::python
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::python
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -935,7 +935,7 @@ plt.axis([-6,6,-3,3])
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_4_
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_4_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -959,7 +959,7 @@ grp:make_up_label_for_md::_4_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_3_
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_3_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -997,7 +997,7 @@ grm:make_up_label_for_md::_3_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::even
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::even
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1021,7 +1021,7 @@ grp:make_up_label_for_md::even
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::even
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::even
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1059,7 +1059,7 @@ Even if you weren't to look at the code that generated these points, it should b
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::random
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::random
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1083,7 +1083,7 @@ grp:make_up_label_for_md::random
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::random
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::random
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1144,7 +1144,7 @@ plt.text(mu2[0]+0.15, mu2[1]-0.15, "$\mu^{(2)}$")
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_6_
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_6_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1168,7 +1168,7 @@ grp:make_up_label_for_md::_6_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_5_
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_5_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1207,7 +1207,7 @@ Formal definition of the K-means algorithm
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::formal
+sec:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::formal
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1228,7 +1228,7 @@ sec:make_up_label_for_md::formal
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::works
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::works
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1252,7 +1252,7 @@ grp:make_up_label_for_md::works
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::works
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::works
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1290,7 +1290,7 @@ Let's see how this works in the formal setting we have described above.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::function
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::function
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1314,7 +1314,7 @@ grp:make_up_label_for_md::function
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::function
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::function
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1352,7 +1352,7 @@ grm:make_up_label_for_md::function
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_8_
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_8_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1376,7 +1376,7 @@ grp:make_up_label_for_md::_8_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_7_
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_7_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1418,7 +1418,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::written
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::written
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1442,7 +1442,7 @@ grp:make_up_label_for_md::written
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::written
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::written
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1480,7 +1480,7 @@ with each $\mu^{(i)} \in \mathbb{R}^n$ (note that, as will be a pattern from now
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::argmin
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::argmin
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1504,7 +1504,7 @@ grp:make_up_label_for_md::argmin
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::argmin
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::argmin
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1548,7 +1548,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_10_
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_10_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1572,7 +1572,7 @@ grp:make_up_label_for_md::_10_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_9_
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_9_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1610,7 +1610,7 @@ where the $\argmin$ operator returns the argument that minimizes the expression 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::used
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::used
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1634,7 +1634,7 @@ grp:make_up_label_for_md::used
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::used
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::used
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1672,7 +1672,7 @@ grm:make_up_label_for_md::used
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_12_
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_12_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1696,7 +1696,7 @@ grp:make_up_label_for_md::_12_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_11_
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_11_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1738,7 +1738,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::recalling
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::recalling
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1762,7 +1762,7 @@ grp:make_up_label_for_md::recalling
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::recalling
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::recalling
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1800,7 +1800,7 @@ Recalling that the hypothesis function simply outputs the closest mean to the gi
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_14_
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_14_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1824,7 +1824,7 @@ grp:make_up_label_for_md::_14_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_13_
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_13_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1866,7 +1866,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::results
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::results
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1890,7 +1890,7 @@ grp:make_up_label_for_md::results
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::results
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::results
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1928,7 +1928,7 @@ grm:make_up_label_for_md::results
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_16_
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_16_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1952,7 +1952,7 @@ grp:make_up_label_for_md::_16_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_15_
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_15_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1994,7 +1994,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::unlike
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::unlike
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2018,7 +2018,7 @@ grp:make_up_label_for_md::unlike
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::unlike
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::unlike
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2056,7 +2056,7 @@ Unlike the settings we have seen before in supervised learning, in this case it 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::k-means
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::k-means
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2080,7 +2080,7 @@ grp:make_up_label_for_md::k-means
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::k-means
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::k-means
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2120,7 +2120,7 @@ grm:make_up_label_for_md::k-means
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::given
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::given
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2144,7 +2144,7 @@ grp:make_up_label_for_md::given
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::given
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::given
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2182,7 +2182,7 @@ grm:make_up_label_for_md::given
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::initialize
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::initialize
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2206,7 +2206,7 @@ grp:make_up_label_for_md::initialize
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::initialize
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::initialize
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2244,7 +2244,7 @@ grm:make_up_label_for_md::initialize
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::randomchoice
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::randomchoice
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2268,7 +2268,7 @@ grp:make_up_label_for_md::randomchoice
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::randomchoice
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::randomchoice
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2308,7 +2308,7 @@ grm:make_up_label_for_md::randomchoice
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::repeat
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::repeat
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2332,7 +2332,7 @@ grp:make_up_label_for_md::repeat
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::repeat
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::repeat
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2370,7 +2370,7 @@ grm:make_up_label_for_md::repeat
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::assign
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::assign
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2394,7 +2394,7 @@ grp:make_up_label_for_md::assign
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::assign
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::assign
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2436,7 +2436,7 @@ grm:make_up_label_for_md::assign
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::hr
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::hr
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2460,7 +2460,7 @@ grp:make_up_label_for_md::hr
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::hr
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::hr
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2498,7 +2498,7 @@ grm:make_up_label_for_md::hr
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::although
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::although
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2522,7 +2522,7 @@ grp:make_up_label_for_md::although
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::although
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::although
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2563,7 +2563,7 @@ Illustration of k-means
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::illustration
+sec:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::illustration
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2584,7 +2584,7 @@ sec:make_up_label_for_md::illustration
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::practice
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::practice
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2608,7 +2608,7 @@ grp:make_up_label_for_md::practice
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::practice
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::practice
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2646,7 +2646,7 @@ Let's see how this works in practice  The following is a reasonably efficient im
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::kmeans
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::kmeans
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2670,7 +2670,7 @@ grp:make_up_label_for_md::kmeans
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::kmeans
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::kmeans
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2726,7 +2726,7 @@ def kmeans(X, k, max_iter=10, rand_seed=0):
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::line
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::line
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2750,7 +2750,7 @@ grp:make_up_label_for_md::line
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::line
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::line
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2788,7 +2788,7 @@ The first line randomly assigns centers to $k$ of the data points.  We then repe
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::computing
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::computing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2812,7 +2812,7 @@ grp:make_up_label_for_md::computing
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::computing
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::computing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2856,7 +2856,7 @@ grm:make_up_label_for_md::computing
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::return
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::return
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2880,7 +2880,7 @@ grp:make_up_label_for_md::return
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::return
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::return
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2918,7 +2918,7 @@ We finally return these clusters plus the squared loss itself.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::lets
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::lets
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2942,7 +2942,7 @@ grp:make_up_label_for_md::lets
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::lets
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::lets
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2980,7 +2980,7 @@ Lets see how this looks on a three-cluster example.  Our synthetic data will be 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::seed
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::seed
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3004,7 +3004,7 @@ grp:make_up_label_for_md::seed
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::seed
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::seed
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3054,7 +3054,7 @@ plt.scatter(X[:,0], X[:,1])
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_18_
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_18_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3078,7 +3078,7 @@ grp:make_up_label_for_md::_18_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_17_
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_17_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3116,7 +3116,7 @@ grm:make_up_label_for_md::_17_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::extend
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::extend
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3140,7 +3140,7 @@ grp:make_up_label_for_md::extend
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::extend
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::extend
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3178,7 +3178,7 @@ We'll also extend the code above for this particular example to plot the cluster
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::colors
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::colors
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3202,7 +3202,7 @@ grp:make_up_label_for_md::colors
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::colors
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::colors
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3268,7 +3268,7 @@ def kmeans_visualize(X, k, max_iter=10, rand_seed=0):
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::simple
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::simple
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3292,7 +3292,7 @@ grp:make_up_label_for_md::simple
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::simple
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::simple
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3330,7 +3330,7 @@ Let's run this on our simple three-cluster setting.  Here we show the first four
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::visualize
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::visualize
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3354,7 +3354,7 @@ grp:make_up_label_for_md::visualize
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::visualize
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::visualize
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3394,7 +3394,7 @@ kmeans_visualize(X, 3, max_iter=4, rand_seed = 3);
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_20_
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_20_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3418,7 +3418,7 @@ grp:make_up_label_for_md::_20_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_19_
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_19_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3456,7 +3456,7 @@ grm:make_up_label_for_md::_19_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::particularly
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::particularly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3480,7 +3480,7 @@ grp:make_up_label_for_md::particularly
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::particularly
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::particularly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3518,7 +3518,7 @@ However, note that k-means is particularly susceptible to getting stuck in local
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::iter
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::iter
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3542,7 +3542,7 @@ grp:make_up_label_for_md::iter
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::iter
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::iter
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3582,7 +3582,7 @@ kmeans_visualize(X, 3, max_iter=4, rand_seed=13);
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_22_
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_22_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3606,7 +3606,7 @@ grp:make_up_label_for_md::_22_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_21_
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_21_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3647,7 +3647,7 @@ K-means++
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::k-means
+sec:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::k-means
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3668,7 +3668,7 @@ sec:make_up_label_for_md::k-means
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::counteract
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::counteract
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3692,7 +3692,7 @@ grp:make_up_label_for_md::counteract
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::counteract
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::counteract
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3730,7 +3730,7 @@ To counteract the possibility of local optima, there are a number of schemes for
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_24_
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_24_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3754,7 +3754,7 @@ grp:make_up_label_for_md::_24_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_23_
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_23_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3794,7 +3794,7 @@ grm:make_up_label_for_md::_23_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::data
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::data
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3818,7 +3818,7 @@ grp:make_up_label_for_md::data
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::data
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::data
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3856,7 +3856,7 @@ grm:make_up_label_for_md::data
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_26_
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_26_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3880,7 +3880,7 @@ grp:make_up_label_for_md::_26_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_25_
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_25_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3918,7 +3918,7 @@ grm:make_up_label_for_md::_25_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_28_
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_28_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3942,7 +3942,7 @@ grp:make_up_label_for_md::_28_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_27_
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_27_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3982,7 +3982,7 @@ grm:make_up_label_for_md::_27_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_30_
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_30_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4006,7 +4006,7 @@ grp:make_up_label_for_md::_30_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_29_
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_29_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4044,7 +4044,7 @@ grm:make_up_label_for_md::_29_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::probabilities
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::probabilities
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4068,7 +4068,7 @@ grp:make_up_label_for_md::probabilities
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::probabilities
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::probabilities
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4108,7 +4108,7 @@ grm:make_up_label_for_md::probabilities
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_32_
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_32_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4132,7 +4132,7 @@ grp:make_up_label_for_md::_32_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_31_
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_31_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4174,7 +4174,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::select
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::select
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4198,7 +4198,7 @@ grp:make_up_label_for_md::select
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::select
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::select
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4238,7 +4238,7 @@ grm:make_up_label_for_md::select
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_34_
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_34_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4262,7 +4262,7 @@ grp:make_up_label_for_md::_34_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_33_
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_33_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4304,7 +4304,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_36_
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_36_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4328,7 +4328,7 @@ grp:make_up_label_for_md::_36_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_35_
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_35_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4366,7 +4366,7 @@ grm:make_up_label_for_md::_35_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::implement
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::implement
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4390,7 +4390,7 @@ grp:make_up_label_for_md::implement
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::implement
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::implement
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4431,7 +4431,7 @@ Selecting $k$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::selecting
+sec:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::selecting
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4452,7 +4452,7 @@ sec:make_up_label_for_md::selecting
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::obvious
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::obvious
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4476,7 +4476,7 @@ grp:make_up_label_for_md::obvious
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::obvious
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::obvious
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4514,7 +4514,7 @@ One obvious question that arises with this method is: how do we choose hyperpara
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::reason
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::reason
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4538,7 +4538,7 @@ grp:make_up_label_for_md::reason
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::reason
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::reason
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4576,7 +4576,7 @@ For this reason, the process of selecting the number of clusters is typically an
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::synthetic
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::synthetic
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4600,7 +4600,7 @@ grp:make_up_label_for_md::synthetic
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::synthetic
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::synthetic
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4638,7 +4638,7 @@ Let's do this first on our synthetic examples.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::losses
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::losses
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4662,7 +4662,7 @@ grp:make_up_label_for_md::losses
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::losses
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::losses
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4708,7 +4708,7 @@ plt.ylabel("Average loss")
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_38_
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_38_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4732,7 +4732,7 @@ grp:make_up_label_for_md::_38_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_37_
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_37_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4770,7 +4770,7 @@ grm:make_up_label_for_md::_37_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::case
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::case
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4794,7 +4794,7 @@ grp:make_up_label_for_md::case
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::case
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::case
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4835,7 +4835,7 @@ Example: handwritten digits
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::handwritten
+sec:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::handwritten
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4856,7 +4856,7 @@ sec:make_up_label_for_md::handwritten
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::clustering
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::clustering
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4880,7 +4880,7 @@ grp:make_up_label_for_md::clustering
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::clustering
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::clustering
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4918,7 +4918,7 @@ As as example, let's consider the task of clustering images of handwritten digit
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::sklearn
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::sklearn
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4942,7 +4942,7 @@ grp:make_up_label_for_md::sklearn
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::sklearn
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::sklearn
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4984,7 +4984,7 @@ mnist = fetch_mldata('MNIST original')
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::looks
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::looks
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5008,7 +5008,7 @@ grp:make_up_label_for_md::looks
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::looks
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::looks
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5046,7 +5046,7 @@ The data looks like the following.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::mnist
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::mnist
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5070,7 +5070,7 @@ grp:make_up_label_for_md::mnist
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::mnist
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::mnist
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5124,7 +5124,7 @@ plot_mnist(dat, 5, 10)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_40_
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_40_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5148,7 +5148,7 @@ grp:make_up_label_for_md::_40_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_39_
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_39_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5186,7 +5186,7 @@ grm:make_up_label_for_md::_39_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::centers
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::centers
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5210,7 +5210,7 @@ grp:make_up_label_for_md::centers
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::centers
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::centers
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5248,7 +5248,7 @@ Let's run k-means with 30 centers on this data set, and plot the resulting cente
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::rand
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::rand
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5272,7 +5272,7 @@ grp:make_up_label_for_md::rand
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::rand
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::rand
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5314,7 +5314,7 @@ plot_mnist(Mu,5,6)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_42_
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_42_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5338,7 +5338,7 @@ grp:make_up_label_for_md::_42_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_41_
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_41_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5376,7 +5376,7 @@ grm:make_up_label_for_md::_41_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::though
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::though
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5400,7 +5400,7 @@ grp:make_up_label_for_md::though
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::though
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::though
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5438,7 +5438,7 @@ Again, though, we should emphasize that this is a very bad method for "inferring
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::plot
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::plot
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5462,7 +5462,7 @@ grp:make_up_label_for_md::plot
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::plot
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::plot
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5504,7 +5504,7 @@ plot_mnist(Mu,2,5)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_44_
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_44_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5528,7 +5528,7 @@ grp:make_up_label_for_md::_44_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_43_
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_43_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5566,7 +5566,7 @@ grm:make_up_label_for_md::_43_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::seems
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::seems
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5590,7 +5590,7 @@ grp:make_up_label_for_md::seems
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::seems
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::seems
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5628,7 +5628,7 @@ The "5" seems to be mostly missing (possibly combined with the "3", and there is
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::different
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::different
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5652,7 +5652,7 @@ grp:make_up_label_for_md::different
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::different
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::different
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5690,7 +5690,7 @@ We can plot the loss over the different number of clusers
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::range
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::range
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5714,7 +5714,7 @@ grp:make_up_label_for_md::range
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::range
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::range
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5756,7 +5756,7 @@ plt.plot(range(1,20), losses)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_46_
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_46_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5780,7 +5780,7 @@ grp:make_up_label_for_md::_46_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_45_
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::_45_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5818,7 +5818,7 @@ grm:make_up_label_for_md::_45_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::would
+grp:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::would
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5842,7 +5842,7 @@ grp:make_up_label_for_md::would
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::would
+grm:-Unsupervised-learning--58--clustering-and-dimensionality-reduction-::would
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...

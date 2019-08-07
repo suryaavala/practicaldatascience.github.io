@@ -14,7 +14,7 @@ Relational data and databases
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-chapter:make_up_label_for_md::relational
+chapter:Relational-data-and-databases::relational
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -35,7 +35,7 @@ chapter:make_up_label_for_md::relational
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::download
+grp:Relational-data-and-databases::download
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -59,7 +59,7 @@ grp:make_up_label_for_md::download
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::download
+grm:Relational-data-and-databases::download
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -98,7 +98,7 @@ Introduction
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::introduction
+sec:Relational-data-and-databases::introduction
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -119,7 +119,7 @@ sec:make_up_label_for_md::introduction
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::provide
+grp:Relational-data-and-databases::provide
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -143,7 +143,7 @@ grp:make_up_label_for_md::provide
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::provide
+grm:Relational-data-and-databases::provide
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -181,7 +181,7 @@ These notes provide a very brief introduction to the relational data and databas
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::obviously
+grp:Relational-data-and-databases::obviously
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -205,7 +205,7 @@ grp:make_up_label_for_md::obviously
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::obviously
+grm:Relational-data-and-databases::obviously
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -246,7 +246,7 @@ Overview of relational data
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::overview
+sec:Relational-data-and-databases::overview
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -267,7 +267,7 @@ sec:make_up_label_for_md::overview
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::basic
+grp:Relational-data-and-databases::basic
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -291,7 +291,7 @@ grp:make_up_label_for_md::basic
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::basic
+grm:Relational-data-and-databases::basic
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -329,7 +329,7 @@ The basic unit in any relational data is the notion of a "relation", but since n
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::class
+grp:Relational-data-and-databases::class
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -353,7 +353,7 @@ grp:make_up_label_for_md::class
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::class
+grm:Relational-data-and-databases::class
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -395,7 +395,7 @@ grm:make_up_label_for_md::class
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::name
+grp:Relational-data-and-databases::name
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -419,7 +419,7 @@ grp:make_up_label_for_md::name
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::name
+grm:Relational-data-and-databases::name
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -511,7 +511,7 @@ grm:make_up_label_for_md::name
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::kind
+grp:Relational-data-and-databases::kind
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -535,7 +535,7 @@ grp:make_up_label_for_md::kind
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::kind
+grm:Relational-data-and-databases::kind
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -574,7 +574,7 @@ Multiple relations
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::multiple
+sec:Relational-data-and-databases::multiple
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -595,7 +595,7 @@ sec:make_up_label_for_md::multiple
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::course
+grp:Relational-data-and-databases::course
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -619,7 +619,7 @@ grp:make_up_label_for_md::course
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::course
+grm:Relational-data-and-databases::course
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -657,7 +657,7 @@ Of course, a single table isn't particular interesting as a rich data source; we
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::center-text
+grp:Relational-data-and-databases::center-text
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -681,7 +681,7 @@ grp:make_up_label_for_md::center-text
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::center-text
+grm:Relational-data-and-databases::center-text
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -723,7 +723,7 @@ grm:make_up_label_for_md::center-text
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::instructor
+grp:Relational-data-and-databases::instructor
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -747,7 +747,7 @@ grp:make_up_label_for_md::instructor
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::instructor
+grm:Relational-data-and-databases::instructor
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -810,7 +810,7 @@ grm:make_up_label_for_md::instructor
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::using
+grp:Relational-data-and-databases::using
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -834,7 +834,7 @@ grp:make_up_label_for_md::using
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::using
+grm:Relational-data-and-databases::using
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -872,7 +872,7 @@ Using this table, we can replace the "Role" attribute in our Person table with a
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::markdown
+grp:Relational-data-and-databases::markdown
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -896,7 +896,7 @@ grp:make_up_label_for_md::markdown
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::markdown
+grm:Relational-data-and-databases::markdown
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -938,7 +938,7 @@ grm:make_up_label_for_md::markdown
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::role
+grp:Relational-data-and-databases::role
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -962,7 +962,7 @@ grp:make_up_label_for_md::role
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::role
+grm:Relational-data-and-databases::role
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1057,7 +1057,7 @@ Primary and foreign keys
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::primary
+sec:Relational-data-and-databases::primary
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1078,7 +1078,7 @@ sec:make_up_label_for_md::primary
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::haven
+grp:Relational-data-and-databases::haven
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1102,7 +1102,7 @@ grp:make_up_label_for_md::haven
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::haven
+grm:Relational-data-and-databases::haven
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1140,7 +1140,7 @@ Of course, we haven't really gained _that_ much benfit here, since it's still po
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::attribute
+grp:Relational-data-and-databases::attribute
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1164,7 +1164,7 @@ grp:make_up_label_for_md::attribute
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::attribute
+grm:Relational-data-and-databases::attribute
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1202,7 +1202,7 @@ In the above examples, "ID" attribute serves as what is called a _primary key_. 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::foreign
+grp:Relational-data-and-databases::foreign
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1226,7 +1226,7 @@ grp:make_up_label_for_md::foreign
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::foreign
+grm:Relational-data-and-databases::foreign
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1264,7 +1264,7 @@ A _foreign key_ is an attribute that "points" to the primary key of another tabl
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::constraint
+grp:Relational-data-and-databases::constraint
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1288,7 +1288,7 @@ grp:make_up_label_for_md::constraint
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::constraint
+grm:Relational-data-and-databases::constraint
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1329,7 +1329,7 @@ Indexes (not indices)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::indexes
+sec:Relational-data-and-databases::indexes
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1350,7 +1350,7 @@ sec:make_up_label_for_md::indexes
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::element
+grp:Relational-data-and-databases::element
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1374,7 +1374,7 @@ grp:make_up_label_for_md::element
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::element
+grm:Relational-data-and-databases::element
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1412,7 +1412,7 @@ Finally, the last "basic" element we'll consider in a relational database is the
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::person
+grp:Relational-data-and-databases::person
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1436,7 +1436,7 @@ grp:make_up_label_for_md::person
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::person
+grm:Relational-data-and-databases::person
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1478,7 +1478,7 @@ grm:make_up_label_for_md::person
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::location
+grp:Relational-data-and-databases::location
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1502,7 +1502,7 @@ grp:make_up_label_for_md::location
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::location
+grm:Relational-data-and-databases::location
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1601,7 +1601,7 @@ grm:make_up_label_for_md::location
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::think
+grp:Relational-data-and-databases::think
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1625,7 +1625,7 @@ grp:make_up_label_for_md::think
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::think
+grm:Relational-data-and-databases::think
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1663,7 +1663,7 @@ You can think of an index like a table with just the indexed attribute and the l
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::gates
+grp:Relational-data-and-databases::gates
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1687,7 +1687,7 @@ grp:make_up_label_for_md::gates
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::gates
+grm:Relational-data-and-databases::gates
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1765,7 +1765,7 @@ grm:make_up_label_for_md::gates
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::list
+grp:Relational-data-and-databases::list
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1789,7 +1789,7 @@ grp:make_up_label_for_md::list
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::list
+grm:Relational-data-and-databases::list
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1827,7 +1827,7 @@ Because this list is sorted, we can look up any element in $O(\log n)$ time, and
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::final
+grp:Relational-data-and-databases::final
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1851,7 +1851,7 @@ grp:make_up_label_for_md::final
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::final
+grm:Relational-data-and-databases::final
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1894,7 +1894,7 @@ Entity relationships
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::entity
+sec:Relational-data-and-databases::entity
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1915,7 +1915,7 @@ sec:make_up_label_for_md::entity
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::nature
+grp:Relational-data-and-databases::nature
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1939,7 +1939,7 @@ grp:make_up_label_for_md::nature
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::nature
+grm:Relational-data-and-databases::nature
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1981,7 +1981,7 @@ The nature of inter-table relationships via primary and foreign keys actually le
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::cover
+grp:Relational-data-and-databases::cover
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2005,7 +2005,7 @@ grp:make_up_label_for_md::cover
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::cover
+grm:Relational-data-and-databases::cover
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2044,7 +2044,7 @@ One-to-many
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::one-to-many
+sec:Relational-data-and-databases::one-to-many
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2065,7 +2065,7 @@ sec:make_up_label_for_md::one-to-many
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::instead
+grp:Relational-data-and-databases::instead
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2089,7 +2089,7 @@ grp:make_up_label_for_md::instead
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::instead
+grm:Relational-data-and-databases::instead
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2127,7 +2127,7 @@ Instead of beginning with the simpler-seeming one-to-one relation, let's begin w
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::relationship
+grp:Relational-data-and-databases::relationship
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2151,7 +2151,7 @@ grp:make_up_label_for_md::relationship
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::relationship
+grm:Relational-data-and-databases::relationship
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2189,7 +2189,7 @@ grm:make_up_label_for_md::relationship
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::one-to-many
+grp:Relational-data-and-databases::one-to-many
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2213,7 +2213,7 @@ grp:make_up_label_for_md::one-to-many
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::one-to-many
+grm:Relational-data-and-databases::one-to-many
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2254,7 +2254,7 @@ One-to-one (and one-to-zero/one)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::one-to-one
+sec:Relational-data-and-databases::one-to-one
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2275,7 +2275,7 @@ sec:make_up_label_for_md::one-to-one
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::conider
+grp:Relational-data-and-databases::conider
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2299,7 +2299,7 @@ grp:make_up_label_for_md::conider
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::conider
+grm:Relational-data-and-databases::conider
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2337,7 +2337,7 @@ The next relationship we'll conider is that of one-to-one relationships.  As you
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::andrew
+grp:Relational-data-and-databases::andrew
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2361,7 +2361,7 @@ grp:make_up_label_for_md::andrew
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::andrew
+grm:Relational-data-and-databases::andrew
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2403,7 +2403,7 @@ grm:make_up_label_for_md::andrew
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::zkoler
+grp:Relational-data-and-databases::zkoler
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2427,7 +2427,7 @@ grp:make_up_label_for_md::zkoler
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::zkoler
+grm:Relational-data-and-databases::zkoler
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2505,7 +2505,7 @@ grm:make_up_label_for_md::zkoler
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::instance
+grp:Relational-data-and-databases::instance
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2529,7 +2529,7 @@ grp:make_up_label_for_md::instance
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::instance
+grm:Relational-data-and-databases::instance
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2567,7 +2567,7 @@ In this instance, every person has exactly one Andrew ID, and every Andrew ID is
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_2_
+grp:Relational-data-and-databases::_2_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2591,7 +2591,7 @@ grp:make_up_label_for_md::_2_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_1_
+grm:Relational-data-and-databases::_1_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2629,7 +2629,7 @@ grm:make_up_label_for_md::_1_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::despite
+grp:Relational-data-and-databases::despite
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2653,7 +2653,7 @@ grp:make_up_label_for_md::despite
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::despite
+grm:Relational-data-and-databases::despite
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2691,7 +2691,7 @@ Despite its simplicity, this type of relation is actually not used that much in 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::common
+grp:Relational-data-and-databases::common
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2715,7 +2715,7 @@ grp:make_up_label_for_md::common
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::common
+grm:Relational-data-and-databases::common
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2753,7 +2753,7 @@ What is more common in practice is a one-to-zero/one relationship, where one tab
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::grades
+grp:Relational-data-and-databases::grades
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2777,7 +2777,7 @@ grp:make_up_label_for_md::grades
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::grades
+grm:Relational-data-and-databases::grades
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2819,7 +2819,7 @@ grm:make_up_label_for_md::grades
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::grade
+grp:Relational-data-and-databases::grade
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2843,7 +2843,7 @@ grp:make_up_label_for_md::grade
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::grade
+grm:Relational-data-and-databases::grade
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2904,7 +2904,7 @@ grm:make_up_label_for_md::grade
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::every
+grp:Relational-data-and-databases::every
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2928,7 +2928,7 @@ grp:make_up_label_for_md::every
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::every
+grm:Relational-data-and-databases::every
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2966,7 +2966,7 @@ Every entry in the grades table must refer to an entry in the Person table, but 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_4_
+grp:Relational-data-and-databases::_4_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2990,7 +2990,7 @@ grp:make_up_label_for_md::_4_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_3_
+grm:Relational-data-and-databases::_3_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3028,7 +3028,7 @@ grm:make_up_label_for_md::_3_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::decorations
+grp:Relational-data-and-databases::decorations
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3052,7 +3052,7 @@ grp:make_up_label_for_md::decorations
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::decorations
+grm:Relational-data-and-databases::decorations
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3093,7 +3093,7 @@ Many-to-many
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::many-to-many
+sec:Relational-data-and-databases::many-to-many
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3114,7 +3114,7 @@ sec:make_up_label_for_md::many-to-many
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::discussing
+grp:Relational-data-and-databases::discussing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3138,7 +3138,7 @@ grp:make_up_label_for_md::discussing
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::discussing
+grm:Relational-data-and-databases::discussing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3176,7 +3176,7 @@ We'll end by discussing the most involved type of relationship, the many-to-many
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::homework
+grp:Relational-data-and-databases::homework
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3200,7 +3200,7 @@ grp:make_up_label_for_md::homework
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::homework
+grm:Relational-data-and-databases::homework
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3242,7 +3242,7 @@ grm:make_up_label_for_md::homework
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::points
+grp:Relational-data-and-databases::points
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3266,7 +3266,7 @@ grp:make_up_label_for_md::points
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::points
+grm:Relational-data-and-databases::points
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3333,7 +3333,7 @@ grm:make_up_label_for_md::points
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::create
+grp:Relational-data-and-databases::create
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3357,7 +3357,7 @@ grp:make_up_label_for_md::create
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::create
+grm:Relational-data-and-databases::create
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3395,7 +3395,7 @@ Now we'd like to create an additional table that specifies, for each relevant st
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::div
+grp:Relational-data-and-databases::div
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3419,7 +3419,7 @@ grp:make_up_label_for_md::div
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::div
+grm:Relational-data-and-databases::div
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3461,7 +3461,7 @@ grm:make_up_label_for_md::div
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::score
+grp:Relational-data-and-databases::score
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3485,7 +3485,7 @@ grp:make_up_label_for_md::score
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::score
+grm:Relational-data-and-databases::score
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3558,7 +3558,7 @@ grm:make_up_label_for_md::score
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::associative
+grp:Relational-data-and-databases::associative
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3582,7 +3582,7 @@ grp:make_up_label_for_md::associative
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::associative
+grm:Relational-data-and-databases::associative
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3620,7 +3620,7 @@ This associative table is a bit interesting.  Unlike previous tables (that all h
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::conceptual
+grp:Relational-data-and-databases::conceptual
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3644,7 +3644,7 @@ grp:make_up_label_for_md::conceptual
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::conceptual
+grm:Relational-data-and-databases::conceptual
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3682,7 +3682,7 @@ At a conceptual level, though, what this tables allows is a many-to-many relatio
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_6_
+grp:Relational-data-and-databases::_6_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3706,7 +3706,7 @@ grp:make_up_label_for_md::_6_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_5_
+grm:Relational-data-and-databases::_5_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3744,7 +3744,7 @@ grm:make_up_label_for_md::_5_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::perspective
+grp:Relational-data-and-databases::perspective
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3768,7 +3768,7 @@ grp:make_up_label_for_md::perspective
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::perspective
+grm:Relational-data-and-databases::perspective
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3806,7 +3806,7 @@ Note that from a perspective of the tables themselves, it may also seems reasona
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_8_
+grp:Relational-data-and-databases::_8_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3830,7 +3830,7 @@ grp:make_up_label_for_md::_8_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_7_
+grm:Relational-data-and-databases::_7_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3868,7 +3868,7 @@ grm:make_up_label_for_md::_7_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::really
+grp:Relational-data-and-databases::really
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3892,7 +3892,7 @@ grp:make_up_label_for_md::really
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::really
+grm:Relational-data-and-databases::really
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3935,7 +3935,7 @@ Libraries for relational data
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::libraries
+sec:Relational-data-and-databases::libraries
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3956,7 +3956,7 @@ sec:make_up_label_for_md::libraries
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::number
+grp:Relational-data-and-databases::number
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3980,7 +3980,7 @@ grp:make_up_label_for_md::number
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::number
+grm:Relational-data-and-databases::number
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4018,7 +4018,7 @@ There are a number of Python libraries that handle relational data, typically wr
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::though
+grp:Relational-data-and-databases::though
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4042,7 +4042,7 @@ grp:make_up_label_for_md::though
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::though
+grm:Relational-data-and-databases::though
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4081,7 +4081,7 @@ Pandas
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::pandas
+sec:Relational-data-and-databases::pandas
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4102,7 +4102,7 @@ sec:make_up_label_for_md::pandas
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::already
+grp:Relational-data-and-databases::already
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4126,7 +4126,7 @@ grp:make_up_label_for_md::already
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::already
+grm:Relational-data-and-databases::already
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4164,7 +4164,7 @@ We have already briefly seen Panda when we discussed data collection, and it end
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::data
+grp:Relational-data-and-databases::data
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4188,7 +4188,7 @@ grp:make_up_label_for_md::data
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::data
+grm:Relational-data-and-databases::data
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4226,7 +4226,7 @@ Let's see how to first create a data frame in Pandas that mirrors our Person tab
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::python
+grp:Relational-data-and-databases::python
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4250,7 +4250,7 @@ grp:make_up_label_for_md::python
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::python
+grm:Relational-data-and-databases::python
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4308,7 +4308,7 @@ df
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::small
+grp:Relational-data-and-databases::small
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4332,7 +4332,7 @@ grp:make_up_label_for_md::small
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::small
+grm:Relational-data-and-databases::small
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4555,7 +4555,7 @@ The first column in the displayed data frame is the "index" of each row.  Unfort
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::index
+grp:Relational-data-and-databases::index
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4579,7 +4579,7 @@ grp:make_up_label_for_md::index
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::index
+grm:Relational-data-and-databases::index
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4619,7 +4619,7 @@ df.set_index("id")
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::style
+grp:Relational-data-and-databases::style
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4643,7 +4643,7 @@ grp:make_up_label_for_md::style
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::style
+grm:Relational-data-and-databases::style
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4852,7 +4852,7 @@ But you need to be very careful about one thing here.  By default, most Pandas o
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::df
+grp:Relational-data-and-databases::df
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4876,7 +4876,7 @@ grp:make_up_label_for_md::df
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::df
+grm:Relational-data-and-databases::df
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4916,7 +4916,7 @@ df
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::dataframe
+grp:Relational-data-and-databases::dataframe
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4940,7 +4940,7 @@ grp:make_up_label_for_md::dataframe
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::dataframe
+grm:Relational-data-and-databases::dataframe
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5163,7 +5163,7 @@ If we want to actually change the `df` object itself, you need to use the `inpla
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::inplace
+grp:Relational-data-and-databases::inplace
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5187,7 +5187,7 @@ grp:make_up_label_for_md::inplace
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::inplace
+grm:Relational-data-and-databases::inplace
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5229,7 +5229,7 @@ df
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::thead
+grp:Relational-data-and-databases::thead
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5253,7 +5253,7 @@ grp:make_up_label_for_md::thead
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::thead
+grm:Relational-data-and-databases::thead
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5462,7 +5462,7 @@ There are also some peculiarities that you'll get used to with Pandas, such as t
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::detail
+grp:Relational-data-and-databases::detail
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5486,7 +5486,7 @@ grp:make_up_label_for_md::detail
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::detail
+grm:Relational-data-and-databases::detail
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5527,7 +5527,7 @@ Common Pandas data access
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::common
+sec:Relational-data-and-databases::common
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5548,7 +5548,7 @@ sec:make_up_label_for_md::common
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::consider
+grp:Relational-data-and-databases::consider
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5572,7 +5572,7 @@ grp:make_up_label_for_md::consider
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::consider
+grm:Relational-data-and-databases::consider
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5610,7 +5610,7 @@ Let's consider a few of the common ways to access or set data in a Pandas DataFr
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::loc
+grp:Relational-data-and-databases::loc
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5634,7 +5634,7 @@ grp:make_up_label_for_md::loc
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::loc
+grm:Relational-data-and-databases::loc
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5674,7 +5674,7 @@ df.loc[1, "last_name"]
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::kolter
+grp:Relational-data-and-databases::kolter
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5698,7 +5698,7 @@ grp:make_up_label_for_md::kolter
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::kolter
+grm:Relational-data-and-databases::kolter
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5738,7 +5738,7 @@ grm:make_up_label_for_md::kolter
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::want
+grp:Relational-data-and-databases::want
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5762,7 +5762,7 @@ grp:make_up_label_for_md::want
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::want
+grm:Relational-data-and-databases::want
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5800,7 +5800,7 @@ If we want to access _all_ last names, (or all elements in a particular row), we
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_10_
+grp:Relational-data-and-databases::_10_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5824,7 +5824,7 @@ grp:make_up_label_for_md::_10_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_9_
+grm:Relational-data-and-databases::_9_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5864,7 +5864,7 @@ df.loc[:, "last_name"]
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::mani
+grp:Relational-data-and-databases::mani
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5888,7 +5888,7 @@ grp:make_up_label_for_md::mani
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::mani
+grm:Relational-data-and-databases::mani
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5942,7 +5942,7 @@ Name: last_name, dtype: object
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::notice
+grp:Relational-data-and-databases::notice
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5966,7 +5966,7 @@ grp:make_up_label_for_md::notice
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::notice
+grm:Relational-data-and-databases::notice
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6004,7 +6004,7 @@ Notice the output here looks a bit different than the nicely-formed typical Pand
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_12_
+grp:Relational-data-and-databases::_12_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6028,7 +6028,7 @@ grp:make_up_label_for_md::_12_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_11_
+grm:Relational-data-and-databases::_11_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6068,7 +6068,7 @@ df.loc[:, ["last_name"]]
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::only-child
+grp:Relational-data-and-databases::only-child
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6092,7 +6092,7 @@ grp:make_up_label_for_md::only-child
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::only-child
+grm:Relational-data-and-databases::only-child
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6270,7 +6270,7 @@ which now gives us the desired 1D data frame.  We can do a similar thing with ro
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_14_
+grp:Relational-data-and-databases::_14_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6294,7 +6294,7 @@ grp:make_up_label_for_md::_14_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_13_
+grm:Relational-data-and-databases::_13_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6334,7 +6334,7 @@ df.loc[[1,2],:]
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::text-align
+grp:Relational-data-and-databases::text-align
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6358,7 +6358,7 @@ grp:make_up_label_for_md::text-align
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::text-align
+grm:Relational-data-and-databases::text-align
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6503,7 +6503,7 @@ which will select only a subject of the allowable rows.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::additionally
+grp:Relational-data-and-databases::additionally
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6527,7 +6527,7 @@ grp:make_up_label_for_md::additionally
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::additionally
+grm:Relational-data-and-databases::additionally
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6565,7 +6565,7 @@ We can additionally use `.loc` to change the content of existing entries:
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::kilter
+grp:Relational-data-and-databases::kilter
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6589,7 +6589,7 @@ grp:make_up_label_for_md::kilter
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::kilter
+grm:Relational-data-and-databases::kilter
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6631,7 +6631,7 @@ df
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::tbody
+grp:Relational-data-and-databases::tbody
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6655,7 +6655,7 @@ grp:make_up_label_for_md::tbody
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::tbody
+grm:Relational-data-and-databases::tbody
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6864,7 +6864,7 @@ We can even add additional rows/columns that don't exist.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::moore
+grp:Relational-data-and-databases::moore
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6888,7 +6888,7 @@ grp:make_up_label_for_md::moore
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::moore
+grm:Relational-data-and-databases::moore
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6930,7 +6930,7 @@ df
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::vertical-align
+grp:Relational-data-and-databases::vertical-align
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6954,7 +6954,7 @@ grp:make_up_label_for_md::vertical-align
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::vertical-align
+grm:Relational-data-and-databases::vertical-align
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7179,7 +7179,7 @@ Finally, remember that `.loc` always indexes based upon the "index" (i.e., effec
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::iloc
+grp:Relational-data-and-databases::iloc
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7203,7 +7203,7 @@ grp:make_up_label_for_md::iloc
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::iloc
+grm:Relational-data-and-databases::iloc
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7243,7 +7243,7 @@ df.iloc[4,1]
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::bill
+grp:Relational-data-and-databases::bill
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7267,7 +7267,7 @@ grp:make_up_label_for_md::bill
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::bill
+grm:Relational-data-and-databases::bill
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7310,7 +7310,7 @@ SQLite
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::sqlite
+sec:Relational-data-and-databases::sqlite
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7331,7 +7331,7 @@ sec:make_up_label_for_md::sqlite
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::unlike
+grp:Relational-data-and-databases::unlike
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7355,7 +7355,7 @@ grp:make_up_label_for_md::unlike
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::unlike
+grm:Relational-data-and-databases::unlike
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7393,7 +7393,7 @@ Unlike Pandas, SQLite actually is a full-featured database, but unlike most prod
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::sqlite
+grp:Relational-data-and-databases::sqlite
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7417,7 +7417,7 @@ grp:make_up_label_for_md::sqlite
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::sqlite
+grm:Relational-data-and-databases::sqlite
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7455,7 +7455,7 @@ SQLite, as the name suggests, uses the SQL (structured query language) language 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::interacting
+grp:Relational-data-and-databases::interacting
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7479,7 +7479,7 @@ grp:make_up_label_for_md::interacting
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::interacting
+grm:Relational-data-and-databases::interacting
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7517,7 +7517,7 @@ Interacting with SQLite (or any other SQL-based database) from Python is not ide
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::look
+grp:Relational-data-and-databases::look
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7541,7 +7541,7 @@ grp:make_up_label_for_md::look
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::look
+grm:Relational-data-and-databases::look
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7579,7 +7579,7 @@ Let's look at how to create a simple database with the "Person" and "Grades" tab
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::import
+grp:Relational-data-and-databases::import
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7603,7 +7603,7 @@ grp:make_up_label_for_md::import
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::import
+grm:Relational-data-and-databases::import
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7651,7 +7651,7 @@ cursor = conn.cursor()
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::imports
+grp:Relational-data-and-databases::imports
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7675,7 +7675,7 @@ grp:make_up_label_for_md::imports
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::imports
+grm:Relational-data-and-databases::imports
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7713,7 +7713,7 @@ This code imports the library, creates a connection to the "database.db" file (i
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::cursor
+grp:Relational-data-and-databases::cursor
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7737,7 +7737,7 @@ grp:make_up_label_for_md::cursor
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::cursor
+grm:Relational-data-and-databases::cursor
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7805,7 +7805,7 @@ conn.commit()
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::insert
+grp:Relational-data-and-databases::insert
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7829,7 +7829,7 @@ grp:make_up_label_for_md::insert
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::insert
+grm:Relational-data-and-databases::insert
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7867,7 +7867,7 @@ Let's insert some data into these tables.  The syntax for this operation, hopefu
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::execute
+grp:Relational-data-and-databases::execute
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7891,7 +7891,7 @@ grp:make_up_label_for_md::execute
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::execute
+grm:Relational-data-and-databases::execute
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7949,7 +7949,7 @@ cursor.execute("INSERT INTO grades VALUES (100, 100, 100);")
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::sqlite3
+grp:Relational-data-and-databases::sqlite3
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7973,7 +7973,7 @@ grp:make_up_label_for_md::sqlite3
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::sqlite3
+grm:Relational-data-and-databases::sqlite3
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8013,7 +8013,7 @@ grm:make_up_label_for_md::sqlite3
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::additional
+grp:Relational-data-and-databases::additional
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8037,7 +8037,7 @@ grp:make_up_label_for_md::additional
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::additional
+grm:Relational-data-and-databases::additional
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8075,7 +8075,7 @@ grm:make_up_label_for_md::additional
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::select
+grp:Relational-data-and-databases::select
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8099,7 +8099,7 @@ grp:make_up_label_for_md::select
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::select
+grm:Relational-data-and-databases::select
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8141,7 +8141,7 @@ for row in cursor.execute("SELECT * FROM person;"):
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::zico
+grp:Relational-data-and-databases::zico
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8165,7 +8165,7 @@ grp:make_up_label_for_md::zico
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::zico
+grm:Relational-data-and-databases::zico
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8215,7 +8215,7 @@ grm:make_up_label_for_md::zico
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::alternatively
+grp:Relational-data-and-databases::alternatively
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8239,7 +8239,7 @@ grp:make_up_label_for_md::alternatively
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::alternatively
+grm:Relational-data-and-databases::alternatively
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8277,7 +8277,7 @@ Alternatively, it can be handy to dump the results of a query directly into a Pa
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::read
+grp:Relational-data-and-databases::read
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8301,7 +8301,7 @@ grp:make_up_label_for_md::read
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::read
+grm:Relational-data-and-databases::read
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8341,7 +8341,7 @@ pd.read_sql_query("SELECT * from person;", conn, index_col="id")
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::table
+grp:Relational-data-and-databases::table
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8365,7 +8365,7 @@ grp:make_up_label_for_md::table
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::table
+grm:Relational-data-and-databases::table
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8574,7 +8574,7 @@ The `SELECT` statement is probably the SQL command you'll use most in data scien
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::columns
+grp:Relational-data-and-databases::columns
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8598,7 +8598,7 @@ grp:make_up_label_for_md::columns
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::columns
+grm:Relational-data-and-databases::columns
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8636,7 +8636,7 @@ grm:make_up_label_for_md::columns
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::query
+grp:Relational-data-and-databases::query
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8660,7 +8660,7 @@ grp:make_up_label_for_md::query
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::query
+grm:Relational-data-and-databases::query
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8700,7 +8700,7 @@ pd.read_sql_query("SELECT id,last_name FROM person WHERE id > 2;", conn, index_c
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::border
+grp:Relational-data-and-databases::border
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8724,7 +8724,7 @@ grp:make_up_label_for_md::border
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::border
+grm:Relational-data-and-databases::border
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8878,7 +8878,7 @@ Musk
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::delete
+grp:Relational-data-and-databases::delete
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8902,7 +8902,7 @@ grp:make_up_label_for_md::delete
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::delete
+grm:Relational-data-and-databases::delete
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8940,7 +8940,7 @@ Lastly, we can also delete values from tables using the `DELETE FROM` SQL comman
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::values
+grp:Relational-data-and-databases::values
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8964,7 +8964,7 @@ grp:make_up_label_for_md::values
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::values
+grm:Relational-data-and-databases::values
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9006,7 +9006,7 @@ pd.read_sql_query("SELECT * from person;", conn, index_col="id")
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::edgar
+grp:Relational-data-and-databases::edgar
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9030,7 +9030,7 @@ grp:make_up_label_for_md::edgar
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::edgar
+grm:Relational-data-and-databases::edgar
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9253,7 +9253,7 @@ Andrew
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::conn
+grp:Relational-data-and-databases::conn
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9277,7 +9277,7 @@ grp:make_up_label_for_md::conn
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::conn
+grm:Relational-data-and-databases::conn
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9319,7 +9319,7 @@ pd.read_sql_query("SELECT * from person;", conn, index_col="id")
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::mark
+grp:Relational-data-and-databases::mark
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9343,7 +9343,7 @@ grp:make_up_label_for_md::mark
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::mark
+grm:Relational-data-and-databases::mark
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9555,7 +9555,7 @@ Joins
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::topic
+sec:Relational-data-and-databases::topic
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9576,7 +9576,7 @@ sec:make_up_label_for_md::topic
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::topic
+grp:Relational-data-and-databases::topic
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9600,7 +9600,7 @@ grp:make_up_label_for_md::topic
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::topic
+grm:Relational-data-and-databases::topic
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9638,7 +9638,7 @@ The last topic we'll consider here are joins between tables.  Briefly, join oper
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::inner
+grp:Relational-data-and-databases::inner
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9662,7 +9662,7 @@ grp:make_up_label_for_md::inner
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::inner
+grm:Relational-data-and-databases::inner
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9708,7 +9708,7 @@ grm:make_up_label_for_md::inner
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::join
+grp:Relational-data-and-databases::join
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9732,7 +9732,7 @@ grp:make_up_label_for_md::join
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::join
+grm:Relational-data-and-databases::join
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9771,7 +9771,7 @@ Inner joins
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::inner
+sec:Relational-data-and-databases::inner
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9792,7 +9792,7 @@ sec:make_up_label_for_md::inner
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::know
+grp:Relational-data-and-databases::know
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9816,7 +9816,7 @@ grp:make_up_label_for_md::know
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::know
+grm:Relational-data-and-databases::know
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9854,7 +9854,7 @@ If you don't know what type of join you want, you probably want an inner join.  
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::musk
+grp:Relational-data-and-databases::musk
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9878,7 +9878,7 @@ grp:make_up_label_for_md::musk
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::musk
+grm:Relational-data-and-databases::musk
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9945,7 +9945,7 @@ grm:make_up_label_for_md::musk
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::done
+grp:Relational-data-and-databases::done
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9969,7 +9969,7 @@ grp:make_up_label_for_md::done
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::done
+grm:Relational-data-and-databases::done
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10007,7 +10007,7 @@ Let's see how this can be done programatically, first in Pandas and then in SQL.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::merge
+grp:Relational-data-and-databases::merge
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10031,7 +10031,7 @@ grp:make_up_label_for_md::merge
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::merge
+grm:Relational-data-and-databases::merge
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10075,7 +10075,7 @@ df_person.merge(df_grades, how="inner", left_on = "id", right_on="person_id")
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::elon
+grp:Relational-data-and-databases::elon
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10099,7 +10099,7 @@ grp:make_up_label_for_md::elon
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::elon
+grm:Relational-data-and-databases::elon
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10278,7 +10278,7 @@ Hopefully the syntax of `.merge()` looks straightforward: you call the method on
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::true
+grp:Relational-data-and-databases::true
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10302,7 +10302,7 @@ grp:make_up_label_for_md::true
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::true
+grm:Relational-data-and-databases::true
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10344,7 +10344,7 @@ df_grades.set_index("person_id", inplace=True)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_16_
+grp:Relational-data-and-databases::_16_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10368,7 +10368,7 @@ grp:make_up_label_for_md::_16_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_15_
+grm:Relational-data-and-databases::_15_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10408,7 +10408,7 @@ df_person.merge(df_grades, how="inner", left_index=True, right_index=True)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::call
+grp:Relational-data-and-databases::call
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10432,7 +10432,7 @@ grp:make_up_label_for_md::call
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::call
+grm:Relational-data-and-databases::call
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10587,7 +10587,7 @@ This call is maybe a bit cleaner, as it doesn't include the (duplicate) columns 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::specified
+grp:Relational-data-and-databases::specified
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10611,7 +10611,7 @@ grp:make_up_label_for_md::specified
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::specified
+grm:Relational-data-and-databases::specified
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10649,7 +10649,7 @@ In SQL, an inner join is specified by the `WHERE` clause in a `SELECT` statement
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::pd
+grp:Relational-data-and-databases::pd
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10673,7 +10673,7 @@ grp:make_up_label_for_md::pd
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::pd
+grm:Relational-data-and-databases::pd
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10713,7 +10713,7 @@ pd.read_sql_query("SELECT * FROM person, grades WHERE person.id = grades.person_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::exactly
+grp:Relational-data-and-databases::exactly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10737,7 +10737,7 @@ grp:make_up_label_for_md::exactly
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::exactly
+grm:Relational-data-and-databases::exactly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10919,7 +10919,7 @@ Left joins
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::joins
+sec:Relational-data-and-databases::joins
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10940,7 +10940,7 @@ sec:make_up_label_for_md::joins
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::whereas
+grp:Relational-data-and-databases::whereas
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10964,7 +10964,7 @@ grp:make_up_label_for_md::whereas
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::whereas
+grm:Relational-data-and-databases::whereas
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11002,7 +11002,7 @@ Whereas an inner join only kept those rows with corresponding entires in both ta
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::rest
+grp:Relational-data-and-databases::rest
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11026,7 +11026,7 @@ grp:make_up_label_for_md::rest
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::rest
+grm:Relational-data-and-databases::rest
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11064,7 +11064,7 @@ For the rest of this section, we'll simply write the Pandas code to perform the 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::sql
+grp:Relational-data-and-databases::sql
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11088,7 +11088,7 @@ grp:make_up_label_for_md::sql
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::sql
+grm:Relational-data-and-databases::sql
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11132,7 +11132,7 @@ df_person.merge(df_grades, how="left", left_on = "id", right_on="person_id")
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::shouvik
+grp:Relational-data-and-databases::shouvik
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11156,7 +11156,7 @@ grp:make_up_label_for_md::shouvik
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::shouvik
+grm:Relational-data-and-databases::shouvik
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11463,7 +11463,7 @@ Note for the two students, we properly fill in the grades, but for everyone else
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::statement
+grp:Relational-data-and-databases::statement
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11487,7 +11487,7 @@ grp:make_up_label_for_md::statement
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::statement
+grm:Relational-data-and-databases::statement
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11525,7 +11525,7 @@ SQL syntax for left join use the `LEFT JOIN` statement, as follows:
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::id
+grp:Relational-data-and-databases::id
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11549,7 +11549,7 @@ grp:make_up_label_for_md::id
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::id
+grm:Relational-data-and-databases::id
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11589,7 +11589,7 @@ pd.read_sql_query("SELECT * FROM person LEFT JOIN grades ON person.id = grades.p
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::tr
+grp:Relational-data-and-databases::tr
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11613,7 +11613,7 @@ grp:make_up_label_for_md::tr
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::tr
+grm:Relational-data-and-databases::tr
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11921,7 +11921,7 @@ Right joins
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::join
+sec:Relational-data-and-databases::join
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11942,7 +11942,7 @@ sec:make_up_label_for_md::join
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::might
+grp:Relational-data-and-databases::might
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11966,7 +11966,7 @@ grp:make_up_label_for_md::might
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::might
+grm:Relational-data-and-databases::might
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12004,7 +12004,7 @@ A right join does what you might expect, the converse of the left join, where al
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_18_
+grp:Relational-data-and-databases::_18_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12028,7 +12028,7 @@ grp:make_up_label_for_md::_18_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_17_
+grm:Relational-data-and-databases::_17_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12068,7 +12068,7 @@ df_person.merge(df_grades, how="right", left_on = "id", right_on="person_id")
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::th
+grp:Relational-data-and-databases::th
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12092,7 +12092,7 @@ grp:make_up_label_for_md::th
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::th
+grm:Relational-data-and-databases::th
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12304,7 +12304,7 @@ Outer joins
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::outer
+sec:Relational-data-and-databases::outer
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12325,7 +12325,7 @@ sec:make_up_label_for_md::outer
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::outer
+grp:Relational-data-and-databases::outer
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12349,7 +12349,7 @@ grp:make_up_label_for_md::outer
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::outer
+grm:Relational-data-and-databases::outer
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12387,7 +12387,7 @@ Finally, outer joins (also called a cross product) do what you may expect, and k
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_20_
+grp:Relational-data-and-databases::_20_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12411,7 +12411,7 @@ grp:make_up_label_for_md::_20_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_19_
+grm:Relational-data-and-databases::_19_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12451,7 +12451,7 @@ df_person.merge(df_grades, how="outer", left_on = "id", right_on="person_id")
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::probably
+grp:Relational-data-and-databases::probably
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12475,7 +12475,7 @@ grp:make_up_label_for_md::probably
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::probably
+grm:Relational-data-and-databases::probably
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12819,7 +12819,7 @@ References
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::references
+sec:Relational-data-and-databases::references
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12840,7 +12840,7 @@ sec:make_up_label_for_md::references
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::pandas
+grp:Relational-data-and-databases::pandas
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12864,7 +12864,7 @@ grp:make_up_label_for_md::pandas
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::pandas
+grm:Relational-data-and-databases::pandas
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...

@@ -14,7 +14,7 @@ Graph and network processing
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-chapter:make_up_label_for_md::graph
+chapter:Graph-and-network-processing::graph
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -35,7 +35,7 @@ chapter:make_up_label_for_md::graph
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::download
+grp:Graph-and-network-processing::download
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -59,7 +59,7 @@ grp:make_up_label_for_md::download
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::download
+grm:Graph-and-network-processing::download
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -98,7 +98,7 @@ Introduction
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::introduction
+sec:Graph-and-network-processing::introduction
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -119,7 +119,7 @@ sec:make_up_label_for_md::introduction
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::great
+grp:Graph-and-network-processing::great
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -143,7 +143,7 @@ grp:make_up_label_for_md::great
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::great
+grm:Graph-and-network-processing::great
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -181,7 +181,7 @@ A great deal of data that you will encounter as a data scientist fundamentally i
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::start
+grp:Graph-and-network-processing::start
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -205,7 +205,7 @@ grp:make_up_label_for_md::start
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::start
+grm:Graph-and-network-processing::start
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -243,7 +243,7 @@ Before we start, it is worth specifying the difference in our terminology betwee
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::part
+grp:Graph-and-network-processing::part
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -267,7 +267,7 @@ grp:make_up_label_for_md::part
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::part
+grm:Graph-and-network-processing::part
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -308,7 +308,7 @@ Graph models
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::graph
+sec:Graph-and-network-processing::graph
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -329,7 +329,7 @@ sec:make_up_label_for_md::graph
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::graphs
+grp:Graph-and-network-processing::graphs
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -353,7 +353,7 @@ grp:make_up_label_for_md::graphs
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::graphs
+grm:Graph-and-network-processing::graphs
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -391,7 +391,7 @@ Graphs as mathematical objects are _collections of vertices (also called nodes) 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::object
+grp:Graph-and-network-processing::object
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -415,7 +415,7 @@ grp:make_up_label_for_md::object
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::object
+grm:Graph-and-network-processing::object
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -453,7 +453,7 @@ grm:make_up_label_for_md::object
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::nodes
+grp:Graph-and-network-processing::nodes
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -477,7 +477,7 @@ grp:make_up_label_for_md::nodes
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::nodes
+grm:Graph-and-network-processing::nodes
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -515,7 +515,7 @@ In this example, the nodes and edges are given by
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_2_
+grp:Graph-and-network-processing::_2_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -539,7 +539,7 @@ grp:make_up_label_for_md::_2_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_1_
+grm:Graph-and-network-processing::_1_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -587,7 +587,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::labeled
+grp:Graph-and-network-processing::labeled
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -611,7 +611,7 @@ grp:make_up_label_for_md::labeled
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::labeled
+grm:Graph-and-network-processing::labeled
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -650,7 +650,7 @@ Directed vs. undirected graphs
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::directed
+sec:Graph-and-network-processing::directed
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -671,7 +671,7 @@ sec:make_up_label_for_md::directed
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::either
+grp:Graph-and-network-processing::either
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -695,7 +695,7 @@ grp:make_up_label_for_md::either
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::either
+grm:Graph-and-network-processing::either
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -733,7 +733,7 @@ Graphs can be either _directed_ (the order of the edges matters, and indications
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::graph
+grp:Graph-and-network-processing::graph
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -757,7 +757,7 @@ grp:make_up_label_for_md::graph
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::graph
+grm:Graph-and-network-processing::graph
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -795,7 +795,7 @@ grm:make_up_label_for_md::graph
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_4_
+grp:Graph-and-network-processing::_4_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -819,7 +819,7 @@ grp:make_up_label_for_md::_4_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_3_
+grm:Graph-and-network-processing::_3_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -857,7 +857,7 @@ grm:make_up_label_for_md::_3_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::type
+grp:Graph-and-network-processing::type
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -881,7 +881,7 @@ grp:make_up_label_for_md::type
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::type
+grm:Graph-and-network-processing::type
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -919,7 +919,7 @@ The type of graph that is most appropriate for a given network of course depend 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::undirected
+grp:Graph-and-network-processing::undirected
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -943,7 +943,7 @@ grp:make_up_label_for_md::undirected
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::undirected
+grm:Graph-and-network-processing::undirected
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -981,7 +981,7 @@ An example of an _undirected_ graph would be a graph over authors and co-author 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::although
+grp:Graph-and-network-processing::although
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1005,7 +1005,7 @@ grp:make_up_label_for_md::although
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::although
+grm:Graph-and-network-processing::although
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1046,7 +1046,7 @@ Weighted vs. unweigthed graphs
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::weighted
+sec:Graph-and-network-processing::weighted
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1067,7 +1067,7 @@ sec:make_up_label_for_md::weighted
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::weighted
+grp:Graph-and-network-processing::weighted
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1091,7 +1091,7 @@ grp:make_up_label_for_md::weighted
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::weighted
+grm:Graph-and-network-processing::weighted
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1129,7 +1129,7 @@ Graphs can either be _weighted_ (edges between nodes have some real-valued weigh
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_6_
+grp:Graph-and-network-processing::_6_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1153,7 +1153,7 @@ grp:make_up_label_for_md::_6_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_5_
+grm:Graph-and-network-processing::_5_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1191,7 +1191,7 @@ grm:make_up_label_for_md::_5_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::encoded
+grp:Graph-and-network-processing::encoded
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1215,7 +1215,7 @@ grp:make_up_label_for_md::encoded
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::encoded
+grm:Graph-and-network-processing::encoded
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1253,7 +1253,7 @@ A graph that encoded distance between cities (say for the task of shortest-path 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::cases
+grp:Graph-and-network-processing::cases
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1277,7 +1277,7 @@ grp:make_up_label_for_md::cases
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::cases
+grm:Graph-and-network-processing::cases
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1315,7 +1315,7 @@ Note that there will be cases where the "right" reperesentation of the graph dep
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::point
+grp:Graph-and-network-processing::point
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1339,7 +1339,7 @@ grp:make_up_label_for_md::point
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::point
+grm:Graph-and-network-processing::point
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1380,7 +1380,7 @@ Some example graphs
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::graphs
+sec:Graph-and-network-processing::graphs
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1401,7 +1401,7 @@ sec:make_up_label_for_md::graphs
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::largely
+grp:Graph-and-network-processing::largely
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1425,7 +1425,7 @@ grp:make_up_label_for_md::largely
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::largely
+grm:Graph-and-network-processing::largely
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1463,7 +1463,7 @@ Although we will largely deal with "small" graphs here to emphasize the algorith
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::https
+grp:Graph-and-network-processing::https
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1487,7 +1487,7 @@ grp:make_up_label_for_md::https
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::https
+grm:Graph-and-network-processing::https
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1525,7 +1525,7 @@ grm:make_up_label_for_md::https
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::edges
+grp:Graph-and-network-processing::edges
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1549,7 +1549,7 @@ grp:make_up_label_for_md::edges
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::edges
+grm:Graph-and-network-processing::edges
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1587,7 +1587,7 @@ Edges in this graph corresponds to roads in Pennsylvania, and color corresponds 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::easy
+grp:Graph-and-network-processing::easy
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1611,7 +1611,7 @@ grp:make_up_label_for_md::easy
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::easy
+grm:Graph-and-network-processing::easy
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1649,7 +1649,7 @@ The above graph is "easy" to visualize because it is actually a representation o
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::sparse
+grp:Graph-and-network-processing::sparse
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1673,7 +1673,7 @@ grp:make_up_label_for_md::sparse
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::sparse
+grm:Graph-and-network-processing::sparse
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1711,7 +1711,7 @@ grm:make_up_label_for_md::sparse
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::despite
+grp:Graph-and-network-processing::despite
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1735,7 +1735,7 @@ grp:make_up_label_for_md::despite
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::despite
+grm:Graph-and-network-processing::despite
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1778,7 +1778,7 @@ Graph representations
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::representations
+sec:Graph-and-network-processing::representations
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1799,7 +1799,7 @@ sec:make_up_label_for_md::representations
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::defined
+grp:Graph-and-network-processing::defined
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1823,7 +1823,7 @@ grp:make_up_label_for_md::defined
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::defined
+grm:Graph-and-network-processing::defined
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1861,7 +1861,7 @@ Now that we have defined the very basic properties of graphs from a mathematical
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::representations
+grp:Graph-and-network-processing::representations
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1885,7 +1885,7 @@ grp:make_up_label_for_md::representations
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::representations
+grm:Graph-and-network-processing::representations
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1923,7 +1923,7 @@ grm:make_up_label_for_md::representations
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::would
+grp:Graph-and-network-processing::would
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1947,7 +1947,7 @@ grp:make_up_label_for_md::would
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::would
+grm:Graph-and-network-processing::would
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1985,7 +1985,7 @@ It would be possible, of course, to just represent the graph like we did mathema
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::python
+grp:Graph-and-network-processing::python
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2009,7 +2009,7 @@ grp:make_up_label_for_md::python
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::python
+grm:Graph-and-network-processing::python
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2051,7 +2051,7 @@ edges = {("A","B"), ("B","C"), ("C","A"), ("C","D")}
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::pre
+grp:Graph-and-network-processing::pre
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2075,7 +2075,7 @@ grp:make_up_label_for_md::pre
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::pre
+grm:Graph-and-network-processing::pre
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2117,7 +2117,7 @@ grm:make_up_label_for_md::pre
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::objects
+grp:Graph-and-network-processing::objects
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2141,7 +2141,7 @@ grp:make_up_label_for_md::objects
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::objects
+grm:Graph-and-network-processing::objects
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2179,7 +2179,7 @@ These are Python `set` objects, which are like a dictionary except that they jus
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::adjacency
+grp:Graph-and-network-processing::adjacency
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2203,7 +2203,7 @@ grp:make_up_label_for_md::adjacency
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::adjacency
+grm:Graph-and-network-processing::adjacency
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2248,7 +2248,7 @@ Adjacency list
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::adjacency
+sec:Graph-and-network-processing::adjacency
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2269,7 +2269,7 @@ sec:make_up_label_for_md::adjacency
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::simplest
+grp:Graph-and-network-processing::simplest
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2293,7 +2293,7 @@ grp:make_up_label_for_md::simplest
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::simplest
+grm:Graph-and-network-processing::simplest
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2331,7 +2331,7 @@ One of the simplest way to represent directed graphs is as a two-level list, whe
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::print
+grp:Graph-and-network-processing::print
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2355,7 +2355,7 @@ grp:make_up_label_for_md::print
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::print
+grm:Graph-and-network-processing::print
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2397,7 +2397,7 @@ print(nodes)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_8_
+grp:Graph-and-network-processing::_8_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2421,7 +2421,7 @@ grp:make_up_label_for_md::_8_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_7_
+grm:Graph-and-network-processing::_7_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2463,7 +2463,7 @@ grm:make_up_label_for_md::_7_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::want
+grp:Graph-and-network-processing::want
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2487,7 +2487,7 @@ grp:make_up_label_for_md::want
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::want
+grm:Graph-and-network-processing::want
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2525,7 +2525,7 @@ Note that if we want a fast way of looking up nodes, we can create a dictionary 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::dict
+grp:Graph-and-network-processing::dict
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2549,7 +2549,7 @@ grp:make_up_label_for_md::dict
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::dict
+grm:Graph-and-network-processing::dict
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2593,7 +2593,7 @@ print(nodes_dict)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_10_
+grp:Graph-and-network-processing::_10_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2617,7 +2617,7 @@ grp:make_up_label_for_md::_10_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_9_
+grm:Graph-and-network-processing::_9_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2659,7 +2659,7 @@ grm:make_up_label_for_md::_9_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::could
+grp:Graph-and-network-processing::could
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2683,7 +2683,7 @@ grp:make_up_label_for_md::could
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::could
+grm:Graph-and-network-processing::could
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2721,7 +2721,7 @@ We could accomplish the same thing just by using dictionaries directly, but sinc
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::concretely
+grp:Graph-and-network-processing::concretely
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2745,7 +2745,7 @@ grp:make_up_label_for_md::concretely
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::concretely
+grm:Graph-and-network-processing::concretely
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2783,7 +2783,7 @@ More concretely now, the adjacency list format is a list of size $\mid V \mid$ (
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::list
+grp:Graph-and-network-processing::list
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2807,7 +2807,7 @@ grp:make_up_label_for_md::list
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::list
+grm:Graph-and-network-processing::list
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2847,7 +2847,7 @@ adj_list = [[1], [2], [0,3], []]
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::representation
+grp:Graph-and-network-processing::representation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2871,7 +2871,7 @@ grp:make_up_label_for_md::representation
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::representation
+grm:Graph-and-network-processing::representation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2909,7 +2909,7 @@ For example, this representation encodes the following facts:
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::means
+grp:Graph-and-network-processing::means
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2933,7 +2933,7 @@ grp:make_up_label_for_md::means
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::means
+grm:Graph-and-network-processing::means
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2979,7 +2979,7 @@ grm:make_up_label_for_md::means
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::total
+grp:Graph-and-network-processing::total
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3003,7 +3003,7 @@ grp:make_up_label_for_md::total
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::total
+grm:Graph-and-network-processing::total
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3041,7 +3041,7 @@ In total, this describes the entire graph.  If we want to represent a weighted g
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::format
+grp:Graph-and-network-processing::format
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3065,7 +3065,7 @@ grp:make_up_label_for_md::format
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::format
+grm:Graph-and-network-processing::format
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3103,7 +3103,7 @@ The adjacency list format is nice in that it allows us to quickly determine all 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::nice
+grp:Graph-and-network-processing::nice
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3127,7 +3127,7 @@ grp:make_up_label_for_md::nice
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::nice
+grm:Graph-and-network-processing::nice
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3165,7 +3165,7 @@ Another nice thing about the adjacency list representation, at least as it would
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::obvious
+grp:Graph-and-network-processing::obvious
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3189,7 +3189,7 @@ grp:make_up_label_for_md::obvious
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::obvious
+grm:Graph-and-network-processing::obvious
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3230,7 +3230,7 @@ Adjacency dictionary
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::dictionary
+sec:Graph-and-network-processing::dictionary
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3251,7 +3251,7 @@ sec:make_up_label_for_md::dictionary
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::order
+grp:Graph-and-network-processing::order
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3275,7 +3275,7 @@ grp:make_up_label_for_md::order
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::order
+grm:Graph-and-network-processing::order
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3313,7 +3313,7 @@ In order to make have constant time operations for both checking edge presence _
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::adj
+grp:Graph-and-network-processing::adj
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3337,7 +3337,7 @@ grp:make_up_label_for_md::adj
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::adj
+grm:Graph-and-network-processing::adj
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3377,7 +3377,7 @@ adj_dict = {"A": {"B":1.0}, "B":{"C":1.0}, "C":{"A":1.0, "D":1.0}, "D":{}}
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::dictionary
+grp:Graph-and-network-processing::dictionary
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3401,7 +3401,7 @@ grp:make_up_label_for_md::dictionary
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::dictionary
+grm:Graph-and-network-processing::dictionary
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3439,7 +3439,7 @@ As before, the adjacency dictionary encodes the following facts:
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::node
+grp:Graph-and-network-processing::node
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3463,7 +3463,7 @@ grp:make_up_label_for_md::node
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::node
+grm:Graph-and-network-processing::node
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3509,7 +3509,7 @@ grm:make_up_label_for_md::node
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::addition
+grp:Graph-and-network-processing::addition
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3533,7 +3533,7 @@ grp:make_up_label_for_md::addition
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::addition
+grm:Graph-and-network-processing::addition
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3571,7 +3571,7 @@ In addition to the aforementioned benefits of having fast (constant time) edge l
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::benefits
+grp:Graph-and-network-processing::benefits
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3595,7 +3595,7 @@ grp:make_up_label_for_md::benefits
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::benefits
+grm:Graph-and-network-processing::benefits
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3636,7 +3636,7 @@ Adjacency matrix
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::matrix
+sec:Graph-and-network-processing::matrix
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3657,7 +3657,7 @@ sec:make_up_label_for_md::matrix
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::final
+grp:Graph-and-network-processing::final
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3681,7 +3681,7 @@ grp:make_up_label_for_md::final
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::final
+grm:Graph-and-network-processing::final
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3719,7 +3719,7 @@ The final for of representation we'll consider is the adjacency matrix.  Because
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::enumerate
+grp:Graph-and-network-processing::enumerate
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3743,7 +3743,7 @@ grp:make_up_label_for_md::enumerate
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::enumerate
+grm:Graph-and-network-processing::enumerate
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3785,7 +3785,7 @@ nodes_dict = {k:i for i,k in enumerate(nodes)}
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::idea
+grp:Graph-and-network-processing::idea
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3809,7 +3809,7 @@ grp:make_up_label_for_md::idea
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::idea
+grm:Graph-and-network-processing::idea
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3847,7 +3847,7 @@ The idea of an adjacency matrix is to store all edge information in a matrix $A 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::cccc
+grp:Graph-and-network-processing::cccc
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3871,7 +3871,7 @@ grp:make_up_label_for_md::cccc
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::cccc
+grm:Graph-and-network-processing::cccc
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3921,7 +3921,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::advantage
+grp:Graph-and-network-processing::advantage
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3945,7 +3945,7 @@ grp:make_up_label_for_md::advantage
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::advantage
+grm:Graph-and-network-processing::advantage
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3983,7 +3983,7 @@ The advantage of the adjacency matrix representation comes when we want to perfo
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::work
+grp:Graph-and-network-processing::work
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4007,7 +4007,7 @@ grp:make_up_label_for_md::work
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::work
+grm:Graph-and-network-processing::work
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4045,7 +4045,7 @@ There is one more point work making about the adjacency matrix representation.  
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::look
+grp:Graph-and-network-processing::look
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4069,7 +4069,7 @@ grp:make_up_label_for_md::look
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::look
+grm:Graph-and-network-processing::look
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4107,7 +4107,7 @@ Specifically, let's look at the compressed sparse column representation of the $
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::values
+grp:Graph-and-network-processing::values
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4131,7 +4131,7 @@ grp:make_up_label_for_md::values
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::values
+grm:Graph-and-network-processing::values
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4175,7 +4175,7 @@ col_indices = [0, 1, 2, 4, 4]
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::hard
+grp:Graph-and-network-processing::hard
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4199,7 +4199,7 @@ grp:make_up_label_for_md::hard
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::hard
+grm:Graph-and-network-processing::hard
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4237,7 +4237,7 @@ Although it's a bit hard to see from this example, it shouldn't be too hard to c
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::noting
+grp:Graph-and-network-processing::noting
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4261,7 +4261,7 @@ grp:make_up_label_for_md::noting
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::noting
+grm:Graph-and-network-processing::noting
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4304,7 +4304,7 @@ Graph algorithms
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::single
+sec:Graph-and-network-processing::single
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4325,7 +4325,7 @@ sec:make_up_label_for_md::single
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::single
+grp:Graph-and-network-processing::single
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4349,7 +4349,7 @@ grp:make_up_label_for_md::single
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::single
+grm:Graph-and-network-processing::single
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4387,7 +4387,7 @@ A single lecture in a data science course is naturally an inadequate setting to 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::dijkstra
+grp:Graph-and-network-processing::dijkstra
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4411,7 +4411,7 @@ grp:make_up_label_for_md::dijkstra
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::dijkstra
+grm:Graph-and-network-processing::dijkstra
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4456,7 +4456,7 @@ Dijsktra's algorithm
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::dijsktra
+sec:Graph-and-network-processing::dijsktra
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4477,7 +4477,7 @@ sec:make_up_label_for_md::dijsktra
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::given
+grp:Graph-and-network-processing::given
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4501,7 +4501,7 @@ grp:make_up_label_for_md::given
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::given
+grm:Graph-and-network-processing::given
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4539,7 +4539,7 @@ Given two nodes in a graph (directed or undirected, where weights represent "dis
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_12_
+grp:Graph-and-network-processing::_12_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4563,7 +4563,7 @@ grp:make_up_label_for_md::_12_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_11_
+grm:Graph-and-network-processing::_11_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4601,7 +4601,7 @@ grm:make_up_label_for_md::_11_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::wikipedia
+grp:Graph-and-network-processing::wikipedia
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4625,7 +4625,7 @@ grp:make_up_label_for_md::wikipedia
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::wikipedia
+grm:Graph-and-network-processing::wikipedia
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4663,7 +4663,7 @@ grm:make_up_label_for_md::wikipedia
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::slightly
+grp:Graph-and-network-processing::slightly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4687,7 +4687,7 @@ grp:make_up_label_for_md::slightly
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::slightly
+grm:Graph-and-network-processing::slightly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4725,7 +4725,7 @@ There are several slightly different version of Dijkstra's algorithm (for instan
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::shortest
+grp:Graph-and-network-processing::shortest
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4749,7 +4749,7 @@ grp:make_up_label_for_md::shortest
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::shortest
+grm:Graph-and-network-processing::shortest
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4789,7 +4789,7 @@ grm:make_up_label_for_md::shortest
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::source
+grp:Graph-and-network-processing::source
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4813,7 +4813,7 @@ grp:make_up_label_for_md::source
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::source
+grm:Graph-and-network-processing::source
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4851,7 +4851,7 @@ grm:make_up_label_for_md::source
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::initialize
+grp:Graph-and-network-processing::initialize
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4875,7 +4875,7 @@ grp:make_up_label_for_md::initialize
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::initialize
+grm:Graph-and-network-processing::initialize
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4913,7 +4913,7 @@ grm:make_up_label_for_md::initialize
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::sq
+grp:Graph-and-network-processing::sq
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4937,7 +4937,7 @@ grp:make_up_label_for_md::sq
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::sq
+grm:Graph-and-network-processing::sq
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4981,7 +4981,7 @@ grm:make_up_label_for_md::sq
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::repeat
+grp:Graph-and-network-processing::repeat
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5005,7 +5005,7 @@ grp:make_up_label_for_md::repeat
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::repeat
+grm:Graph-and-network-processing::repeat
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5043,7 +5043,7 @@ grm:make_up_label_for_md::repeat
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::remove
+grp:Graph-and-network-processing::remove
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5067,7 +5067,7 @@ grp:make_up_label_for_md::remove
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::remove
+grm:Graph-and-network-processing::remove
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5109,7 +5109,7 @@ grm:make_up_label_for_md::remove
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_14_
+grp:Graph-and-network-processing::_14_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5133,7 +5133,7 @@ grp:make_up_label_for_md::_14_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_13_
+grm:Graph-and-network-processing::_13_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5171,7 +5171,7 @@ grm:make_up_label_for_md::_13_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::hr
+grp:Graph-and-network-processing::hr
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5195,7 +5195,7 @@ grp:make_up_label_for_md::hr
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::hr
+grm:Graph-and-network-processing::hr
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5233,7 +5233,7 @@ grm:make_up_label_for_md::hr
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::essentially
+grp:Graph-and-network-processing::essentially
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5257,7 +5257,7 @@ grp:make_up_label_for_md::essentially
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::essentially
+grm:Graph-and-network-processing::essentially
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5295,7 +5295,7 @@ Essentially, what this is doing is that we are expanding out from the source, al
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::precise
+grp:Graph-and-network-processing::precise
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5319,7 +5319,7 @@ grp:make_up_label_for_md::precise
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::precise
+grm:Graph-and-network-processing::precise
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5357,7 +5357,7 @@ The precise complexity of Dijsktra's algorithm relies on the complexity of maint
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::looks
+grp:Graph-and-network-processing::looks
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5381,7 +5381,7 @@ grp:make_up_label_for_md::looks
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::looks
+grm:Graph-and-network-processing::looks
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5419,7 +5419,7 @@ Let's see how this algorithm looks step by step, looking at the distances and el
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_16_
+grp:Graph-and-network-processing::_16_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5443,7 +5443,7 @@ grp:make_up_label_for_md::_16_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_15_
+grm:Graph-and-network-processing::_15_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5481,7 +5481,7 @@ grm:make_up_label_for_md::_15_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::step
+grp:Graph-and-network-processing::step
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5505,7 +5505,7 @@ grp:make_up_label_for_md::step
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::step
+grm:Graph-and-network-processing::step
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5543,7 +5543,7 @@ At each step of the algorithm, we have the following elements:
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::initialization
+grp:Graph-and-network-processing::initialization
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5567,7 +5567,7 @@ grp:make_up_label_for_md::initialization
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::initialization
+grm:Graph-and-network-processing::initialization
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5615,7 +5615,7 @@ grm:make_up_label_for_md::initialization
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::execution
+grp:Graph-and-network-processing::execution
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5639,7 +5639,7 @@ grp:make_up_label_for_md::execution
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::execution
+grm:Graph-and-network-processing::execution
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5677,7 +5677,7 @@ At the end of execution, $D$ contains the length of the shortest path from $s$ t
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::know
+grp:Graph-and-network-processing::know
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5701,7 +5701,7 @@ grp:make_up_label_for_md::know
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::know
+grm:Graph-and-network-processing::know
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5742,7 +5742,7 @@ PageRank
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::pagerank
+sec:Graph-and-network-processing::pagerank
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5763,7 +5763,7 @@ sec:make_up_label_for_md::pagerank
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::pagerank
+grp:Graph-and-network-processing::pagerank
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5787,7 +5787,7 @@ grp:make_up_label_for_md::pagerank
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::pagerank
+grm:Graph-and-network-processing::pagerank
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5825,7 +5825,7 @@ PageRank is the algorithm that started Google.  As I'm writing this, Google has 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::suppose
+grp:Graph-and-network-processing::suppose
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5849,7 +5849,7 @@ grp:make_up_label_for_md::suppose
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::suppose
+grm:Graph-and-network-processing::suppose
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5887,7 +5887,7 @@ Suppose you have a graph, and you want to somehow determine which nodes are "imp
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::importance
+grp:Graph-and-network-processing::importance
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5911,7 +5911,7 @@ grp:make_up_label_for_md::importance
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::importance
+grm:Graph-and-network-processing::importance
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5949,7 +5949,7 @@ grm:make_up_label_for_md::importance
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::probably
+grp:Graph-and-network-processing::probably
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5973,7 +5973,7 @@ grp:make_up_label_for_md::probably
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::probably
+grm:Graph-and-network-processing::probably
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6011,7 +6011,7 @@ You would probably say that the more "central" nodes are the more important ones
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::central
+grp:Graph-and-network-processing::central
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6035,7 +6035,7 @@ grp:make_up_label_for_md::central
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::central
+grm:Graph-and-network-processing::central
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6073,7 +6073,7 @@ The central idea of PageRank is to consider what is called a _random walk_ over 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::random
+grp:Graph-and-network-processing::random
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6097,7 +6097,7 @@ grp:make_up_label_for_md::random
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::random
+grm:Graph-and-network-processing::random
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6143,7 +6143,7 @@ grm:make_up_label_for_md::random
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::probability
+grp:Graph-and-network-processing::probability
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6167,7 +6167,7 @@ grp:make_up_label_for_md::probability
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::probability
+grm:Graph-and-network-processing::probability
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6205,7 +6205,7 @@ The node importance of PageRank is the probability that we wind up on page at an
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::page
+grp:Graph-and-network-processing::page
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6229,7 +6229,7 @@ grp:make_up_label_for_md::page
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::page
+grm:Graph-and-network-processing::page
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6269,7 +6269,7 @@ grm:make_up_label_for_md::page
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::count
+grp:Graph-and-network-processing::count
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6293,7 +6293,7 @@ grp:make_up_label_for_md::count
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::count
+grm:Graph-and-network-processing::count
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6331,7 +6331,7 @@ grm:make_up_label_for_md::count
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_18_
+grp:Graph-and-network-processing::_18_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6355,7 +6355,7 @@ grp:make_up_label_for_md::_18_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_17_
+grm:Graph-and-network-processing::_17_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6393,7 +6393,7 @@ grm:make_up_label_for_md::_17_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::matrix
+grp:Graph-and-network-processing::matrix
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6417,7 +6417,7 @@ grp:make_up_label_for_md::matrix
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::matrix
+grm:Graph-and-network-processing::matrix
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6463,7 +6463,7 @@ grm:make_up_label_for_md::matrix
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::times
+grp:Graph-and-network-processing::times
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6487,7 +6487,7 @@ grp:make_up_label_for_md::times
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::times
+grm:Graph-and-network-processing::times
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6525,7 +6525,7 @@ grm:make_up_label_for_md::times
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_20_
+grp:Graph-and-network-processing::_20_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6549,7 +6549,7 @@ grp:make_up_label_for_md::_20_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_19_
+grm:Graph-and-network-processing::_19_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6589,7 +6589,7 @@ grm:make_up_label_for_md::_19_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_22_
+grp:Graph-and-network-processing::_22_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6613,7 +6613,7 @@ grp:make_up_label_for_md::_22_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_21_
+grm:Graph-and-network-processing::_21_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6651,7 +6651,7 @@ grm:make_up_label_for_md::_21_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::works
+grp:Graph-and-network-processing::works
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6675,7 +6675,7 @@ grp:make_up_label_for_md::works
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::works
+grm:Graph-and-network-processing::works
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6713,7 +6713,7 @@ Let's see how this works for the directed graph we have considered above:
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_24_
+grp:Graph-and-network-processing::_24_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6737,7 +6737,7 @@ grp:make_up_label_for_md::_24_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_23_
+grm:Graph-and-network-processing::_23_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6775,7 +6775,7 @@ grm:make_up_label_for_md::_23_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::discuss
+grp:Graph-and-network-processing::discuss
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6799,7 +6799,7 @@ grp:make_up_label_for_md::discuss
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::discuss
+grm:Graph-and-network-processing::discuss
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6837,7 +6837,7 @@ As discuss above, the adjacency matrix of this graph is given by:
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_26_
+grp:Graph-and-network-processing::_26_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6861,7 +6861,7 @@ grp:make_up_label_for_md::_26_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_25_
+grm:Graph-and-network-processing::_25_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6911,7 +6911,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::fill
+grp:Graph-and-network-processing::fill
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6935,7 +6935,7 @@ grp:make_up_label_for_md::fill
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::fill
+grm:Graph-and-network-processing::fill
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6973,7 +6973,7 @@ To get the $P$ matrix, we first fill in the all-zeros column with ones, and then
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_28_
+grp:Graph-and-network-processing::_28_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6997,7 +6997,7 @@ grp:make_up_label_for_md::_28_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_27_
+grm:Graph-and-network-processing::_27_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7047,7 +7047,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::all-1
+grp:Graph-and-network-processing::all-1
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7071,7 +7071,7 @@ grp:make_up_label_for_md::all-1
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::all-1
+grm:Graph-and-network-processing::all-1
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7109,7 +7109,7 @@ Finally, we add $(1-d)P$ to $d$ times the "all-1/4" matrix (the all ones matrix 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::1-d
+grp:Graph-and-network-processing::1-d
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7133,7 +7133,7 @@ grp:make_up_label_for_md::1-d
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::1-d
+grm:Graph-and-network-processing::1-d
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7209,7 +7209,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::let
+grp:Graph-and-network-processing::let
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7233,7 +7233,7 @@ grp:make_up_label_for_md::let
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::let
+grm:Graph-and-network-processing::let
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7271,7 +7271,7 @@ Let's see how we can do this is code.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::import
+grp:Graph-and-network-processing::import
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7295,7 +7295,7 @@ grp:make_up_label_for_md::import
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::import
+grm:Graph-and-network-processing::import
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7363,7 +7363,7 @@ print(x)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_30_
+grp:Graph-and-network-processing::_30_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7387,7 +7387,7 @@ grp:make_up_label_for_md::_30_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_29_
+grm:Graph-and-network-processing::_29_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7429,7 +7429,7 @@ grm:make_up_label_for_md::_29_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::play
+grp:Graph-and-network-processing::play
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7453,7 +7453,7 @@ grp:make_up_label_for_md::play
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::play
+grm:Graph-and-network-processing::play
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7491,7 +7491,7 @@ You can play around with this implementation to see what happens for different v
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::especially
+grp:Graph-and-network-processing::especially
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7515,7 +7515,7 @@ grp:make_up_label_for_md::especially
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::especially
+grm:Graph-and-network-processing::especially
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7556,7 +7556,7 @@ Girvan-Newman
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::girvan-newman
+sec:Graph-and-network-processing::girvan-newman
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7577,7 +7577,7 @@ sec:make_up_label_for_md::girvan-newman
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::consider
+grp:Graph-and-network-processing::consider
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7601,7 +7601,7 @@ grp:make_up_label_for_md::consider
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::consider
+grm:Graph-and-network-processing::consider
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7639,7 +7639,7 @@ The last algorithm we will consider here focuses on another problem in graphs, w
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::communities
+grp:Graph-and-network-processing::communities
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7663,7 +7663,7 @@ grp:make_up_label_for_md::communities
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::communities
+grm:Graph-and-network-processing::communities
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7701,7 +7701,7 @@ grm:make_up_label_for_md::communities
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::clearly
+grp:Graph-and-network-processing::clearly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7725,7 +7725,7 @@ grp:make_up_label_for_md::clearly
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::clearly
+grm:Graph-and-network-processing::clearly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7763,7 +7763,7 @@ Clearly, there are three subgraphs here that seem to form "communities", tighly 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::different
+grp:Graph-and-network-processing::different
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7787,7 +7787,7 @@ grp:make_up_label_for_md::different
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::different
+grm:Graph-and-network-processing::different
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7825,7 +7825,7 @@ There are several different algorithms for finding communities, but one well-kno
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::basic
+grp:Graph-and-network-processing::basic
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7849,7 +7849,7 @@ grp:make_up_label_for_md::basic
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::basic
+grm:Graph-and-network-processing::basic
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7887,7 +7887,7 @@ The basic approach of the Girvan-Newman algorithm is to _remove_ edges from the 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::edge
+grp:Graph-and-network-processing::edge
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7911,7 +7911,7 @@ grp:make_up_label_for_md::edge
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::edge
+grm:Graph-and-network-processing::edge
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7949,7 +7949,7 @@ The edge betweenness property, which orders how we remove edges, is defined as _
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::betweenness
+grp:Graph-and-network-processing::betweenness
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7973,7 +7973,7 @@ grp:make_up_label_for_md::betweenness
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::betweenness
+grm:Graph-and-network-processing::betweenness
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8011,7 +8011,7 @@ grm:make_up_label_for_md::betweenness
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::symmetries
+grp:Graph-and-network-processing::symmetries
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8035,7 +8035,7 @@ grp:make_up_label_for_md::symmetries
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::symmetries
+grm:Graph-and-network-processing::symmetries
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8073,7 +8073,7 @@ Since there are a lot of symmetries in the graph, we can specify all the edge be
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::numbers
+grp:Graph-and-network-processing::numbers
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8097,7 +8097,7 @@ grp:make_up_label_for_md::numbers
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::numbers
+grm:Graph-and-network-processing::numbers
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8135,7 +8135,7 @@ grm:make_up_label_for_md::numbers
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::path
+grp:Graph-and-network-processing::path
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8159,7 +8159,7 @@ grp:make_up_label_for_md::path
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::path
+grm:Graph-and-network-processing::path
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8197,7 +8197,7 @@ Let's consider some examples.  The edge between nodes 1 and 2 has a betweenness 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::might
+grp:Graph-and-network-processing::might
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8221,7 +8221,7 @@ grp:make_up_label_for_md::might
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::might
+grm:Graph-and-network-processing::might
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8259,7 +8259,7 @@ These cases might give the impression that edge betweenness is fairly easy (beca
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::running
+grp:Graph-and-network-processing::running
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8283,7 +8283,7 @@ grp:make_up_label_for_md::running
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::running
+grm:Graph-and-network-processing::running
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8321,7 +8321,7 @@ To begin running Girvan-Newman on the above graph, we would remove the 7--8 edge
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::girvan-newman
+grp:Graph-and-network-processing::girvan-newman
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8345,7 +8345,7 @@ grp:make_up_label_for_md::girvan-newman
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::girvan-newman
+grm:Graph-and-network-processing::girvan-newman
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8383,7 +8383,7 @@ grm:make_up_label_for_md::girvan-newman
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::need
+grp:Graph-and-network-processing::need
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8407,7 +8407,7 @@ grp:make_up_label_for_md::need
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::need
+grm:Graph-and-network-processing::need
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8445,7 +8445,7 @@ After this, we need to _recompute_ the edge betweeness in each of the subgraphs.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_32_
+grp:Graph-and-network-processing::_32_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8469,7 +8469,7 @@ grp:make_up_label_for_md::_32_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_31_
+grm:Graph-and-network-processing::_31_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8507,7 +8507,7 @@ grm:make_up_label_for_md::_31_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::additional
+grp:Graph-and-network-processing::additional
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8531,7 +8531,7 @@ grp:make_up_label_for_md::additional
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::additional
+grm:Graph-and-network-processing::additional
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8569,7 +8569,7 @@ Running an additional iteration would remove all the remaining edges.  The proce
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_34_
+grp:Graph-and-network-processing::_34_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8593,7 +8593,7 @@ grp:make_up_label_for_md::_34_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_33_
+grm:Graph-and-network-processing::_33_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8631,7 +8631,7 @@ grm:make_up_label_for_md::_33_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::shows
+grp:Graph-and-network-processing::shows
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8655,7 +8655,7 @@ grp:make_up_label_for_md::shows
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::shows
+grm:Graph-and-network-processing::shows
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8693,7 +8693,7 @@ This shows the hierarchical breakdown of the graph at all the different levels o
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::compute
+grp:Graph-and-network-processing::compute
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8717,7 +8717,7 @@ grp:make_up_label_for_md::compute
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::compute
+grm:Graph-and-network-processing::compute
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8760,7 +8760,7 @@ The NetworkX graph library
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::library
+sec:Graph-and-network-processing::library
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8781,7 +8781,7 @@ sec:make_up_label_for_md::library
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::highlight
+grp:Graph-and-network-processing::highlight
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8805,7 +8805,7 @@ grp:make_up_label_for_md::highlight
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::highlight
+grm:Graph-and-network-processing::highlight
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8844,7 +8844,7 @@ Creating graphs
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::creating
+sec:Graph-and-network-processing::creating
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8865,7 +8865,7 @@ sec:make_up_label_for_md::creating
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::importing
+grp:Graph-and-network-processing::importing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8889,7 +8889,7 @@ grp:make_up_label_for_md::importing
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::importing
+grm:Graph-and-network-processing::importing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8927,7 +8927,7 @@ Let's start by importing the library and creating a graph.  Since the many more 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::networkx
+grp:Graph-and-network-processing::networkx
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8951,7 +8951,7 @@ grp:make_up_label_for_md::networkx
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::networkx
+grm:Graph-and-network-processing::networkx
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8995,7 +8995,7 @@ G_directed = nx.DiGraph()
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::hashable
+grp:Graph-and-network-processing::hashable
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9019,7 +9019,7 @@ grp:make_up_label_for_md::hashable
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::hashable
+grm:Graph-and-network-processing::hashable
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9057,7 +9057,7 @@ Nodes in a NetworkX can be any hashable type (i.e., any type that can be used as
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::nx
+grp:Graph-and-network-processing::nx
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9081,7 +9081,7 @@ grp:make_up_label_for_md::nx
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::nx
+grm:Graph-and-network-processing::nx
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9127,7 +9127,7 @@ print(G.nodes())
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_36_
+grp:Graph-and-network-processing::_36_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9151,7 +9151,7 @@ grp:make_up_label_for_md::_36_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_35_
+grm:Graph-and-network-processing::_35_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9193,7 +9193,7 @@ grm:make_up_label_for_md::_35_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::add
+grp:Graph-and-network-processing::add
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9217,7 +9217,7 @@ grp:make_up_label_for_md::add
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::add
+grm:Graph-and-network-processing::add
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9265,7 +9265,7 @@ print(G.nodes())
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_38_
+grp:Graph-and-network-processing::_38_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9289,7 +9289,7 @@ grp:make_up_label_for_md::_38_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_37_
+grm:Graph-and-network-processing::_37_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9333,7 +9333,7 @@ grm:make_up_label_for_md::_37_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::added
+grp:Graph-and-network-processing::added
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9357,7 +9357,7 @@ grp:make_up_label_for_md::added
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::added
+grm:Graph-and-network-processing::added
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9395,7 +9395,7 @@ Edges can be added and removed from the graph using using the `.add_edge()` (add
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::digraph
+grp:Graph-and-network-processing::digraph
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9419,7 +9419,7 @@ grp:make_up_label_for_md::digraph
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::digraph
+grm:Graph-and-network-processing::digraph
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9465,7 +9465,7 @@ print(G.edges())
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_40_
+grp:Graph-and-network-processing::_40_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9489,7 +9489,7 @@ grp:make_up_label_for_md::_40_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_39_
+grm:Graph-and-network-processing::_39_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9533,7 +9533,7 @@ grm:make_up_label_for_md::_39_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_42_
+grp:Graph-and-network-processing::_42_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9557,7 +9557,7 @@ grp:make_up_label_for_md::_42_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_41_
+grm:Graph-and-network-processing::_41_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9599,7 +9599,7 @@ print(G.edges())
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_44_
+grp:Graph-and-network-processing::_44_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9623,7 +9623,7 @@ grp:make_up_label_for_md::_44_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_43_
+grm:Graph-and-network-processing::_43_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9665,7 +9665,7 @@ grm:make_up_label_for_md::_43_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::weight
+grp:Graph-and-network-processing::weight
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9689,7 +9689,7 @@ grp:make_up_label_for_md::weight
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::weight
+grm:Graph-and-network-processing::weight
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9731,7 +9731,7 @@ print(G.edges(), weight)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_46_
+grp:Graph-and-network-processing::_46_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9755,7 +9755,7 @@ grp:make_up_label_for_md::_46_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_45_
+grm:Graph-and-network-processing::_45_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9797,7 +9797,7 @@ grm:make_up_label_for_md::_45_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::removing
+grp:Graph-and-network-processing::removing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9821,7 +9821,7 @@ grp:make_up_label_for_md::removing
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::removing
+grm:Graph-and-network-processing::removing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9859,7 +9859,7 @@ Removing a node will remove all the edges connected to that node.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_48_
+grp:Graph-and-network-processing::_48_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9883,7 +9883,7 @@ grp:make_up_label_for_md::_48_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_47_
+grm:Graph-and-network-processing::_47_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9929,7 +9929,7 @@ print(G.edges())
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_50_
+grp:Graph-and-network-processing::_50_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9953,7 +9953,7 @@ grp:make_up_label_for_md::_50_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_49_
+grm:Graph-and-network-processing::_49_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9995,7 +9995,7 @@ grm:make_up_label_for_md::_49_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::weights
+grp:Graph-and-network-processing::weights
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10019,7 +10019,7 @@ grp:make_up_label_for_md::weights
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::weights
+grm:Graph-and-network-processing::weights
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10057,7 +10057,7 @@ We can also add weights to edges via the `weight` attribute, though as we see, t
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_52_
+grp:Graph-and-network-processing::_52_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10081,7 +10081,7 @@ grp:make_up_label_for_md::_52_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_51_
+grm:Graph-and-network-processing::_51_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10128,7 +10128,7 @@ Internal representations and node/edge data
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::internal
+sec:Graph-and-network-processing::internal
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10149,7 +10149,7 @@ sec:make_up_label_for_md::internal
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::internally
+grp:Graph-and-network-processing::internally
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10173,7 +10173,7 @@ grp:make_up_label_for_md::internally
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::internally
+grm:Graph-and-network-processing::internally
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10211,7 +10211,7 @@ Internally, NetworkX uses the adjacency dictionary representation to represent t
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_54_
+grp:Graph-and-network-processing::_54_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10235,7 +10235,7 @@ grp:make_up_label_for_md::_54_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_53_
+grm:Graph-and-network-processing::_53_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10279,7 +10279,7 @@ print(G["C"])
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_56_
+grp:Graph-and-network-processing::_56_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10303,7 +10303,7 @@ grp:make_up_label_for_md::_56_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_55_
+grm:Graph-and-network-processing::_55_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10345,7 +10345,7 @@ grm:make_up_label_for_md::_55_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::remember
+grp:Graph-and-network-processing::remember
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10369,7 +10369,7 @@ grp:make_up_label_for_md::remember
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::remember
+grm:Graph-and-network-processing::remember
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10407,7 +10407,7 @@ Remember that in an adjacency dictionary representation, the value for key "C" w
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::color
+grp:Graph-and-network-processing::color
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10431,7 +10431,7 @@ grp:make_up_label_for_md::color
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::color
+grm:Graph-and-network-processing::color
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10471,7 +10471,7 @@ G["A"]["B"]["color"] = "red"
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::attribute
+grp:Graph-and-network-processing::attribute
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10495,7 +10495,7 @@ grp:make_up_label_for_md::attribute
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::attribute
+grm:Graph-and-network-processing::attribute
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10533,7 +10533,7 @@ The weight of an edge is just another attribute of this type, but NetworkX will 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_58_
+grp:Graph-and-network-processing::_58_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10557,7 +10557,7 @@ grp:make_up_label_for_md::_58_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_57_
+grm:Graph-and-network-processing::_57_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10599,7 +10599,7 @@ print(G["A"]["B"])
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::red
+grp:Graph-and-network-processing::red
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10623,7 +10623,7 @@ grp:make_up_label_for_md::red
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::red
+grm:Graph-and-network-processing::red
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10665,7 +10665,7 @@ grm:make_up_label_for_md::red
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::obviously
+grp:Graph-and-network-processing::obviously
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10689,7 +10689,7 @@ grp:make_up_label_for_md::obviously
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::obviously
+grm:Graph-and-network-processing::obviously
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10727,7 +10727,7 @@ Obviously, node attributes cannot be added in quite the same way: the `G["A"]` d
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::blue
+grp:Graph-and-network-processing::blue
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10751,7 +10751,7 @@ grp:make_up_label_for_md::blue
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::blue
+grm:Graph-and-network-processing::blue
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10793,7 +10793,7 @@ print(G.node["A"])
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_60_
+grp:Graph-and-network-processing::_60_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10817,7 +10817,7 @@ grp:make_up_label_for_md::_60_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_59_
+grm:Graph-and-network-processing::_59_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10859,7 +10859,7 @@ grm:make_up_label_for_md::_59_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::lists
+grp:Graph-and-network-processing::lists
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10883,7 +10883,7 @@ grp:make_up_label_for_md::lists
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::lists
+grm:Graph-and-network-processing::lists
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10921,7 +10921,7 @@ Finally, the `.nodes()` and `.edges()` lists by default will not return any of t
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_62_
+grp:Graph-and-network-processing::_62_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10945,7 +10945,7 @@ grp:make_up_label_for_md::_62_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_61_
+grm:Graph-and-network-processing::_61_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10987,7 +10987,7 @@ print(G.edges())
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_64_
+grp:Graph-and-network-processing::_64_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11011,7 +11011,7 @@ grp:make_up_label_for_md::_64_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_63_
+grm:Graph-and-network-processing::_63_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11055,7 +11055,7 @@ grm:make_up_label_for_md::_63_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::data
+grp:Graph-and-network-processing::data
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11079,7 +11079,7 @@ grp:make_up_label_for_md::data
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::data
+grm:Graph-and-network-processing::data
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11117,7 +11117,7 @@ If we want to data returned too, we need to pass the `data=True` argument.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::true
+grp:Graph-and-network-processing::true
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11141,7 +11141,7 @@ grp:make_up_label_for_md::true
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::true
+grm:Graph-and-network-processing::true
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11183,7 +11183,7 @@ print(G.edges(data=True))
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_66_
+grp:Graph-and-network-processing::_66_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11207,7 +11207,7 @@ grp:make_up_label_for_md::_66_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_65_
+grm:Graph-and-network-processing::_65_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11254,7 +11254,7 @@ Drawing graphs
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::drawing
+sec:Graph-and-network-processing::drawing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11275,7 +11275,7 @@ sec:make_up_label_for_md::drawing
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::built
+grp:Graph-and-network-processing::built
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11299,7 +11299,7 @@ grp:make_up_label_for_md::built
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::built
+grm:Graph-and-network-processing::built
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11337,7 +11337,7 @@ NetworkX has some built in routines for drawing graphs, though generally speakin
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::draw
+grp:Graph-and-network-processing::draw
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11361,7 +11361,7 @@ grp:make_up_label_for_md::draw
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::draw
+grm:Graph-and-network-processing::draw
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11405,7 +11405,7 @@ nx.draw(G, with_labels=True)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_68_
+grp:Graph-and-network-processing::_68_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11429,7 +11429,7 @@ grp:make_up_label_for_md::_68_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_67_
+grm:Graph-and-network-processing::_67_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11467,7 +11467,7 @@ grm:make_up_label_for_md::_67_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::direction
+grp:Graph-and-network-processing::direction
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11491,7 +11491,7 @@ grp:make_up_label_for_md::direction
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::direction
+grm:Graph-and-network-processing::direction
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11529,7 +11529,7 @@ Direction are indicated by thick black lines, and positions are determined by ra
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::ipython
+grp:Graph-and-network-processing::ipython
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11553,7 +11553,7 @@ grp:make_up_label_for_md::ipython
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::ipython
+grm:Graph-and-network-processing::ipython
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11599,7 +11599,7 @@ SVG("out.svg")
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_70_
+grp:Graph-and-network-processing::_70_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11623,7 +11623,7 @@ grp:make_up_label_for_md::_70_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_69_
+grm:Graph-and-network-processing::_69_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11661,7 +11661,7 @@ grm:make_up_label_for_md::_69_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::nicer
+grp:Graph-and-network-processing::nicer
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11685,7 +11685,7 @@ grp:make_up_label_for_md::nicer
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::nicer
+grm:Graph-and-network-processing::nicer
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11726,7 +11726,7 @@ Graph algorithms
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::networkx
+sec:Graph-and-network-processing::networkx
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11747,7 +11747,7 @@ sec:make_up_label_for_md::networkx
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::large
+grp:Graph-and-network-processing::large
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11771,7 +11771,7 @@ grp:make_up_label_for_md::large
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::large
+grm:Graph-and-network-processing::large
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11809,7 +11809,7 @@ Finally, NetworkX has a large number of graph algorithms built in.  A full list 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::length
+grp:Graph-and-network-processing::length
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11833,7 +11833,7 @@ grp:make_up_label_for_md::length
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::length
+grm:Graph-and-network-processing::length
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11879,7 +11879,7 @@ print(nx.shortest_path(G, source="A"))
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_72_
+grp:Graph-and-network-processing::_72_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11903,7 +11903,7 @@ grp:make_up_label_for_md::_72_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_71_
+grm:Graph-and-network-processing::_71_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11947,7 +11947,7 @@ grm:make_up_label_for_md::_71_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::implementation
+grp:Graph-and-network-processing::implementation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11971,7 +11971,7 @@ grp:make_up_label_for_md::implementation
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::implementation
+grm:Graph-and-network-processing::implementation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12009,7 +12009,7 @@ The PageRank implementation takes an `alpha` parameters which is $1-d$ is our no
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::alpha
+grp:Graph-and-network-processing::alpha
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12033,7 +12033,7 @@ grp:make_up_label_for_md::alpha
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::alpha
+grm:Graph-and-network-processing::alpha
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12077,7 +12077,7 @@ nx.pagerank(G, alpha=0.9)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_74_
+grp:Graph-and-network-processing::_74_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12101,7 +12101,7 @@ grp:make_up_label_for_md::_74_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_73_
+grm:Graph-and-network-processing::_73_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12149,7 +12149,7 @@ grm:make_up_label_for_md::_73_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::involved
+grp:Graph-and-network-processing::involved
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12173,7 +12173,7 @@ grp:make_up_label_for_md::involved
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::involved
+grm:Graph-and-network-processing::involved
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12211,7 +12211,7 @@ Finally, Girvan-Newman is a bit more involved, as it return the dendrogram as a 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::community
+grp:Graph-and-network-processing::community
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12235,7 +12235,7 @@ grp:make_up_label_for_md::community
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::community
+grm:Graph-and-network-processing::community
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12285,7 +12285,7 @@ list(communities)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::_76_
+grp:Graph-and-network-processing::_76_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12309,7 +12309,7 @@ grp:make_up_label_for_md::_76_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::_75_
+grm:Graph-and-network-processing::_75_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12380,7 +12380,7 @@ References
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:make_up_label_for_md::references
+sec:Graph-and-network-processing::references
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12401,7 +12401,7 @@ sec:make_up_label_for_md::references
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:make_up_label_for_md::dijskstra
+grp:Graph-and-network-processing::dijskstra
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12425,7 +12425,7 @@ grp:make_up_label_for_md::dijskstra
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:make_up_label_for_md::dijskstra
+grm:Graph-and-network-processing::dijskstra
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...

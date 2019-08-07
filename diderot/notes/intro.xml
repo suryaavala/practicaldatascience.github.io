@@ -14,7 +14,7 @@ Introduction to Data Science
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-chapter:Introduction-to-Data-Science::introduction
+ch:introduction-to-data-science::introduction-to-data-science
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -36,7 +36,7 @@ Introduction
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Introduction-to-Data-Science::introduction
+sec:introduction-to-data-science::introduction
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -57,7 +57,7 @@ sec:Introduction-to-Data-Science::introduction
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::serve
+grp:introduction-to-data-science::serve
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -81,7 +81,7 @@ grp:Introduction-to-Data-Science::serve
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::serve
+grm:introduction-to-data-science::serve
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -119,7 +119,7 @@ These notes will serve as the main companion to the slides and lectures for the 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::additional
+grp:introduction-to-data-science::additional
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -143,7 +143,7 @@ grp:Introduction-to-Data-Science::additional
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::additional
+grm:introduction-to-data-science::additional
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -184,7 +184,7 @@ What is data science?
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Introduction-to-Data-Science::data
+sec:introduction-to-data-science::what-is-data-science
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -205,7 +205,7 @@ sec:Introduction-to-Data-Science::data
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::start
+grp:introduction-to-data-science::start
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -229,7 +229,7 @@ grp:Introduction-to-Data-Science::start
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::start
+grm:introduction-to-data-science::start
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -267,7 +267,7 @@ The start of any good data science course should probably begin with a definitio
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::want
+grp:introduction-to-data-science::want
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -291,7 +291,7 @@ grp:Introduction-to-Data-Science::want
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::want
+grm:introduction-to-data-science::want
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -329,7 +329,7 @@ But if we do want a concise definition that fits reasonably with the themes of t
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::data
+grp:introduction-to-data-science::data
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -353,7 +353,7 @@ grp:Introduction-to-Data-Science::data
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::data
+grm:introduction-to-data-science::data
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -393,7 +393,7 @@ grm:Introduction-to-Data-Science::data
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::phrases
+grp:introduction-to-data-science::phrases
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -417,7 +417,7 @@ grp:Introduction-to-Data-Science::phrases
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::phrases
+grm:introduction-to-data-science::phrases
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -455,7 +455,7 @@ The key phrases of importance here are "computational" (data science typically i
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::looking
+grp:introduction-to-data-science::looking
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -479,7 +479,7 @@ grp:Introduction-to-Data-Science::looking
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::looking
+grm:introduction-to-data-science::looking
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -517,7 +517,7 @@ Another way of looking at it, in some sense, is that data science is simply the 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::science
+grp:introduction-to-data-science::science
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -541,7 +541,7 @@ grp:Introduction-to-Data-Science::science
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::science
+grm:introduction-to-data-science::science
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -581,7 +581,7 @@ grm:Introduction-to-Data-Science::science
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::useful
+grp:introduction-to-data-science::useful
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -605,7 +605,7 @@ grp:Introduction-to-Data-Science::useful
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::useful
+grm:introduction-to-data-science::useful
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -646,7 +646,7 @@ What is data science not?
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Introduction-to-Data-Science::defined
+sec:introduction-to-data-science::what-is-data-science-not
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -667,7 +667,7 @@ sec:Introduction-to-Data-Science::defined
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::defined
+grp:introduction-to-data-science::defined
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -691,7 +691,7 @@ grp:Introduction-to-Data-Science::defined
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::defined
+grm:introduction-to-data-science::defined
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -730,7 +730,7 @@ Data science is not (just) machine learning
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Introduction-to-Data-Science::science
+sec:introduction-to-data-science::data-science-is-not-just-machine-learning
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -751,7 +751,7 @@ sec:Introduction-to-Data-Science::science
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::personally
+grp:introduction-to-data-science::personally
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -775,7 +775,7 @@ grp:Introduction-to-Data-Science::personally
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::personally
+grm:introduction-to-data-science::personally
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -814,7 +814,7 @@ Kaggle is a wonderful resource, but the competitions are decidedly _not_ data sc
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::machine
+grp:introduction-to-data-science::machine
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -838,7 +838,7 @@ grp:Introduction-to-Data-Science::machine
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::machine
+grm:introduction-to-data-science::machine
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -876,7 +876,7 @@ Furthermore, machine learning as a field is typically concerned primarily about 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::_2_
+grp:introduction-to-data-science::include
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -900,7 +900,7 @@ grp:Introduction-to-Data-Science::_2_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::_1_
+grm:introduction-to-data-science::include
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -938,7 +938,7 @@ grm:Introduction-to-Data-Science::_1_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::numbers
+grp:introduction-to-data-science::numbers
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -962,7 +962,7 @@ grp:Introduction-to-Data-Science::numbers
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::numbers
+grm:introduction-to-data-science::numbers
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1003,7 +1003,7 @@ Data science is not (just) statistics
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Introduction-to-Data-Science::statistics
+sec:introduction-to-data-science::data-science-is-not-just-statistics
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1024,7 +1024,7 @@ sec:Introduction-to-Data-Science::statistics
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::learning
+grp:introduction-to-data-science::learning
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1048,7 +1048,7 @@ grp:Introduction-to-Data-Science::learning
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::learning
+grm:introduction-to-data-science::learning
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1086,7 +1086,7 @@ So if data science is not machine learning, perhaps simple Statistics (that is, 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::primary
+grp:introduction-to-data-science::primary
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1110,7 +1110,7 @@ grp:Introduction-to-Data-Science::primary
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::primary
+grm:introduction-to-data-science::primary
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1148,7 +1148,7 @@ There are, however, two primary distinctions that are worth making about between
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::difference
+grp:introduction-to-data-science::difference
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1172,7 +1172,7 @@ grp:Introduction-to-Data-Science::difference
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::difference
+grm:introduction-to-data-science::difference
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1213,7 +1213,7 @@ Data science is not (just) big data
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Introduction-to-Data-Science::big
+sec:introduction-to-data-science::data-science-is-not-just-big-data
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1234,7 +1234,7 @@ sec:Introduction-to-Data-Science::big
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::contingent
+grp:introduction-to-data-science::contingent
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1258,7 +1258,7 @@ grp:Introduction-to-Data-Science::contingent
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::contingent
+grm:introduction-to-data-science::contingent
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1301,7 +1301,7 @@ Some data science examples
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Introduction-to-Data-Science::often
+sec:introduction-to-data-science::some-data-science-examples
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1322,7 +1322,7 @@ sec:Introduction-to-Data-Science::often
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::often
+grp:introduction-to-data-science::often
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1346,7 +1346,7 @@ grp:Introduction-to-Data-Science::often
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::often
+grm:introduction-to-data-science::often
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1385,7 +1385,7 @@ Gendered verbs in professor reviews
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Introduction-to-Data-Science::gendered
+sec:introduction-to-data-science::gendered-verbs-in-professor-reviews
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1406,7 +1406,7 @@ sec:Introduction-to-Data-Science::gendered
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::excellent
+grp:introduction-to-data-science::excellent
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1430,7 +1430,7 @@ grp:Introduction-to-Data-Science::excellent
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::excellent
+grm:introduction-to-data-science::excellent
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1468,7 +1468,7 @@ One excellent example of data science that I saw recently was developed by Ben S
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::http
+grp:introduction-to-data-science::image
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1492,7 +1492,7 @@ grp:Introduction-to-Data-Science::http
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::http
+grm:introduction-to-data-science::image
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1530,7 +1530,7 @@ grm:Introduction-to-Data-Science::http
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::work
+grp:introduction-to-data-science::work
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1554,7 +1554,7 @@ grp:Introduction-to-Data-Science::work
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::work
+grm:introduction-to-data-science::work
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1592,7 +1592,7 @@ The work collects 14 million reviews from RateMyProfessor.com, and counts the nu
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::part
+grp:introduction-to-data-science::part
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1616,7 +1616,7 @@ grp:Introduction-to-Data-Science::part
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::part
+grm:introduction-to-data-science::part
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1654,7 +1654,7 @@ Part of what I love about this example is that it _is_ so "simple" from a data s
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::greatest
+grp:introduction-to-data-science::greatest
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1678,7 +1678,7 @@ grp:Introduction-to-Data-Science::greatest
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::greatest
+grm:introduction-to-data-science::greatest
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1718,7 +1718,7 @@ grm:Introduction-to-Data-Science::greatest
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::frankly
+grp:introduction-to-data-science::frankly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1742,7 +1742,7 @@ grp:Introduction-to-Data-Science::frankly
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::frankly
+grm:introduction-to-data-science::frankly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1783,7 +1783,7 @@ FiveThirtyEight
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Introduction-to-Data-Science::fivethirtyeight
+sec:introduction-to-data-science::fivethirtyeight
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1804,7 +1804,7 @@ sec:Introduction-to-Data-Science::fivethirtyeight
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::considering
+grp:introduction-to-data-science::considering
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1828,7 +1828,7 @@ grp:Introduction-to-Data-Science::considering
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::considering
+grm:introduction-to-data-science::considering
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1866,7 +1866,7 @@ Considering a slightly more complex example of data science, one of the most pub
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::https
+grp:introduction-to-data-science::html
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1890,7 +1890,7 @@ grp:Introduction-to-Data-Science::https
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::https
+grm:introduction-to-data-science::html
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1928,7 +1928,7 @@ grm:Introduction-to-Data-Science::https
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::points
+grp:introduction-to-data-science::points
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1952,7 +1952,7 @@ grp:Introduction-to-Data-Science::points
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::points
+grm:introduction-to-data-science::points
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1990,7 +1990,7 @@ There are a couple of points worth mentioning here.  First of all, the analysis 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::point
+grp:introduction-to-data-science::point
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2014,7 +2014,7 @@ grp:Introduction-to-Data-Science::point
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::point
+grm:introduction-to-data-science::point
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2055,7 +2055,7 @@ Poverty mapping
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Introduction-to-Data-Science::poverty
+sec:introduction-to-data-science::poverty-mapping
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2076,7 +2076,7 @@ sec:Introduction-to-Data-Science::poverty
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::third
+grp:introduction-to-data-science::third
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2100,7 +2100,7 @@ grp:Introduction-to-Data-Science::third
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::third
+grm:introduction-to-data-science::third
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2139,7 +2139,7 @@ We'll end with a third example that goes beyond the first two fairly substantial
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::detect
+grp:introduction-to-data-science::detect
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2163,7 +2163,7 @@ grp:Introduction-to-Data-Science::detect
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::detect
+grm:introduction-to-data-science::detect
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2201,7 +2201,7 @@ And use machine learning to detect the location and type of different roofs in t
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::al
+grp:introduction-to-data-science::roof
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2225,7 +2225,7 @@ grp:Introduction-to-Data-Science::al
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::al
+grm:introduction-to-data-science::roof
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2263,7 +2263,7 @@ grm:Introduction-to-Data-Science::al
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::images
+grp:introduction-to-data-science::images
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2287,7 +2287,7 @@ grp:Introduction-to-Data-Science::images
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::images
+grm:introduction-to-data-science::images
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2325,7 +2325,7 @@ These images were then used by the charity to help target areas of particularly 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::applications
+grp:introduction-to-data-science::applications
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2349,7 +2349,7 @@ grp:Introduction-to-Data-Science::applications
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::applications
+grm:introduction-to-data-science::applications
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2392,7 +2392,7 @@ What is the Practical Data Science course about?
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Introduction-to-Data-Science::practical
+sec:introduction-to-data-science::what-is-the-practical-data-science-course-about
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2413,7 +2413,7 @@ sec:Introduction-to-Data-Science::practical
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::context
+grp:introduction-to-data-science::context
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2437,7 +2437,7 @@ grp:Introduction-to-Data-Science::context
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::context
+grm:introduction-to-data-science::context
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2475,7 +2475,7 @@ So with all this as context, what is this course, Practical Data Science, actual
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::pipeline
+grp:introduction-to-data-science::pipeline
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2499,7 +2499,7 @@ grp:Introduction-to-Data-Science::pipeline
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::pipeline
+grm:introduction-to-data-science::pipeline
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2537,7 +2537,7 @@ grm:Introduction-to-Data-Science::pipeline
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::except
+grp:introduction-to-data-science::except
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2561,7 +2561,7 @@ grp:Introduction-to-Data-Science::except
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::except
+grm:introduction-to-data-science::except
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2599,7 +2599,7 @@ Except in reality, this is virtually never a linear process: experience and insi
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::_4_
+grp:introduction-to-data-science::pipeline2
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2623,7 +2623,7 @@ grp:Introduction-to-Data-Science::_4_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::_3_
+grm:introduction-to-data-science::pipeline2
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2661,7 +2661,7 @@ grm:Introduction-to-Data-Science::_3_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::admittedly
+grp:introduction-to-data-science::admittedly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2685,7 +2685,7 @@ grp:Introduction-to-Data-Science::admittedly
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::admittedly
+grm:introduction-to-data-science::admittedly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2723,7 +2723,7 @@ Admittedly, one thing you will notice from the course schedule, though, is that 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Introduction-to-Data-Science::rationale
+grp:introduction-to-data-science::rationale
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2747,7 +2747,7 @@ grp:Introduction-to-Data-Science::rationale
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Introduction-to-Data-Science::rationale
+grm:introduction-to-data-science::rationale
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...

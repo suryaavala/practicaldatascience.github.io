@@ -14,7 +14,7 @@ Data collection and scraping
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-chapter:Data-collection-and-scraping::data
+ch:data-collection-and-scraping::data-collection-and-scraping
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -35,7 +35,7 @@ chapter:Data-collection-and-scraping::data
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::download
+grp:data-collection-and-scraping::download
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -59,7 +59,7 @@ grp:Data-collection-and-scraping::download
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::download
+grm:data-collection-and-scraping::download
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -98,7 +98,7 @@ Introduction
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Data-collection-and-scraping::introduction
+sec:data-collection-and-scraping::introduction
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -119,7 +119,7 @@ sec:Data-collection-and-scraping::introduction
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::step
+grp:data-collection-and-scraping::step
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -143,7 +143,7 @@ grp:Data-collection-and-scraping::step
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::step
+grm:data-collection-and-scraping::step
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -184,7 +184,7 @@ Collecting data from web-based sources
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Data-collection-and-scraping::collecting
+sec:data-collection-and-scraping::collecting-data-from-web-based-sources
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -205,7 +205,7 @@ sec:Data-collection-and-scraping::collecting
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::general
+grp:data-collection-and-scraping::general
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -229,7 +229,7 @@ grp:Data-collection-and-scraping::general
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::general
+grm:data-collection-and-scraping::general
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -267,7 +267,7 @@ With those general caveats in mind, let's dive a bit more deeply into the specif
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::collecting
+grp:data-collection-and-scraping::collecting
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -291,7 +291,7 @@ grp:Data-collection-and-scraping::collecting
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::collecting
+grm:data-collection-and-scraping::collecting
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -329,7 +329,7 @@ The first step of collecting web-based data is to issue a request for this data 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::works
+grp:data-collection-and-scraping::works
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -353,7 +353,7 @@ grp:Data-collection-and-scraping::works
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::works
+grm:data-collection-and-scraping::works
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -391,7 +391,7 @@ Let's see how this works with some code.  The following code will load data from
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::python
+grp:data-collection-and-scraping::python
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -415,7 +415,7 @@ grp:Data-collection-and-scraping::python
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::python
+grm:data-collection-and-scraping::python
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -463,7 +463,7 @@ print("Headers:", response.headers)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::status
+grp:data-collection-and-scraping::status
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -487,7 +487,7 @@ grp:Data-collection-and-scraping::status
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::status
+grm:data-collection-and-scraping::status
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -529,7 +529,7 @@ Headers: {'Date': 'Mon, 22 Jan 2018 02:39:55 GMT', 'Server': 'Apache', 'x-xss-pr
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::issues
+grp:data-collection-and-scraping::issues
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -553,7 +553,7 @@ grp:Data-collection-and-scraping::issues
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::issues
+grm:data-collection-and-scraping::issues
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -591,7 +591,7 @@ This code issues an "HTTP GET" request to load the content of the paper, and ret
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::print
+grp:data-collection-and-scraping::print
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -615,7 +615,7 @@ grp:Data-collection-and-scraping::print
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::print
+grm:data-collection-and-scraping::print
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -655,7 +655,7 @@ print(response.text[:480])
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::doctype
+grp:data-collection-and-scraping::doctype
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -679,7 +679,7 @@ grp:Data-collection-and-scraping::doctype
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::doctype
+grm:data-collection-and-scraping::doctype
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -735,7 +735,7 @@ grm:Data-collection-and-scraping::doctype
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::point
+grp:data-collection-and-scraping::point
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -759,7 +759,7 @@ grp:Data-collection-and-scraping::point
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::point
+grm:data-collection-and-scraping::point
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -797,7 +797,7 @@ grm:Data-collection-and-scraping::point
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::mind
+grp:data-collection-and-scraping::mind
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -821,7 +821,7 @@ grp:Data-collection-and-scraping::mind
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::mind
+grm:data-collection-and-scraping::mind
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -859,7 +859,7 @@ With all that in mind, let's look at a few more calls we can issue with the libr
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::https
+grp:data-collection-and-scraping::https
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -883,7 +883,7 @@ grp:Data-collection-and-scraping::https
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::https
+grm:data-collection-and-scraping::https
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -921,7 +921,7 @@ https://www.google.com/search?q=python+download+url+content&source=chrome
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::google
+grp:data-collection-and-scraping::google
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -945,7 +945,7 @@ grp:Data-collection-and-scraping::google
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::google
+grm:data-collection-and-scraping::google
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -983,7 +983,7 @@ The `https://www.google.com/search` string is the URL, and everything after the 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::params
+grp:data-collection-and-scraping::params
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1007,7 +1007,7 @@ grp:Data-collection-and-scraping::params
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::params
+grm:data-collection-and-scraping::params
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1051,7 +1051,7 @@ print(response.status_code)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::_2_
+grp:data-collection-and-scraping::_2_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1075,7 +1075,7 @@ grp:Data-collection-and-scraping::_2_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::_1_
+grm:data-collection-and-scraping::_1_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1115,7 +1115,7 @@ grm:Data-collection-and-scraping::_1_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::http
+grp:data-collection-and-scraping::http
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1139,7 +1139,7 @@ grp:Data-collection-and-scraping::http
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::http
+grm:data-collection-and-scraping::http
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1178,7 +1178,7 @@ RESTful APIs
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Data-collection-and-scraping::restful
+sec:data-collection-and-scraping::restful-apis
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1199,7 +1199,7 @@ sec:Data-collection-and-scraping::restful
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::parsing
+grp:data-collection-and-scraping::parsing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1223,7 +1223,7 @@ grp:Data-collection-and-scraping::parsing
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::parsing
+grm:data-collection-and-scraping::parsing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1261,7 +1261,7 @@ While parsing data in HTML (the format returned by these web queries) is sometim
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::call
+grp:data-collection-and-scraping::call
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1285,7 +1285,7 @@ grp:Data-collection-and-scraping::call
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::call
+grm:data-collection-and-scraping::call
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1329,7 +1329,7 @@ grm:Data-collection-and-scraping::call
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::issue
+grp:data-collection-and-scraping::issue
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1353,7 +1353,7 @@ grp:Data-collection-and-scraping::issue
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::issue
+grm:data-collection-and-scraping::issue
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1391,7 +1391,7 @@ Let's see how to issue a REST request using the same method as before.  We'll he
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::github
+grp:data-collection-and-scraping::github
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1415,7 +1415,7 @@ grp:Data-collection-and-scraping::github
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::github
+grm:data-collection-and-scraping::github
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1467,7 +1467,7 @@ print(response.json().keys())
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::application
+grp:data-collection-and-scraping::application
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1491,7 +1491,7 @@ grp:Data-collection-and-scraping::application
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::application
+grm:data-collection-and-scraping::application
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1535,7 +1535,7 @@ dict_keys(['login', 'id', 'avatar_url', 'gravatar_id', 'url', 'html_url', 'follo
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::token
+grp:data-collection-and-scraping::token
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1559,7 +1559,7 @@ grp:Data-collection-and-scraping::token
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::token
+grm:data-collection-and-scraping::token
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1600,7 +1600,7 @@ Authentication
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Data-collection-and-scraping::authentication
+sec:data-collection-and-scraping::authentication
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1621,7 +1621,7 @@ sec:Data-collection-and-scraping::authentication
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::apis
+grp:data-collection-and-scraping::apis
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1645,7 +1645,7 @@ grp:Data-collection-and-scraping::apis
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::apis
+grm:data-collection-and-scraping::apis
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1683,7 +1683,7 @@ Most APIs will use an authentication procedure that is more involved than this e
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::response
+grp:data-collection-and-scraping::response
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1707,7 +1707,7 @@ grp:Data-collection-and-scraping::response
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::response
+grm:data-collection-and-scraping::response
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1749,7 +1749,7 @@ print(response.status_code)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::_4_
+grp:data-collection-and-scraping::_4_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1773,7 +1773,7 @@ grp:Data-collection-and-scraping::_4_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::_3_
+grm:data-collection-and-scraping::_3_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1813,7 +1813,7 @@ grm:Data-collection-and-scraping::_3_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::seen
+grp:data-collection-and-scraping::seen
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1837,7 +1837,7 @@ grp:Data-collection-and-scraping::seen
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::seen
+grm:data-collection-and-scraping::seen
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1880,7 +1880,7 @@ Common data formats and handling
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Data-collection-and-scraping::common
+sec:data-collection-and-scraping::common-data-formats-and-handling
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1901,7 +1901,7 @@ sec:Data-collection-and-scraping::common
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::obtained
+grp:data-collection-and-scraping::obtained
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1925,7 +1925,7 @@ grp:Data-collection-and-scraping::obtained
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::obtained
+grm:data-collection-and-scraping::obtained
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1963,7 +1963,7 @@ Now that you've obtained some data (either by requesting it from a web source, o
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::comma
+grp:data-collection-and-scraping::comma
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1987,7 +1987,7 @@ grp:Data-collection-and-scraping::comma
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::comma
+grm:data-collection-and-scraping::comma
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2032,7 +2032,7 @@ CSV files
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Data-collection-and-scraping::files
+sec:data-collection-and-scraping::csv-files
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2053,7 +2053,7 @@ sec:Data-collection-and-scraping::files
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::name
+grp:data-collection-and-scraping::name
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2077,7 +2077,7 @@ grp:Data-collection-and-scraping::name
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::name
+grm:data-collection-and-scraping::name
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2115,7 +2115,7 @@ The "CSV" name is really a misnomer: CSV doesn't only refer to comma separated v
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::surprisingly
+grp:data-collection-and-scraping::surprisingly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2139,7 +2139,7 @@ grp:Data-collection-and-scraping::surprisingly
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::surprisingly
+grm:data-collection-and-scraping::surprisingly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2177,7 +2177,7 @@ It can be surprisingly hard to find historical weather data in CSV format (most 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::parse
+grp:data-collection-and-scraping::parse
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2201,7 +2201,7 @@ grp:Data-collection-and-scraping::parse
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::parse
+grm:data-collection-and-scraping::parse
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2239,7 +2239,7 @@ To parse CSV files in Python, the most common library to use is [Pandas](https:/
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::import
+grp:data-collection-and-scraping::import
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2263,7 +2263,7 @@ grp:Data-collection-and-scraping::import
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::import
+grm:data-collection-and-scraping::import
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2307,7 +2307,7 @@ dataframe.head()
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::small
+grp:data-collection-and-scraping::small
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2331,7 +2331,7 @@ grp:Data-collection-and-scraping::small
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::small
+grm:data-collection-and-scraping::small
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2777,7 +2777,7 @@ JSON data
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Data-collection-and-scraping::json
+sec:data-collection-and-scraping::json-data
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2798,7 +2798,7 @@ sec:Data-collection-and-scraping::json
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::although
+grp:data-collection-and-scraping::although
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2822,7 +2822,7 @@ grp:Data-collection-and-scraping::although
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::although
+grm:data-collection-and-scraping::although
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2860,7 +2860,7 @@ Although originally built as a data format specific to the Javascript language, 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::numbers
+grp:data-collection-and-scraping::numbers
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2884,7 +2884,7 @@ grp:Data-collection-and-scraping::numbers
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::numbers
+grm:data-collection-and-scraping::numbers
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2932,7 +2932,7 @@ grm:Data-collection-and-scraping::numbers
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::lists
+grp:data-collection-and-scraping::lists
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2956,7 +2956,7 @@ grp:Data-collection-and-scraping::lists
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::lists
+grm:data-collection-and-scraping::lists
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2994,7 +2994,7 @@ Note that lists and dictionaries can be nested within each other, so that, for i
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::key1
+grp:data-collection-and-scraping::key1
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3018,7 +3018,7 @@ grp:Data-collection-and-scraping::key1
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::key1
+grm:data-collection-and-scraping::key1
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3056,7 +3056,7 @@ grm:Data-collection-and-scraping::key1
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::would
+grp:data-collection-and-scraping::would
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3080,7 +3080,7 @@ grp:Data-collection-and-scraping::would
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::would
+grm:data-collection-and-scraping::would
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3118,7 +3118,7 @@ would be a valid JSON object.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::look
+grp:data-collection-and-scraping::look
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3142,7 +3142,7 @@ grp:Data-collection-and-scraping::look
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::look
+grm:data-collection-and-scraping::look
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3180,7 +3180,7 @@ Let's look at the full JSON returned by the GitHub API above:
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::content
+grp:data-collection-and-scraping::content
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3204,7 +3204,7 @@ grp:Data-collection-and-scraping::content
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::content
+grm:data-collection-and-scraping::content
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3244,7 +3244,7 @@ print(response.content)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::login
+grp:data-collection-and-scraping::login
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3268,7 +3268,7 @@ grp:Data-collection-and-scraping::login
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::login
+grm:data-collection-and-scraping::login
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3308,7 +3308,7 @@ b'{"login":"zkolter","id":2465474,"avatar_url":"https://avatars1.githubuserconte
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::already
+grp:data-collection-and-scraping::already
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3332,7 +3332,7 @@ grp:Data-collection-and-scraping::already
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::already
+grm:data-collection-and-scraping::already
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3370,7 +3370,7 @@ We have already seen that we can use the `response.json()` call to convert this 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::json
+grp:data-collection-and-scraping::json
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3394,7 +3394,7 @@ grp:Data-collection-and-scraping::json
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::json
+grm:data-collection-and-scraping::json
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3436,7 +3436,7 @@ print(json.loads(response.content))
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::zkolter
+grp:data-collection-and-scraping::zkolter
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3460,7 +3460,7 @@ grp:Data-collection-and-scraping::zkolter
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::zkolter
+grm:data-collection-and-scraping::zkolter
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3500,7 +3500,7 @@ grm:Data-collection-and-scraping::zkolter
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::data
+grp:data-collection-and-scraping::data
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3524,7 +3524,7 @@ grp:Data-collection-and-scraping::data
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::data
+grm:data-collection-and-scraping::data
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3562,7 +3562,7 @@ If you have the data as a file (i.e., as a file descriptor opened with the Pytho
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::dumps
+grp:data-collection-and-scraping::dumps
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3586,7 +3586,7 @@ grp:Data-collection-and-scraping::dumps
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::dumps
+grm:data-collection-and-scraping::dumps
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3628,7 +3628,7 @@ json.dumps(data)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::_6_
+grp:data-collection-and-scraping::_6_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3652,7 +3652,7 @@ grp:Data-collection-and-scraping::_6_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::_5_
+grm:data-collection-and-scraping::_5_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3692,7 +3692,7 @@ grm:Data-collection-and-scraping::_5_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::notice
+grp:data-collection-and-scraping::notice
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3716,7 +3716,7 @@ grp:Data-collection-and-scraping::notice
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::notice
+grm:data-collection-and-scraping::notice
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3754,7 +3754,7 @@ Notice that Python code, unlike JSON, can include single quotes to denote string
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::_8_
+grp:data-collection-and-scraping::_8_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3778,7 +3778,7 @@ grp:Data-collection-and-scraping::_8_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::_7_
+grm:data-collection-and-scraping::_7_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3818,7 +3818,7 @@ json.dumps(response)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::typeerror
+grp:data-collection-and-scraping::typeerror
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3842,7 +3842,7 @@ grp:Data-collection-and-scraping::typeerror
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::typeerror
+grm:data-collection-and-scraping::typeerror
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3885,7 +3885,7 @@ XML/HTML
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Data-collection-and-scraping::html
+sec:data-collection-and-scraping::xml-html
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3906,7 +3906,7 @@ sec:Data-collection-and-scraping::html
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::format
+grp:data-collection-and-scraping::format
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3930,7 +3930,7 @@ grp:Data-collection-and-scraping::format
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::format
+grm:data-collection-and-scraping::format
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3968,7 +3968,7 @@ Last, another format you will likely encoder are XML/HTML documents, though my a
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::contains
+grp:data-collection-and-scraping::contains
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3992,7 +3992,7 @@ grp:Data-collection-and-scraping::contains
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::contains
+grm:data-collection-and-scraping::contains
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4030,7 +4030,7 @@ XML contains "open" tags denoted by brackets, like `<tag>`, which are then close
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::html
+grp:data-collection-and-scraping::html
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4054,7 +4054,7 @@ grp:Data-collection-and-scraping::html
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::html
+grm:data-collection-and-scraping::html
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4092,7 +4092,7 @@ HTML, the standard for describing web pages, may seem syntactically similar to X
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::beautifulsoup
+grp:data-collection-and-scraping::beautifulsoup
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4116,7 +4116,7 @@ grp:Data-collection-and-scraping::beautifulsoup
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::beautifulsoup
+grm:data-collection-and-scraping::beautifulsoup
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4188,7 +4188,7 @@ print(root.tag.openclosetag.attrs)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::version
+grp:data-collection-and-scraping::version
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4212,7 +4212,7 @@ grp:Data-collection-and-scraping::version
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::version
+grm:data-collection-and-scraping::version
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4282,7 +4282,7 @@ grm:Data-collection-and-scraping::version
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::creates
+grp:data-collection-and-scraping::creates
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4306,7 +4306,7 @@ grp:Data-collection-and-scraping::creates
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::creates
+grm:data-collection-and-scraping::creates
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4344,7 +4344,7 @@ The `BeautifulSoup()` call creates the object to parse, where the second argumen
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::root
+grp:data-collection-and-scraping::root
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4368,7 +4368,7 @@ grp:Data-collection-and-scraping::root
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::root
+grm:data-collection-and-scraping::root
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4408,7 +4408,7 @@ print(root.tag.find_all("subtag"))
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::subtag
+grp:data-collection-and-scraping::subtag
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4432,7 +4432,7 @@ grp:Data-collection-and-scraping::subtag
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::subtag
+grm:data-collection-and-scraping::subtag
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4480,7 +4480,7 @@ grm:Data-collection-and-scraping::subtag
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::nice
+grp:data-collection-and-scraping::nice
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4504,7 +4504,7 @@ grp:Data-collection-and-scraping::nice
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::nice
+grm:data-collection-and-scraping::nice
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4542,7 +4542,7 @@ The nice thing about the `find_all` function is that you can call it at previous
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::find
+grp:data-collection-and-scraping::find
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4566,7 +4566,7 @@ grp:Data-collection-and-scraping::find
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::find
+grm:data-collection-and-scraping::find
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4606,7 +4606,7 @@ print(root.find_all("subtag"))
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::one
+grp:data-collection-and-scraping::one
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4630,7 +4630,7 @@ grp:Data-collection-and-scraping::one
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::one
+grm:data-collection-and-scraping::one
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4678,7 +4678,7 @@ grm:Data-collection-and-scraping::one
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::slightly
+grp:data-collection-and-scraping::slightly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4702,7 +4702,7 @@ grp:Data-collection-and-scraping::slightly
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::slightly
+grm:data-collection-and-scraping::slightly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4740,7 +4740,7 @@ Let's end with a slightly more complex example, that looks through the CMU homep
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::requests
+grp:data-collection-and-scraping::requests
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4764,7 +4764,7 @@ grp:Data-collection-and-scraping::requests
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::requests
+grm:data-collection-and-scraping::requests
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4812,7 +4812,7 @@ for div in root.find_all("div", class_="events"):
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::service
+grp:data-collection-and-scraping::service
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4836,7 +4836,7 @@ grp:Data-collection-and-scraping::service
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::service
+grm:data-collection-and-scraping::service
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4903,7 +4903,7 @@ Regular expressions
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Data-collection-and-scraping::regular
+sec:data-collection-and-scraping::regular-expressions
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4924,7 +4924,7 @@ sec:Data-collection-and-scraping::regular
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::tool
+grp:data-collection-and-scraping::tool
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4948,7 +4948,7 @@ grp:Data-collection-and-scraping::tool
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::tool
+grm:data-collection-and-scraping::tool
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4987,7 +4987,7 @@ Finding
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Data-collection-and-scraping::finding
+sec:data-collection-and-scraping::finding
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5008,7 +5008,7 @@ sec:Data-collection-and-scraping::finding
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::start
+grp:data-collection-and-scraping::start
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5032,7 +5032,7 @@ grp:Data-collection-and-scraping::start
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::start
+grm:data-collection-and-scraping::start
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5070,7 +5070,7 @@ Let's start with the most basic example, that simply searches text for some stin
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::text
+grp:data-collection-and-scraping::text
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5094,7 +5094,7 @@ grp:Data-collection-and-scraping::text
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::text
+grm:data-collection-and-scraping::text
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5140,7 +5140,7 @@ print(match.start())
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::_10_
+grp:data-collection-and-scraping::_10_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5164,7 +5164,7 @@ grp:Data-collection-and-scraping::_10_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::_9_
+grm:data-collection-and-scraping::_9_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5204,7 +5204,7 @@ grm:Data-collection-and-scraping::_9_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::element
+grp:data-collection-and-scraping::element
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5228,7 +5228,7 @@ grp:Data-collection-and-scraping::element
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::element
+grm:data-collection-and-scraping::element
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5269,7 +5269,7 @@ The important element here is the `re.search(r"data science", text)` call.  It s
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::return
+grp:data-collection-and-scraping::return
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5293,7 +5293,7 @@ grp:Data-collection-and-scraping::return
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::return
+grm:data-collection-and-scraping::return
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5331,7 +5331,7 @@ For example, the following code would return `None`, since there is no match to 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::match
+grp:data-collection-and-scraping::match
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5355,7 +5355,7 @@ grp:Data-collection-and-scraping::match
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::match
+grm:data-collection-and-scraping::match
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5397,7 +5397,7 @@ print(match)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::none
+grp:data-collection-and-scraping::none
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5421,7 +5421,7 @@ grp:Data-collection-and-scraping::none
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::none
+grm:data-collection-and-scraping::none
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5461,7 +5461,7 @@ None
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::could
+grp:data-collection-and-scraping::could
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5485,7 +5485,7 @@ grp:Data-collection-and-scraping::could
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::could
+grm:data-collection-and-scraping::could
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5523,7 +5523,7 @@ Similarly, we could use `re.finditer()` to list the location of all the 'i' char
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::finditer
+grp:data-collection-and-scraping::finditer
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5547,7 +5547,7 @@ grp:Data-collection-and-scraping::finditer
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::finditer
+grm:data-collection-and-scraping::finditer
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5589,7 +5589,7 @@ for match in re.finditer(r"i", text):
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::_12_
+grp:data-collection-and-scraping::_12_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5613,7 +5613,7 @@ grp:Data-collection-and-scraping::_12_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::_11_
+grm:data-collection-and-scraping::_11_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5661,7 +5661,7 @@ grm:Data-collection-and-scraping::_11_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::hand
+grp:data-collection-and-scraping::hand
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5685,7 +5685,7 @@ grp:Data-collection-and-scraping::hand
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::hand
+grm:data-collection-and-scraping::hand
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5723,7 +5723,7 @@ On the other hand, `re.findall()` just returns a list of the matched strings, wi
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::findall
+grp:data-collection-and-scraping::findall
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5747,7 +5747,7 @@ grp:Data-collection-and-scraping::findall
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::findall
+grm:data-collection-and-scraping::findall
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5787,7 +5787,7 @@ re.findall(r"i", text)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::_14_
+grp:data-collection-and-scraping::_14_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5811,7 +5811,7 @@ grp:Data-collection-and-scraping::_14_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::_13_
+grm:data-collection-and-scraping::_13_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5851,7 +5851,7 @@ grm:Data-collection-and-scraping::_13_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::seem
+grp:data-collection-and-scraping::seem
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5875,7 +5875,7 @@ grp:Data-collection-and-scraping::seem
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::seem
+grm:data-collection-and-scraping::seem
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5913,7 +5913,7 @@ This last call may not seem particularly useful, but especially when you use mor
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::regex
+grp:data-collection-and-scraping::regex
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5937,7 +5937,7 @@ grp:Data-collection-and-scraping::regex
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::regex
+grm:data-collection-and-scraping::regex
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5979,7 +5979,7 @@ regex.search(text)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::object
+grp:data-collection-and-scraping::object
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6003,7 +6003,7 @@ grp:Data-collection-and-scraping::object
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::object
+grm:data-collection-and-scraping::object
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6043,7 +6043,7 @@ grm:Data-collection-and-scraping::object
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::given
+grp:data-collection-and-scraping::given
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6067,7 +6067,7 @@ grp:Data-collection-and-scraping::given
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::given
+grm:data-collection-and-scraping::given
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6108,7 +6108,7 @@ Matching multiple potential strings
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Data-collection-and-scraping::matching
+sec:data-collection-and-scraping::matching-multiple-potential-strings
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6129,7 +6129,7 @@ sec:Data-collection-and-scraping::matching
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::using
+grp:data-collection-and-scraping::using
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6153,7 +6153,7 @@ grp:Data-collection-and-scraping::using
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::using
+grm:data-collection-and-scraping::using
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6191,7 +6191,7 @@ While using regular expressions to search for a string within a long piece of te
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::character
+grp:data-collection-and-scraping::character
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6215,7 +6215,7 @@ grp:Data-collection-and-scraping::character
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::character
+grm:data-collection-and-scraping::character
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6267,7 +6267,7 @@ grm:Data-collection-and-scraping::character
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::regular
+grp:data-collection-and-scraping::regular
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6291,7 +6291,7 @@ grp:Data-collection-and-scraping::regular
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::regular
+grm:data-collection-and-scraping::regular
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6329,7 +6329,7 @@ As an example, the following regular expression will match "data science" regard
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::search
+grp:data-collection-and-scraping::search
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6353,7 +6353,7 @@ grp:Data-collection-and-scraping::search
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::search
+grm:data-collection-and-scraping::search
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6393,7 +6393,7 @@ print(re.search(r"[Dd]ata\s[Ss]cience", text))
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::span
+grp:data-collection-and-scraping::span
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6417,7 +6417,7 @@ grp:Data-collection-and-scraping::span
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::span
+grm:data-collection-and-scraping::span
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6457,7 +6457,7 @@ grm:Data-collection-and-scraping::span
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::objects
+grp:data-collection-and-scraping::objects
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6481,7 +6481,7 @@ grp:Data-collection-and-scraping::objects
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::objects
+grm:data-collection-and-scraping::objects
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6519,7 +6519,7 @@ Note that now the match objects also now include what was the particular text th
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::feature
+grp:data-collection-and-scraping::feature
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6543,7 +6543,7 @@ grp:Data-collection-and-scraping::feature
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::feature
+grm:data-collection-and-scraping::feature
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6586,7 +6586,7 @@ The second important feature of regular expressions it the ability to match mult
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::rules
+grp:data-collection-and-scraping::rules
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6610,7 +6610,7 @@ grp:Data-collection-and-scraping::rules
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::rules
+grm:data-collection-and-scraping::rules
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6648,7 +6648,7 @@ These rules can of course be combined with the rules to match potentially very c
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::science
+grp:data-collection-and-scraping::science
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6672,7 +6672,7 @@ grp:Data-collection-and-scraping::science
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::science
+grm:data-collection-and-scraping::science
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6716,7 +6716,7 @@ print(re.match("\w+\s+science", "0123_abcd science"))
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::life
+grp:data-collection-and-scraping::life
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6740,7 +6740,7 @@ grp:Data-collection-and-scraping::life
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::life
+grm:data-collection-and-scraping::life
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6784,7 +6784,7 @@ grm:Data-collection-and-scraping::life
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::kinds
+grp:data-collection-and-scraping::kinds
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6808,7 +6808,7 @@ grp:Data-collection-and-scraping::kinds
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::kinds
+grm:data-collection-and-scraping::kinds
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6846,7 +6846,7 @@ These kinds of matching, even with relatively simple starting points, can lead t
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::regexgolf
+grp:data-collection-and-scraping::include
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6870,7 +6870,7 @@ grp:Data-collection-and-scraping::regexgolf
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::regexgolf
+grm:data-collection-and-scraping::include
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6908,7 +6908,7 @@ grm:Data-collection-and-scraping::regexgolf
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::aside
+grp:data-collection-and-scraping::aside
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6932,7 +6932,7 @@ grp:Data-collection-and-scraping::aside
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::aside
+grm:data-collection-and-scraping::aside
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6970,7 +6970,7 @@ grm:Data-collection-and-scraping::aside
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::_16_
+grp:data-collection-and-scraping::_16_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6994,7 +6994,7 @@ grp:Data-collection-and-scraping::_16_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::_15_
+grm:data-collection-and-scraping::_15_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7036,7 +7036,7 @@ print(r"\\")
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::_18_
+grp:data-collection-and-scraping::_18_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7060,7 +7060,7 @@ grp:Data-collection-and-scraping::_18_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::_17_
+grm:data-collection-and-scraping::_17_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7105,7 +7105,7 @@ Grouping
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Data-collection-and-scraping::grouping
+sec:data-collection-and-scraping::grouping
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7126,7 +7126,7 @@ sec:Data-collection-and-scraping::grouping
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::ability
+grp:data-collection-and-scraping::ability
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7150,7 +7150,7 @@ grp:Data-collection-and-scraping::ability
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::ability
+grm:data-collection-and-scraping::ability
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7188,7 +7188,7 @@ Beyond the ability to just match strings, regular expressions also let you easil
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::cience
+grp:data-collection-and-scraping::cience
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7212,7 +7212,7 @@ grp:Data-collection-and-scraping::cience
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::cience
+grm:data-collection-and-scraping::cience
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7254,7 +7254,7 @@ print(match.groups())
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::_20_
+grp:data-collection-and-scraping::_20_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7278,7 +7278,7 @@ grp:Data-collection-and-scraping::_20_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::_19_
+grm:data-collection-and-scraping::_19_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7318,7 +7318,7 @@ grm:Data-collection-and-scraping::_19_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::group
+grp:data-collection-and-scraping::group
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7342,7 +7342,7 @@ grp:Data-collection-and-scraping::group
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::group
+grm:data-collection-and-scraping::group
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7380,7 +7380,7 @@ The `.group(i)` notation also lets you easily find just individual groups, `.gro
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::re
+grp:data-collection-and-scraping::re
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7404,7 +7404,7 @@ grp:Data-collection-and-scraping::re
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::re
+grm:data-collection-and-scraping::re
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7450,7 +7450,7 @@ print(match.group(2))
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::_22_
+grp:data-collection-and-scraping::_22_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7474,7 +7474,7 @@ grp:Data-collection-and-scraping::_22_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::_21_
+grm:data-collection-and-scraping::_21_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7521,7 +7521,7 @@ Substitutions
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Data-collection-and-scraping::substitutions
+sec:data-collection-and-scraping::substitutions
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7542,7 +7542,7 @@ sec:Data-collection-and-scraping::substitutions
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::expression
+grp:data-collection-and-scraping::expression
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7566,7 +7566,7 @@ grp:Data-collection-and-scraping::expression
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::expression
+grm:data-collection-and-scraping::expression
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7604,7 +7604,7 @@ Regular expression can also be used to automatically substitute one expression f
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::schmience
+grp:data-collection-and-scraping::schmience
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7628,7 +7628,7 @@ grp:Data-collection-and-scraping::schmience
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::schmience
+grm:data-collection-and-scraping::schmience
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7668,7 +7668,7 @@ print(re.sub(r"data science", r"data schmience", text))
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::course
+grp:data-collection-and-scraping::course
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7692,7 +7692,7 @@ grp:Data-collection-and-scraping::course
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::course
+grm:data-collection-and-scraping::course
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7732,7 +7732,7 @@ This course will introduce the basics of data schmience
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::gets
+grp:data-collection-and-scraping::gets
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7756,7 +7756,7 @@ grp:Data-collection-and-scraping::gets
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::gets
+grm:data-collection-and-scraping::gets
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7794,7 +7794,7 @@ Where this gets really powerful is when we use groups in the first regular expre
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::2chmience
+grp:data-collection-and-scraping::2chmience
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7818,7 +7818,7 @@ grp:Data-collection-and-scraping::2chmience
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::2chmience
+grm:data-collection-and-scraping::2chmience
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7860,7 +7860,7 @@ print(re.sub(r"(\w+) ([Ss])cience", r"\1 \2chmience", "Life Science"))
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::introduce
+grp:data-collection-and-scraping::introduce
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7884,7 +7884,7 @@ grp:Data-collection-and-scraping::introduce
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::introduce
+grm:data-collection-and-scraping::introduce
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7926,7 +7926,7 @@ Life Schmience
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::imagine
+grp:data-collection-and-scraping::imagine
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7950,7 +7950,7 @@ grp:Data-collection-and-scraping::imagine
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::imagine
+grm:data-collection-and-scraping::imagine
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7991,7 +7991,7 @@ Miscellaneous items
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Data-collection-and-scraping::miscellaneous
+sec:data-collection-and-scraping::miscellaneous-items
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8012,7 +8012,7 @@ sec:Data-collection-and-scraping::miscellaneous
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::points
+grp:data-collection-and-scraping::points
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8036,7 +8036,7 @@ grp:Data-collection-and-scraping::points
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::points
+grm:data-collection-and-scraping::points
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8074,7 +8074,7 @@ There are a few last points that we'll discuss here, mainly because they can be 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::order
+grp:data-collection-and-scraping::order
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8098,7 +8098,7 @@ grp:Data-collection-and-scraping::order
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::order
+grm:data-collection-and-scraping::order
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8136,7 +8136,7 @@ grm:Data-collection-and-scraping::order
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::abc
+grp:data-collection-and-scraping::abc
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8160,7 +8160,7 @@ grp:Data-collection-and-scraping::abc
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::abc
+grm:data-collection-and-scraping::abc
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8202,7 +8202,7 @@ print(re.match(r"abc|def", "def"))
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::sre
+grp:data-collection-and-scraping::sre
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8226,7 +8226,7 @@ grp:Data-collection-and-scraping::sre
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::sre
+grm:data-collection-and-scraping::sre
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8268,7 +8268,7 @@ grm:Data-collection-and-scraping::sre
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::want
+grp:data-collection-and-scraping::want
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8292,7 +8292,7 @@ grp:Data-collection-and-scraping::want
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::want
+grm:data-collection-and-scraping::want
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8330,7 +8330,7 @@ But what if we want to match the string "ab*(c or d)*ef"?  We can capture this i
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::abdef
+grp:data-collection-and-scraping::abdef
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8354,7 +8354,7 @@ grp:Data-collection-and-scraping::abdef
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::abdef
+grm:data-collection-and-scraping::abdef
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8396,7 +8396,7 @@ print(re.match(r"ab(c|d)ef", "abdef"))
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::_24_
+grp:data-collection-and-scraping::_24_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8420,7 +8420,7 @@ grp:Data-collection-and-scraping::_24_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::_23_
+grm:data-collection-and-scraping::_23_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8462,7 +8462,7 @@ None
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::parentheses
+grp:data-collection-and-scraping::parentheses
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8486,7 +8486,7 @@ grp:Data-collection-and-scraping::parentheses
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::parentheses
+grm:data-collection-and-scraping::parentheses
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8524,7 +8524,7 @@ But, of course, since we also use the parentheses for specifying groups, this me
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::groups
+grp:data-collection-and-scraping::groups
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8548,7 +8548,7 @@ grp:Data-collection-and-scraping::groups
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::groups
+grm:data-collection-and-scraping::groups
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8590,7 +8590,7 @@ print(re.match(r"ab(?:c|d)ef", "abdef").groups())
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::_26_
+grp:data-collection-and-scraping::_26_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8614,7 +8614,7 @@ grp:Data-collection-and-scraping::_26_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::_25_
+grm:data-collection-and-scraping::_25_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8656,7 +8656,7 @@ grm:Data-collection-and-scraping::_25_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::greedy
+grp:data-collection-and-scraping::greedy
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8680,7 +8680,7 @@ grp:Data-collection-and-scraping::greedy
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::greedy
+grm:data-collection-and-scraping::greedy
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8718,7 +8718,7 @@ grm:Data-collection-and-scraping::greedy
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::hello
+grp:data-collection-and-scraping::hello
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8742,7 +8742,7 @@ grp:Data-collection-and-scraping::hello
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::hello
+grm:data-collection-and-scraping::hello
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8782,7 +8782,7 @@ print(re.match(r"<.*>", "<tag>hello</tag>"))
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::tag
+grp:data-collection-and-scraping::tag
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8806,7 +8806,7 @@ grp:Data-collection-and-scraping::tag
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::tag
+grm:data-collection-and-scraping::tag
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8846,7 +8846,7 @@ grm:Data-collection-and-scraping::tag
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::case
+grp:data-collection-and-scraping::case
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8870,7 +8870,7 @@ grp:Data-collection-and-scraping::case
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::case
+grm:data-collection-and-scraping::case
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8908,7 +8908,7 @@ In the case where you don't want this, but would instead want you match the _sma
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::_28_
+grp:data-collection-and-scraping::_28_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8932,7 +8932,7 @@ grp:Data-collection-and-scraping::_28_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::_27_
+grm:data-collection-and-scraping::_27_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8972,7 +8972,7 @@ print(re.match(r"<.*?>", "<tag>hello</tag>"))
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::_30_
+grp:data-collection-and-scraping::_30_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8996,7 +8996,7 @@ grp:Data-collection-and-scraping::_30_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::_29_
+grm:data-collection-and-scraping::_29_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9039,7 +9039,7 @@ Final note
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Data-collection-and-scraping::final
+sec:data-collection-and-scraping::final-note
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9060,7 +9060,7 @@ sec:Data-collection-and-scraping::final
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::good
+grp:data-collection-and-scraping::good
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9084,7 +9084,7 @@ grp:Data-collection-and-scraping::good
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::good
+grm:data-collection-and-scraping::good
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9122,7 +9122,7 @@ As one last note, while it is good to run through all of these aspects of regula
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::anything
+grp:data-collection-and-scraping::anything
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9146,7 +9146,7 @@ grp:Data-collection-and-scraping::anything
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::anything
+grm:data-collection-and-scraping::anything
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9189,7 +9189,7 @@ References
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Data-collection-and-scraping::references
+sec:data-collection-and-scraping::references
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9210,7 +9210,7 @@ sec:Data-collection-and-scraping::references
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Data-collection-and-scraping::library
+grp:data-collection-and-scraping::library
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9234,7 +9234,7 @@ grp:Data-collection-and-scraping::library
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Data-collection-and-scraping::library
+grm:data-collection-and-scraping::library
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...

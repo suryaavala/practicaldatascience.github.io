@@ -14,7 +14,7 @@ Free text processing
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-chapter:Free-text-processing::free
+ch:free-text-processing::free-text-processing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -35,7 +35,7 @@ chapter:Free-text-processing::free
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::download
+grp:free-text-processing::download
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -59,7 +59,7 @@ grp:Free-text-processing::download
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::download
+grm:free-text-processing::download
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -98,7 +98,7 @@ Introduction
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Free-text-processing::introduction
+sec:free-text-processing::introduction
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -119,7 +119,7 @@ sec:Free-text-processing::introduction
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::focuses
+grp:free-text-processing::focuses
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -143,7 +143,7 @@ grp:Free-text-processing::focuses
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::focuses
+grm:free-text-processing::focuses
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -181,7 +181,7 @@ This set of notes focuses on processing free text data.  In addition to the more
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::course
+grp:free-text-processing::course
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -205,7 +205,7 @@ grp:Free-text-processing::course
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::course
+grm:free-text-processing::course
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -243,7 +243,7 @@ This is not to say, of course, that free text data lacks structure.  Just the op
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::naturally
+grp:free-text-processing::naturally
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -267,7 +267,7 @@ grp:Free-text-processing::naturally
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::naturally
+grm:free-text-processing::naturally
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -305,7 +305,7 @@ This is also naturally a debatable point, and this particular perspective on fre
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::primary
+grp:free-text-processing::primary
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -329,7 +329,7 @@ grp:Free-text-processing::primary
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::primary
+grm:free-text-processing::primary
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -370,7 +370,7 @@ Free text in data science
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Free-text-processing::text
+sec:free-text-processing::free
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -391,7 +391,7 @@ sec:Free-text-processing::text
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::mentioned
+grp:free-text-processing::mentioned
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -415,7 +415,7 @@ grp:Free-text-processing::mentioned
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::mentioned
+grm:free-text-processing::mentioned
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -454,7 +454,7 @@ Natural language processing/understanding
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Free-text-processing::natural
+sec:free-text-processing::natural-language-processing-understanding
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -475,7 +475,7 @@ sec:Free-text-processing::natural
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::general
+grp:free-text-processing::general
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -499,7 +499,7 @@ grp:Free-text-processing::general
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::general
+grm:free-text-processing::general
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -537,7 +537,7 @@ The general field of Natural Language Processing (some might differentiate betwe
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::city
+grp:free-text-processing::city
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -561,7 +561,7 @@ grp:Free-text-processing::city
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::city
+grm:free-text-processing::city
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -601,7 +601,7 @@ grm:Free-text-processing::city
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::read
+grp:free-text-processing::read
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -625,7 +625,7 @@ grp:Free-text-processing::read
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::read
+grm:free-text-processing::read
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -663,7 +663,7 @@ If you read the sentence:
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::councilmen
+grp:free-text-processing::councilmen
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -687,7 +687,7 @@ grp:Free-text-processing::councilmen
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::councilmen
+grm:free-text-processing::councilmen
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -727,7 +727,7 @@ grm:Free-text-processing::councilmen
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::fairly
+grp:free-text-processing::fairly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -751,7 +751,7 @@ grp:Free-text-processing::fairly
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::fairly
+grm:free-text-processing::fairly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -789,7 +789,7 @@ then it is fairly obviously that the "they" here refers to the city councilmen; 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::refused
+grp:free-text-processing::refused
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -813,7 +813,7 @@ grp:Free-text-processing::refused
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::refused
+grm:free-text-processing::refused
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -853,7 +853,7 @@ grm:Free-text-processing::refused
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::term
+grp:free-text-processing::term
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -877,7 +877,7 @@ grp:Free-text-processing::term
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::term
+grm:free-text-processing::term
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -918,7 +918,7 @@ Free text in data science
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Free-text-processing::free
+sec:free-text-processing::free-text-in-data-science
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -939,7 +939,7 @@ sec:Free-text-processing::free
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::fortunately
+grp:free-text-processing::fortunately
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -963,7 +963,7 @@ grp:Free-text-processing::fortunately
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::fortunately
+grm:free-text-processing::fortunately
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1001,7 +1001,7 @@ Fortunately, for many data science tasks, we can still extract considerable info
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::truly
+grp:free-text-processing::truly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1025,7 +1025,7 @@ grp:Free-text-processing::truly
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::truly
+grm:free-text-processing::truly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1065,7 +1065,7 @@ grm:Free-text-processing::truly
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::_2_
+grp:free-text-processing::_2_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1089,7 +1089,7 @@ grp:Free-text-processing::_2_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::_1_
+grm:free-text-processing::_1_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1127,7 +1127,7 @@ and
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::loud
+grp:free-text-processing::loud
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1151,7 +1151,7 @@ grp:Free-text-processing::loud
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::loud
+grm:free-text-processing::loud
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1191,7 +1191,7 @@ grm:Free-text-processing::loud
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::understanding
+grp:free-text-processing::understanding
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1215,7 +1215,7 @@ grp:Free-text-processing::understanding
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::understanding
+grm:free-text-processing::understanding
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1253,7 +1253,7 @@ Understanding that the first review is positive, while the second review is nega
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::context
+grp:free-text-processing::context
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1277,7 +1277,7 @@ grp:Free-text-processing::context
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::context
+grm:free-text-processing::context
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1315,7 +1315,7 @@ With this as context, these notes cover three different examples of methods for 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::words
+grp:free-text-processing::words
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1339,7 +1339,7 @@ grp:Free-text-processing::words
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::words
+grm:free-text-processing::words
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1383,7 +1383,7 @@ grm:Free-text-processing::words
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::terminology
+grp:free-text-processing::terminology
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1407,7 +1407,7 @@ grp:Free-text-processing::terminology
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::terminology
+grm:free-text-processing::terminology
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1450,7 +1450,7 @@ Bag of words models and TFIDF
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Free-text-processing::words
+sec:free-text-processing::bag-of-words-models-and-tfidf
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1471,7 +1471,7 @@ sec:Free-text-processing::words
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::model
+grp:free-text-processing::model
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1495,7 +1495,7 @@ grp:Free-text-processing::model
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::model
+grm:free-text-processing::model
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1533,7 +1533,7 @@ The bag of words model is by far the most common means of representing documents
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::python
+grp:free-text-processing::python
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1557,7 +1557,7 @@ grp:Free-text-processing::python
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::python
+grm:free-text-processing::python
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1615,7 +1615,7 @@ wc.to_image()
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::image
+grp:free-text-processing::image
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1639,7 +1639,7 @@ grp:Free-text-processing::image
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::image
+grm:free-text-processing::image
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1681,7 +1681,7 @@ grm:Free-text-processing::image
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::page
+grp:free-text-processing::include
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1705,7 +1705,7 @@ grp:Free-text-processing::page
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::page
+grm:free-text-processing::include
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1743,7 +1743,7 @@ grm:Free-text-processing::page
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::despite
+grp:free-text-processing::despite
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1767,7 +1767,7 @@ grp:Free-text-processing::despite
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::despite
+grm:free-text-processing::despite
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1805,7 +1805,7 @@ Despite the obvious information we are throwing away with this representation, i
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::cover
+grp:free-text-processing::cover
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1829,7 +1829,7 @@ grp:Free-text-processing::cover
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::cover
+grm:free-text-processing::cover
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1868,7 +1868,7 @@ Term frequency
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Free-text-processing::term
+sec:free-text-processing::term-frequency
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1889,7 +1889,7 @@ sec:Free-text-processing::term
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::corpus
+grp:free-text-processing::corpus
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1913,7 +1913,7 @@ grp:Free-text-processing::corpus
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::corpus
+grm:free-text-processing::corpus
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1951,7 +1951,7 @@ In our example, let's begin with our corpus that contains the following three do
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::documents
+grp:free-text-processing::documents
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1975,7 +1975,7 @@ grp:Free-text-processing::documents
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::documents
+grm:free-text-processing::documents
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2019,7 +2019,7 @@ documents = ["the goal of this lecture is to explain the basics of free text pro
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::setting
+grp:free-text-processing::setting
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2043,7 +2043,7 @@ grp:Free-text-processing::setting
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::setting
+grm:free-text-processing::setting
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2081,7 +2081,7 @@ In this setting, we can represent the documents using a _term frequency_ matrix,
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::document
+grp:free-text-processing::document
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2105,7 +2105,7 @@ grp:Free-text-processing::document
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::document
+grm:free-text-processing::document
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2153,7 +2153,7 @@ print(vocab_dict, "\n")
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::approach
+grp:free-text-processing::approach
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2177,7 +2177,7 @@ grp:Free-text-processing::approach
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::approach
+grm:free-text-processing::approach
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2225,7 +2225,7 @@ grm:Free-text-processing::approach
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::construct
+grp:free-text-processing::construct
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2249,7 +2249,7 @@ grp:Free-text-processing::construct
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::construct
+grm:free-text-processing::construct
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2287,7 +2287,7 @@ Now let's construct a matrix that contains word counts (term frequencies) for al
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::import
+grp:free-text-processing::import
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2311,7 +2311,7 @@ grp:Free-text-processing::import
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::import
+grm:free-text-processing::import
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2361,7 +2361,7 @@ print(X_tf)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::pre
+grp:free-text-processing::pre
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2385,7 +2385,7 @@ grp:Free-text-processing::pre
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::pre
+grm:free-text-processing::pre
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2431,7 +2431,7 @@ grm:Free-text-processing::pre
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::rows
+grp:free-text-processing::rows
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2455,7 +2455,7 @@ grp:Free-text-processing::rows
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::rows
+grm:free-text-processing::rows
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2493,7 +2493,7 @@ As mentioned above, each of the _rows_ in this matrix correponds to one of the t
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::case
+grp:free-text-processing::case
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2517,7 +2517,7 @@ grp:Free-text-processing::case
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::case
+grm:free-text-processing::case
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2555,7 +2555,7 @@ In this case, we had the entry in our term frequency matrix just correspond to t
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::entry
+grp:free-text-processing::entry
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2579,7 +2579,7 @@ grp:Free-text-processing::entry
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::entry
+grm:free-text-processing::entry
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2626,7 +2626,7 @@ Inverse document frequency
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Free-text-processing::inverse
+sec:free-text-processing::inverse-document-frequency
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2647,7 +2647,7 @@ sec:Free-text-processing::inverse
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::obvious
+grp:free-text-processing::obvious
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2671,7 +2671,7 @@ grp:Free-text-processing::obvious
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::obvious
+grm:free-text-processing::obvious
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2709,7 +2709,7 @@ An obvious issue with using normal term frequency counts to represent a document
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::accomplished
+grp:free-text-processing::accomplished
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2733,7 +2733,7 @@ grp:Free-text-processing::accomplished
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::accomplished
+grm:free-text-processing::accomplished
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2771,7 +2771,7 @@ This can be accomplished via the inverse document frequency weight for words.  J
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::word
+grp:free-text-processing::word
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2795,7 +2795,7 @@ grp:Free-text-processing::word
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::word
+grm:free-text-processing::word
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2837,7 +2837,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::contained
+grp:free-text-processing::contained
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2861,7 +2861,7 @@ grp:Free-text-processing::contained
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::contained
+grm:free-text-processing::contained
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2899,7 +2899,7 @@ As an example, if the word is contained in every document, then the inverse docu
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::inverse
+grp:free-text-processing::inverse
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2923,7 +2923,7 @@ grp:Free-text-processing::inverse
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::inverse
+grm:free-text-processing::inverse
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2961,7 +2961,7 @@ Note that inverse document frequency is a _per word_ term, as opposed to term fr
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::shape
+grp:free-text-processing::shape
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2985,7 +2985,7 @@ grp:Free-text-processing::shape
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::shape
+grm:free-text-processing::shape
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3027,7 +3027,7 @@ print(idf)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::_4_
+grp:free-text-processing::_4_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3051,7 +3051,7 @@ grp:Free-text-processing::_4_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::_3_
+grm:free-text-processing::_3_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3102,7 +3102,7 @@ TFIDF
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Free-text-processing::tfidf
+sec:free-text-processing::tfidf
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3123,7 +3123,7 @@ sec:Free-text-processing::tfidf
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::frequency
+grp:free-text-processing::frequency
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3147,7 +3147,7 @@ grp:Free-text-processing::frequency
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::frequency
+grm:free-text-processing::frequency
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3185,7 +3185,7 @@ The term frequency inverse document frequency (TFIDF) combination simply scales 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::tfidf
+grp:free-text-processing::tfidf
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3209,7 +3209,7 @@ grp:Free-text-processing::tfidf
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::tfidf
+grm:free-text-processing::tfidf
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3251,7 +3251,7 @@ print(X_tfidf)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::_6_
+grp:free-text-processing::_6_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3275,7 +3275,7 @@ grp:Free-text-processing::_6_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::_5_
+grm:free-text-processing::_5_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3338,7 +3338,7 @@ Cosine similarity
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Free-text-processing::cosine
+sec:free-text-processing::cosine-similarity
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3359,7 +3359,7 @@ sec:Free-text-processing::cosine
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::given
+grp:free-text-processing::given
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3383,7 +3383,7 @@ grp:Free-text-processing::given
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::given
+grm:free-text-processing::given
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3421,7 +3421,7 @@ Given a TFIDF (or just term frequency) matrix, one of the more common questions 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::cosinesimilarity
+grp:free-text-processing::cosinesimilarity
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3445,7 +3445,7 @@ grp:Free-text-processing::cosinesimilarity
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::cosinesimilarity
+grm:free-text-processing::cosinesimilarity
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3487,7 +3487,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::cosine
+grp:free-text-processing::cosine
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3511,7 +3511,7 @@ grp:Free-text-processing::cosine
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::cosine
+grm:free-text-processing::cosine
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3549,7 +3549,7 @@ The cosine similarity is a number between zero (meaning the two documents share 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::_8_
+grp:free-text-processing::_8_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3573,7 +3573,7 @@ grp:Free-text-processing::_8_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::_7_
+grm:free-text-processing::_7_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3625,7 +3625,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::compute
+grp:free-text-processing::compute
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3649,7 +3649,7 @@ grp:Free-text-processing::compute
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::compute
+grm:free-text-processing::compute
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3687,7 +3687,7 @@ We can compute cosine similarity between the TFIDF vectors in our corpus as foll
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::norm
+grp:free-text-processing::norm
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3711,7 +3711,7 @@ grp:Free-text-processing::norm
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::norm
+grm:free-text-processing::norm
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3755,7 +3755,7 @@ print(M)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::_10_
+grp:free-text-processing::_10_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3779,7 +3779,7 @@ grp:Free-text-processing::_10_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::_9_
+grm:free-text-processing::_9_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3825,7 +3825,7 @@ grm:Free-text-processing::_9_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::could
+grp:free-text-processing::could
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3849,7 +3849,7 @@ grp:Free-text-processing::could
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::could
+grm:free-text-processing::could
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3887,7 +3887,7 @@ We could also look at the cosine similarity with the ordinary term frequency mat
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::linalg
+grp:free-text-processing::linalg
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3911,7 +3911,7 @@ grp:Free-text-processing::linalg
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::linalg
+grm:free-text-processing::linalg
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3955,7 +3955,7 @@ print(M)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::_12_
+grp:free-text-processing::_12_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3979,7 +3979,7 @@ grp:Free-text-processing::_12_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::_11_
+grm:free-text-processing::_11_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4025,7 +4025,7 @@ grm:Free-text-processing::_11_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::expected
+grp:free-text-processing::expected
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4049,7 +4049,7 @@ grp:Free-text-processing::expected
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::expected
+grm:free-text-processing::expected
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4092,7 +4092,7 @@ Word embeddings and word2vec
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Free-text-processing::embeddings
+sec:free-text-processing::word-embeddings-and-word2vec
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4113,7 +4113,7 @@ sec:Free-text-processing::embeddings
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::downsides
+grp:free-text-processing::downsides
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4137,7 +4137,7 @@ grp:Free-text-processing::downsides
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::downsides
+grm:free-text-processing::downsides
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4175,7 +4175,7 @@ One of the downsides to term frequency models (even as far as bag-of-words repre
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::pittsburgh
+grp:free-text-processing::pittsburgh
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4199,7 +4199,7 @@ grp:Free-text-processing::pittsburgh
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::pittsburgh
+grm:free-text-processing::pittsburgh
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4247,7 +4247,7 @@ documents = [
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::doesn
+grp:free-text-processing::doesn
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4271,7 +4271,7 @@ grp:Free-text-processing::doesn
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::doesn
+grm:free-text-processing::doesn
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4309,7 +4309,7 @@ In a term frequency model (one that doesn't throw out stop words, but it is natu
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::started
+grp:free-text-processing::started
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4333,7 +4333,7 @@ grp:Free-text-processing::started
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::started
+grm:free-text-processing::started
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4371,7 +4371,7 @@ To get started with word embeddings, we'll note that words in the term frequency
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::split
+grp:free-text-processing::split
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4395,7 +4395,7 @@ grp:Free-text-processing::split
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::split
+grm:free-text-processing::split
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4441,7 +4441,7 @@ print(vocab_dict, "\n")
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::boston
+grp:free-text-processing::boston
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4465,7 +4465,7 @@ grp:Free-text-processing::boston
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::boston
+grm:free-text-processing::boston
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4509,7 +4509,7 @@ grm:Free-text-processing::boston
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::vector
+grp:free-text-processing::vector
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4533,7 +4533,7 @@ grp:Free-text-processing::vector
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::vector
+grm:free-text-processing::vector
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4571,7 +4571,7 @@ In this case the vector for "pittsburgh" would just be an all-zeros vector but w
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::zeros
+grp:free-text-processing::zeros
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4595,7 +4595,7 @@ grp:Free-text-processing::zeros
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::zeros
+grm:free-text-processing::zeros
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4639,7 +4639,7 @@ print(e_pittsburgh)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::_14_
+grp:free-text-processing::_14_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4663,7 +4663,7 @@ grp:Free-text-processing::_14_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::_13_
+grm:free-text-processing::_13_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4705,7 +4705,7 @@ grm:Free-text-processing::_13_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::obviously
+grp:free-text-processing::obviously
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4729,7 +4729,7 @@ grp:Free-text-processing::obviously
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::obviously
+grm:free-text-processing::obviously
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4767,7 +4767,7 @@ Obviously we can recover our document term frequency vector by just adding toget
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::doc
+grp:free-text-processing::doc
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4791,7 +4791,7 @@ grp:Free-text-processing::doc
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::doc
+grm:free-text-processing::doc
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4833,7 +4833,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::issue
+grp:free-text-processing::issue
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4857,7 +4857,7 @@ grp:Free-text-processing::issue
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::issue
+grm:free-text-processing::issue
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4895,7 +4895,7 @@ The issue here, now stated more formally, is that there is no notion of distance
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::database
+grp:free-text-processing::database
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4919,7 +4919,7 @@ grp:Free-text-processing::database
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::database
+grm:free-text-processing::database
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4963,7 +4963,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::think
+grp:free-text-processing::think
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4987,7 +4987,7 @@ grp:Free-text-processing::think
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::think
+grm:free-text-processing::think
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5026,7 +5026,7 @@ Word embeddings
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Free-text-processing::word
+sec:free-text-processing::word-embeddings
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5047,7 +5047,7 @@ sec:Free-text-processing::word
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::discussion
+grp:free-text-processing::discussion
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5071,7 +5071,7 @@ grp:Free-text-processing::discussion
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::discussion
+grm:free-text-processing::discussion
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5109,7 +5109,7 @@ This discussion brings us to the topic of "word embeddings".  Like the one-hot e
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::euclidean
+grp:free-text-processing::euclidean
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5133,7 +5133,7 @@ grp:Free-text-processing::euclidean
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::euclidean
+grm:free-text-processing::euclidean
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5175,7 +5175,7 @@ grm:Free-text-processing::euclidean
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::conceptually
+grp:free-text-processing::conceptually
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5199,7 +5199,7 @@ grp:Free-text-processing::conceptually
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::conceptually
+grm:free-text-processing::conceptually
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5237,7 +5237,7 @@ Conceptually, you can think of the embeddings as something like the following fi
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::embeddings
+grp:free-text-processing::html
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5261,7 +5261,7 @@ grp:Free-text-processing::embeddings
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::embeddings
+grm:free-text-processing::html
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5299,7 +5299,7 @@ grm:Free-text-processing::embeddings
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::seen
+grp:free-text-processing::seen
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5323,7 +5323,7 @@ grp:Free-text-processing::seen
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::seen
+grm:free-text-processing::seen
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5364,7 +5364,7 @@ Word2vec
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Free-text-processing::word2vec
+sec:free-text-processing::word2vec
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5385,7 +5385,7 @@ sec:Free-text-processing::word2vec
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::creating
+grp:free-text-processing::creating
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5409,7 +5409,7 @@ grp:Free-text-processing::creating
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::creating
+grm:free-text-processing::creating
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5447,7 +5447,7 @@ How do we actually go about creating a word embedding that has these properties,
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::purposes
+grp:free-text-processing::purposes
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5471,7 +5471,7 @@ grp:Free-text-processing::purposes
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::purposes
+grm:free-text-processing::purposes
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5509,7 +5509,7 @@ For our purposes, though, the basic idea of word2vec is that, given a large body
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::eastern
+grp:free-text-processing::eastern
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5533,7 +5533,7 @@ grp:Free-text-processing::eastern
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::eastern
+grm:free-text-processing::eastern
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5573,7 +5573,7 @@ grm:Free-text-processing::eastern
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::_16_
+grp:free-text-processing::_16_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5597,7 +5597,7 @@ grp:Free-text-processing::_16_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::_15_
+grm:free-text-processing::_15_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5635,7 +5635,7 @@ and
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::well-established
+grp:free-text-processing::well-established
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5659,7 +5659,7 @@ grp:Free-text-processing::well-established
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::well-established
+grm:free-text-processing::well-established
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5699,7 +5699,7 @@ grm:Free-text-processing::well-established
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::would
+grp:free-text-processing::would
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5723,7 +5723,7 @@ grp:Free-text-processing::would
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::would
+grm:free-text-processing::would
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5761,7 +5761,7 @@ From the word "pittsburgh", we would try to predict some of the surrounding word
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::_18_
+grp:free-text-processing::word2vec
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5785,7 +5785,7 @@ grp:Free-text-processing::_18_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::_17_
+grm:free-text-processing::word2vec
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5823,7 +5823,7 @@ grm:Free-text-processing::_17_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::seem
+grp:free-text-processing::seem
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5847,7 +5847,7 @@ grp:Free-text-processing::seem
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::seem
+grm:free-text-processing::seem
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5885,7 +5885,7 @@ This may seem a bit odd, because there isn't really any way to "predict", with a
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::reason
+grp:free-text-processing::reason
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5909,7 +5909,7 @@ grp:Free-text-processing::reason
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::reason
+grm:free-text-processing::reason
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5947,7 +5947,7 @@ The "reason" why this works is illustrated in the two quotes above.  For two wor
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::truth
+grp:free-text-processing::truth
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5971,7 +5971,7 @@ grp:Free-text-processing::truth
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::truth
+grm:free-text-processing::truth
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6012,7 +6012,7 @@ Pretrained models
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Free-text-processing::pretrained
+sec:free-text-processing::pretrained-models
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6033,7 +6033,7 @@ sec:Free-text-processing::pretrained
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::absolutely
+grp:free-text-processing::absolutely
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6057,7 +6057,7 @@ grp:Free-text-processing::absolutely
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::absolutely
+grm:free-text-processing::absolutely
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6095,7 +6095,7 @@ While it is absolutely possible to train word2vec models yourself using freely a
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::rather
+grp:free-text-processing::rather
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6119,7 +6119,7 @@ grp:Free-text-processing::rather
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::rather
+grm:free-text-processing::rather
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6157,7 +6157,7 @@ Thus, it is rather unusual to actually build new word2vec models in data science
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::common
+grp:free-text-processing::common
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6181,7 +6181,7 @@ grp:Free-text-processing::common
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::common
+grm:free-text-processing::common
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6222,7 +6222,7 @@ Properties of word vectors
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Free-text-processing::properties
+sec:free-text-processing::properties-of-word-vectors
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6243,7 +6243,7 @@ sec:Free-text-processing::properties
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::look
+grp:free-text-processing::look
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6267,7 +6267,7 @@ grp:Free-text-processing::look
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::look
+grm:free-text-processing::look
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6305,7 +6305,7 @@ Let's look at a few properties of the resulting word vectors.  To do so, we're g
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::loading
+grp:free-text-processing::loading
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6329,7 +6329,7 @@ grp:Free-text-processing::loading
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::loading
+grm:free-text-processing::loading
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6367,7 +6367,7 @@ Loading the pre-trained models, though, is quite straightforward.  We can load t
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::gensim
+grp:free-text-processing::gensim
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6391,7 +6391,7 @@ grp:Free-text-processing::gensim
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::gensim
+grm:free-text-processing::gensim
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6435,7 +6435,7 @@ model = gs.models.KeyedVectors.load_word2vec_format('deps.words.bin', binary=Tru
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::actual
+grp:free-text-processing::actual
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6459,7 +6459,7 @@ grp:Free-text-processing::actual
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::actual
+grm:free-text-processing::actual
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6497,7 +6497,7 @@ We can now get the actual word vectors of many relevant words in the English lan
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::wv
+grp:free-text-processing::wv
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6521,7 +6521,7 @@ grp:Free-text-processing::wv
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::wv
+grm:free-text-processing::wv
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6561,7 +6561,7 @@ model.wv["pittsburgh"][:10]
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::array
+grp:free-text-processing::array
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6585,7 +6585,7 @@ grp:Free-text-processing::array
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::array
+grm:free-text-processing::array
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6629,7 +6629,7 @@ array([ 0.01674137, -0.04457627, -0.11064089,  0.07378815,  0.03441498,
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::understand
+grp:free-text-processing::understand
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6653,7 +6653,7 @@ grp:Free-text-processing::understand
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::understand
+grm:free-text-processing::understand
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6691,7 +6691,7 @@ It's important to understand that the values in the word vector itself don't hav
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::similar
+grp:free-text-processing::similar
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6715,7 +6715,7 @@ grp:Free-text-processing::similar
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::similar
+grm:free-text-processing::similar
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6755,7 +6755,7 @@ model.similar_by_word("pittsburgh", topn=5)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::chicago
+grp:free-text-processing::chicago
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6779,7 +6779,7 @@ grp:Free-text-processing::chicago
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::chicago
+grm:free-text-processing::chicago
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6829,7 +6829,7 @@ grm:Free-text-processing::chicago
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::function
+grp:free-text-processing::function
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6853,7 +6853,7 @@ grp:Free-text-processing::function
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::function
+grm:free-text-processing::function
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6891,7 +6891,7 @@ This function is actually just a quick wrapper over the more general `.similar_b
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::topn
+grp:free-text-processing::topn
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6915,7 +6915,7 @@ grp:Free-text-processing::topn
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::topn
+grm:free-text-processing::topn
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6955,7 +6955,7 @@ model.similar_by_vector(model.wv["pittsburgh"], topn=5)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::cincinnati
+grp:free-text-processing::cincinnati
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6979,7 +6979,7 @@ grp:Free-text-processing::cincinnati
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::cincinnati
+grm:free-text-processing::cincinnati
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7029,7 +7029,7 @@ grm:Free-text-processing::cincinnati
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::results
+grp:free-text-processing::results
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7053,7 +7053,7 @@ grp:Free-text-processing::results
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::results
+grm:free-text-processing::results
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7094,7 +7094,7 @@ Reasoning by analogy
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Free-text-processing::reasoning
+sec:free-text-processing::reasoning-by-analogy
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7115,7 +7115,7 @@ sec:Free-text-processing::reasoning
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::compelling
+grp:free-text-processing::compelling
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7139,7 +7139,7 @@ grp:Free-text-processing::compelling
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::compelling
+grm:free-text-processing::compelling
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7177,7 +7177,7 @@ One of the most compelling (and frankly, surprising) properties of word vectors 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::pennsylvania
+grp:free-text-processing::pennsylvania
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7201,7 +7201,7 @@ grp:Free-text-processing::pennsylvania
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::pennsylvania
+grm:free-text-processing::pennsylvania
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7241,7 +7241,7 @@ grm:Free-text-processing::pennsylvania
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::massachusetts
+grp:free-text-processing::massachusetts
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7265,7 +7265,7 @@ grp:Free-text-processing::massachusetts
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::massachusetts
+grm:free-text-processing::massachusetts
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7303,7 +7303,7 @@ grm:Free-text-processing::massachusetts
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::models
+grp:free-text-processing::analogy
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7327,7 +7327,7 @@ grp:Free-text-processing::models
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::models
+grm:free-text-processing::analogy
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7365,7 +7365,7 @@ grm:Free-text-processing::models
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::expect
+grp:free-text-processing::expect
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7389,7 +7389,7 @@ grp:Free-text-processing::expect
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::expect
+grm:free-text-processing::expect
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7427,7 +7427,7 @@ We expect the vector from "massachusetts" to "boston" to be similar to the vecto
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::_20_
+grp:free-text-processing::_18_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7451,7 +7451,7 @@ grp:Free-text-processing::_20_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::_19_
+grm:free-text-processing::_17_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7493,7 +7493,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::_22_
+grp:free-text-processing::_20_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7517,7 +7517,7 @@ grp:Free-text-processing::_22_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::_21_
+grm:free-text-processing::_19_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7557,7 +7557,7 @@ model.similar_by_vector(model.wv["pittsburgh"] - model.wv["pennsylvania"] + mode
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::detroit
+grp:free-text-processing::detroit
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7581,7 +7581,7 @@ grp:Free-text-processing::detroit
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::detroit
+grm:free-text-processing::detroit
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7631,7 +7631,7 @@ grm:Free-text-processing::detroit
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::closest
+grp:free-text-processing::closest
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7655,7 +7655,7 @@ grp:Free-text-processing::closest
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::closest
+grm:free-text-processing::closest
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7693,7 +7693,7 @@ The most similar word to this vector is just the vector $w_{\mathrm{pittsburgh}}
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::kind
+grp:free-text-processing::kind
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7717,7 +7717,7 @@ grp:Free-text-processing::kind
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::kind
+grm:free-text-processing::kind
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7758,7 +7758,7 @@ Bag of word vectors
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Free-text-processing::vectors
+sec:free-text-processing::bag-of-word-vectors
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7779,7 +7779,7 @@ sec:Free-text-processing::vectors
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::defined
+grp:free-text-processing::defined
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7803,7 +7803,7 @@ grp:Free-text-processing::defined
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::defined
+grm:free-text-processing::defined
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7841,7 +7841,7 @@ Now that we have defined a "nicer" representation of words in a vector space, le
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::_24_
+grp:free-text-processing::_22_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7865,7 +7865,7 @@ grp:Free-text-processing::_24_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::_23_
+grm:free-text-processing::_21_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7907,7 +7907,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::notation
+grp:free-text-processing::notation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7931,7 +7931,7 @@ grp:Free-text-processing::notation
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::notation
+grm:free-text-processing::notation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7969,7 +7969,7 @@ where following the notation above, $w_{\mathrm{word}}$ denotes the word2vec emb
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::build
+grp:free-text-processing::build
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7993,7 +7993,7 @@ grp:Free-text-processing::build
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::build
+grm:free-text-processing::build
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8031,7 +8031,7 @@ We can build these document vectors for our simple corpus with the following cod
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::lower
+grp:free-text-processing::lower
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8055,7 +8055,7 @@ grp:Free-text-processing::lower
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::lower
+grm:free-text-processing::lower
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8095,7 +8095,7 @@ X_w2v = np.array([sum(model.wv[w.lower()] for w in doc) for doc in document_word
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::normalized
+grp:free-text-processing::normalized
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8119,7 +8119,7 @@ grp:Free-text-processing::normalized
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::normalized
+grm:free-text-processing::normalized
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8157,7 +8157,7 @@ Now let's compute the normalized cosine similarty scores between all the documen
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::axis
+grp:free-text-processing::axis
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8181,7 +8181,7 @@ grp:Free-text-processing::axis
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::axis
+grm:free-text-processing::axis
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8225,7 +8225,7 @@ print(M)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::_26_
+grp:free-text-processing::_24_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8249,7 +8249,7 @@ grp:Free-text-processing::_26_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::_25_
+grm:free-text-processing::_23_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8295,7 +8295,7 @@ grm:Free-text-processing::_25_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::food
+grp:free-text-processing::food
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8319,7 +8319,7 @@ grp:Free-text-processing::food
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::food
+grm:free-text-processing::food
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8357,7 +8357,7 @@ Now our first and second documents (both about food in cities) are the two most 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::similarity
+grp:free-text-processing::similarity
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8381,7 +8381,7 @@ grp:Free-text-processing::similarity
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::similarity
+grm:free-text-processing::similarity
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8421,7 +8421,7 @@ model.similarity("pittsburgh", "postgresql")
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::_28_
+grp:free-text-processing::_26_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8445,7 +8445,7 @@ grp:Free-text-processing::_28_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::_27_
+grm:free-text-processing::_25_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8487,7 +8487,7 @@ grm:Free-text-processing::_27_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::certainly
+grp:free-text-processing::certainly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8511,7 +8511,7 @@ grp:Free-text-processing::certainly
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::certainly
+grm:free-text-processing::certainly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8552,7 +8552,7 @@ Aside: TFIDF in gensim
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Free-text-processing::aside
+sec:free-text-processing::aside-tfidf-in-gensim
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8573,7 +8573,7 @@ sec:Free-text-processing::aside
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::brief
+grp:free-text-processing::brief
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8597,7 +8597,7 @@ grp:Free-text-processing::brief
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::brief
+grm:free-text-processing::brief
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8635,7 +8635,7 @@ As a brief note, we can also compute traditional TFIDF scores using gensim (both
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::dictionary
+grp:free-text-processing::dictionary
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8659,7 +8659,7 @@ grp:Free-text-processing::dictionary
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::dictionary
+grm:free-text-processing::dictionary
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8707,7 +8707,7 @@ print(X_tfidf.todense().T)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::_30_
+grp:free-text-processing::_28_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8731,7 +8731,7 @@ grp:Free-text-processing::_30_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::_29_
+grm:free-text-processing::_27_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8789,7 +8789,7 @@ grm:Free-text-processing::_29_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::matrix
+grp:free-text-processing::matrix
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8813,7 +8813,7 @@ grp:Free-text-processing::matrix
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::matrix
+grm:free-text-processing::matrix
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8851,7 +8851,7 @@ Note that the term frequency matrix is actually the transpose of what we defined
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::similarities
+grp:free-text-processing::similarities
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8875,7 +8875,7 @@ grp:Free-text-processing::similarities
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::similarities
+grm:free-text-processing::similarities
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8917,7 +8917,7 @@ print(M.get_similarities(tfidf[corpus]))
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::_32_
+grp:free-text-processing::_30_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8941,7 +8941,7 @@ grp:Free-text-processing::_32_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::_31_
+grm:free-text-processing::_29_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8992,7 +8992,7 @@ Language models and n-grams
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Free-text-processing::language
+sec:free-text-processing::language-models-and-n-grams
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9013,7 +9013,7 @@ sec:Free-text-processing::language
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::topic
+grp:free-text-processing::topic
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9037,7 +9037,7 @@ grp:Free-text-processing::topic
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::topic
+grm:free-text-processing::topic
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9075,7 +9075,7 @@ Finally, as a last topic in these notes, we provide a very brief introduction to
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::although
+grp:free-text-processing::although
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9099,7 +9099,7 @@ grp:Free-text-processing::although
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::although
+grm:free-text-processing::although
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9137,7 +9137,7 @@ Although the bag of words representation does work remarkably well in many cases
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::great
+grp:free-text-processing::great
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9161,7 +9161,7 @@ grp:Free-text-processing::great
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::great
+grm:free-text-processing::great
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9201,7 +9201,7 @@ grm:Free-text-processing::great
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::exact
+grp:free-text-processing::exact
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9225,7 +9225,7 @@ grp:Free-text-processing::exact
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::exact
+grm:free-text-processing::exact
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9263,7 +9263,7 @@ has the exact same bag of words representation (for both term frequency and word
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::boring
+grp:free-text-processing::boring
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9287,7 +9287,7 @@ grp:Free-text-processing::boring
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::boring
+grm:free-text-processing::boring
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9327,7 +9327,7 @@ grm:Free-text-processing::boring
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::contain
+grp:free-text-processing::contain
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9351,7 +9351,7 @@ grp:Free-text-processing::contain
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::contain
+grm:free-text-processing::contain
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9390,7 +9390,7 @@ Probabilistic language models
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Free-text-processing::probabilistic
+sec:free-text-processing::probabilistic-language-models
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9411,7 +9411,7 @@ sec:Free-text-processing::probabilistic
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::probabilistic
+grp:free-text-processing::probabilistic
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9435,7 +9435,7 @@ grp:Free-text-processing::probabilistic
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::probabilistic
+grm:free-text-processing::probabilistic
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9473,7 +9473,7 @@ A probabilistic language model attempts to to predict the probablity of each wor
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::i-1
+grp:free-text-processing::i-1
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9497,7 +9497,7 @@ grp:Free-text-processing::i-1
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::i-1
+grm:free-text-processing::i-1
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9539,7 +9539,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::going
+grp:free-text-processing::going
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9563,7 +9563,7 @@ grp:Free-text-processing::going
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::going
+grm:free-text-processing::going
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9601,7 +9601,7 @@ grm:Free-text-processing::going
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::data
+grp:free-text-processing::data
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9625,7 +9625,7 @@ grp:Free-text-processing::data
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::data
+grm:free-text-processing::data
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9665,7 +9665,7 @@ grm:Free-text-processing::data
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::able
+grp:free-text-processing::able
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9689,7 +9689,7 @@ grp:Free-text-processing::able
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::able
+grm:free-text-processing::able
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9727,7 +9727,7 @@ While we may not be able to prescribe precise numerical probabilities to the nex
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::_34_
+grp:free-text-processing::_32_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9751,7 +9751,7 @@ grp:Free-text-processing::_34_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::_33_
+grm:free-text-processing::_31_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9793,7 +9793,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::greater
+grp:free-text-processing::greater
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9817,7 +9817,7 @@ grp:Free-text-processing::greater
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::greater
+grm:free-text-processing::greater
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9855,7 +9855,7 @@ is greater than the probability
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::hotdogs
+grp:free-text-processing::hotdogs
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9879,7 +9879,7 @@ grp:Free-text-processing::hotdogs
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::hotdogs
+grm:free-text-processing::hotdogs
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9921,7 +9921,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::requires
+grp:free-text-processing::requires
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9945,7 +9945,7 @@ grp:Free-text-processing::requires
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::requires
+grm:free-text-processing::requires
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9986,7 +9986,7 @@ N-gram models
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Free-text-processing::n-gram
+sec:free-text-processing::n-gram-models
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10007,7 +10007,7 @@ sec:Free-text-processing::n-gram
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::building
+grp:free-text-processing::building
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10031,7 +10031,7 @@ grp:Free-text-processing::building
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::building
+grm:free-text-processing::building
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10069,7 +10069,7 @@ Building a language model that uses the entirely of preceeding text in a generic
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::technique
+grp:free-text-processing::technique
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10093,7 +10093,7 @@ grp:Free-text-processing::technique
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::technique
+grm:free-text-processing::technique
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10131,7 +10131,7 @@ The technique we will use to do this, which is still an absolute standard baseli
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::i-n
+grp:free-text-processing::i-n
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10155,7 +10155,7 @@ grp:Free-text-processing::i-n
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::i-n
+grm:free-text-processing::i-n
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10197,7 +10197,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::previous
+grp:free-text-processing::previous
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10221,7 +10221,7 @@ grp:Free-text-processing::previous
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::previous
+grm:free-text-processing::previous
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10259,7 +10259,7 @@ i.e., we only use the $n-1$ previous terms to predict the next term.  So in a 4-
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::_36_
+grp:free-text-processing::_34_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10283,7 +10283,7 @@ grp:Free-text-processing::_36_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::_35_
+grm:free-text-processing::_33_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10327,7 +10327,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::using
+grp:free-text-processing::using
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10351,7 +10351,7 @@ grp:Free-text-processing::using
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::using
+grm:free-text-processing::using
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10389,7 +10389,7 @@ using just just the three previous words, "large ammounts of [blank]".  Obviousl
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::n-gram
+grp:free-text-processing::n-gram
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10413,7 +10413,7 @@ grp:Free-text-processing::n-gram
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::n-gram
+grm:free-text-processing::n-gram
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10451,7 +10451,7 @@ N-gram models are typically _built_ based upon some fixed corpus, and when we re
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::_38_
+grp:free-text-processing::_36_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10475,7 +10475,7 @@ grp:Free-text-processing::_38_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::_37_
+grm:free-text-processing::_35_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10517,7 +10517,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::count
+grp:free-text-processing::count
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10541,7 +10541,7 @@ grp:Free-text-processing::count
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::count
+grm:free-text-processing::count
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10579,7 +10579,7 @@ i.e., we just count the number of times we have seen the entire sequence of word
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::large
+grp:free-text-processing::large
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10603,7 +10603,7 @@ grp:Free-text-processing::large
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::large
+grm:free-text-processing::large
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10645,7 +10645,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::number
+grp:free-text-processing::number
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10669,7 +10669,7 @@ grp:Free-text-processing::number
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::number
+grm:free-text-processing::number
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10707,7 +10707,7 @@ is just the number of times we see the entire phrase "large amounts of data" div
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::laplace
+grp:free-text-processing::laplace
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10731,7 +10731,7 @@ grp:Free-text-processing::laplace
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::laplace
+grm:free-text-processing::laplace
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10769,7 +10769,7 @@ grm:Free-text-processing::laplace
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::_40_
+grp:free-text-processing::_38_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10793,7 +10793,7 @@ grp:Free-text-processing::_40_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::_39_
+grm:free-text-processing::_37_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10835,7 +10835,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::total
+grp:free-text-processing::total
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10859,7 +10859,7 @@ grp:Free-text-processing::total
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::total
+grm:free-text-processing::total
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10897,7 +10897,7 @@ where $D$ is the number of total unique words in the vocabulary and $\alpha$ is 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::choosing
+grp:free-text-processing::choosing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10921,7 +10921,7 @@ grp:Free-text-processing::choosing
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::choosing
+grm:free-text-processing::choosing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10959,7 +10959,7 @@ grm:Free-text-processing::choosing
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::correct
+grp:free-text-processing::correct
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10983,7 +10983,7 @@ grp:Free-text-processing::correct
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::correct
+grm:free-text-processing::correct
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11024,7 +11024,7 @@ Using language models in data science
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Free-text-processing::using
+sec:free-text-processing::using-language-models-in-data-science
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11045,7 +11045,7 @@ sec:Free-text-processing::using
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::might
+grp:free-text-processing::might
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11069,7 +11069,7 @@ grp:Free-text-processing::might
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::might
+grm:free-text-processing::might
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11110,7 +11110,7 @@ Sampling from the models
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Free-text-processing::sampling
+sec:free-text-processing::sampling-from-the-models
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11131,7 +11131,7 @@ sec:Free-text-processing::sampling
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::perhaps
+grp:free-text-processing::perhaps
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11155,7 +11155,7 @@ grp:Free-text-processing::perhaps
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::perhaps
+grm:free-text-processing::perhaps
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11193,7 +11193,7 @@ A perhaps less-practical (but amusing) application of language models is to gene
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::built
+grp:free-text-processing::built
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11217,7 +11217,7 @@ grp:Free-text-processing::built
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::built
+grm:free-text-processing::built
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11255,7 +11255,7 @@ We built n-gram models, with varying $n$, on the complete works of Shakespeare, 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::randomly
+grp:free-text-processing::randomly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11279,7 +11279,7 @@ grp:Free-text-processing::randomly
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::randomly
+grm:free-text-processing::randomly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11317,7 +11317,7 @@ Then, we _randomly sample_ from this model.  That is, given the previous $n-1$ w
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::generated
+grp:free-text-processing::generated
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11341,7 +11341,7 @@ grp:Free-text-processing::generated
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::generated
+grm:free-text-processing::generated
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11379,7 +11379,7 @@ Here is some generated by the $n=1$ model (in our model, punctuation was conside
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::stands
+grp:free-text-processing::stands
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11403,7 +11403,7 @@ grp:Free-text-processing::stands
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::stands
+grm:free-text-processing::stands
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11443,7 +11443,7 @@ grm:Free-text-processing::stands
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::looks
+grp:free-text-processing::looks
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11467,7 +11467,7 @@ grp:Free-text-processing::looks
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::looks
+grm:free-text-processing::looks
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11505,7 +11505,7 @@ This looks like some words that Shakespeare might use, but in an $n=1$ model, re
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::dank
+grp:free-text-processing::dank
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11529,7 +11529,7 @@ grp:Free-text-processing::dank
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::dank
+grm:free-text-processing::dank
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11569,7 +11569,7 @@ grm:Free-text-processing::dank
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::seems
+grp:free-text-processing::seems
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11593,7 +11593,7 @@ grp:Free-text-processing::seems
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::seems
+grm:free-text-processing::seems
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11631,7 +11631,7 @@ This seems a bit better. There is no repeated punctuation, and two-word pairs he
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::believe
+grp:free-text-processing::believe
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11655,7 +11655,7 @@ grp:Free-text-processing::believe
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::believe
+grm:free-text-processing::believe
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11695,7 +11695,7 @@ grm:Free-text-processing::believe
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::becoming
+grp:free-text-processing::becoming
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11719,7 +11719,7 @@ grp:Free-text-processing::becoming
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::becoming
+grm:free-text-processing::becoming
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11757,7 +11757,7 @@ This is now becoming fairly realistic.  There is, of course, no real content to 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::consider
+grp:free-text-processing::consider
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11781,7 +11781,7 @@ grp:Free-text-processing::consider
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::consider
+grm:free-text-processing::consider
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11819,7 +11819,7 @@ Let's go a bit further and consider text from an $n=7$ model:
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::express
+grp:free-text-processing::express
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11843,7 +11843,7 @@ grp:Free-text-processing::express
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::express
+grm:free-text-processing::express
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11883,7 +11883,7 @@ grm:Free-text-processing::express
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::starting
+grp:free-text-processing::starting
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11907,7 +11907,7 @@ grp:Free-text-processing::starting
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::starting
+grm:free-text-processing::starting
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11948,7 +11948,7 @@ Evaluating language models
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Free-text-processing::evaluating
+sec:free-text-processing::evaluating-language-models
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11969,7 +11969,7 @@ sec:Free-text-processing::evaluating
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::simply
+grp:free-text-processing::simply
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11993,7 +11993,7 @@ grp:Free-text-processing::simply
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::simply
+grm:free-text-processing::simply
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12031,7 +12031,7 @@ Other than simply generating some random text and seeing what "looks right" (and
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::perplexity
+grp:free-text-processing::perplexity
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12055,7 +12055,7 @@ grp:Free-text-processing::perplexity
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::perplexity
+grm:free-text-processing::perplexity
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12093,7 +12093,7 @@ Perplexity is defined as a (scaled) version of the inverse probability of the da
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::_42_
+grp:free-text-processing::_40_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12117,7 +12117,7 @@ grp:Free-text-processing::_42_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::_41_
+grm:free-text-processing::_39_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12159,7 +12159,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::probability
+grp:free-text-processing::probability
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12183,7 +12183,7 @@ grp:Free-text-processing::probability
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::probability
+grm:free-text-processing::probability
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12221,7 +12221,7 @@ Note that we can compute the probability $P(\mathrm{word}_1, \ldots, \mathrm{wor
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::_44_
+grp:free-text-processing::_42_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12245,7 +12245,7 @@ grp:Free-text-processing::_44_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::_43_
+grm:free-text-processing::_41_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12287,7 +12287,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::simplicity
+grp:free-text-processing::simplicity
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12311,7 +12311,7 @@ grp:Free-text-processing::simplicity
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::simplicity
+grm:free-text-processing::simplicity
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12349,7 +12349,7 @@ where for simplicity we just ignore the first $n-1$ words so we don't need to wo
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::thing
+grp:free-text-processing::thing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12373,7 +12373,7 @@ grp:Free-text-processing::thing
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::thing
+grm:free-text-processing::thing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12411,7 +12411,7 @@ One thing to note here is that this formula involves multiplying together very s
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::_46_
+grp:free-text-processing::_44_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12435,7 +12435,7 @@ grp:Free-text-processing::_46_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::_45_
+grm:free-text-processing::_43_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12477,7 +12477,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::quantity
+grp:free-text-processing::quantity
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12501,7 +12501,7 @@ grp:Free-text-processing::quantity
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::quantity
+grm:free-text-processing::quantity
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12542,7 +12542,7 @@ Training and validation sets
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Free-text-processing::training
+sec:free-text-processing::training-and-validation-sets
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12563,7 +12563,7 @@ sec:Free-text-processing::training
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::final
+grp:free-text-processing::final
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12587,7 +12587,7 @@ grp:Free-text-processing::final
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::final
+grm:free-text-processing::final
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12625,7 +12625,7 @@ As a final note, and as a prelude to what we will consider much more in the lect
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::_48_
+grp:free-text-processing::training
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12649,7 +12649,7 @@ grp:Free-text-processing::_48_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::_47_
+grm:free-text-processing::training
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12687,7 +12687,7 @@ grm:Free-text-processing::_47_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::hand
+grp:free-text-processing::hand
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12711,7 +12711,7 @@ grp:Free-text-processing::hand
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::hand
+grm:free-text-processing::hand
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12749,7 +12749,7 @@ On the other hand, if we evaluate the model on text _other_ than what we used to
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::_50_
+grp:free-text-processing::testing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12773,7 +12773,7 @@ grp:Free-text-processing::_50_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::_49_
+grm:free-text-processing::testing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12811,7 +12811,7 @@ grm:Free-text-processing::_49_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Free-text-processing::standpoint
+grp:free-text-processing::standpoint
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12835,7 +12835,7 @@ grp:Free-text-processing::standpoint
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Free-text-processing::standpoint
+grm:free-text-processing::standpoint
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...

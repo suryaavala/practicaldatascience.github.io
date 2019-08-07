@@ -14,7 +14,7 @@ Visualization
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-chapter:Visualization::visualization
+ch:visualization::visualization
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -35,7 +35,7 @@ chapter:Visualization::visualization
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::download
+grp:visualization::download
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -59,7 +59,7 @@ grp:Visualization::download
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::download
+grm:visualization::download
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -98,7 +98,7 @@ Introduction
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Visualization::introduction
+sec:visualization::introduction
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -119,7 +119,7 @@ sec:Visualization::introduction
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::despite
+grp:visualization::despite
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -143,7 +143,7 @@ grp:Visualization::despite
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::despite
+grm:visualization::despite
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -181,7 +181,7 @@ Despite having only one lecture in this class fully devoted to the topic (though
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::discussing
+grp:visualization::discussing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -205,7 +205,7 @@ grp:Visualization::discussing
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::discussing
+grm:visualization::discussing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -243,7 +243,7 @@ Before discussing visualization in detail, though, it is important to emphasize 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::class
+grp:visualization::class
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -267,7 +267,7 @@ grp:Visualization::class
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::class
+grm:visualization::class
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -305,7 +305,7 @@ This class will focus almost entirely on the first type of visualization: using 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::visualization
+grp:visualization::visualization
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -329,7 +329,7 @@ grp:Visualization::visualization
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::visualization
+grm:visualization::visualization
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -368,7 +368,7 @@ Visualization vs. statistics
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Visualization::visualization
+sec:visualization::visualization-vs-statistics
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -389,7 +389,7 @@ sec:Visualization::visualization
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::point
+grp:visualization::point
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -413,7 +413,7 @@ grp:Visualization::point
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::point
+grm:visualization::point
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -451,7 +451,7 @@ Another point is worth making about visualizing data versus simply reporting sta
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::python
+grp:visualization::python
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -475,7 +475,7 @@ grp:Visualization::python
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::python
+grm:visualization::python
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -535,7 +535,7 @@ plt.scatter(*y.T)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::_2_
+grp:visualization::include
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -559,7 +559,7 @@ grp:Visualization::_2_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::_1_
+grm:visualization::include
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -597,7 +597,7 @@ grm:Visualization::_1_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::mathematical
+grp:visualization::mathematical
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -621,7 +621,7 @@ grp:Visualization::mathematical
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::mathematical
+grm:visualization::mathematical
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -659,7 +659,7 @@ This is a mathematical property: since the $x$ and $y$ means, standard deviation
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::temptation
+grp:visualization::temptation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -683,7 +683,7 @@ grp:Visualization::temptation
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::temptation
+grm:visualization::temptation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -726,7 +726,7 @@ Types of data
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Visualization::types
+sec:visualization::types-of-data
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -747,7 +747,7 @@ sec:Visualization::types
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::although
+grp:visualization::although
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -771,7 +771,7 @@ grp:Visualization::although
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::although
+grm:visualization::although
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -809,7 +809,7 @@ Although becoming an expert in visualization techniques is well beyond the scope
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::categorization
+grp:visualization::categorization
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -833,7 +833,7 @@ grp:Visualization::categorization
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::categorization
+grm:visualization::categorization
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -871,7 +871,7 @@ These categorization, which are more frequently called "levels of measurement" o
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::four
+grp:visualization::four
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -895,7 +895,7 @@ grp:Visualization::four
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::four
+grm:visualization::four
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -933,7 +933,7 @@ The four basic types of data are:
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::nominal
+grp:visualization::nominal
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -957,7 +957,7 @@ grp:Visualization::nominal
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::nominal
+grm:visualization::nominal
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1003,7 +1003,7 @@ grm:Visualization::nominal
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::course
+grp:visualization::course
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1027,7 +1027,7 @@ grp:Visualization::course
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::course
+grm:visualization::course
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1065,7 +1065,7 @@ At a course level, the first two data types can simply be viewed as "categorial"
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::viewed
+grp:visualization::viewed
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1089,7 +1089,7 @@ grp:Visualization::viewed
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::viewed
+grm:visualization::viewed
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1127,7 +1127,7 @@ This can also be viewed in terms of the "allowable operations" we can perform on
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::data
+grp:visualization::data
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1151,7 +1151,7 @@ grp:Visualization::data
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::data
+grm:visualization::data
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1200,7 +1200,7 @@ Plotting different types of data
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Visualization::plotting
+sec:visualization::plotting-different-types-of-data
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1221,7 +1221,7 @@ sec:Visualization::plotting
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::focuses
+grp:visualization::focuses
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1245,7 +1245,7 @@ grp:Visualization::focuses
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::focuses
+grm:visualization::focuses
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1283,7 +1283,7 @@ Although the "art" of visualization focuses largely on how to precisely convey i
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::formal
+grp:visualization::formal
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1307,7 +1307,7 @@ grp:Visualization::formal
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::formal
+grm:visualization::formal
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1351,7 +1351,7 @@ where each $x^{(i)}$ denotes a single data point of some dimension.  You can thi
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::dimensional
+grp:visualization::dimensional
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1375,7 +1375,7 @@ grp:Visualization::dimensional
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::dimensional
+grm:visualization::dimensional
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1418,7 +1418,7 @@ For example, if our data was one dimensional data describing pet type (a nominal
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::hand
+grp:visualization::hand
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1442,7 +1442,7 @@ grp:Visualization::hand
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::hand
+grm:visualization::hand
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1485,7 +1485,7 @@ On the other hand, if the data was two dimensional, with the first value being a
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::core
+grp:visualization::core
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1509,7 +1509,7 @@ grp:Visualization::core
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::core
+grm:visualization::core
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1548,7 +1548,7 @@ Matplotlib
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Visualization::matplotlib
+sec:visualization::matplotlib
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1569,7 +1569,7 @@ sec:Visualization::matplotlib
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::plotting
+grp:visualization::plotting
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1593,7 +1593,7 @@ grp:Visualization::plotting
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::plotting
+grm:visualization::plotting
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1631,7 +1631,7 @@ To do all this plotting, we will use the [matplotlib](https://matplotlib.org/) l
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::import
+grp:visualization::import
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1655,7 +1655,7 @@ grp:Visualization::import
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::import
+grm:visualization::import
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1693,7 +1693,7 @@ To import Matplotlib plotting into the notebook, the common module you'll need i
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::matplotlib
+grp:visualization::matplotlib
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1717,7 +1717,7 @@ grp:Visualization::matplotlib
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::matplotlib
+grm:visualization::matplotlib
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1759,7 +1759,7 @@ import numpy as np
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::display
+grp:visualization::display
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1783,7 +1783,7 @@ grp:Visualization::display
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::display
+grm:visualization::display
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1821,7 +1821,7 @@ To display plots in the notebook you'll want to use one of the following two mag
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::_4_
+grp:visualization::inline
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1845,7 +1845,7 @@ grp:Visualization::_4_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::_3_
+grm:visualization::inline
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1885,7 +1885,7 @@ grm:Visualization::_3_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::generate
+grp:visualization::generate
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1909,7 +1909,7 @@ grp:Visualization::generate
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::generate
+grm:visualization::generate
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1947,7 +1947,7 @@ which will generate static plots inline in the notebook, or
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::_6_
+grp:visualization::notebook
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1971,7 +1971,7 @@ grp:Visualization::_6_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::_5_
+grm:visualization::notebook
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2011,7 +2011,7 @@ grm:Visualization::_5_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::interactive
+grp:visualization::interactive
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2035,7 +2035,7 @@ grp:Visualization::interactive
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::interactive
+grm:visualization::interactive
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2073,7 +2073,7 @@ which will display a more interactive plot window, that can be scrolled, zoomed 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::assume
+grp:visualization::assume
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2097,7 +2097,7 @@ grp:Visualization::assume
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::assume
+grm:visualization::assume
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2135,7 +2135,7 @@ Note that the examples below all assume _Matplotlib version 2.1_.  The latest ve
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::cases
+grp:visualization::cases
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2159,7 +2159,7 @@ grp:Visualization::cases
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::cases
+grm:visualization::cases
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2202,7 +2202,7 @@ Finally, we note that in some cases the Python code to get data into the format 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Visualization::data
+sec:visualization::1d-data
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2223,7 +2223,7 @@ sec:Visualization::data
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::considering
+grp:visualization::considering
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2247,7 +2247,7 @@ grp:Visualization::considering
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::considering
+grm:visualization::considering
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2286,7 +2286,7 @@ Bar charts — categorical data
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Visualization::charts
+sec:visualization::bar-charts-categorical-data
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2307,7 +2307,7 @@ sec:Visualization::charts
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::categorical
+grp:visualization::categorical
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2331,7 +2331,7 @@ grp:Visualization::categorical
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::categorical
+grm:visualization::categorical
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2375,7 +2375,7 @@ will be the _count_ of the number of times that each item occurs.  Thus, we can 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::generates
+grp:visualization::generates
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2399,7 +2399,7 @@ grp:Visualization::generates
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::generates
+grm:visualization::generates
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2437,7 +2437,7 @@ The following code generates some (fake) one dimensional data and then plots it 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::collections
+grp:visualization::collections
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2461,7 +2461,7 @@ grp:Visualization::collections
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::collections
+grm:visualization::collections
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2507,7 +2507,7 @@ plt.bar(range(len(counts)), list(counts.values()), tick_label=list(counts.keys()
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::_8_
+grp:visualization::image
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2531,7 +2531,7 @@ grp:Visualization::_8_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::_7_
+grm:visualization::image
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2569,7 +2569,7 @@ grm:Visualization::_7_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::seen
+grp:visualization::seen
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2593,7 +2593,7 @@ grp:Visualization::seen
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::seen
+grm:visualization::seen
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2631,7 +2631,7 @@ Despite what you may have seen in some figures, note that it decidedly would _no
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::range
+grp:visualization::range
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2655,7 +2655,7 @@ grp:Visualization::range
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::range
+grm:visualization::range
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2699,7 +2699,7 @@ plt.plot(range(len(counts)), counts.values(), 'ko-')
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::_10_
+grp:visualization::html
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2723,7 +2723,7 @@ grp:Visualization::_10_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::_9_
+grm:visualization::html
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2761,7 +2761,7 @@ grm:Visualization::_9_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::lines
+grp:visualization::lines
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2785,7 +2785,7 @@ grp:Visualization::lines
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::lines
+grm:visualization::lines
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2823,7 +2823,7 @@ Lines imply some kind of continuity in the intervals between the data points, an
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::either
+grp:visualization::either
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2847,7 +2847,7 @@ grp:Visualization::either
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::either
+grm:visualization::either
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2903,7 +2903,7 @@ plt.plot(range(len(data)), data.values(), 'ko-');
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::_12_
+grp:visualization::output
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2927,7 +2927,7 @@ grp:Visualization::_12_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::_11_
+grm:visualization::output
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2965,7 +2965,7 @@ grm:Visualization::_11_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::aside
+grp:visualization::aside
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2989,7 +2989,7 @@ grp:Visualization::aside
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::aside
+grm:visualization::aside
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3030,7 +3030,7 @@ Pie charts — just say no
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Visualization::pie
+sec:visualization::pie-charts-just-say-no
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3051,7 +3051,7 @@ sec:Visualization::pie
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::charts
+grp:visualization::charts
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3075,7 +3075,7 @@ grp:Visualization::charts
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::charts
+grm:visualization::charts
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3113,7 +3113,7 @@ Pie charts can also be used to plot 1D categorical data.  Should you decide to g
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::values
+grp:visualization::values
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3137,7 +3137,7 @@ grp:Visualization::values
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::values
+grm:visualization::values
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3179,7 +3179,7 @@ plt.axis('equal');
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::_14_
+grp:visualization::img
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3203,7 +3203,7 @@ grp:Visualization::_14_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::_13_
+grm:visualization::img
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3241,7 +3241,7 @@ grm:Visualization::_13_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::blunt
+grp:visualization::blunt
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3265,7 +3265,7 @@ grp:Visualization::blunt
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::blunt
+grm:visualization::blunt
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3306,7 +3306,7 @@ Histograms — numerical data
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Visualization::histograms
+sec:visualization::histograms-numerical-data
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3327,7 +3327,7 @@ sec:Visualization::histograms
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::numerical
+grp:visualization::numerical
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3351,7 +3351,7 @@ grp:Visualization::numerical
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::numerical
+grm:visualization::numerical
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3389,7 +3389,7 @@ For 1D numerical data (either interval or ratio), the histogram is the natural g
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::random
+grp:visualization::random
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3413,7 +3413,7 @@ grp:Visualization::random
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::random
+grm:visualization::random
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3461,7 +3461,7 @@ plt.hist(data, bins=50);
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::_16_
+grp:visualization::svg
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3485,7 +3485,7 @@ grp:Visualization::_16_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::_15_
+grm:visualization::svg
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3523,7 +3523,7 @@ grm:Visualization::_15_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::essentially
+grp:visualization::essentially
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3547,7 +3547,7 @@ grp:Visualization::essentially
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::essentially
+grm:visualization::essentially
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3585,7 +3585,7 @@ Essentially, what is being done here is that the entire range of the data is div
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::histograms
+grp:visualization::histograms
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3609,7 +3609,7 @@ grp:Visualization::histograms
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::histograms
+grm:visualization::histograms
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3647,7 +3647,7 @@ Histograms are the workhorse of exploratory data analysis.  They are indispensab
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::hist
+grp:visualization::hist
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3671,7 +3671,7 @@ grp:Visualization::hist
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::hist
+grm:visualization::hist
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3713,7 +3713,7 @@ plt.plot((x[1:]+x[:-1])/2,y,'k-')
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::_18_
+grp:visualization::_2_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3737,7 +3737,7 @@ grp:Visualization::_18_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::_17_
+grm:visualization::_1_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3775,7 +3775,7 @@ grm:Visualization::_17_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::usually
+grp:visualization::usually
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3799,7 +3799,7 @@ grp:Visualization::usually
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::usually
+grm:visualization::usually
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3842,7 +3842,7 @@ However, histograms are usually dense enough that these lines don't add all that
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Visualization::2d
+sec:visualization::2d-data
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3863,7 +3863,7 @@ sec:Visualization::2d
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::move
+grp:visualization::move
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3887,7 +3887,7 @@ grp:Visualization::move
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::move
+grm:visualization::move
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3926,7 +3926,7 @@ Scatter plots — numeric x numeric
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Visualization::scatter
+sec:visualization::scatter-plots-numeric-x-numeric
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3947,7 +3947,7 @@ sec:Visualization::scatter
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::dimensions
+grp:visualization::dimensions
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3971,7 +3971,7 @@ grp:Visualization::dimensions
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::dimensions
+grm:visualization::dimensions
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4009,7 +4009,7 @@ If both dimensions of the data are numeric, the most natural first type of plot 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::randn
+grp:visualization::randn
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4033,7 +4033,7 @@ grp:Visualization::randn
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::randn
+grm:visualization::randn
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4077,7 +4077,7 @@ plt.scatter(x,y,s=10)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::_20_
+grp:visualization::_4_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4101,7 +4101,7 @@ grp:Visualization::_20_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::_19_
+grm:visualization::_3_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4139,7 +4139,7 @@ grm:Visualization::_19_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::scatter
+grp:visualization::scatter
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4163,7 +4163,7 @@ grp:Visualization::scatter
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::scatter
+grm:visualization::scatter
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4201,7 +4201,7 @@ The scatter plot gives one of the most complete views of the data, since every d
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::np
+grp:visualization::np
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4225,7 +4225,7 @@ grp:Visualization::np
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::np
+grm:visualization::np
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4269,7 +4269,7 @@ plt.scatter(x,y,s=10)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::_22_
+grp:visualization::_6_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4293,7 +4293,7 @@ grp:Visualization::_22_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::_21_
+grm:visualization::_5_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4331,7 +4331,7 @@ grm:Visualization::_21_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::case
+grp:visualization::case
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4355,7 +4355,7 @@ grp:Visualization::case
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::case
+grm:visualization::case
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4393,7 +4393,7 @@ In this case of excess data, we can also create a _2D histogram_ of the data (wh
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::hist2d
+grp:visualization::hist2d
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4417,7 +4417,7 @@ grp:Visualization::hist2d
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::hist2d
+grm:visualization::hist2d
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4461,7 +4461,7 @@ plt.set_cmap('hot')
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::_24_
+grp:visualization::_8_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4485,7 +4485,7 @@ grp:Visualization::_24_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::_23_
+grm:visualization::_7_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4526,7 +4526,7 @@ Line plots — numeric x numeric (sequential)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Visualization::line
+sec:visualization::line-plots-numeric-x-numeric-sequential
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4547,7 +4547,7 @@ sec:Visualization::line
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::naturally
+grp:visualization::naturally
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4571,7 +4571,7 @@ grp:Visualization::naturally
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::naturally
+grm:visualization::naturally
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4609,7 +4609,7 @@ For two dimensional data where one of the dimensions in naturally sequential (th
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::linspace
+grp:visualization::linspace
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4633,7 +4633,7 @@ grp:Visualization::linspace
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::linspace
+grm:visualization::linspace
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4677,7 +4677,7 @@ plt.plot(x,y)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::_26_
+grp:visualization::_10_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4701,7 +4701,7 @@ grp:Visualization::_26_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::_25_
+grm:visualization::_9_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4742,7 +4742,7 @@ Box and whiskers and violin plots — categorical x numeric
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Visualization::whiskers
+sec:visualization::box-and-whiskers-and-violin-plots-categorical-x-numeric
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4763,7 +4763,7 @@ sec:Visualization::whiskers
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::dimension
+grp:visualization::dimension
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4787,7 +4787,7 @@ grp:Visualization::dimension
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::dimension
+grm:visualization::dimension
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4825,7 +4825,7 @@ When one dimension is numeric and one is categorical, we usually can no longer u
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::rand
+grp:visualization::rand
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4849,7 +4849,7 @@ grp:Visualization::rand
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::rand
+grm:visualization::rand
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4899,7 +4899,7 @@ plt.xticks(range(len(data)), data.keys());
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::_28_
+grp:visualization::_12_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4923,7 +4923,7 @@ grp:Visualization::_28_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::_27_
+grm:visualization::_11_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4961,7 +4961,7 @@ grm:Visualization::_27_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::obviously
+grp:visualization::obviously
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4985,7 +4985,7 @@ grp:Visualization::obviously
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::obviously
+grm:visualization::obviously
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5023,7 +5023,7 @@ Obviously very little can be determined by looking at just this plot, as there i
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::boxplot
+grp:visualization::boxplot
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5047,7 +5047,7 @@ grp:Visualization::boxplot
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::boxplot
+grm:visualization::boxplot
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5089,7 +5089,7 @@ plt.xticks(range(1,len(data)+1), data.keys());
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::_30_
+grp:visualization::_14_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5113,7 +5113,7 @@ grp:Visualization::_30_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::_29_
+grm:visualization::_13_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5151,7 +5151,7 @@ grm:Visualization::_29_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::means
+grp:visualization::means
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5175,7 +5175,7 @@ grp:Visualization::means
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::means
+grm:visualization::means
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5213,7 +5213,7 @@ Of course, just like the means and standard deviations do not fully describe a d
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::violinplot
+grp:visualization::violinplot
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5237,7 +5237,7 @@ grp:Visualization::violinplot
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::violinplot
+grm:visualization::violinplot
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5279,7 +5279,7 @@ plt.xticks(range(1,len(data)+1), data.keys());
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::_32_
+grp:visualization::_16_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5303,7 +5303,7 @@ grp:Visualization::_32_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::_31_
+grm:visualization::_15_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5344,7 +5344,7 @@ Heat map and bubble plots — categorical x categorical
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Visualization::heat
+sec:visualization::heat-map-and-bubble-plots-categorical-x-categorical
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5365,7 +5365,7 @@ sec:Visualization::heat
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::even
+grp:visualization::even
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5389,7 +5389,7 @@ grp:Visualization::even
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::even
+grm:visualization::even
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5427,7 +5427,7 @@ When both dimensions of our 2D data are categorical, we have even less informati
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::types
+grp:visualization::types
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5451,7 +5451,7 @@ grp:Visualization::types
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::types
+grm:visualization::types
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5497,7 +5497,7 @@ data = types[np.random.choice(range(6), 2000, p=[0.4, 0.1, 0.12, 0.18, 0.05, 0.1
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::label
+grp:visualization::label
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5521,7 +5521,7 @@ grp:Visualization::label
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::label
+grm:visualization::label
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5571,7 +5571,7 @@ plt.colorbar()
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::_34_
+grp:visualization::_18_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5595,7 +5595,7 @@ grp:Visualization::_34_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::_33_
+grm:visualization::_17_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5633,7 +5633,7 @@ grm:Visualization::_33_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::somewhat
+grp:visualization::somewhat
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5657,7 +5657,7 @@ grp:Visualization::somewhat
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::somewhat
+grm:visualization::somewhat
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5695,7 +5695,7 @@ Although this can be somewhat useful, the range of colors is admittedly not very
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::cnts
+grp:visualization::cnts
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5719,7 +5719,7 @@ grp:Visualization::cnts
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::cnts
+grm:visualization::cnts
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5765,7 +5765,7 @@ plt.yticks(range(len(label_y)), label_y)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::_36_
+grp:visualization::_20_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5789,7 +5789,7 @@ grp:Visualization::_36_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::_35_
+grm:visualization::_19_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5827,7 +5827,7 @@ grm:Visualization::_35_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::would
+grp:visualization::would
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5851,7 +5851,7 @@ grp:Visualization::would
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::would
+grm:visualization::would
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5894,7 +5894,7 @@ Again, you would want to tweak these substantially if you were going to actually
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Visualization::3d
+sec:visualization::3d-data
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5915,7 +5915,7 @@ sec:Visualization::3d
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::effective
+grp:visualization::effective
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5939,7 +5939,7 @@ grp:Visualization::effective
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::effective
+grm:visualization::effective
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5977,7 +5977,7 @@ Once we move beyond two dimensions, effective visualization becomes much more di
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::majority
+grp:visualization::majority
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6001,7 +6001,7 @@ grp:Visualization::majority
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::majority
+grm:visualization::majority
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6040,7 +6040,7 @@ For the majority of this section, we'll be considering the case of 3 or higher d
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Visualization::plots
+sec:visualization::3d-scatter-plots-avoid-when-possible
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6061,7 +6061,7 @@ sec:Visualization::plots
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::going
+grp:visualization::going
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6085,7 +6085,7 @@ grp:Visualization::going
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::going
+grm:visualization::going
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6123,7 +6123,7 @@ Much like the pie charts, I'm going to make a plea that you avoid 3D scatter plo
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::y-1
+grp:visualization::y-1
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6147,7 +6147,7 @@ grp:Visualization::y-1
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::y-1
+grm:visualization::y-1
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6191,7 +6191,7 @@ z = 0.5 + 0.2*(y-1)**2 + 0.1*np.random.randn(1000)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::look
+grp:visualization::look
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6215,7 +6215,7 @@ grp:Visualization::look
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::look
+grm:visualization::look
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6253,7 +6253,7 @@ And now let's look at the 3D scatter plot that Matplotlib generated by default f
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::toolkits
+grp:visualization::toolkits
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6277,7 +6277,7 @@ grp:Visualization::toolkits
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::toolkits
+grm:visualization::toolkits
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6323,7 +6323,7 @@ ax.scatter(x,y,z)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::_38_
+grp:visualization::_22_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6347,7 +6347,7 @@ grp:Visualization::_38_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::_37_
+grm:visualization::_21_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6385,7 +6385,7 @@ grm:Visualization::_37_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::view
+grp:visualization::view
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6409,7 +6409,7 @@ grp:Visualization::view
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::view
+grm:visualization::view
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6450,7 +6450,7 @@ Scatter matrices
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Visualization::matrices
+sec:visualization::scatter-matrices
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6471,7 +6471,7 @@ sec:Visualization::matrices
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::catch-all
+grp:visualization::catch-all
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6495,7 +6495,7 @@ grp:Visualization::catch-all
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::catch-all
+grm:visualization::catch-all
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6533,7 +6533,7 @@ The catch-all for visualizing high dimensional data is the _scatter matrix_.  Th
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::pandas
+grp:visualization::pandas
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6557,7 +6557,7 @@ grp:Visualization::pandas
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::pandas
+grm:visualization::pandas
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6601,7 +6601,7 @@ pd.plotting.scatter_matrix(df, hist_kwds={'bins':50});
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::_40_
+grp:visualization::_24_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6625,7 +6625,7 @@ grp:Visualization::_40_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::_39_
+grm:visualization::_23_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6663,7 +6663,7 @@ grm:Visualization::_39_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::figure
+grp:visualization::figure
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6687,7 +6687,7 @@ grp:Visualization::figure
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::figure
+grm:visualization::figure
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6725,7 +6725,7 @@ In this figure the middle left column is the first dimension plotted against the
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::make
+grp:visualization::make
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6749,7 +6749,7 @@ grp:Visualization::make
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::make
+grm:visualization::make
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6790,7 +6790,7 @@ Bubble plots
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Visualization::bubble
+sec:visualization::bubble-plots
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6811,7 +6811,7 @@ sec:Visualization::bubble
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::bubble
+grp:visualization::bubble
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6835,7 +6835,7 @@ grp:Visualization::bubble
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::bubble
+grm:visualization::bubble
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6873,7 +6873,7 @@ The bubble plot from the previous section can also be one means of understanding
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::plt
+grp:visualization::plt
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6897,7 +6897,7 @@ grp:Visualization::plt
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::plt
+grm:visualization::plt
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6937,7 +6937,7 @@ plt.scatter(x,y,s=z*20)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::_42_
+grp:visualization::_26_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6961,7 +6961,7 @@ grp:Visualization::_42_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::_41_
+grm:visualization::_25_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6999,7 +6999,7 @@ grm:Visualization::_41_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::perfect
+grp:visualization::perfect
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7023,7 +7023,7 @@ grp:Visualization::perfect
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::perfect
+grm:visualization::perfect
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7061,7 +7061,7 @@ It is not perfect, but there is at least some sense in which we can view the abo
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::_44_
+grp:visualization::_28_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7085,7 +7085,7 @@ grp:Visualization::_44_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::_43_
+grm:visualization::_27_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7125,7 +7125,7 @@ plt.scatter(x,y,c=z)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::_46_
+grp:visualization::_30_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7149,7 +7149,7 @@ grp:Visualization::_46_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::_45_
+grm:visualization::_29_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7187,7 +7187,7 @@ grm:Visualization::_45_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::though
+grp:visualization::though
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7211,7 +7211,7 @@ grp:Visualization::though
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::though
+grm:visualization::though
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7252,7 +7252,7 @@ Colored scatter plots
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Visualization::colored
+sec:visualization::colored-scatter-plots
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7273,7 +7273,7 @@ sec:Visualization::colored
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::setting
+grp:visualization::setting
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7297,7 +7297,7 @@ grp:Visualization::setting
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::setting
+grm:visualization::setting
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7335,7 +7335,7 @@ One setting where using color to denote a third dimension _does_ work well is wh
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::seed
+grp:visualization::seed
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7359,7 +7359,7 @@ grp:Visualization::seed
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::seed
+grm:visualization::seed
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7407,7 +7407,7 @@ plt.scatter(xy2[:,0], xy2[:,1])
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::_48_
+grp:visualization::_32_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7431,7 +7431,7 @@ grp:Visualization::_48_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::_47_
+grm:visualization::_31_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7469,7 +7469,7 @@ grm:Visualization::_47_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::figures
+grp:visualization::figures
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7493,7 +7493,7 @@ grp:Visualization::figures
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::figures
+grm:visualization::figures
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7536,7 +7536,7 @@ References
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Visualization::references
+sec:visualization::references
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7557,7 +7557,7 @@ sec:Visualization::references
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Visualization::https
+grp:visualization::https
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7581,7 +7581,7 @@ grp:Visualization::https
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Visualization::https
+grm:visualization::https
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...

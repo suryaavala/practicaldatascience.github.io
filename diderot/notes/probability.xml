@@ -14,7 +14,7 @@ Basics of probability
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-chapter:Basics-of-probability::basics
+ch:basics-of-probability::basics-of-probability
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -35,7 +35,7 @@ chapter:Basics-of-probability::basics
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::download
+grp:basics-of-probability::download
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -59,7 +59,7 @@ grp:Basics-of-probability::download
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::download
+grm:basics-of-probability::download
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -98,7 +98,7 @@ Introduction
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Basics-of-probability::introduction
+sec:basics-of-probability::introduction
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -119,7 +119,7 @@ sec:Basics-of-probability::introduction
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::point
+grp:basics-of-probability::point
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -143,7 +143,7 @@ grp:Basics-of-probability::point
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::point
+grm:basics-of-probability::point
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -181,7 +181,7 @@ Up until this point in the course, we have largely ignored formal probabilistic 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::longer
+grp:basics-of-probability::longer
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -205,7 +205,7 @@ grp:Basics-of-probability::longer
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::longer
+grm:basics-of-probability::longer
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -243,7 +243,7 @@ From this point on, this will no longer be the case.  While it is useful to unde
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::python
+grp:basics-of-probability::python
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -267,7 +267,7 @@ grp:Basics-of-probability::python
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::python
+grm:basics-of-probability::python
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -315,7 +315,7 @@ plt.ylabel("Peak Demand")
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_2_
+grp:basics-of-probability::include
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -339,7 +339,7 @@ grp:Basics-of-probability::_2_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_1_
+grm:basics-of-probability::include
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -377,7 +377,7 @@ grm:Basics-of-probability::_1_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::although
+grp:basics-of-probability::although
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -401,7 +401,7 @@ grp:Basics-of-probability::although
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::although
+grm:basics-of-probability::although
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -439,7 +439,7 @@ Although there _is_ a clear linear pattern to this data, there is also the sense
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::mind
+grp:basics-of-probability::mind
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -463,7 +463,7 @@ grp:Basics-of-probability::mind
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::mind
+grm:basics-of-probability::mind
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -504,7 +504,7 @@ Random Variables
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Basics-of-probability::random
+sec:basics-of-probability::random-variables
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -525,7 +525,7 @@ sec:Basics-of-probability::random
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::basic
+grp:basics-of-probability::basic
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -549,7 +549,7 @@ grp:Basics-of-probability::basic
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::basic
+grm:basics-of-probability::basic
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -587,7 +587,7 @@ The basic building block of probability is the random variable.  If you take a m
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::purposes
+grp:basics-of-probability::purposes
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -611,7 +611,7 @@ grp:Basics-of-probability::purposes
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::purposes
+grm:basics-of-probability::purposes
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -649,7 +649,7 @@ For our purposes, you can think of a random variable as just a variable "whose v
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::weather
+grp:basics-of-probability::weather
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -673,7 +673,7 @@ grp:Basics-of-probability::weather
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::weather
+grm:basics-of-probability::weather
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -723,7 +723,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::need
+grp:basics-of-probability::need
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -747,7 +747,7 @@ grp:Basics-of-probability::need
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::need
+grm:basics-of-probability::need
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -786,7 +786,7 @@ Notation for random variables
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Basics-of-probability::notation
+sec:basics-of-probability::notation-for-random-variables
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -807,7 +807,7 @@ sec:Basics-of-probability::notation
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::hardest
+grp:basics-of-probability::hardest
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -831,7 +831,7 @@ grp:Basics-of-probability::hardest
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::hardest
+grm:basics-of-probability::hardest
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -869,7 +869,7 @@ One of the hardest parts about understanding what is meant by certain notation. 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::general
+grp:basics-of-probability::general
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -893,7 +893,7 @@ grp:Basics-of-probability::general
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::general
+grm:basics-of-probability::general
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -931,7 +931,7 @@ In general, we will use captial letters, $X$ to represent random variables.  Or 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_4_
+grp:basics-of-probability::_2_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -955,7 +955,7 @@ grp:Basics-of-probability::_4_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_3_
+grm:basics-of-probability::_1_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -997,7 +997,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::represent
+grp:basics-of-probability::represent
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1021,7 +1021,7 @@ grp:Basics-of-probability::represent
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::represent
+grm:basics-of-probability::represent
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1059,7 +1059,7 @@ represent the _entire probability distribution_ of the random variable $X$.  In 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::pweather
+grp:basics-of-probability::pweather
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1083,7 +1083,7 @@ grp:Basics-of-probability::pweather
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::pweather
+grm:basics-of-probability::pweather
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1125,7 +1125,7 @@ pWeather = {"sunny": 0.3, "rainy":0.2, "cloudy":0.4, "snowy":0.1}
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::notation
+grp:basics-of-probability::notation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1149,7 +1149,7 @@ grp:Basics-of-probability::notation
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::notation
+grm:basics-of-probability::notation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1187,7 +1187,7 @@ This notation $p(X)$ is somewhat unfortunate, because $p(X)$ does not really rep
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::want
+grp:basics-of-probability::want
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1211,7 +1211,7 @@ grp:Basics-of-probability::want
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::want
+grm:basics-of-probability::want
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1249,7 +1249,7 @@ If we _do_ want to refer to a specific value that $X$ takes on, we'll use the lo
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_6_
+grp:basics-of-probability::_4_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1273,7 +1273,7 @@ grp:Basics-of-probability::_6_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_5_
+grm:basics-of-probability::_3_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1315,7 +1315,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::probability
+grp:basics-of-probability::probability
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1339,7 +1339,7 @@ grp:Basics-of-probability::probability
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::probability
+grm:basics-of-probability::probability
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1377,7 +1377,7 @@ to represent the probability (i.e., the numerical value) of that particular prob
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::sunny
+grp:basics-of-probability::sunny
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1401,7 +1401,7 @@ grp:Basics-of-probability::sunny
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::sunny
+grm:basics-of-probability::sunny
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1443,7 +1443,7 @@ pWeather["sunny"]
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::pre
+grp:basics-of-probability::pre
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1467,7 +1467,7 @@ grp:Basics-of-probability::pre
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::pre
+grm:basics-of-probability::pre
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1512,7 +1512,7 @@ Joint distributions and factors
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Basics-of-probability::joint
+sec:basics-of-probability::joint-distributions-and-factors
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1533,7 +1533,7 @@ sec:Basics-of-probability::joint
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::given
+grp:basics-of-probability::given
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1557,7 +1557,7 @@ grp:Basics-of-probability::given
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::given
+grm:basics-of-probability::given
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1595,7 +1595,7 @@ Given two random variables $X_1$ (taking values in $\\{1,2,3\\}$) and $X_2$ (tak
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::px1x2
+grp:basics-of-probability::px1x2
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1619,7 +1619,7 @@ grp:Basics-of-probability::px1x2
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::px1x2
+grm:basics-of-probability::px1x2
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1661,7 +1661,7 @@ print(pX1X2)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_8_
+grp:basics-of-probability::_6_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1685,7 +1685,7 @@ grp:Basics-of-probability::_8_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_7_
+grm:basics-of-probability::_5_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1727,7 +1727,7 @@ grm:Basics-of-probability::_7_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::would
+grp:basics-of-probability::would
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1751,7 +1751,7 @@ grp:Basics-of-probability::would
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::would
+grm:basics-of-probability::would
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1789,7 +1789,7 @@ Then as above, $p(x_1, x_2)$ would represent a _number_ corresponding to a singl
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_10_
+grp:basics-of-probability::_8_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1813,7 +1813,7 @@ grp:Basics-of-probability::_10_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_9_
+grm:basics-of-probability::_7_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1853,7 +1853,7 @@ pX1X2[(1,2)]
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_12_
+grp:basics-of-probability::_10_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1877,7 +1877,7 @@ grp:Basics-of-probability::_12_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_11_
+grm:basics-of-probability::_9_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1919,7 +1919,7 @@ grm:Basics-of-probability::_11_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::gets
+grp:basics-of-probability::gets
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1943,7 +1943,7 @@ grp:Basics-of-probability::gets
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::gets
+grm:basics-of-probability::gets
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1981,7 +1981,7 @@ Where this gets a bit tricky in when we _combine_ both types of expressions.  Fo
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::items
+grp:basics-of-probability::items
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2005,7 +2005,7 @@ grp:Basics-of-probability::items
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::items
+grm:basics-of-probability::items
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2047,7 +2047,7 @@ fX1
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_14_
+grp:basics-of-probability::_12_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2071,7 +2071,7 @@ grp:Basics-of-probability::_14_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_13_
+grm:basics-of-probability::_11_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2113,7 +2113,7 @@ grm:Basics-of-probability::_13_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::concrete
+grp:basics-of-probability::concrete
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2137,7 +2137,7 @@ grp:Basics-of-probability::concrete
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::concrete
+grm:basics-of-probability::concrete
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2175,7 +2175,7 @@ As a more concrete example, let's consider two random variables: $\mbox{Weather}
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::cavity
+grp:basics-of-probability::cavity
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2199,7 +2199,7 @@ grp:Basics-of-probability::cavity
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::cavity
+grm:basics-of-probability::cavity
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2257,7 +2257,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::refer
+grp:basics-of-probability::refer
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2281,7 +2281,7 @@ grp:Basics-of-probability::refer
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::refer
+grm:basics-of-probability::refer
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2319,7 +2319,7 @@ If we want to refer to a single entry, we just have
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::yes
+grp:basics-of-probability::yes
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2343,7 +2343,7 @@ grp:Basics-of-probability::yes
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::yes
+grm:basics-of-probability::yes
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2385,7 +2385,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::look
+grp:basics-of-probability::look
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2409,7 +2409,7 @@ grp:Basics-of-probability::look
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::look
+grm:basics-of-probability::look
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2447,7 +2447,7 @@ Or if we want to look at a partial factor
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::rainy
+grp:basics-of-probability::rainy
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2471,7 +2471,7 @@ grp:Basics-of-probability::rainy
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::rainy
+grm:basics-of-probability::rainy
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2523,7 +2523,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_16_
+grp:basics-of-probability::_14_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2547,7 +2547,7 @@ grp:Basics-of-probability::_16_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_15_
+grm:basics-of-probability::_13_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2585,7 +2585,7 @@ Again as Python code:
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::pweathercavity
+grp:basics-of-probability::pweathercavity
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2609,7 +2609,7 @@ grp:Basics-of-probability::pweathercavity
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::pweathercavity
+grm:basics-of-probability::pweathercavity
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2667,7 +2667,7 @@ pprint.pprint(fWeather)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::cloudy
+grp:basics-of-probability::cloudy
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2691,7 +2691,7 @@ grp:Basics-of-probability::cloudy
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::cloudy
+grm:basics-of-probability::cloudy
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2750,7 +2750,7 @@ Probability/factor operations
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Basics-of-probability::probability
+sec:basics-of-probability::probability-factor-operations
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2771,7 +2771,7 @@ sec:Basics-of-probability::probability
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::topic
+grp:basics-of-probability::topic
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2795,7 +2795,7 @@ grp:Basics-of-probability::topic
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::topic
+grm:basics-of-probability::topic
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2833,7 +2833,7 @@ The last topic to discuss if we we perform operations on probabilities/factors. 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_18_
+grp:basics-of-probability::_16_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2857,7 +2857,7 @@ grp:Basics-of-probability::_18_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_17_
+grm:basics-of-probability::_15_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2899,7 +2899,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::product
+grp:basics-of-probability::product
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2923,7 +2923,7 @@ grp:Basics-of-probability::product
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::product
+grm:basics-of-probability::product
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2961,7 +2961,7 @@ The above product would actually be a _new_ factor over all the variables involv
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_20_
+grp:basics-of-probability::_18_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2985,7 +2985,7 @@ grp:Basics-of-probability::_20_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_19_
+grm:basics-of-probability::_17_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3027,7 +3027,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::seems
+grp:basics-of-probability::seems
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3051,7 +3051,7 @@ grp:Basics-of-probability::seems
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::seems
+grm:basics-of-probability::seems
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3089,7 +3089,7 @@ This seems confusing initially, but it is actually probably what you had in mind
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::shows
+grp:basics-of-probability::shows
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3113,7 +3113,7 @@ grp:Basics-of-probability::shows
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::shows
+grm:basics-of-probability::shows
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3151,7 +3151,7 @@ The following code shows how to compute a factor product like this in Python.  W
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::px2x3
+grp:basics-of-probability::px2x3
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3175,7 +3175,7 @@ grp:Basics-of-probability::px2x3
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::px2x3
+grm:basics-of-probability::px2x3
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3227,7 +3227,7 @@ pprint.pprint(f)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_22_
+grp:basics-of-probability::_20_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3251,7 +3251,7 @@ grp:Basics-of-probability::_22_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_21_
+grm:basics-of-probability::_19_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3310,7 +3310,7 @@ grm:Basics-of-probability::_21_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Basics-of-probability::aside
+sec:basics-of-probability::aside-a-generic-python-implementation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3331,7 +3331,7 @@ sec:Basics-of-probability::aside
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::representing
+grp:basics-of-probability::representing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3355,7 +3355,7 @@ grp:Basics-of-probability::representing
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::representing
+grm:basics-of-probability::representing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3393,7 +3393,7 @@ The above notation (directly representing probability distributions as dictionar
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::import
+grp:basics-of-probability::import
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3417,7 +3417,7 @@ grp:Basics-of-probability::import
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::import
+grm:basics-of-probability::import
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3539,7 +3539,7 @@ class Factor:
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::welcome
+grp:basics-of-probability::welcome
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3563,7 +3563,7 @@ grp:Basics-of-probability::welcome
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::welcome
+grm:basics-of-probability::welcome
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3601,7 +3601,7 @@ You're welcome to go through the code in detail (there isn't much of it), but it
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::previously
+grp:basics-of-probability::previously
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3625,7 +3625,7 @@ grp:Basics-of-probability::previously
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::previously
+grm:basics-of-probability::previously
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3663,7 +3663,7 @@ Let's use this code to set up the example we saw previously.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::factor
+grp:basics-of-probability::factor
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3687,7 +3687,7 @@ grp:Basics-of-probability::factor
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::factor
+grm:basics-of-probability::factor
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3739,7 +3739,7 @@ print(pWeatherCavity)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_24_
+grp:basics-of-probability::_22_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3763,7 +3763,7 @@ grp:Basics-of-probability::_24_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_23_
+grm:basics-of-probability::_21_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3819,7 +3819,7 @@ Factor(Weather, Cavity) = {
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::variables
+grp:basics-of-probability::variables
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3843,7 +3843,7 @@ grp:Basics-of-probability::variables
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::variables
+grm:basics-of-probability::variables
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3881,7 +3881,7 @@ The `p.variables` attribute is a dictionary that maps variables to all their pos
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::print
+grp:basics-of-probability::print
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3905,7 +3905,7 @@ grp:Basics-of-probability::print
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::print
+grm:basics-of-probability::print
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3945,7 +3945,7 @@ print(pWeatherCavity.variables)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_26_
+grp:basics-of-probability::_24_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3969,7 +3969,7 @@ grp:Basics-of-probability::_26_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_25_
+grm:basics-of-probability::_23_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4011,7 +4011,7 @@ grm:Basics-of-probability::_25_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::factors
+grp:basics-of-probability::factors
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4035,7 +4035,7 @@ grp:Basics-of-probability::factors
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::factors
+grm:basics-of-probability::factors
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4073,7 +4073,7 @@ And the `p.factors` is the actual dictionary of factors, that we entered above.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::pprint
+grp:basics-of-probability::pprint
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4097,7 +4097,7 @@ grp:Basics-of-probability::pprint
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::pprint
+grm:basics-of-probability::pprint
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4137,7 +4137,7 @@ pprint.pprint(pWeatherCavity.factors)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_28_
+grp:basics-of-probability::_26_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4161,7 +4161,7 @@ grp:Basics-of-probability::_28_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_27_
+grm:basics-of-probability::_25_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4213,7 +4213,7 @@ grm:Basics-of-probability::_27_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::specify
+grp:basics-of-probability::specify
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4237,7 +4237,7 @@ grp:Basics-of-probability::specify
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::specify
+grm:basics-of-probability::specify
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4275,7 +4275,7 @@ We can specify variable settings by calling the factor with keyword argument.  I
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_30_
+grp:basics-of-probability::_28_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4299,7 +4299,7 @@ grp:Basics-of-probability::_30_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_29_
+grm:basics-of-probability::_27_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4339,7 +4339,7 @@ pWeatherCavity(Weather="rainy", Cavity="yes")
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_32_
+grp:basics-of-probability::_30_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4363,7 +4363,7 @@ grp:Basics-of-probability::_32_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_31_
+grm:basics-of-probability::_29_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4405,7 +4405,7 @@ grm:Basics-of-probability::_31_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::return
+grp:basics-of-probability::return
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4429,7 +4429,7 @@ grp:Basics-of-probability::return
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::return
+grm:basics-of-probability::return
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4467,7 +4467,7 @@ If we specify only some of the variables, then we return a factor over the remai
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_34_
+grp:basics-of-probability::_32_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4491,7 +4491,7 @@ grp:Basics-of-probability::_34_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_33_
+grm:basics-of-probability::_31_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4531,7 +4531,7 @@ pWeatherCavity(Cavity="yes")
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_36_
+grp:basics-of-probability::_34_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4555,7 +4555,7 @@ grp:Basics-of-probability::_36_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_35_
+grm:basics-of-probability::_33_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4605,7 +4605,7 @@ Factor(Weather) = {
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::perform
+grp:basics-of-probability::perform
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4629,7 +4629,7 @@ grp:Basics-of-probability::perform
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::perform
+grm:basics-of-probability::perform
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4667,7 +4667,7 @@ Finally, we can perform factor operations like multiplication just by multiplyin
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::pcavitydentist
+grp:basics-of-probability::pcavitydentist
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4691,7 +4691,7 @@ grp:Basics-of-probability::pcavitydentist
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::pcavitydentist
+grm:basics-of-probability::pcavitydentist
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4741,7 +4741,7 @@ print(pWeatherCavity*pCavityDentist)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::dentist
+grp:basics-of-probability::dentist
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4765,7 +4765,7 @@ grp:Basics-of-probability::dentist
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::dentist
+grm:basics-of-probability::dentist
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4845,7 +4845,7 @@ Factor(Weather, Cavity, Dentist) = {
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::illustrate
+grp:basics-of-probability::illustrate
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4869,7 +4869,7 @@ grp:Basics-of-probability::illustrate
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::illustrate
+grm:basics-of-probability::illustrate
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4912,7 +4912,7 @@ Basics properties of probability
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Basics-of-probability::basics
+sec:basics-of-probability::basics-properties-of-probability
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4933,7 +4933,7 @@ sec:Basics-of-probability::basics
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::rather
+grp:basics-of-probability::rather
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4957,7 +4957,7 @@ grp:Basics-of-probability::rather
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::rather
+grm:basics-of-probability::rather
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4996,7 +4996,7 @@ Marginalization
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Basics-of-probability::marginalization
+sec:basics-of-probability::marginalization
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5017,7 +5017,7 @@ sec:Basics-of-probability::marginalization
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::random
+grp:basics-of-probability::random
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5041,7 +5041,7 @@ grp:Basics-of-probability::random
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::random
+grm:basics-of-probability::random
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5079,7 +5079,7 @@ For random variables $X_1$, $X_2$ with joint distribution $p(X_1,X_2)$, we can o
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_38_
+grp:basics-of-probability::_36_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5103,7 +5103,7 @@ grp:Basics-of-probability::_38_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_37_
+grm:basics-of-probability::_35_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5145,7 +5145,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::takes
+grp:basics-of-probability::takes
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5169,7 +5169,7 @@ grp:Basics-of-probability::takes
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::takes
+grm:basics-of-probability::takes
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5207,7 +5207,7 @@ Note that the notation $\sum_{x_2}$ (with lower case $x_2$ here means that we su
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::generalize
+grp:basics-of-probability::generalize
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5231,7 +5231,7 @@ grp:Basics-of-probability::generalize
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::generalize
+grm:basics-of-probability::generalize
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5269,7 +5269,7 @@ We can generalize this to the joint distribution over many variables $p(X_1, \ld
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_40_
+grp:basics-of-probability::_38_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5293,7 +5293,7 @@ grp:Basics-of-probability::_40_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_39_
+grm:basics-of-probability::_37_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5335,7 +5335,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::order
+grp:basics-of-probability::order
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5359,7 +5359,7 @@ grp:Basics-of-probability::order
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::order
+grm:basics-of-probability::order
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5397,7 +5397,7 @@ Finally, in order to be a proper probaiblity (instead of just an arbitrary facto
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_42_
+grp:basics-of-probability::_40_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5421,7 +5421,7 @@ grp:Basics-of-probability::_42_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_41_
+grm:basics-of-probability::_39_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5463,7 +5463,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::works
+grp:basics-of-probability::works
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5487,7 +5487,7 @@ grp:Basics-of-probability::works
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::works
+grm:basics-of-probability::works
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5525,7 +5525,7 @@ Let's see how this works with our Factor class.  If we wanted to computer $p(\ma
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::pcavity
+grp:basics-of-probability::pcavity
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5549,7 +5549,7 @@ grp:Basics-of-probability::pcavity
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::pcavity
+grm:basics-of-probability::pcavity
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5591,7 +5591,7 @@ print(pCavity)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_44_
+grp:basics-of-probability::_42_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5615,7 +5615,7 @@ grp:Basics-of-probability::_44_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_43_
+grm:basics-of-probability::_41_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5663,7 +5663,7 @@ Factor(Cavity) = {
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::generally
+grp:basics-of-probability::generally
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5687,7 +5687,7 @@ grp:Basics-of-probability::generally
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::generally
+grm:basics-of-probability::generally
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5725,7 +5725,7 @@ More generally, we can easily definite a `marginalize` function that sums over s
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::marginalize
+grp:basics-of-probability::marginalize
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5749,7 +5749,7 @@ grp:Basics-of-probability::marginalize
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::marginalize
+grm:basics-of-probability::marginalize
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5801,7 +5801,7 @@ print(marginalize(pWeatherCavity, "Weather", "Cavity"))
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_46_
+grp:basics-of-probability::_44_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5825,7 +5825,7 @@ grp:Basics-of-probability::_46_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_45_
+grm:basics-of-probability::_43_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5888,7 +5888,7 @@ Conditional probability
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Basics-of-probability::conditional
+sec:basics-of-probability::conditional-probability
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5909,7 +5909,7 @@ sec:Basics-of-probability::conditional
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::conditional
+grp:basics-of-probability::conditional
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5933,7 +5933,7 @@ grp:Basics-of-probability::conditional
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::conditional
+grm:basics-of-probability::conditional
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5971,7 +5971,7 @@ Given two random variables $X_1,X_2$, the _conditional_ probability of $X_1$ giv
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_48_
+grp:basics-of-probability::_46_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5995,7 +5995,7 @@ grp:Basics-of-probability::_48_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_47_
+grm:basics-of-probability::_45_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6037,7 +6037,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::rearranged
+grp:basics-of-probability::rearranged
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6061,7 +6061,7 @@ grp:Basics-of-probability::rearranged
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::rearranged
+grm:basics-of-probability::rearranged
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6099,7 +6099,7 @@ This can also be rearranged to give a definition of the joint distribution in te
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_50_
+grp:basics-of-probability::_48_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6123,7 +6123,7 @@ grp:Basics-of-probability::_50_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_49_
+grm:basics-of-probability::_47_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6165,7 +6165,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::written
+grp:basics-of-probability::written
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6189,7 +6189,7 @@ grp:Basics-of-probability::written
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::written
+grm:basics-of-probability::written
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6227,7 +6227,7 @@ or written in terms of the opposite order
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_52_
+grp:basics-of-probability::_50_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6251,7 +6251,7 @@ grp:Basics-of-probability::_52_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_51_
+grm:basics-of-probability::_49_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6293,7 +6293,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::shortly
+grp:basics-of-probability::shortly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6317,7 +6317,7 @@ grp:Basics-of-probability::shortly
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::shortly
+grm:basics-of-probability::shortly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6355,7 +6355,7 @@ grm:Basics-of-probability::shortly
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::i-1
+grp:basics-of-probability::i-1
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6379,7 +6379,7 @@ grp:Basics-of-probability::i-1
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::i-1
+grm:basics-of-probability::i-1
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6421,7 +6421,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::charaterization
+grp:basics-of-probability::charaterization
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6445,7 +6445,7 @@ grp:Basics-of-probability::charaterization
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::charaterization
+grm:basics-of-probability::charaterization
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6483,7 +6483,7 @@ This charaterization also gives another way of writing the marginalization formu
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_54_
+grp:basics-of-probability::_52_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6507,7 +6507,7 @@ grp:Basics-of-probability::_54_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_53_
+grm:basics-of-probability::_51_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6549,7 +6549,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::class
+grp:basics-of-probability::class
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6573,7 +6573,7 @@ grp:Basics-of-probability::class
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::class
+grm:basics-of-probability::class
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6611,7 +6611,7 @@ Let's again see how this works with our class.  If we want to use this method to
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::pdentistgivencavity
+grp:basics-of-probability::pdentistgivencavity
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6635,7 +6635,7 @@ grp:Basics-of-probability::pdentistgivencavity
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::pdentistgivencavity
+grm:basics-of-probability::pdentistgivencavity
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6679,7 +6679,7 @@ print(pDentistGivenCavity)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_56_
+grp:basics-of-probability::_54_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6703,7 +6703,7 @@ grp:Basics-of-probability::_56_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_55_
+grm:basics-of-probability::_53_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6755,7 +6755,7 @@ Factor(Cavity, Dentist) = {
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::words
+grp:basics-of-probability::words
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6779,7 +6779,7 @@ grp:Basics-of-probability::words
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::words
+grm:basics-of-probability::words
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6817,7 +6817,7 @@ In other words, the probabilty of going to the dentist given that you have a cav
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_58_
+grp:basics-of-probability::_56_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6841,7 +6841,7 @@ grp:Basics-of-probability::_58_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_57_
+grm:basics-of-probability::_55_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6881,7 +6881,7 @@ pDentistGivenCavity(Cavity="yes")
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_60_
+grp:basics-of-probability::_58_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6905,7 +6905,7 @@ grp:Basics-of-probability::_60_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_59_
+grm:basics-of-probability::_57_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6958,7 +6958,7 @@ Bayes' rule
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Basics-of-probability::bayes
+sec:basics-of-probability::bayes-rule
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6979,7 +6979,7 @@ sec:Basics-of-probability::bayes
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::bayes
+grp:basics-of-probability::bayes
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7003,7 +7003,7 @@ grp:Basics-of-probability::bayes
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::bayes
+grm:basics-of-probability::bayes
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7041,7 +7041,7 @@ Bayes' rule has a special place in probability and machine learning, but fundame
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_62_
+grp:basics-of-probability::_60_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7065,7 +7065,7 @@ grp:Basics-of-probability::_62_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_61_
+grm:basics-of-probability::_59_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7107,7 +7107,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::follows
+grp:basics-of-probability::follows
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7131,7 +7131,7 @@ grp:Basics-of-probability::follows
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::follows
+grm:basics-of-probability::follows
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7169,7 +7169,7 @@ which just follows trivially from the above definitions of conditional probabili
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_64_
+grp:basics-of-probability::_62_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7193,7 +7193,7 @@ grp:Basics-of-probability::_64_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_63_
+grm:basics-of-probability::_61_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7235,7 +7235,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::rule
+grp:basics-of-probability::rule
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7259,7 +7259,7 @@ grp:Basics-of-probability::rule
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::rule
+grm:basics-of-probability::rule
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7297,7 +7297,7 @@ The rule is particularly useful when probability are given in terms of the quant
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::know
+grp:basics-of-probability::know
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7321,7 +7321,7 @@ grp:Basics-of-probability::know
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::know
+grm:basics-of-probability::know
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7361,7 +7361,7 @@ grm:Basics-of-probability::know
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::people
+grp:basics-of-probability::people
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7385,7 +7385,7 @@ grp:Basics-of-probability::people
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::people
+grm:basics-of-probability::people
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7423,7 +7423,7 @@ Most people (and quite unsettlingly, apparently [most doctors](http://www.bbc.co
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::test
+grp:basics-of-probability::test
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7447,7 +7447,7 @@ grp:Basics-of-probability::test
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::test
+grm:basics-of-probability::test
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7489,7 +7489,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::aren
+grp:basics-of-probability::aren
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7513,7 +7513,7 @@ grp:Basics-of-probability::aren
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::aren
+grm:basics-of-probability::aren
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7551,7 +7551,7 @@ But we aren't given this quantity directly.  Reading off the probabilities from 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::flu
+grp:basics-of-probability::flu
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7575,7 +7575,7 @@ grp:Basics-of-probability::flu
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::flu
+grm:basics-of-probability::flu
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7625,7 +7625,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::probabilities
+grp:basics-of-probability::probabilities
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7649,7 +7649,7 @@ grp:Basics-of-probability::probabilities
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::probabilities
+grm:basics-of-probability::probabilities
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7687,7 +7687,7 @@ and since the probabilities are all binary here, this also implies that
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_66_
+grp:basics-of-probability::_64_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7711,7 +7711,7 @@ grp:Basics-of-probability::_66_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_65_
+grm:basics-of-probability::_63_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7761,7 +7761,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::apply
+grp:basics-of-probability::apply
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7785,7 +7785,7 @@ grp:Basics-of-probability::apply
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::apply
+grm:basics-of-probability::apply
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7823,7 +7823,7 @@ Now let's apply Bayes' rule to compute the term $p(\mathrm{Flu} = \mathrm{true} 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_68_
+grp:basics-of-probability::_66_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7847,7 +7847,7 @@ grp:Basics-of-probability::_68_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_67_
+grm:basics-of-probability::_65_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7899,7 +7899,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::less
+grp:basics-of-probability::less
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7923,7 +7923,7 @@ grp:Basics-of-probability::less
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::less
+grm:basics-of-probability::less
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7961,7 +7961,7 @@ So I actually have less than a 1% chance of having the flu.  What is happening h
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::incidentally
+grp:basics-of-probability::incidentally
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -7985,7 +7985,7 @@ grp:Basics-of-probability::incidentally
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::incidentally
+grm:basics-of-probability::incidentally
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8023,7 +8023,7 @@ Incidentally, this is why it's generally a bad idea to test _everyone_ for extre
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::write
+grp:basics-of-probability::write
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8047,7 +8047,7 @@ grp:Basics-of-probability::write
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::write
+grm:basics-of-probability::write
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8085,7 +8085,7 @@ Let's finally see how we can write this rule using our Factor class (which incid
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::pflu
+grp:basics-of-probability::pflu
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8109,7 +8109,7 @@ grp:Basics-of-probability::pflu
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::pflu
+grm:basics-of-probability::pflu
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8157,7 +8157,7 @@ print(pFluGivenTest)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::0102010097969295e-06
+grp:basics-of-probability::0102010097969295e-06
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8181,7 +8181,7 @@ grp:Basics-of-probability::0102010097969295e-06
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::0102010097969295e-06
+grm:basics-of-probability::0102010097969295e-06
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8233,7 +8233,7 @@ Factor(Test, Flu) = {
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::1negative
+grp:basics-of-probability::chance
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8257,7 +8257,7 @@ grp:Basics-of-probability::1negative
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::1negative
+grm:basics-of-probability::chance
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8296,7 +8296,7 @@ Independence
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Basics-of-probability::independence
+sec:basics-of-probability::independence
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8317,7 +8317,7 @@ sec:Basics-of-probability::independence
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::discuss
+grp:basics-of-probability::discuss
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8341,7 +8341,7 @@ grp:Basics-of-probability::discuss
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::discuss
+grm:basics-of-probability::discuss
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8379,7 +8379,7 @@ The next topic we'll discuss here, which will be even more important later in th
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::marginal
+grp:basics-of-probability::marginal
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8403,7 +8403,7 @@ grp:Basics-of-probability::marginal
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::marginal
+grm:basics-of-probability::marginal
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8441,7 +8441,7 @@ grm:Basics-of-probability::marginal
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_70_
+grp:basics-of-probability::_68_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8465,7 +8465,7 @@ grp:Basics-of-probability::_70_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_69_
+grm:basics-of-probability::_67_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8507,7 +8507,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::equivalent
+grp:basics-of-probability::equivalent
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8531,7 +8531,7 @@ grp:Basics-of-probability::equivalent
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::equivalent
+grm:basics-of-probability::equivalent
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8569,7 +8569,7 @@ An equivalent condition, which can easily be derived from the above, is that two
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_72_
+grp:basics-of-probability::_70_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8593,7 +8593,7 @@ grp:Basics-of-probability::_72_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_71_
+grm:basics-of-probability::_69_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8635,7 +8635,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::equivalence
+grp:basics-of-probability::equivalence
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8659,7 +8659,7 @@ grp:Basics-of-probability::equivalence
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::equivalence
+grm:basics-of-probability::equivalence
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8697,7 +8697,7 @@ To see the equivalence here note that
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_74_
+grp:basics-of-probability::_72_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8721,7 +8721,7 @@ grp:Basics-of-probability::_74_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_73_
+grm:basics-of-probability::_71_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8763,7 +8763,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::middle
+grp:basics-of-probability::middle
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8787,7 +8787,7 @@ grp:Basics-of-probability::middle
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::middle
+grm:basics-of-probability::middle
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8825,7 +8825,7 @@ where the middle equality holds by our assumption on independence.  Note that th
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_76_
+grp:basics-of-probability::_74_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8849,7 +8849,7 @@ grp:Basics-of-probability::_76_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_75_
+grm:basics-of-probability::_73_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8891,7 +8891,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::often
+grp:basics-of-probability::often
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8915,7 +8915,7 @@ grp:Basics-of-probability::often
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::often
+grm:basics-of-probability::often
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8953,7 +8953,7 @@ This second definition is often the more intuitive way to think about independen
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::indpendent
+grp:basics-of-probability::indpendent
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -8977,7 +8977,7 @@ grp:Basics-of-probability::indpendent
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::indpendent
+grm:basics-of-probability::indpendent
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9015,7 +9015,7 @@ In code, let's see if our Weather and Cavity variables above are indpendent.  We
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_78_
+grp:basics-of-probability::_76_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9039,7 +9039,7 @@ grp:Basics-of-probability::_78_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_77_
+grm:basics-of-probability::_75_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9085,7 +9085,7 @@ print(pWeather*pCavity)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_80_
+grp:basics-of-probability::_78_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9109,7 +9109,7 @@ grp:Basics-of-probability::_80_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_79_
+grm:basics-of-probability::_77_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9181,7 +9181,7 @@ Factor(Weather, Cavity) = {
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::distributions
+grp:basics-of-probability::distributions
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9205,7 +9205,7 @@ grp:Basics-of-probability::distributions
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::distributions
+grm:basics-of-probability::distributions
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9243,7 +9243,7 @@ These are the same distributions (modulo numerical precision), perhaps easiest t
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_82_
+grp:basics-of-probability::_80_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9267,7 +9267,7 @@ grp:Basics-of-probability::_82_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_81_
+grm:basics-of-probability::_79_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9307,7 +9307,7 @@ print(pWeatherCavity - pWeather*pCavity)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::3877787807814457e-17
+grp:basics-of-probability::3877787807814457e-17
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9331,7 +9331,7 @@ grp:Basics-of-probability::3877787807814457e-17
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::3877787807814457e-17
+grm:basics-of-probability::3877787807814457e-17
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9387,7 +9387,7 @@ Factor(Weather, Cavity) = {
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::alternatively
+grp:basics-of-probability::alternatively
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9411,7 +9411,7 @@ grp:Basics-of-probability::alternatively
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::alternatively
+grm:basics-of-probability::alternatively
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9449,7 +9449,7 @@ Alternatively, we have also computed $p(\mathrm{Weather} \mid \mathrm{Cavity})$,
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::pweathergivencavity
+grp:basics-of-probability::pweathergivencavity
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9473,7 +9473,7 @@ grp:Basics-of-probability::pweathergivencavity
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::pweathergivencavity
+grm:basics-of-probability::pweathergivencavity
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9517,7 +9517,7 @@ print(pWeatherGivenCavity(Cavity="no"))
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_84_
+grp:basics-of-probability::_82_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9541,7 +9541,7 @@ grp:Basics-of-probability::_84_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_83_
+grm:basics-of-probability::_81_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9601,7 +9601,7 @@ Factor(Weather) = {
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::distribution
+grp:basics-of-probability::distribution
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9625,7 +9625,7 @@ grp:Basics-of-probability::distribution
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::distribution
+grm:basics-of-probability::distribution
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9663,7 +9663,7 @@ These are the same distribution, again, so we can again conclude that Weather an
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::pdentist
+grp:basics-of-probability::pdentist
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9687,7 +9687,7 @@ grp:Basics-of-probability::pdentist
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::pdentist
+grm:basics-of-probability::pdentist
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9733,7 +9733,7 @@ print(pCavity*pDentist)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_86_
+grp:basics-of-probability::_84_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9757,7 +9757,7 @@ grp:Basics-of-probability::_86_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_85_
+grm:basics-of-probability::_83_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9821,7 +9821,7 @@ Factor(Cavity, Dentist) = {
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::meaning
+grp:basics-of-probability::meaning
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9845,7 +9845,7 @@ grp:Basics-of-probability::meaning
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::meaning
+grm:basics-of-probability::meaning
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9883,7 +9883,7 @@ These are not not the same, meaning the variables are not indpendent.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::independence
+grp:basics-of-probability::independence
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9907,7 +9907,7 @@ grp:Basics-of-probability::independence
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::independence
+grm:basics-of-probability::independence
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9945,7 +9945,7 @@ grm:Basics-of-probability::independence
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_88_
+grp:basics-of-probability::_86_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -9969,7 +9969,7 @@ grp:Basics-of-probability::_88_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_87_
+grm:basics-of-probability::_85_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10011,7 +10011,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::equivalently
+grp:basics-of-probability::equivalently
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10035,7 +10035,7 @@ grp:Basics-of-probability::equivalently
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::equivalently
+grm:basics-of-probability::equivalently
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10073,7 +10073,7 @@ or equivalently, if
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_90_
+grp:basics-of-probability::_88_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10097,7 +10097,7 @@ grp:Basics-of-probability::_90_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_89_
+grm:basics-of-probability::_87_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10139,7 +10139,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::normal
+grp:basics-of-probability::normal
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10163,7 +10163,7 @@ grp:Basics-of-probability::normal
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::normal
+grm:basics-of-probability::normal
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10201,7 +10201,7 @@ Just like with normal independence, the second formulation is often the more int
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::largely
+grp:basics-of-probability::largely
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10225,7 +10225,7 @@ grp:Basics-of-probability::largely
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::largely
+grm:basics-of-probability::largely
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10263,7 +10263,7 @@ Rather than illustrate this again with code (which would look largely like the e
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::imply
+grp:basics-of-probability::imply
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10287,7 +10287,7 @@ grp:Basics-of-probability::imply
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::imply
+grm:basics-of-probability::imply
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10325,7 +10325,7 @@ grm:Basics-of-probability::imply
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::keep
+grp:basics-of-probability::keep
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10349,7 +10349,7 @@ grp:Basics-of-probability::keep
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::keep
+grm:basics-of-probability::keep
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10387,7 +10387,7 @@ It is _very_ important to keep this fact in mind, as I have seen many people try
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::going
+grp:basics-of-probability::going
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10411,7 +10411,7 @@ grp:Basics-of-probability::going
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::going
+grm:basics-of-probability::going
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10449,7 +10449,7 @@ To illustrate this point, I'm going to use a common diagram from courses on prob
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::scenario
+grp:basics-of-probability::image
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10473,7 +10473,7 @@ grp:Basics-of-probability::scenario
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::scenario
+grm:basics-of-probability::image
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10511,7 +10511,7 @@ grm:Basics-of-probability::scenario
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::representation
+grp:basics-of-probability::representation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10535,7 +10535,7 @@ grp:Basics-of-probability::representation
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::representation
+grm:basics-of-probability::representation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10573,7 +10573,7 @@ This is actually a representation of probabilities tha we will see later in clas
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::interesting
+grp:basics-of-probability::interesting
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10597,7 +10597,7 @@ grp:Basics-of-probability::interesting
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::interesting
+grm:basics-of-probability::interesting
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10635,7 +10635,7 @@ In there are two interesting sets of independnece relations.  We take it as esse
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::earthquake
+grp:basics-of-probability::earthquake
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10659,7 +10659,7 @@ grp:Basics-of-probability::earthquake
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::earthquake
+grm:basics-of-probability::earthquake
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10701,7 +10701,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::burglary
+grp:basics-of-probability::burglary
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10725,7 +10725,7 @@ grp:Basics-of-probability::burglary
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::burglary
+grm:basics-of-probability::burglary
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10764,7 +10764,7 @@ A bit of thinking about this scenario, this at an intuitive level, should convin
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::alarm
+grp:basics-of-probability::alarm
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10788,7 +10788,7 @@ grp:Basics-of-probability::alarm
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::alarm
+grm:basics-of-probability::alarm
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10830,7 +10830,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::hear
+grp:basics-of-probability::hear
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10854,7 +10854,7 @@ grp:Basics-of-probability::hear
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::hear
+grm:basics-of-probability::hear
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10892,7 +10892,7 @@ Specifically, if we hear the alarm, then we expect it to be "caused" by either t
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::events
+grp:basics-of-probability::events
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10916,7 +10916,7 @@ grp:Basics-of-probability::events
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::events
+grm:basics-of-probability::events
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10954,7 +10954,7 @@ Conversely, the two events of John calling and Mary calling are _not_ marginally
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::johncalls
+grp:basics-of-probability::johncalls
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -10978,7 +10978,7 @@ grp:Basics-of-probability::johncalls
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::johncalls
+grm:basics-of-probability::johncalls
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11020,7 +11020,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::highly
+grp:basics-of-probability::highly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11044,7 +11044,7 @@ grp:Basics-of-probability::highly
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::highly
+grm:basics-of-probability::highly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11082,7 +11082,7 @@ This is because these two events are both highly correlated by the presence of t
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::marycalls
+grp:basics-of-probability::marycalls
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11106,7 +11106,7 @@ grp:Basics-of-probability::marycalls
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::marycalls
+grm:basics-of-probability::marycalls
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11148,7 +11148,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::essentially
+grp:basics-of-probability::essentially
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11172,7 +11172,7 @@ grp:Basics-of-probability::essentially
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::essentially
+grm:basics-of-probability::essentially
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11213,7 +11213,7 @@ Expectations
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Basics-of-probability::expectations
+sec:basics-of-probability::expectations
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11234,7 +11234,7 @@ sec:Basics-of-probability::expectations
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::expectation
+grp:basics-of-probability::expectation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11258,7 +11258,7 @@ grp:Basics-of-probability::expectation
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::expectation
+grm:basics-of-probability::expectation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11296,7 +11296,7 @@ The expectation of a random variable is defined as the product between the value
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_92_
+grp:basics-of-probability::_90_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11320,7 +11320,7 @@ grp:Basics-of-probability::_92_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_91_
+grm:basics-of-probability::_89_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11362,7 +11362,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::term
+grp:basics-of-probability::term
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11386,7 +11386,7 @@ grp:Basics-of-probability::term
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::term
+grm:basics-of-probability::term
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11424,7 +11424,7 @@ We write this term as a function of the upper case random variable $X$ because i
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::emphasize
+grp:basics-of-probability::emphasize
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11448,7 +11448,7 @@ grp:Basics-of-probability::emphasize
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::emphasize
+grm:basics-of-probability::emphasize
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11486,7 +11486,7 @@ We also need to emphasize that the expectation is _only_ possible when the rando
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::concept
+grp:basics-of-probability::concept
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11510,7 +11510,7 @@ grp:Basics-of-probability::concept
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::concept
+grm:basics-of-probability::concept
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11548,7 +11548,7 @@ We can also generalize the concept of expectation to conditional expectation, i.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_94_
+grp:basics-of-probability::_92_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11572,7 +11572,7 @@ grp:Basics-of-probability::_94_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_93_
+grm:basics-of-probability::_91_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11614,7 +11614,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::single
+grp:basics-of-probability::single
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11638,7 +11638,7 @@ grp:Basics-of-probability::single
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::single
+grm:basics-of-probability::single
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11676,7 +11676,7 @@ Note that for this to still be a single number $x_2$ must be a particular assign
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::properties
+grp:basics-of-probability::properties
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11700,7 +11700,7 @@ grp:Basics-of-probability::properties
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::properties
+grm:basics-of-probability::properties
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11739,7 +11739,7 @@ One of the most important properties of expectations is the _linearity_.  For _a
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_96_
+grp:basics-of-probability::_94_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11763,7 +11763,7 @@ grp:Basics-of-probability::_96_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_95_
+grm:basics-of-probability::_93_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11817,7 +11817,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::used
+grp:basics-of-probability::used
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11841,7 +11841,7 @@ grp:Basics-of-probability::used
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::used
+grm:basics-of-probability::used
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11879,7 +11879,7 @@ where we used the definition of marginalization between the third and forth line
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::additional
+grp:basics-of-probability::additional
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11903,7 +11903,7 @@ grp:Basics-of-probability::additional
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::additional
+grm:basics-of-probability::additional
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11941,7 +11941,7 @@ Additional, the expectation of a product of random variable is equal to the expe
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::1x
+grp:basics-of-probability::1x
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -11965,7 +11965,7 @@ grp:Basics-of-probability::1x
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::1x
+grm:basics-of-probability::1x
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12017,7 +12017,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::line
+grp:basics-of-probability::line
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12041,7 +12041,7 @@ grp:Basics-of-probability::line
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::line
+grm:basics-of-probability::line
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12079,7 +12079,7 @@ where the second line followed from our assumption of independence.  In general,
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::implementation
+grp:basics-of-probability::implementation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12103,7 +12103,7 @@ grp:Basics-of-probability::implementation
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::implementation
+grm:basics-of-probability::implementation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12141,7 +12141,7 @@ grm:Basics-of-probability::implementation
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::args
+grp:basics-of-probability::args
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12165,7 +12165,7 @@ grp:Basics-of-probability::args
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::args
+grm:basics-of-probability::args
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12215,7 +12215,7 @@ print(expectation(pDie, lambda **v : v["Die"]))
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_98_
+grp:basics-of-probability::_96_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12239,7 +12239,7 @@ grp:Basics-of-probability::_98_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_97_
+grm:basics-of-probability::_95_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12281,7 +12281,7 @@ grm:Basics-of-probability::_97_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::take
+grp:basics-of-probability::take
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12305,7 +12305,7 @@ grp:Basics-of-probability::take
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::take
+grm:basics-of-probability::take
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12343,7 +12343,7 @@ We ca also take the expectation of terms squared, etc.
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::pdie
+grp:basics-of-probability::pdie
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12367,7 +12367,7 @@ grp:Basics-of-probability::pdie
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::pdie
+grm:basics-of-probability::pdie
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12407,7 +12407,7 @@ print(expectation(pDie, lambda **v : v["Die"]**2))
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_100_
+grp:basics-of-probability::_98_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12431,7 +12431,7 @@ grp:Basics-of-probability::_100_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_99_
+grm:basics-of-probability::_97_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12473,7 +12473,7 @@ grm:Basics-of-probability::_99_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::verify
+grp:basics-of-probability::verify
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12497,7 +12497,7 @@ grp:Basics-of-probability::verify
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::verify
+grm:basics-of-probability::verify
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12535,7 +12535,7 @@ We can also verify that for two independent random variables the expectation of 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::pdie2
+grp:basics-of-probability::pdie2
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12559,7 +12559,7 @@ grp:Basics-of-probability::pdie2
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::pdie2
+grm:basics-of-probability::pdie2
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12603,7 +12603,7 @@ print(expectation(pDie, lambda **v : v["Die"]) * expectation(pDie2, lambda **v :
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_102_
+grp:basics-of-probability::_100_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12627,7 +12627,7 @@ grp:Basics-of-probability::_102_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_101_
+grm:basics-of-probability::_99_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12671,7 +12671,7 @@ grm:Basics-of-probability::_101_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::consider
+grp:basics-of-probability::consider
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12695,7 +12695,7 @@ grp:Basics-of-probability::consider
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::consider
+grm:basics-of-probability::consider
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12733,7 +12733,7 @@ Finally, let's consider a case of binary (to keep it simple) random variables th
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::lambda
+grp:basics-of-probability::lambda
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12757,7 +12757,7 @@ grp:Basics-of-probability::lambda
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::lambda
+grm:basics-of-probability::lambda
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12801,7 +12801,7 @@ print(expectation(pX1X2, lambda **v : v["X1"]) * expectation(pX1X2, lambda **v :
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_104_
+grp:basics-of-probability::_102_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12825,7 +12825,7 @@ grp:Basics-of-probability::_104_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_103_
+grm:basics-of-probability::_101_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12872,7 +12872,7 @@ Variance
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Basics-of-probability::variance
+sec:basics-of-probability::variance
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12893,7 +12893,7 @@ sec:Basics-of-probability::variance
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::variance
+grp:basics-of-probability::variance
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12917,7 +12917,7 @@ grp:Basics-of-probability::variance
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::variance
+grm:basics-of-probability::variance
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12955,7 +12955,7 @@ The variance of a random variable, denoted $\mathbf{Var}[X]$ is the expectation 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::var
+grp:basics-of-probability::var
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -12979,7 +12979,7 @@ grp:Basics-of-probability::var
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::var
+grm:basics-of-probability::var
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13021,7 +13021,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::always
+grp:basics-of-probability::always
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13045,7 +13045,7 @@ grp:Basics-of-probability::always
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::always
+grm:basics-of-probability::always
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13083,7 +13083,7 @@ This is not always the easiest form to work with, so instead we often work with 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_106_
+grp:basics-of-probability::_104_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13107,7 +13107,7 @@ grp:Basics-of-probability::_106_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_105_
+grm:basics-of-probability::_103_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13161,7 +13161,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::expanded
+grp:basics-of-probability::expanded
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13185,7 +13185,7 @@ grp:Basics-of-probability::expanded
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::expanded
+grm:basics-of-probability::expanded
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13223,7 +13223,7 @@ where the second line just expanded the square term, the third and fourth lines 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::expression
+grp:basics-of-probability::expression
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13247,7 +13247,7 @@ grp:Basics-of-probability::expression
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::expression
+grm:basics-of-probability::expression
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13285,7 +13285,7 @@ We can also generalize this expression to the _covariance_ between two random va
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::cov
+grp:basics-of-probability::cov
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13309,7 +13309,7 @@ grp:Basics-of-probability::cov
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::cov
+grm:basics-of-probability::cov
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13361,7 +13361,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::mentioned
+grp:basics-of-probability::mentioned
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13385,7 +13385,7 @@ grp:Basics-of-probability::mentioned
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::mentioned
+grm:basics-of-probability::mentioned
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13423,7 +13423,7 @@ Note as mentioned above that this is just the difference between the product of 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::easily
+grp:basics-of-probability::easily
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13447,7 +13447,7 @@ grp:Basics-of-probability::easily
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::easily
+grm:basics-of-probability::easily
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13485,7 +13485,7 @@ We can easily implement the variance by simply using our expectation function.  
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::die
+grp:basics-of-probability::die
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13509,7 +13509,7 @@ grp:Basics-of-probability::die
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::die
+grm:basics-of-probability::die
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13551,7 +13551,7 @@ print(expectation(pDie, lambda **v : v["Die"]**2) - expectation(pDie, lambda **v
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_108_
+grp:basics-of-probability::_106_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13575,7 +13575,7 @@ grp:Basics-of-probability::_108_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_107_
+grm:basics-of-probability::_105_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13619,7 +13619,7 @@ grm:Basics-of-probability::_107_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::could
+grp:basics-of-probability::could
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13643,7 +13643,7 @@ grp:Basics-of-probability::could
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::could
+grm:basics-of-probability::could
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13681,7 +13681,7 @@ So we could define a simple function to compute the variance of a random variabl
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::def
+grp:basics-of-probability::def
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13705,7 +13705,7 @@ grp:Basics-of-probability::def
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::def
+grm:basics-of-probability::def
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13749,7 +13749,7 @@ variance(pDie, lambda **v : v["Die"])
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_110_
+grp:basics-of-probability::_108_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13773,7 +13773,7 @@ grp:Basics-of-probability::_110_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_109_
+grm:basics-of-probability::_107_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13815,7 +13815,7 @@ grm:Basics-of-probability::_109_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::technique
+grp:basics-of-probability::technique
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13839,7 +13839,7 @@ grp:Basics-of-probability::technique
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::technique
+grm:basics-of-probability::technique
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13877,7 +13877,7 @@ And finally, the same technique works for the covariance between two random vari
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::covariance
+grp:basics-of-probability::covariance
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13901,7 +13901,7 @@ grp:Basics-of-probability::covariance
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::covariance
+grm:basics-of-probability::covariance
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13949,7 +13949,7 @@ covariance(pX1X2, lambda **v: v["X1"], lambda **v: v["X2"])
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::-0
+grp:basics-of-probability::-0
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -13973,7 +13973,7 @@ grp:Basics-of-probability::-0
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::-0
+grm:basics-of-probability::-0
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14018,7 +14018,7 @@ Infinite and continuous random variables
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Basics-of-probability::infinite
+sec:basics-of-probability::infinite-and-continuous-random-variables
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14039,7 +14039,7 @@ sec:Basics-of-probability::infinite
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::discussed
+grp:basics-of-probability::discussed
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14063,7 +14063,7 @@ grp:Basics-of-probability::discussed
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::discussed
+grm:basics-of-probability::discussed
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14101,7 +14101,7 @@ Finally, although we have largely discussed discrete random variables so far, we
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::infinite
+grp:basics-of-probability::infinite
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14125,7 +14125,7 @@ grp:Basics-of-probability::infinite
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::infinite
+grm:basics-of-probability::infinite
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14163,7 +14163,7 @@ grm:Basics-of-probability::infinite
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::positive
+grp:basics-of-probability::positive
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14187,7 +14187,7 @@ grp:Basics-of-probability::positive
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::positive
+grm:basics-of-probability::positive
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14225,7 +14225,7 @@ As an example, the we could consider a probability distribution over the positiv
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_112_
+grp:basics-of-probability::_110_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14249,7 +14249,7 @@ grp:Basics-of-probability::_112_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_111_
+grm:basics-of-probability::_109_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14291,7 +14291,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::type
+grp:basics-of-probability::type
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14315,7 +14315,7 @@ grp:Basics-of-probability::type
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::type
+grm:basics-of-probability::type
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14353,7 +14353,7 @@ This is a type of distribution known as a geometric distribution, and it's easy 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_114_
+grp:basics-of-probability::_112_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14377,7 +14377,7 @@ grp:Basics-of-probability::_114_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_113_
+grm:basics-of-probability::_111_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14419,7 +14419,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::continuous
+grp:basics-of-probability::continuous
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14443,7 +14443,7 @@ grp:Basics-of-probability::continuous
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::continuous
+grm:basics-of-probability::continuous
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14481,7 +14481,7 @@ grm:Basics-of-probability::continuous
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::dx
+grp:basics-of-probability::dx
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14505,7 +14505,7 @@ grp:Basics-of-probability::dx
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::dx
+grm:basics-of-probability::dx
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14547,7 +14547,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::replace
+grp:basics-of-probability::replace
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14571,7 +14571,7 @@ grp:Basics-of-probability::replace
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::replace
+grm:basics-of-probability::replace
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14609,7 +14609,7 @@ Essentially, we need to replace all our summations with integrals, because we ar
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::compute
+grp:basics-of-probability::compute
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14633,7 +14633,7 @@ grp:Basics-of-probability::compute
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::compute
+grm:basics-of-probability::compute
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14671,7 +14671,7 @@ With these definitions, we can compute the (discrete) probability that $x$ lies 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_116_
+grp:basics-of-probability::_114_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14695,7 +14695,7 @@ grp:Basics-of-probability::_116_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_115_
+grm:basics-of-probability::_113_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14737,7 +14737,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::common
+grp:basics-of-probability::common
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14761,7 +14761,7 @@ grp:Basics-of-probability::common
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::common
+grm:basics-of-probability::common
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14799,7 +14799,7 @@ Another common function to consider is the so-called _cummulative distribution f
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_118_
+grp:basics-of-probability::_116_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14823,7 +14823,7 @@ grp:Basics-of-probability::_118_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_117_
+grm:basics-of-probability::_115_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14865,7 +14865,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::notions
+grp:basics-of-probability::notions
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14889,7 +14889,7 @@ grp:Basics-of-probability::notions
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::notions
+grm:basics-of-probability::notions
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14927,7 +14927,7 @@ Although these notions are slightly more difficult to grasp at first, the good n
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Basics-of-probability::_120_
+grp:basics-of-probability::_118_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -14951,7 +14951,7 @@ grp:Basics-of-probability::_120_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Basics-of-probability::_119_
+grm:basics-of-probability::_117_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...

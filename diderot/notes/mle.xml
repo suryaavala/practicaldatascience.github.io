@@ -14,7 +14,7 @@ Maximum likelihood estimation, naive Bayes
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-chapter:Maximum-likelihood-estimation--naive-Bayes::maximum
+ch:maximum-likelihood-estimation-naive-bayes::maximum-likelihood-estimation-naive-bayes
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -35,7 +35,7 @@ chapter:Maximum-likelihood-estimation--naive-Bayes::maximum
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::download
+grp:maximum-likelihood-estimation-naive-bayes::download
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -59,7 +59,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::download
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::download
+grm:maximum-likelihood-estimation-naive-bayes::download
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -98,7 +98,7 @@ Introduction
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Maximum-likelihood-estimation--naive-Bayes::introduction
+sec:maximum-likelihood-estimation-naive-bayes::introduction
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -119,7 +119,7 @@ sec:Maximum-likelihood-estimation--naive-Bayes::introduction
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::whereas
+grp:maximum-likelihood-estimation-naive-bayes::whereas
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -143,7 +143,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::whereas
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::whereas
+grm:maximum-likelihood-estimation-naive-bayes::whereas
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -181,7 +181,7 @@ Whereas the last set of notes was about the basic rules of probability, this set
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::setting
+grp:maximum-likelihood-estimation-naive-bayes::setting
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -205,7 +205,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::setting
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::setting
+grm:maximum-likelihood-estimation-naive-bayes::setting
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -243,7 +243,7 @@ A bit more specifically, our setting here is that we have access to some data se
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::_2_
+grp:maximum-likelihood-estimation-naive-bayes::_2_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -267,7 +267,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::_2_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::_1_
+grm:maximum-likelihood-estimation-naive-bayes::_1_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -309,7 +309,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::main
+grp:maximum-likelihood-estimation-naive-bayes::main
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -333,7 +333,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::main
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::main
+grm:maximum-likelihood-estimation-naive-bayes::main
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -371,7 +371,7 @@ Our main question is: can I come up with some random variable and distribution $
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::instead
+grp:maximum-likelihood-estimation-naive-bayes::instead
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -395,7 +395,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::instead
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::instead
+grm:maximum-likelihood-estimation-naive-bayes::instead
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -433,7 +433,7 @@ Instead, the common strategy is to pick our distribution from a certain _paramet
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::answer
+grp:maximum-likelihood-estimation-naive-bayes::answer
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -457,7 +457,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::answer
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::answer
+grm:maximum-likelihood-estimation-naive-bayes::answer
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -498,7 +498,7 @@ Maximum likelihood estimation
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Maximum-likelihood-estimation--naive-Bayes::maximum
+sec:maximum-likelihood-estimation-naive-bayes::maximum-likelihood-estimation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -519,7 +519,7 @@ sec:Maximum-likelihood-estimation--naive-Bayes::maximum
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::given
+grp:maximum-likelihood-estimation-naive-bayes::given
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -543,7 +543,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::given
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::given
+grm:maximum-likelihood-estimation-naive-bayes::given
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -581,7 +581,7 @@ Given some parameterized distribution $p(X;\theta)$, and an collection of (indep
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::_4_
+grp:maximum-likelihood-estimation-naive-bayes::_4_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -605,7 +605,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::_4_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::_3_
+grm:maximum-likelihood-estimation-naive-bayes::_3_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -647,7 +647,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::samples
+grp:maximum-likelihood-estimation-naive-bayes::samples
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -671,7 +671,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::samples
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::samples
+grm:maximum-likelihood-estimation-naive-bayes::samples
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -709,7 +709,7 @@ where here we just use the fact that the samples are all assumed to be independe
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::basic
+grp:maximum-likelihood-estimation-naive-bayes::basic
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -733,7 +733,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::basic
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::basic
+grm:maximum-likelihood-estimation-naive-bayes::basic
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -771,7 +771,7 @@ The basic idea of maximum likelihood estimation, is that _we want to pick parame
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::maximize
+grp:maximum-likelihood-estimation-naive-bayes::maximize
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -795,7 +795,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::maximize
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::maximize
+grm:maximum-likelihood-estimation-naive-bayes::maximize
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -839,7 +839,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::equivalently
+grp:maximum-likelihood-estimation-naive-bayes::equivalently
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -863,7 +863,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::equivalently
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::equivalently
+grm:maximum-likelihood-estimation-naive-bayes::equivalently
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -901,7 +901,7 @@ or equivalently (because maximizing a function is equivalent to maximizing the l
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::_6_
+grp:maximum-likelihood-estimation-naive-bayes::_6_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -925,7 +925,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::_6_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::_5_
+grm:maximum-likelihood-estimation-naive-bayes::_5_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -967,7 +967,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::term
+grp:maximum-likelihood-estimation-naive-bayes::term
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -991,7 +991,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::term
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::term
+grm:maximum-likelihood-estimation-naive-bayes::term
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1029,7 +1029,7 @@ The term we are maximizing above is so common that it usually has it's own name:
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::_8_
+grp:maximum-likelihood-estimation-naive-bayes::_8_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1053,7 +1053,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::_8_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::_7_
+grm:maximum-likelihood-estimation-naive-bayes::_7_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1095,7 +1095,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::explicitly
+grp:maximum-likelihood-estimation-naive-bayes::explicitly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1119,7 +1119,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::explicitly
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::explicitly
+grm:maximum-likelihood-estimation-naive-bayes::explicitly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1157,7 +1157,7 @@ where we explicitly write $\ell$ as a function of $\theta$ because we want to em
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::procedure
+grp:maximum-likelihood-estimation-naive-bayes::procedure
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1181,7 +1181,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::procedure
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::procedure
+grm:maximum-likelihood-estimation-naive-bayes::procedure
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1220,7 +1220,7 @@ Example: Bernoulli distribution
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Maximum-likelihood-estimation--naive-Bayes::bernoulli
+sec:maximum-likelihood-estimation-naive-bayes::example-bernoulli-distribution
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1241,7 +1241,7 @@ sec:Maximum-likelihood-estimation--naive-Bayes::bernoulli
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::take
+grp:maximum-likelihood-estimation-naive-bayes::take
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1265,7 +1265,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::take
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::take
+grm:maximum-likelihood-estimation-naive-bayes::take
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1303,7 +1303,7 @@ Let's take a simple example as an illustration of this point for the Bernoulli d
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::obvious
+grp:maximum-likelihood-estimation-naive-bayes::obvious
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1327,7 +1327,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::obvious
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::obvious
+grm:maximum-likelihood-estimation-naive-bayes::obvious
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1365,7 +1365,7 @@ The "obvious" answer here is that we just estimate $\phi$ to be the proportion o
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::total
+grp:maximum-likelihood-estimation-naive-bayes::total
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1389,7 +1389,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::total
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::total
+grm:maximum-likelihood-estimation-naive-bayes::total
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1431,7 +1431,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::case
+grp:maximum-likelihood-estimation-naive-bayes::case
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1455,7 +1455,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::case
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::case
+grm:maximum-likelihood-estimation-naive-bayes::case
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1493,7 +1493,7 @@ But why is this the case?  If we flip the coin just once, for example, would we 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::certainly
+grp:maximum-likelihood-estimation-naive-bayes::certainly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1517,7 +1517,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::certainly
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::certainly
+grm:maximum-likelihood-estimation-naive-bayes::certainly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1555,7 +1555,7 @@ While this is certainly true, in fact that maximum likelihood estimate of $\phi$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::recall
+grp:maximum-likelihood-estimation-naive-bayes::recall
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1579,7 +1579,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::recall
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::recall
+grm:maximum-likelihood-estimation-naive-bayes::recall
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1617,7 +1617,7 @@ First, recall that our objective is to choose $\phi$ maximize the likelihood, or
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::_10_
+grp:maximum-likelihood-estimation-naive-bayes::_10_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1641,7 +1641,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::_10_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::_9_
+grm:maximum-likelihood-estimation-naive-bayes::_9_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1683,7 +1683,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::probability
+grp:maximum-likelihood-estimation-naive-bayes::probability
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1707,7 +1707,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::probability
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::probability
+grm:maximum-likelihood-estimation-naive-bayes::probability
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1745,7 +1745,7 @@ Recall that the probability under a Bernoulli distribution is just $p(X=1;\phi) 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::1-
+grp:maximum-likelihood-estimation-naive-bayes::1-
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1769,7 +1769,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::1-
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::1-
+grm:maximum-likelihood-estimation-naive-bayes::1-
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1811,7 +1811,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::easy
+grp:maximum-likelihood-estimation-naive-bayes::easy
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1835,7 +1835,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::easy
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::easy
+grm:maximum-likelihood-estimation-naive-bayes::easy
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1873,7 +1873,7 @@ grm:Maximum-likelihood-estimation--naive-Bayes::easy
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::1-x
+grp:maximum-likelihood-estimation-naive-bayes::1-x
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1897,7 +1897,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::1-x
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::1-x
+grm:maximum-likelihood-estimation-naive-bayes::1-x
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1939,7 +1939,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::order
+grp:maximum-likelihood-estimation-naive-bayes::order
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1963,7 +1963,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::order
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::order
+grm:maximum-likelihood-estimation-naive-bayes::order
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2001,7 +2001,7 @@ In order to maximize this equation, let's take the derivative and set it equal t
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::_12_
+grp:maximum-likelihood-estimation-naive-bayes::_12_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2025,7 +2025,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::_12_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::_11_
+grm:maximum-likelihood-estimation-naive-bayes::_11_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2075,7 +2075,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::equal
+grp:maximum-likelihood-estimation-naive-bayes::equal
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2099,7 +2099,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::equal
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::equal
+grm:maximum-likelihood-estimation-naive-bayes::equal
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2137,7 +2137,7 @@ Setting this term equal to zero we have
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::_14_
+grp:maximum-likelihood-estimation-naive-bayes::_14_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2161,7 +2161,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::_14_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::_13_
+grm:maximum-likelihood-estimation-naive-bayes::_13_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2217,7 +2217,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::surprisingly
+grp:maximum-likelihood-estimation-naive-bayes::surprisingly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2241,7 +2241,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::surprisingly
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::surprisingly
+grm:maximum-likelihood-estimation-naive-bayes::surprisingly
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2282,7 +2282,7 @@ Example: normal distribution
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Maximum-likelihood-estimation--naive-Bayes::normal
+sec:maximum-likelihood-estimation-naive-bayes::example-normal-distribution
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2303,7 +2303,7 @@ sec:Maximum-likelihood-estimation--naive-Bayes::normal
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::dimensional
+grp:maximum-likelihood-estimation-naive-bayes::dimensional
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2327,7 +2327,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::dimensional
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::dimensional
+grm:maximum-likelihood-estimation-naive-bayes::dimensional
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2365,7 +2365,7 @@ Let's take another example, a one dimensional normal distribution with mean $\mu
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::x-
+grp:maximum-likelihood-estimation-naive-bayes::x-
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2389,7 +2389,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::x-
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::x-
+grm:maximum-likelihood-estimation-naive-bayes::x-
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2431,7 +2431,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::data
+grp:maximum-likelihood-estimation-naive-bayes::data
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2455,7 +2455,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::data
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::data
+grm:maximum-likelihood-estimation-naive-bayes::data
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2493,7 +2493,7 @@ then given some data $x^{(1)}, \ldots, x^{(m)}$ with $x^{(i)} \in \mathbb{R}^n$,
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::_16_
+grp:maximum-likelihood-estimation-naive-bayes::_16_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2517,7 +2517,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::_16_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::_15_
+grm:maximum-likelihood-estimation-naive-bayes::_15_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2559,7 +2559,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::optimization
+grp:maximum-likelihood-estimation-naive-bayes::optimization
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2583,7 +2583,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::optimization
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::optimization
+grm:maximum-likelihood-estimation-naive-bayes::optimization
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2621,7 +2621,7 @@ where the optimization objective can also be abbreviated as the log likelihood $
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::derivative
+grp:maximum-likelihood-estimation-naive-bayes::derivative
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2645,7 +2645,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::derivative
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::derivative
+grm:maximum-likelihood-estimation-naive-bayes::derivative
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2683,7 +2683,7 @@ Let's first take the derivative with respect to $\mu$ and set it equation to zer
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::_18_
+grp:maximum-likelihood-estimation-naive-bayes::_18_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2707,7 +2707,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::_18_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::_17_
+grm:maximum-likelihood-estimation-naive-bayes::_17_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2749,7 +2749,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::equation
+grp:maximum-likelihood-estimation-naive-bayes::equation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2773,7 +2773,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::equation
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::equation
+grm:maximum-likelihood-estimation-naive-bayes::equation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2811,7 +2811,7 @@ and setting the equation to zero gives
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::_20_
+grp:maximum-likelihood-estimation-naive-bayes::_20_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2835,7 +2835,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::_20_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::_19_
+grm:maximum-likelihood-estimation-naive-bayes::_19_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2877,7 +2877,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::maximum
+grp:maximum-likelihood-estimation-naive-bayes::maximum
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2901,7 +2901,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::maximum
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::maximum
+grm:maximum-likelihood-estimation-naive-bayes::maximum
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2939,7 +2939,7 @@ So we have the fact that the maximum likelihood estimate of the mean $\mu$ is ju
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::derivation
+grp:maximum-likelihood-estimation-naive-bayes::derivation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2963,7 +2963,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::derivation
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::derivation
+grm:maximum-likelihood-estimation-naive-bayes::derivation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3001,7 +3001,7 @@ The derivation for $\sigma$ is similar.  Specifically, the derivative there is g
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::_22_
+grp:maximum-likelihood-estimation-naive-bayes::_22_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3025,7 +3025,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::_22_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::_21_
+grm:maximum-likelihood-estimation-naive-bayes::_21_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3067,7 +3067,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::zero
+grp:maximum-likelihood-estimation-naive-bayes::zero
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3091,7 +3091,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::zero
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::zero
+grm:maximum-likelihood-estimation-naive-bayes::zero
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3129,7 +3129,7 @@ and setting equal to zero gives
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::_24_
+grp:maximum-likelihood-estimation-naive-bayes::_24_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3153,7 +3153,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::_24_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::_23_
+grm:maximum-likelihood-estimation-naive-bayes::_23_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3203,7 +3203,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::best
+grp:maximum-likelihood-estimation-naive-bayes::best
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3227,7 +3227,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::best
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::best
+grm:maximum-likelihood-estimation-naive-bayes::best
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3270,7 +3270,7 @@ Naive Bayes
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Maximum-likelihood-estimation--naive-Bayes::naive
+sec:maximum-likelihood-estimation-naive-bayes::naive-bayes
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3291,7 +3291,7 @@ sec:Maximum-likelihood-estimation--naive-Bayes::naive
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::simple
+grp:maximum-likelihood-estimation-naive-bayes::simple
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3315,7 +3315,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::simple
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::simple
+grm:maximum-likelihood-estimation-naive-bayes::simple
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3354,7 +3354,7 @@ Modeling the joint distribution $p(X,Y)$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Maximum-likelihood-estimation--naive-Bayes::modeling
+sec:maximum-likelihood-estimation-naive-bayes::modeling-the-joint-distribution
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3375,7 +3375,7 @@ sec:Maximum-likelihood-estimation--naive-Bayes::modeling
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::idea
+grp:maximum-likelihood-estimation-naive-bayes::idea
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3399,7 +3399,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::idea
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::idea
+grm:maximum-likelihood-estimation-naive-bayes::idea
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3437,7 +3437,7 @@ The basic idea of naive Bayes is that we are going to jointly model both the inp
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::going
+grp:maximum-likelihood-estimation-naive-bayes::going
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3461,7 +3461,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::going
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::going
+grm:maximum-likelihood-estimation-naive-bayes::going
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3499,7 +3499,7 @@ We are going to do this by first representing the joint distribution as
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::_26_
+grp:maximum-likelihood-estimation-naive-bayes::_26_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3523,7 +3523,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::_26_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::_25_
+grm:maximum-likelihood-estimation-naive-bayes::_25_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3565,7 +3565,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::course
+grp:maximum-likelihood-estimation-naive-bayes::course
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3589,7 +3589,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::course
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::course
+grm:maximum-likelihood-estimation-naive-bayes::course
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3627,7 +3627,7 @@ Of course, in general $X$ is a high dimensional random variable (consider, for i
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::_28_
+grp:maximum-likelihood-estimation-naive-bayes::_28_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3651,7 +3651,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::_28_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::_27_
+grm:maximum-likelihood-estimation-naive-bayes::_27_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3693,7 +3693,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::categorical
+grp:maximum-likelihood-estimation-naive-bayes::categorical
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3717,7 +3717,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::categorical
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::categorical
+grm:maximum-likelihood-estimation-naive-bayes::categorical
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3755,7 +3755,7 @@ Because $Y$ is categorical, we can represent $p(X_i \mid Y=y)$ as a separate dis
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::look
+grp:maximum-likelihood-estimation-naive-bayes::look
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3779,7 +3779,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::look
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::look
+grm:maximum-likelihood-estimation-naive-bayes::look
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3817,7 +3817,7 @@ Let's look at this in a bit more detail for the simple case that each $X_i$ and 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::_30_
+grp:maximum-likelihood-estimation-naive-bayes::_30_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3841,7 +3841,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::_30_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::_29_
+grm:maximum-likelihood-estimation-naive-bayes::_29_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3883,7 +3883,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::collection
+grp:maximum-likelihood-estimation-naive-bayes::collection
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3907,7 +3907,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::collection
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::collection
+grm:maximum-likelihood-estimation-naive-bayes::collection
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3945,7 +3945,7 @@ Furthermore, given a collection of examples $(x^{(1)}, y^{(1)}), \ldots, (x^{(m)
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::_32_
+grp:maximum-likelihood-estimation-naive-bayes::_32_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -3969,7 +3969,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::_32_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::_31_
+grm:maximum-likelihood-estimation-naive-bayes::_31_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4011,7 +4011,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::although
+grp:maximum-likelihood-estimation-naive-bayes::although
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4035,7 +4035,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::although
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::although
+grm:maximum-likelihood-estimation-naive-bayes::although
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4076,7 +4076,7 @@ Making predictions
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Maximum-likelihood-estimation--naive-Bayes::making
+sec:maximum-likelihood-estimation-naive-bayes::making-predictions
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4097,7 +4097,7 @@ sec:Maximum-likelihood-estimation--naive-Bayes::making
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::modeled
+grp:maximum-likelihood-estimation-naive-bayes::modeled
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4121,7 +4121,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::modeled
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::modeled
+grm:maximum-likelihood-estimation-naive-bayes::modeled
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4159,7 +4159,7 @@ Now that we have modeled the joint probability in the manner described above, ho
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::_34_
+grp:maximum-likelihood-estimation-naive-bayes::_34_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4183,7 +4183,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::_34_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::_33_
+grm:maximum-likelihood-estimation-naive-bayes::_33_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4225,7 +4225,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::making
+grp:maximum-likelihood-estimation-naive-bayes::making
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4249,7 +4249,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::making
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::making
+grm:maximum-likelihood-estimation-naive-bayes::making
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4287,7 +4287,7 @@ Making this a bit more concrete in terms of the parameters above, for some speci
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::1-y
+grp:maximum-likelihood-estimation-naive-bayes::1-y
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4311,7 +4311,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::1-y
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::1-y
+grm:maximum-likelihood-estimation-naive-bayes::1-y
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4355,7 +4355,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::trying
+grp:maximum-likelihood-estimation-naive-bayes::trying
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4379,7 +4379,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::trying
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::trying
+grm:maximum-likelihood-estimation-naive-bayes::trying
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4420,7 +4420,7 @@ Common issues and solutions
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Maximum-likelihood-estimation--naive-Bayes::common
+sec:maximum-likelihood-estimation-naive-bayes::common-issues-and-solutions
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4441,7 +4441,7 @@ sec:Maximum-likelihood-estimation--naive-Bayes::common
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::implementing
+grp:maximum-likelihood-estimation-naive-bayes::implementing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4465,7 +4465,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::implementing
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::implementing
+grm:maximum-likelihood-estimation-naive-bayes::implementing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4503,7 +4503,7 @@ When implementing naive Bayes there are a few common issues that come up which a
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::probabilities
+grp:maximum-likelihood-estimation-naive-bayes::probabilities
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4527,7 +4527,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::probabilities
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::probabilities
+grm:maximum-likelihood-estimation-naive-bayes::probabilities
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4565,7 +4565,7 @@ grm:Maximum-likelihood-estimation--naive-Bayes::probabilities
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::_36_
+grp:maximum-likelihood-estimation-naive-bayes::_36_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4589,7 +4589,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::_36_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::_35_
+grm:maximum-likelihood-estimation-naive-bayes::_35_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4631,7 +4631,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::small
+grp:maximum-likelihood-estimation-naive-bayes::small
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4655,7 +4655,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::small
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::small
+grm:maximum-likelihood-estimation-naive-bayes::small
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4693,7 +4693,7 @@ can be very small, and will quickly go to zero to the numerical precision of flo
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::_38_
+grp:maximum-likelihood-estimation-naive-bayes::_38_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4717,7 +4717,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::_38_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::_37_
+grm:maximum-likelihood-estimation-naive-bayes::_37_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4759,7 +4759,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::want
+grp:maximum-likelihood-estimation-naive-bayes::want
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4783,7 +4783,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::want
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::want
+grm:maximum-likelihood-estimation-naive-bayes::want
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4821,7 +4821,7 @@ If you only want to compute the most likely class, you can just compute these lo
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::laplace
+grp:maximum-likelihood-estimation-naive-bayes::laplace
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4845,7 +4845,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::laplace
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::laplace
+grm:maximum-likelihood-estimation-naive-bayes::laplace
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4883,7 +4883,7 @@ grm:Maximum-likelihood-estimation--naive-Bayes::laplace
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::_40_
+grp:maximum-likelihood-estimation-naive-bayes::_40_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4907,7 +4907,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::_40_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::_39_
+grm:maximum-likelihood-estimation-naive-bayes::_39_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4949,7 +4949,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::equivalent
+grp:maximum-likelihood-estimation-naive-bayes::equivalent
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4973,7 +4973,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::equivalent
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::equivalent
+grm:maximum-likelihood-estimation-naive-bayes::equivalent
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5014,7 +5014,7 @@ Other distributions
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Maximum-likelihood-estimation--naive-Bayes::distributions
+sec:maximum-likelihood-estimation-naive-bayes::other-distributions
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5035,7 +5035,7 @@ sec:Maximum-likelihood-estimation--naive-Bayes::distributions
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::naive
+grp:maximum-likelihood-estimation-naive-bayes::naive
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5059,7 +5059,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::naive
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::naive
+grm:maximum-likelihood-estimation-naive-bayes::naive
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5097,7 +5097,7 @@ Although naive Bayes is often presented as "just counting", the previous discuss
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::_42_
+grp:maximum-likelihood-estimation-naive-bayes::_42_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5121,7 +5121,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::_42_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::_41_
+grm:maximum-likelihood-estimation-naive-bayes::_41_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5163,7 +5163,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::parameters
+grp:maximum-likelihood-estimation-naive-bayes::parameters
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5187,7 +5187,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::parameters
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::parameters
+grm:maximum-likelihood-estimation-naive-bayes::parameters
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5225,7 +5225,7 @@ where $\mu_y$ and $\sigma_y^2$ are the parameters of the distribution.  Again, f
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::_44_
+grp:maximum-likelihood-estimation-naive-bayes::_44_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5249,7 +5249,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::_44_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::_43_
+grm:maximum-likelihood-estimation-naive-bayes::_43_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5293,7 +5293,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::standard
+grp:maximum-likelihood-estimation-naive-bayes::standard
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5317,7 +5317,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::standard
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::standard
+grm:maximum-likelihood-estimation-naive-bayes::standard
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5360,7 +5360,7 @@ Machine learning and maximum likelihood estimation
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Maximum-likelihood-estimation--naive-Bayes::machine
+sec:maximum-likelihood-estimation-naive-bayes::machine-learning-and-maximum-likelihood-estimation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5381,7 +5381,7 @@ sec:Maximum-likelihood-estimation--naive-Bayes::machine
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::discuss
+grp:maximum-likelihood-estimation-naive-bayes::discuss
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5405,7 +5405,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::discuss
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::discuss
+grm:maximum-likelihood-estimation-naive-bayes::discuss
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5444,7 +5444,7 @@ Logistic regression as maximum likelihood estimation
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:Maximum-likelihood-estimation--naive-Bayes::logistic
+sec:maximum-likelihood-estimation-naive-bayes::logistic-regression-as-maximum-likelihood-estimation
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5465,7 +5465,7 @@ sec:Maximum-likelihood-estimation--naive-Bayes::logistic
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::remember
+grp:maximum-likelihood-estimation-naive-bayes::remember
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5489,7 +5489,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::remember
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::remember
+grm:maximum-likelihood-estimation-naive-bayes::remember
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5527,7 +5527,7 @@ Remember that we previously formulated logistic regression as solving the optimi
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::minimize
+grp:maximum-likelihood-estimation-naive-bayes::minimize
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5551,7 +5551,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::minimize
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::minimize
+grm:maximum-likelihood-estimation-naive-bayes::minimize
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5595,7 +5595,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::class
+grp:maximum-likelihood-estimation-naive-bayes::class
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5619,7 +5619,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::class
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::class
+grm:maximum-likelihood-estimation-naive-bayes::class
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5657,7 +5657,7 @@ where $x^{(i)}\in \mathbb{R}^n$ denoted our input data, and $y^{(i)} \in \\{-1,+
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::python
+grp:maximum-likelihood-estimation-naive-bayes::python
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5681,7 +5681,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::python
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::python
+grm:maximum-likelihood-estimation-naive-bayes::python
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5733,7 +5733,7 @@ plt.legend(['Zero-one', 'Logistic', 'Hinge', 'Exponential'])
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::_46_
+grp:maximum-likelihood-estimation-naive-bayes::include
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5757,7 +5757,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::_46_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::_45_
+grm:maximum-likelihood-estimation-naive-bayes::include
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5795,7 +5795,7 @@ grm:Maximum-likelihood-estimation--naive-Bayes::_45_
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::function
+grp:maximum-likelihood-estimation-naive-bayes::function
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5819,7 +5819,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::function
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::function
+grm:maximum-likelihood-estimation-naive-bayes::function
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5857,7 +5857,7 @@ This function is small when $h_\theta(x)\cdot y$ is large (meaning we have the c
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::seems
+grp:maximum-likelihood-estimation-naive-bayes::seems
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5881,7 +5881,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::seems
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::seems
+grm:maximum-likelihood-estimation-naive-bayes::seems
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5919,7 +5919,7 @@ But this seems like a somewhat ad-hoc justification, and it turns out there is a
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::_48_
+grp:maximum-likelihood-estimation-naive-bayes::_46_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5943,7 +5943,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::_48_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::_47_
+grm:maximum-likelihood-estimation-naive-bayes::_45_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -5985,7 +5985,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::using
+grp:maximum-likelihood-estimation-naive-bayes::using
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6009,7 +6009,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::using
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::using
+grm:maximum-likelihood-estimation-naive-bayes::using
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6047,7 +6047,7 @@ where $\theta_+ \in \mathbb{R}^n$ denotes a set of parameters encoding the proba
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::turn
+grp:maximum-likelihood-estimation-naive-bayes::turn
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6071,7 +6071,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::turn
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::turn
+grm:maximum-likelihood-estimation-naive-bayes::turn
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6109,7 +6109,7 @@ In order to turn the above into an actual probability, we need to also have a se
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::-1
+grp:maximum-likelihood-estimation-naive-bayes::-1
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6133,7 +6133,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::-1
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::-1
+grm:maximum-likelihood-estimation-naive-bayes::-1
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6175,7 +6175,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::parameterized
+grp:maximum-likelihood-estimation-naive-bayes::parameterized
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6199,7 +6199,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::parameterized
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::parameterized
+grm:maximum-likelihood-estimation-naive-bayes::parameterized
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6237,7 +6237,7 @@ with parameterized by the parameter $\theta_-$.  Then the actual probability of 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::_50_
+grp:maximum-likelihood-estimation-naive-bayes::_48_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6261,7 +6261,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::_50_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::_49_
+grm:maximum-likelihood-estimation-naive-bayes::_47_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6303,7 +6303,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::equality
+grp:maximum-likelihood-estimation-naive-bayes::equality
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6327,7 +6327,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::equality
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::equality
+grm:maximum-likelihood-estimation-naive-bayes::equality
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6365,7 +6365,7 @@ where we get the second equality by dividing both the numerator and denominator 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::_52_
+grp:maximum-likelihood-estimation-naive-bayes::_50_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6389,7 +6389,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::_52_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::_51_
+grm:maximum-likelihood-estimation-naive-bayes::_49_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6431,7 +6431,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::apply
+grp:maximum-likelihood-estimation-naive-bayes::apply
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6455,7 +6455,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::apply
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::apply
+grm:maximum-likelihood-estimation-naive-bayes::apply
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6493,7 +6493,7 @@ Let's apply maximum likelihood estimation to estimate the parameters $\theta$.  
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::_54_
+grp:maximum-likelihood-estimation-naive-bayes::_52_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6517,7 +6517,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::_54_
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::_53_
+grm:maximum-likelihood-estimation-naive-bayes::_51_
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6559,7 +6559,7 @@ $$
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:Maximum-likelihood-estimation--naive-Bayes::likelihood
+grp:maximum-likelihood-estimation-naive-bayes::likelihood
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -6583,7 +6583,7 @@ grp:Maximum-likelihood-estimation--naive-Bayes::likelihood
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:Maximum-likelihood-estimation--naive-Bayes::likelihood
+grm:maximum-likelihood-estimation-naive-bayes::likelihood
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...

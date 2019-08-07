@@ -20,7 +20,7 @@ To create the data set, researchers took 569 images of cancerous cells, under a 
 {% include image.html img="cancercells.png" caption="Image of (manually) selected outlines of cells under a microscope."%}
 The researchers then considered 10 different features of each cell, of instance the area, perimeter, texture, number of concave points (i.e., indentations), variance of grayscale color, and some others (a full list is in the above paper).  For each of these 10 features they computed the mean, max, and standard deviation of the feature across all the cells in the image, resulting in a 30 dimensional vector describing each sample.
 
-The following is a plot of two of these features (mean # of concave points, and mean area) for all examples in the data set; blue points denotes a benign tumor, whereas red points denote a malignant tumor.  (Note that the dataset is so common, it's included in the actual scikit-learn package itself).
+The following is a plot of two of these features (mean \# of concave points, and mean area) for all examples in the data set; blue points denotes a benign tumor, whereas red points denote a malignant tumor.  (Note that the dataset is so common, it's included in the actual scikit-learn package itself).
 
 
 ```python
@@ -60,7 +60,7 @@ Just as our linear regression line did not pass exactly through all the data poi
 
 ## Classification notation
 
-As a reminder, let's consider the basic elements of a machine learning setup, available in more detail [here](http://www.datasciencecourse.org/notes/ml_intro/#machine-learning-in-general).
+As a reminder, let's consider the basic elements of a machine learning setup, available in more detail [here](http://www.datasciencecourse.org/notes/ml_intro/\#machine-learning-in-general).
 
 - **Inputs (features):** $x^{(i)} \in \mathbb{R}^n, \; i=1,\ldots, m$
 - **Outputs:** $y^{(i)} \in \mathcal{Y}, \; i=1,\ldots,m$

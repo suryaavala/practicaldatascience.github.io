@@ -14,7 +14,7 @@ Classification
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-ch:classification::classification
+ch:::classification
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...

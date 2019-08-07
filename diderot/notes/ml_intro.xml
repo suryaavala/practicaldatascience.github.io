@@ -14,7 +14,7 @@ Intro to machine learning
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-ch:intro-to-machine-learning::intro-to-machine-learning
+ch:::intro-to-machine-learning
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...

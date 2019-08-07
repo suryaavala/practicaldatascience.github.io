@@ -14,7 +14,7 @@ Graph and network processing
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-ch:graph-and-network-processing::graph-and-network-processing
+ch:::graph-and-network-processing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -4456,7 +4456,7 @@ Dijsktra's algorithm
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-sec:graph-and-network-processing::dijsktra-s-algorithm
+sec:graph-and-network-processing::dijsktra-algorithm
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...

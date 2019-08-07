@@ -14,7 +14,7 @@ Maximum likelihood estimation, naive Bayes
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-ch:maximum-likelihood-estimation-naive-bayes::maximum-likelihood-estimation-naive-bayes
+ch:::maximum-likelihood-estimation-naive-bayes
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...

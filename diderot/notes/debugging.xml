@@ -14,7 +14,7 @@ Debugging data science
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-ch:debugging-data-science::debugging-data-science
+ch:::debugging-data-science
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...

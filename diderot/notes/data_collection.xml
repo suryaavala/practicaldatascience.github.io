@@ -14,7 +14,7 @@ Data collection and scraping
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-ch:data-collection-and-scraping::data-collection-and-scraping
+ch:::data-collection-and-scraping
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...

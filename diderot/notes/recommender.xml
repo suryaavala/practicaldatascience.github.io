@@ -14,7 +14,7 @@ Recommender systems and collaborative filtering
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-ch:recommender-systems-and-collaborative-filtering::recommender-systems-and-collaborative-filtering
+ch:::recommender-systems-and-collaborative-filtering
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...

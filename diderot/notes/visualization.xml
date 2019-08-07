@@ -14,7 +14,7 @@ Visualization
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-ch:visualization::visualization
+ch:::visualization
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...

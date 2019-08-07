@@ -14,7 +14,7 @@ Vectors, matrices, and linear algebra
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-ch:vectors-matrices-and-linear-algebra::vectors-matrices-and-linear-algebra
+ch:::vectors-matrices-and-linear-algebra
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...

@@ -14,7 +14,7 @@ Introduction to Data Science
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-ch:introduction-to-data-science::introduction-to-data-science
+ch:::introduction-to-data-science
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...

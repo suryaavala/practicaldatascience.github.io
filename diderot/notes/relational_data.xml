@@ -14,7 +14,7 @@ Relational data and databases
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-ch:relational-data-and-databases::relational-data-and-databases
+ch:::relational-data-and-databases
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...

@@ -14,7 +14,7 @@ Free text processing
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-ch:free-text-processing::free-text-processing
+ch:::free-text-processing
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...

@@ -4,6 +4,8 @@ title: Maximum likelihood estimation, naive Bayes
 img: mle.svg
 ---
 
+# Maximum likelihood estimation, naive Bayes
+
 [Download notes as jupyter notebook](mle.tar.gz)
 
 ## Introduction
@@ -63,7 +65,7 @@ Let's take a simple example as an illustration of this point for the Bernoulli d
 The "obvious" answer here is that we just estimate $\phi$ to be the proportion of 1's in the data
 
 $$
-\phi = \frac{\mbox{# 1's}}{\mbox{# Total}} = \frac{\sum_{i=1}^m x^{(i)}}{m}.
+\phi = \frac{\mbox{\# 1's}}{\mbox{\# Total}} = \frac{\sum_{i=1}^m x^{(i)}}{m}.
 $$
 
 But why is this the case?  If we flip the coin just once, for example, would we expect that we should estimate $\phi$ to be either zero or one?  Maybe some other estimators exist that can better handle our expectation that the coin "should" be unbiased, i.e., have $\phi = 1/2$.

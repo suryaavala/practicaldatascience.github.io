@@ -4,6 +4,8 @@ title: Introduction to Data Science
 img: ds_pipeline_title.svg
 ---
 
+# Introduction to Data Science
+
 ## Introduction
 
 These notes will serve as the main companion to the slides and lectures for the Practical Data Science course.  For the most part, these will be technical notes, describing the algorithms, libraries, and code relevant for the lecture (plus code to generate all the figures from the slides), but for this introductory lecture, they are going to be a more high-level description of the philosophy and nature of the course.  Along with the lectures and slides, these are the only "required" material for the course, but as fair warning, you _will_ need to consult outside resources like API documentation for the various programming assignments.  Wherever possible, I'll try to give pointers to additional resources on the material, but just like real data science work, there will be cases where you'll need to seek this out yourself.

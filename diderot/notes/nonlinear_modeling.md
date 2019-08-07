@@ -4,6 +4,8 @@ title: Nonlinear modeling, overfitting, and regularization
 img: nonlinear.svg
 ---
 
+# Nonlinear modeling, overfitting, and regularization
+
 [Download notes as jupyter notebook](nonlinear_modeling.tar.gz)
 
 ## Introduction

@@ -4,6 +4,8 @@ title: Debugging data science
 img: debugging.svg
 ---
 
+#  Debugging data science
+
 [Download notes as jupyter notebook](debugging.tar.gz)
 
 ## Introduction

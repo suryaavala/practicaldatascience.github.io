@@ -4,6 +4,8 @@ title: Classification
 img: classification.svg
 ---
 
+# Classification
+
 [Download notes as jupyter notebook](linear_classification.tar.gz)
 
 ## Introduction

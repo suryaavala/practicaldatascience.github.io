@@ -4,6 +4,8 @@ title: Data collection and scraping
 img: table.png
 ---
 
+# Data collection and scraping
+
 [Download notes as Jupyter notebook](data_collection.tar.gz)
 
 ## Introduction

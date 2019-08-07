@@ -4,6 +4,8 @@ title: Visualization
 img: visualization.svg
 ---
 
+#  Visualization
+
 [Download notes as Jupyter notebook](visualization.tar.gz)
 
 ## Introduction

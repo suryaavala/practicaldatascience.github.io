@@ -3,6 +3,7 @@ layout: page
 title: Vectors, matrices, and linear algebra
 img: matrix.svg
 ---
+# Vectors, matrices, and linear algebra
 
 [Download notes as jupyter notebook](matrices.tar.gz)
 

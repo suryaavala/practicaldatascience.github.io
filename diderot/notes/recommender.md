@@ -4,6 +4,7 @@ title: Recommender systems and collaborative filtering
 img: recommender.svg
 ---
 
+# Recommender systems and collaborative filtering
 [Download notes as jupyter notebook](recommender.tar.gz)
 
 ## Introduction

@@ -4,6 +4,8 @@ title: Basics of probability
 img: probability.svg
 ---
 
+# Basics of probability
+
 [Download notes as jupyter notebook](probability.tar.gz)
 
 ## Introduction

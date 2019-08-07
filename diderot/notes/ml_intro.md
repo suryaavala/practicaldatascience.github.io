@@ -4,6 +4,8 @@ title: Intro to machine learning
 img: scatter_fit_title.svg
 ---
 
+# Intro to machine learning
+
 [Download notes as jupyter notebook](ml_intro.tar.gz)
 
 ## Introduction

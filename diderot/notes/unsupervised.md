@@ -4,6 +4,8 @@ title: "Unsupervised learning&#58; clustering and dimensionality reduction"
 img: unsupervised.svg
 ---
 
+# "Unsupervised learning&#58; clustering and dimensionality reduction"
+
 [Download notes as jupyter notebook](unsupervised.tar.gz)
 
 ## Introduction

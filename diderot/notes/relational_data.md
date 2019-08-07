@@ -4,6 +4,8 @@ title: Relational data and databases
 img: database.svg
 ---
 
+# Relational data and databases
+
 [Download notes as Jupyter notebook](relational_data.tar.gz)
 
 ## Introduction

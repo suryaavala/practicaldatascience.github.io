@@ -12,48 +12,44 @@ fi
 echo "diffing data_collection"
 diff data_collection.xml $1/data_collection.xml
 
-
-echo "yyy"
-diff yyy.xml $1/yyy.xml
-
-echo "debugging"
+echo "diffing debugging"
 diff debugging.xml $1/debugging.xml
 
-echo "free_text"
+echo "diffing free_text"
 diff free_text.xml $1/free_text.xml
 
-echo "graphs"
+echo "diffing graphs"
 diff graphs.xml $1/graphs.xml
 
-echo "intro"
+echo "diffing intro"
 diff intro.xml $1/intro.xml
 
-echo "linear_classification"
+echo "diffing linear_classification"
 diff linear_classification.xml $1/linear_classification.xml
 
-echo "matrices"
+echo "diffing matrices"
 diff matrices.xml $1/matrices.xml
 
-echo "ml_intro"
+echo "diffing ml_intro"
 diff ml_intro.xml $1/ml_intro.xml
 
-echo "mle"
+echo "diffing mle"
 diff mle.xml $1/mle.xml
 
-echo "nonlinear_modeling"
+echo "diffing nonlinear_modeling"
 diff nonlinear_modeling.xml $1/nonlinear_modeling.xml
 
-echo "probability"
+echo "diffing probability"
 diff probability.xml $1/probability.xml
 
-echo "recommender"
+echo "diffing recommender"
 diff recommender.xml $1/recommender.xml
 
-echo "relational_data"
+echo "diffing relational_data"
 diff relational_data.xml $1/relational_data.xml
 
-echo "unsupervised"
+echo "diffing unsupervised"
 diff unsupervised.xml $1/unsupervised.xml
 
-echo "visualization"
+echo "diffing visualization"
 diff visualization.xml $1/visualization.xml

@@ -38,7 +38,7 @@ Kaggle is a wonderful resource, but the competitions are decidedly _not_ data sc
 
 Furthermore, machine learning as a field is typically concerned primarily about the development of new algorithms.  Deep learning methods, for instance (typically defined as methods based upon multi-layer neural networks, though honestly the right definition of "deep learning" is as hard as the right definition of "data science", more on that in a later lecture) have come to dominate much recent work in machine learning, and the focus here is often on advanced (and typically quite complex) algorithms that can squeeze out improved performance on extremely challenging tasks.  The reality is that for many data science problems, simple machine learning algorithms suffice to attain sufficiently good performance (by whatever metric you want to define performance, but I simply mean that they effectively solve the problem).  I'm partial to drawing this picture for people when they ask about how data science compares to machine learning research:
 
-{% include image.html img="ml_proportions.svg" caption="A (rhetorical) breakdown of the universe of machine learning problems"%}
+![A (rhetorical) breakdown of the universe of machine learning problems](ml_proportions.svg){width=90%}
 
 The numbers here are all just examples (specifically the solvable/unsolvable ratio), but the point it gets at is important.  There are many data science problems one would _like_ to be able to solve, but in a large number of these cases, there is simply no way to solve the problem given the available data.  For the set of problems that _are_ solvable with some kind of machine learning, the vast majority will be solvable at least to a level of sufficient performance, using relatively simple models.  The 5% of remaining problems is an important one, because they often consist of the most "interesting" problems from a research standpoint (think problems like speech recognition, natural language understanding, computer vision), but they are often not indicative of the types of problems one encounters in "most" data science applications.
 
@@ -62,7 +62,8 @@ Often times the best way to demonstrate data science is by example.  The followi
 
 One excellent example of data science that I saw recently was developed by Ben Schmidt, a professor of history at Northeastern University.  It is an interactive chart, available here: [http://benschmidt.org/profGender](http://benschmidt.org/profGender), with figures that look like this:
 
-{% include image.html img="gendered_reviews.png" caption="Gendered language in professor reviews. Image source: http://benschmidt.org/profGender"%}
+
+![Gendered language in professor reviews. Image source: http://benschmidt.org/profGender](gendered_reviews.png){width=90%}
 
 The work collects 14 million reviews from RateMyProfessor.com, and counts the number of occurrence of different terms, per million words, for reviews of male and female professors (no information about the gender of the student reviewers is available, as the site offers anonymous reviews).  It then plots these occurrences for professors in across different disciplines, sorted by the number of occurrences across all reviews.
 
@@ -76,7 +77,8 @@ Frankly unlike many of the more controlled studies on this same topic, it is ext
 
 Considering a slightly more complex example of data science, one of the most publicly visible instances of data science has been websites like [FiveThirtyEight](http://www.fivethirtyeight.com).  FiveThirtyEight, at this point, has become a general web page for data-driven analysis in a lot of different areas, but its original and still most famous products are its political election forecasts.  Here is the map that FiveThirtyEight produced prior to the presidential election day in 2016:
 
-{% include image.html img="fivethirtyeight.png" scale="600" caption="Final 2016 election predictions at FiveThirtyEight. Image source: https://projects.fivethirtyeight.com/2016-election-forecast/"%}
+
+![Final 2016 election predictions at FiveThirtyEight. Image source: https://projects.fivethirtyeight.com/2016-election-forecast/](fivethirtyeight.png){width=90%}
 
 There are a couple of points worth mentioning here.  First of all, the analysis here goes beyond what is done in the previous example, both in terms of the nature of this analysis (it is making a _prediction_ about the future, not just visualizing a fixed data set) and in terms of the methodology.  FiveThirtyEight doesn't publish their model in full detail, but from text descriptions we know that it mainly averages polling data from publicly available polls, but also weights these polls by various accuracy measures, and does include some amount of "generic" features that also help to predict the election (though it's unclear to what extent such features are included so close to the actual election).
 
@@ -85,11 +87,11 @@ The second point, which is slightly tangential, is that the public narrative aro
 ### Poverty mapping
 
 We'll end with a third example that goes beyond the first two fairly substantially in terms of using fairly complex machine learning algorithms to derive insights into a real-world setting.  This work appears in the paper: ["Targeting Direct Cash Transfers to the Extremely Poor"](http://ssg.mit.edu/~krv/pubs/AbelsonVS_kdd2014.pdf) by Brian Abelson, Kush R. Varshney, and Joy Sun.  The idea of this paper is that the authors want to understand what communities in Kenya and Uganda would benefit most from charitable donations.  They found (in previous studies) that one of the highest indicators of relative wealth in these countries is the number of people who have metal roofs instead of thatched roofs.  The goal of this particular work, then, was to use computer vision techniques applied to satellite imagery to automatically estimate the number of metal and thatched roofs across various region.  They would take images such as this:
-{% include image.html img="roofs.png" caption="Aerial images of buildings in the poverty mapping study. Source: Abelson et al."%}
+![Aerial images of buildings in the poverty mapping study. Source: Abelson et al.](roofs.png){width=90%}
 
 And use machine learning to detect the location and type of different roofs in the image (based upon a training set of manually labeled images).  They would then use this information to predict a "poverty heat map" of large regions of the countries (much larger than would be feasible to annotate manually), to produce maps like this:
 
-{% include image.html img="roof_heatmap.png" scale="300" caption="Heatmap of percentage of metal roofs over area of interest.  Source: Abelson et al."%}
+![Heatmap of percentage of metal roofs over area of interest.  Source: Abelson et al.}](roof_heatmap.png scale="300"){width=90%}
 
 These images were then used by the charity to help target areas of particularly high poverty.
 
@@ -98,12 +100,10 @@ Applications such as this highlight that in many cases it really _does_ pay off 
 ## What is the Practical Data Science course about?
 
 So with all this as context, what is this course, Practical Data Science, actually about?  Put simply, the goal of this course is to expose students to the entire pipeline associated with data science projects.  That is, the course will teach you the basics of everything you need to understand how to embark on data science projects: data processing and collection, data exploration and vizualization, machine learning methods, statistical analysis techniques, and (perhaps most importantly) techniques for debugging this pipeline when things do not work an hoped for.  A reasonable figures that sums up the course would be the following:
-
-{% include image.html img="ds_pipeline.svg" caption="The data science pipeline"%}
+![The data science pipeline](ds_pipeline.svg){width=90%}
 
 Except in reality, this is virtually never a linear process: experience and insights at later stages feed back and change what we do at previous stages.  So this is like a better figure:
-
-{% include image.html img="ds_pipeline2.svg" caption="A more accurate data science pipeline"%}
+![A more accurate data science pipeline}](ds_pipeline2.svg"){width=90%}
 
 Admittedly, one thing you will notice from the course schedule, though, is that all these topics are not treated equally in terms of the number of class lectures.  Part of this is simply due to my own biases: I do, after all, work in machine learning, and thus have a decidedly larger focus on these topics, both because I believe these topics to be important, and because I am likely to teach them better.  Data collection is hugely valuable, but I'm not sure how I would fill multiple lectures on web scraping, for instance.
 

@@ -876,7 +876,7 @@ Furthermore, machine learning as a field is typically concerned primarily about 
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:introduction-to-data-science::include
+grp:introduction-to-data-science::rhetorical
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -900,7 +900,7 @@ grp:introduction-to-data-science::include
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:introduction-to-data-science::include
+grm:introduction-to-data-science::rhetorical
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -910,12 +910,14 @@ grm:introduction-to-data-science::include
 </field> <!-- point_value -->
 <field name='body'>
 <![CDATA[
-<p>{% include image.html img=“ml_proportions.svg” caption=“A (rhetorical) breakdown of the universe of machine learning problems”%}</p>
+<figure>
+<img src="ml_proportions.svg" alt="A (rhetorical) breakdown of the universe of machine learning problems" style="width:90.0%" /><figcaption>A (rhetorical) breakdown of the universe of machine learning problems</figcaption>
+</figure>
 ]]>
 </field> <!-- body -->
 <field name='body_src'>
 <![CDATA[
-{% include image.html img="ml_proportions.svg" caption="A (rhetorical) breakdown of the universe of machine learning problems"%}
+![A (rhetorical) breakdown of the universe of machine learning problems](ml_proportions.svg){width=90%}
 ]]>
 </field> <!-- body_src -->
 
@@ -1468,7 +1470,7 @@ One excellent example of data science that I saw recently was developed by Ben S
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:introduction-to-data-science::image
+grp:introduction-to-data-science::gendered
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1492,7 +1494,7 @@ grp:introduction-to-data-science::image
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:introduction-to-data-science::image
+grm:introduction-to-data-science::gendered
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1502,12 +1504,14 @@ grm:introduction-to-data-science::image
 </field> <!-- point_value -->
 <field name='body'>
 <![CDATA[
-<p>{% include image.html img=“gendered_reviews.png” caption=“Gendered language in professor reviews. Image source: http://benschmidt.org/profGender”%}</p>
+<figure>
+<img src="gendered_reviews.png" alt="Gendered language in professor reviews. Image source: http://benschmidt.org/profGender" style="width:90.0%" /><figcaption>Gendered language in professor reviews. Image source: http://benschmidt.org/profGender</figcaption>
+</figure>
 ]]>
 </field> <!-- body -->
 <field name='body_src'>
 <![CDATA[
-{% include image.html img="gendered_reviews.png" caption="Gendered language in professor reviews. Image source: http://benschmidt.org/profGender"%}
+![Gendered language in professor reviews. Image source: http://benschmidt.org/profGender](gendered_reviews.png){width=90%}
 ]]>
 </field> <!-- body_src -->
 
@@ -1866,7 +1870,7 @@ Considering a slightly more complex example of data science, one of the most pub
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:introduction-to-data-science::html
+grp:introduction-to-data-science::final
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1890,7 +1894,7 @@ grp:introduction-to-data-science::html
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:introduction-to-data-science::html
+grm:introduction-to-data-science::final
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -1900,12 +1904,14 @@ grm:introduction-to-data-science::html
 </field> <!-- point_value -->
 <field name='body'>
 <![CDATA[
-<p>{% include image.html img=“fivethirtyeight.png” scale=“600” caption=“Final 2016 election predictions at FiveThirtyEight. Image source: https://projects.fivethirtyeight.com/2016-election-forecast/”%}</p>
+<figure>
+<img src="fivethirtyeight.png" alt="Final 2016 election predictions at FiveThirtyEight. Image source: https://projects.fivethirtyeight.com/2016-election-forecast/" style="width:90.0%" /><figcaption>Final 2016 election predictions at FiveThirtyEight. Image source: https://projects.fivethirtyeight.com/2016-election-forecast/</figcaption>
+</figure>
 ]]>
 </field> <!-- body -->
 <field name='body_src'>
 <![CDATA[
-{% include image.html img="fivethirtyeight.png" scale="600" caption="Final 2016 election predictions at FiveThirtyEight. Image source: https://projects.fivethirtyeight.com/2016-election-forecast/"%}
+![Final 2016 election predictions at FiveThirtyEight. Image source: https://projects.fivethirtyeight.com/2016-election-forecast/](fivethirtyeight.png){width=90%}
 ]]>
 </field> <!-- body_src -->
 
@@ -2110,13 +2116,13 @@ grm:introduction-to-data-science::third
 </field> <!-- point_value -->
 <field name='body'>
 <![CDATA[
-<p>We’ll end with a third example that goes beyond the first two fairly substantially in terms of using fairly complex machine learning algorithms to derive insights into a real-world setting. This work appears in the paper: <a href="http://ssg.mit.edu/~krv/pubs/AbelsonVS_kdd2014.pdf">“Targeting Direct Cash Transfers to the Extremely Poor”</a> by Brian Abelson, Kush R. Varshney, and Joy Sun. The idea of this paper is that the authors want to understand what communities in Kenya and Uganda would benefit most from charitable donations. They found (in previous studies) that one of the highest indicators of relative wealth in these countries is the number of people who have metal roofs instead of thatched roofs. The goal of this particular work, then, was to use computer vision techniques applied to satellite imagery to automatically estimate the number of metal and thatched roofs across various region. They would take images such as this: {% include image.html img=“roofs.png” caption=“Aerial images of buildings in the poverty mapping study. Source: Abelson et al.”%}</p>
+<p>We’ll end with a third example that goes beyond the first two fairly substantially in terms of using fairly complex machine learning algorithms to derive insights into a real-world setting. This work appears in the paper: <a href="http://ssg.mit.edu/~krv/pubs/AbelsonVS_kdd2014.pdf">“Targeting Direct Cash Transfers to the Extremely Poor”</a> by Brian Abelson, Kush R. Varshney, and Joy Sun. The idea of this paper is that the authors want to understand what communities in Kenya and Uganda would benefit most from charitable donations. They found (in previous studies) that one of the highest indicators of relative wealth in these countries is the number of people who have metal roofs instead of thatched roofs. The goal of this particular work, then, was to use computer vision techniques applied to satellite imagery to automatically estimate the number of metal and thatched roofs across various region. They would take images such as this: <img src="roofs.png" alt="Aerial images of buildings in the poverty mapping study. Source: Abelson et al." style="width:90.0%" /></p>
 ]]>
 </field> <!-- body -->
 <field name='body_src'>
 <![CDATA[
 We'll end with a third example that goes beyond the first two fairly substantially in terms of using fairly complex machine learning algorithms to derive insights into a real-world setting.  This work appears in the paper: ["Targeting Direct Cash Transfers to the Extremely Poor"](http://ssg.mit.edu/~krv/pubs/AbelsonVS_kdd2014.pdf) by Brian Abelson, Kush R. Varshney, and Joy Sun.  The idea of this paper is that the authors want to understand what communities in Kenya and Uganda would benefit most from charitable donations.  They found (in previous studies) that one of the highest indicators of relative wealth in these countries is the number of people who have metal roofs instead of thatched roofs.  The goal of this particular work, then, was to use computer vision techniques applied to satellite imagery to automatically estimate the number of metal and thatched roofs across various region.  They would take images such as this:
-{% include image.html img="roofs.png" caption="Aerial images of buildings in the poverty mapping study. Source: Abelson et al."%}
+![Aerial images of buildings in the poverty mapping study. Source: Abelson et al.](roofs.png){width=90%}
 ]]>
 </field> <!-- body_src -->
 
@@ -2201,7 +2207,7 @@ And use machine learning to detect the location and type of different roofs in t
 ]]>
 </field> <!-- title_src -->
 <field name='label'>
-grp:introduction-to-data-science::roof
+grp:introduction-to-data-science::heatmap
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2225,7 +2231,7 @@ grp:introduction-to-data-science::roof
 ...NOT.PROVIDED.SOUND...
 </field> <!-- sound -->
 <field name='label'>
-grm:introduction-to-data-science::roof
+grm:introduction-to-data-science::heatmap
 </field> <!-- label -->
 <field name='depend'>
 ...NOT.PROVIDED.DEPEND...
@@ -2235,12 +2241,14 @@ grm:introduction-to-data-science::roof
 </field> <!-- point_value -->
 <field name='body'>
 <![CDATA[
-<p>{% include image.html img=“roof_heatmap.png” scale=“300” caption=“Heatmap of percentage of metal roofs over area of interest. Source: Abelson et al.”%}</p>
+<figure>
+<embed src="roof_heatmap.png%20scale=%22300%22" style="width:90.0%" /><figcaption>Heatmap of percentage of metal roofs over area of interest. Source: Abelson et al.}</figcaption>
+</figure>
 ]]>
 </field> <!-- body -->
 <field name='body_src'>
 <![CDATA[
-{% include image.html img="roof_heatmap.png" scale="300" caption="Heatmap of percentage of metal roofs over area of interest.  Source: Abelson et al."%}
+![Heatmap of percentage of metal roofs over area of interest.  Source: Abelson et al.}](roof_heatmap.png scale="300"){width=90%}
 ]]>
 </field> <!-- body_src -->
 
@@ -2447,74 +2455,13 @@ grm:introduction-to-data-science::context
 </field> <!-- point_value -->
 <field name='body'>
 <![CDATA[
-<p>So with all this as context, what is this course, Practical Data Science, actually about? Put simply, the goal of this course is to expose students to the entire pipeline associated with data science projects. That is, the course will teach you the basics of everything you need to understand how to embark on data science projects: data processing and collection, data exploration and vizualization, machine learning methods, statistical analysis techniques, and (perhaps most importantly) techniques for debugging this pipeline when things do not work an hoped for. A reasonable figures that sums up the course would be the following:</p>
+<p>So with all this as context, what is this course, Practical Data Science, actually about? Put simply, the goal of this course is to expose students to the entire pipeline associated with data science projects. That is, the course will teach you the basics of everything you need to understand how to embark on data science projects: data processing and collection, data exploration and vizualization, machine learning methods, statistical analysis techniques, and (perhaps most importantly) techniques for debugging this pipeline when things do not work an hoped for. A reasonable figures that sums up the course would be the following: <img src="ds_pipeline.svg" alt="The data science pipeline" style="width:90.0%" /></p>
 ]]>
 </field> <!-- body -->
 <field name='body_src'>
 <![CDATA[
 So with all this as context, what is this course, Practical Data Science, actually about?  Put simply, the goal of this course is to expose students to the entire pipeline associated with data science projects.  That is, the course will teach you the basics of everything you need to understand how to embark on data science projects: data processing and collection, data exploration and vizualization, machine learning methods, statistical analysis techniques, and (perhaps most importantly) techniques for debugging this pipeline when things do not work an hoped for.  A reasonable figures that sums up the course would be the following:
-]]>
-</field> <!-- body_src -->
-
-</atom> <!-- gram -->
-
-</segment> <!-- cluster -->
-
-<segment name='cluster'>
-<field name='point_value'>
-0.0
-</field> <!-- point_value -->
-<field name='title'>
-<![CDATA[
-...NOT.PROVIDED.TITLE...
-]]>
-</field> <!-- title -->
-<field name='title_src'>
-<![CDATA[
-...NOT.PROVIDED.TITLE...
-]]>
-</field> <!-- title_src -->
-<field name='label'>
-grp:introduction-to-data-science::pipeline
-</field> <!-- label -->
-<field name='depend'>
-...NOT.PROVIDED.DEPEND...
-</field> <!-- depend -->
-
-<atom name='gram'>
-<field name='title'>
-<![CDATA[
-...NOT.PROVIDED.TITLE...
-]]>
-</field> <!-- title -->
-<field name='title_src'>
-<![CDATA[
-...NOT.PROVIDED.TITLE...
-]]>
-</field> <!-- title_src -->
-<field name='cover'>
-...NOT.PROVIDED.COVER...
-</field> <!-- cover -->
-<field name='sound'>
-...NOT.PROVIDED.SOUND...
-</field> <!-- sound -->
-<field name='label'>
-grm:introduction-to-data-science::pipeline
-</field> <!-- label -->
-<field name='depend'>
-...NOT.PROVIDED.DEPEND...
-</field> <!-- depend -->
-<field name='point_value'>
-0.0
-</field> <!-- point_value -->
-<field name='body'>
-<![CDATA[
-<p>{% include image.html img=“ds_pipeline.svg” caption=“The data science pipeline”%}</p>
-]]>
-</field> <!-- body -->
-<field name='body_src'>
-<![CDATA[
-{% include image.html img="ds_pipeline.svg" caption="The data science pipeline"%}
+![The data science pipeline](ds_pipeline.svg){width=90%}
 ]]>
 </field> <!-- body_src -->
 
@@ -2571,74 +2518,13 @@ grm:introduction-to-data-science::except
 </field> <!-- point_value -->
 <field name='body'>
 <![CDATA[
-<p>Except in reality, this is virtually never a linear process: experience and insights at later stages feed back and change what we do at previous stages. So this is like a better figure:</p>
+<p>Except in reality, this is virtually never a linear process: experience and insights at later stages feed back and change what we do at previous stages. So this is like a better figure: <embed src="ds_pipeline2.svg%22" style="width:90.0%" /></p>
 ]]>
 </field> <!-- body -->
 <field name='body_src'>
 <![CDATA[
 Except in reality, this is virtually never a linear process: experience and insights at later stages feed back and change what we do at previous stages.  So this is like a better figure:
-]]>
-</field> <!-- body_src -->
-
-</atom> <!-- gram -->
-
-</segment> <!-- cluster -->
-
-<segment name='cluster'>
-<field name='point_value'>
-0.0
-</field> <!-- point_value -->
-<field name='title'>
-<![CDATA[
-...NOT.PROVIDED.TITLE...
-]]>
-</field> <!-- title -->
-<field name='title_src'>
-<![CDATA[
-...NOT.PROVIDED.TITLE...
-]]>
-</field> <!-- title_src -->
-<field name='label'>
-grp:introduction-to-data-science::pipeline2
-</field> <!-- label -->
-<field name='depend'>
-...NOT.PROVIDED.DEPEND...
-</field> <!-- depend -->
-
-<atom name='gram'>
-<field name='title'>
-<![CDATA[
-...NOT.PROVIDED.TITLE...
-]]>
-</field> <!-- title -->
-<field name='title_src'>
-<![CDATA[
-...NOT.PROVIDED.TITLE...
-]]>
-</field> <!-- title_src -->
-<field name='cover'>
-...NOT.PROVIDED.COVER...
-</field> <!-- cover -->
-<field name='sound'>
-...NOT.PROVIDED.SOUND...
-</field> <!-- sound -->
-<field name='label'>
-grm:introduction-to-data-science::pipeline2
-</field> <!-- label -->
-<field name='depend'>
-...NOT.PROVIDED.DEPEND...
-</field> <!-- depend -->
-<field name='point_value'>
-0.0
-</field> <!-- point_value -->
-<field name='body'>
-<![CDATA[
-<p>{% include image.html img=“ds_pipeline2.svg” caption=“A more accurate data science pipeline”%}</p>
-]]>
-</field> <!-- body -->
-<field name='body_src'>
-<![CDATA[
-{% include image.html img="ds_pipeline2.svg" caption="A more accurate data science pipeline"%}
+![A more accurate data science pipeline}](ds_pipeline2.svg"){width=90%}
 ]]>
 </field> <!-- body_src -->
 

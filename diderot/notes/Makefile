@@ -1,6 +1,8 @@
 # Update guide_dir below
 GUIDE_DIR = ../../guide
 
+FLAG_VERBOSE = -v 
+
 ifeq ($(OS),Windows_NT)
 	DC_HOME = $(GUIDE_DIR)/bin/windows
 else
@@ -16,21 +18,24 @@ endif
 DC_HOME = ~/DC
 
 MDXML = $(DC_HOME)/dc
-MDXML_BASE = $(DC_HOME)/dc
-MDXML_QUIET = $(MDXML_BASE) 
-MDXML_VERBOSE = $(MDXML_BASE) -v 
-MDXML = $(MDXML_QUIET)
-
-MDXMLDBG_BASE = $(DC_HOME)/mdxml.dbg
-MDXMLDBG = $(MDXMLDBG_BASE)
+MDXML_DBG = $(DC_HOME)/mdxml.dbg
 
 FORCE: 
 
 %.xml : %.md FORCE
-	$(MDXML) $< -o $@
-
-%.xmldbg : %.md
-	$(MDXMLDBG) $< -o $@
+ifdef debug
+ifdef verbose
+	$(MDXML_DBG) $(FLAG_VERBOSE) $< -preamble $(PREAMBLE) -o $@
+ else
+	$(MDXML_DBG) $< -preamble $(PREAMBLE) -o $@
+endif
+else
+ifdef verbose
+	$(MDXML) $(FLAG_VERBOSE) $< -preamble $(PREAMBLE) -o $@
+ else
+	$(MDXML) $< -preamble $(PREAMBLE) -o $@
+endif
+endif
 
 clean: 
 	rm *.aux *.idx *.log *.out *.toc */*.aux */*.idx */*.log */*.out 

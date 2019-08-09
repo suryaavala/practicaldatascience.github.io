@@ -17,7 +17,7 @@ endif
 
 DC_HOME = ~/DC
 
-DC = $(DC_HOME)/dc -meta ./meta
+DC = $(DC_HOME)/dc 
 
 FORCE: 
 

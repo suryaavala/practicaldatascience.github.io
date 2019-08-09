@@ -12,7 +12,7 @@ These notes will serve as the main companion to the slides and lectures for the 
 
 One additional meta-comment worth mentioning is that these notes are intentionally written in an informal tone.  In general, I will use the first person "I" to indicate some opinion or action that I (Zico Kolter, the instructor of the course) am putting forward.  I'll similarly try to use the term "we" to indicate the group of all of us participating in the course (instructor and students together), and "you" to indicate students in the course specifically.  It is not a perfect system, but I find it generally helps to convey the intention that I have when writing these notes.  The informal tone also frankly helps to convey the fact that these are notes to the course and not meant to be a substitute for a formal text if one wants to delve deeply into any of these specific areas.
 
-## What is data science
+## What data science is
 
 The start of any good data science course should probably begin with a definition of the term "data science", or at least what this term means in the context of this particular course (because different people and disciplines use the term quite differently).  Despite the fact that people have been "doing" data science for a long time in some form or another, the term itself is relatively new, and different fields have attempted to co-opt the term in different ways (none of which I necessarily disagree with, but it does make for a hard time finding a single definition).  For the most part, I'm going to avoid a strict definition throughout the course, instead following a more pragmatic notion of "data science is whatever data scientists do", or maybe more correctly "data science are those skills required in data science job postings".
 

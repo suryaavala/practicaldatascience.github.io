@@ -36,12 +36,11 @@ Headers: {'Date': 'Mon, 22 Jan 2018 02:39:55 GMT', 'Server': 'Apache', 'x-xss-pr
 
 This code issues an "HTTP GET" request to load the content of the paper, and returns it in the `response` object.  The `status_code` field contains the "200" code, which indicates a successful query, and the `headers` field contains meta-information about the page (in this case, you could see, for instance, that despite the URL, we're actually hosting this page on github).  If you want to see the actual content of the page, you can use the `response.content` or `response.text` fields, as below.
 
-
 ```python
 print(response.text[:480])
 ```
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -58,9 +57,8 @@ print(response.text[:480])
 With all that in mind, let's look at a few more calls we can issue with the library.  You probably have seen URLS like this before
 
     https://www.google.com/search?q=python+download+url+content&source=chrome
-    
-The `https://www.google.com/search` string is the URL, and everything after the ? are _parameters_; each parameter is of the form "parameter=value" and are separated by ampersands &.  If you've seen URLS before you've noticed that a lot of content needs to be encoded in these parameters, such as spaces replaces with the code "%20" (the Google url above can also handle the "+" character, but "%20" is the actual encoding of a space).  Fortunately, `requests` handles all of this for you.  You can simply pass all the parameters as a Python dictionary.
 
+The `https://www.google.com/search` string is the URL, and everything after the ? are _parameters_; each parameter is of the form "parameter=value" and are separated by ampersands &.  If you've seen URLS before you've noticed that a lot of content needs to be encoded in these parameters, such as spaces replaces with the code "%20" (the Google url above can also handle the "+" character, but "%20" is the actual encoding of a space).  Fortunately, `requests` handles all of this for you.  You can simply pass all the parameters as a Python dictionary.
 
 ```python
 params = {"query": "python download url content", "source":"chrome"}
@@ -84,10 +82,9 @@ While parsing data in HTML (the format returned by these web queries) is sometim
 
 Let's see how to issue a REST request using the same method as before.  We'll here query my GitHub account to get information.  More info about GitHub's REST API is available at their [Developer Site](https://developer.github.com/v3/).
 
-
 ```python
 # Get your own at https://github.com/settings/tokens/new
-token = "3125e4430a58c5259a14ddd48157061cdb7055c0" 
+token = "3125e4430a58c5259a14ddd48157061cdb7055c0"
 response = requests.get("https://api.github.com/user", params={"access_token":token})
 
 print(response.status_code)
@@ -101,12 +98,11 @@ application/json; charset=utf-8
 dict_keys(['login', 'id', 'avatar_url', 'gravatar_id', 'url', 'html_url', 'followers_url', 'following_url', 'gists_url', 'starred_url', 'subscriptions_url', 'organizations_url', 'repos_url', 'events_url', 'received_events_url', 'type', 'site_admin', 'name', 'company', 'blog', 'location', 'email', 'hireable', 'bio', 'public_repos', 'public_gists', 'followers', 'following', 'created_at', 'updated_at', 'private_gists', 'total_private_repos', 'owned_private_repos', 'disk_usage', 'collaborators', 'two_factor_authentication', 'plan'])
 ```
 
-The token element there (that is an example that was linked to my account, which I have since deleted, you can get your own token for your account at https://github.com/settings/tokens/new) identifies your account, and because this is a REST API there is no "login" procedure, you just simply include this token with each call to identify yourself.  The call here is just a standard HTTP request: it requests the URL `https://api.github.com/user` passing our token as the parameter `access_token`.  The response looks similar to our above response, except if we look closer we see that the "Content-Type" in the HTTP header is "application/json".  In these cases, the `requests` library has a nice function, `response.json()`, which will convert the returned data into a Python dictionary (I'm just showing the keys of the dictionary here).
+The token element there (that is an example that was linked to my account, which I have since deleted, you can get your own token for your account at `https://github.com/settings/tokens/new`) identifies your account, and because this is a REST API there is no "login" procedure, you just simply include this token with each call to identify yourself.  The call here is just a standard HTTP request: it requests the URL `https://api.github.com/user` passing our token as the parameter `access_token`.  The response looks similar to our above response, except if we look closer we see that the "Content-Type" in the HTTP header is "application/json".  In these cases, the `requests` library has a nice function, `response.json()`, which will convert the returned data into a Python dictionary (I'm just showing the keys of the dictionary here).
 
 ### Authentication
 
-Most APIs will use an authentication procedure that is more involved than this example above.  The standard here for a while was called "Basic Authentication", and can be used via the `requests` library by simply passing the login and password as the `auth` argument to the relevant calls, as below. 
-
+Most APIs will use an authentication procedure that is more involved than this example above.  The standard here for a while was called "Basic Authentication", and can be used via the `requests` library by simply passing the login and password as the `auth` argument to the relevant calls, as below.
 
 ```python
 response = requests.get("https://api.github.com/user", auth=("zkolter", "github_password"))
@@ -127,7 +123,6 @@ Now that you've obtained some data (either by requesting it from a web source, o
 - JSON (Javascript object notation) files and string
 - HTML/XML (hypertext markup language / extensible markup language) files and string
 
-
 ### CSV files
 
 The "CSV" name is really a misnomer: CSV doesn't only refer to comma separated values, but really refers to any delimited text file (for instance, fields could be delimited by spaces or tabs, or any other character, specific to the file).  For example, let's take a look at the following data file describing weather data near at Pittsburg airport:
@@ -136,13 +131,11 @@ It can be surprisingly hard to find historical weather data in CSV format (most 
 
 To parse CSV files in Python, the most common library to use is [Pandas](https://pandas.pydata.org/), which we will cover a lot more later in this course.  For the purposes of this lecture, though, we'll just note that we can load the data using the following code:
 
-
 ```python
 import pandas as pd
 dataframe = pd.read_csv("kpit_weather.csv", delimiter=",", quotechar='"')
 dataframe.head()
 ```
-
 
 <div><small><div>
 <style>
@@ -267,6 +260,7 @@ dataframe.head()
   </tbody>
 </table>
 </div></small></div>
+
 We don't actually need the `delimiter` or `quotechar` arguments here, because the default argument for delimiter is indeed a comma (which is what this CSV file is using), but you can pass an additional argument to this function to use a different delimiter.  One issue that can come up is if any of the values you want to include contain this delimiter; to get around this, you can surround the value with the `quotechar` character.  Several CSV files will just include quotes around any entry, by default.  Again, our file here doesn't contain quotes, so it is not an issue, but its it a common occurrence when handling CSV files.  One final thing to note is that by default, the first row of the file a header row that lists the name of each column in the file.  If this is not in the file, then you can load the data with the additional `header=None` argument.
 
 ### JSON data
@@ -281,35 +275,34 @@ Although originally built as a data format specific to the Javascript language, 
 
 Note that lists and dictionaries can be nested within each other, so that, for instance
 
-    {"key1":[1.0, 2.0, {"key2":"test"}], "key3":false}
+```json
+{"key1":[1.0, 2.0, {"key2":"test"}], "key3":false}
+```
 
 would be a valid JSON object.
 
 Let's look at the full JSON returned by the GitHub API above:
 
-
 ```python
 print(response.content)
 ```
 
-```
-b'{"login":"zkolter","id":2465474,"avatar_url":"https://avatars1.githubusercontent.com/u/2465474?v=4","gravatar_id":"","url":"https://api.github.com/users/zkolter","html_url":"https://github.com/zkolter","followers_url":"https://api.github.com/users/zkolter/followers","following_url":"https://api.github.com/users/zkolter/following{/other_user}","gists_url":"https://api.github.com/users/zkolter/gists{/gist_id}","starred_url":"https://api.github.com/users/zkolter/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/zkolter/subscriptions","organizations_url":"https://api.github.com/users/zkolter/orgs","repos_url":"https://api.github.com/users/zkolter/repos","events_url":"https://api.github.com/users/zkolter/events{/privacy}","received_events_url":"https://api.github.com/users/zkolter/received_events","type":"User","site_admin":false,"name":"Zico Kolter","company":"Carnegie Mellon","blog":"","location":null,"email":"zkolter@cs.cmu.edu","hireable":null,"bio":null,"public_repos":1,"public_gists":0,"followers":5,"following":0,"created_at":"2012-10-01T17:22:55Z","updated_at":"2017-12-12T16:06:58Z","private_gists":0,"total_private_repos":0,"owned_private_repos":0,"disk_usage":0,"collaborators":0,"two_factor_authentication":false,"plan":{"name":"developer","space":976562499,"collaborators":0,"private_repos":9999}}'
+```json
+{"login":"zkolter","id":2465474,"avatar_url":"https://avatars1.githubusercontent.com/u/2465474?v=4","gravatar_id":"","url":"https://api.github.com/users/zkolter","html_url":"https://github.com/zkolter","followers_url":"https://api.github.com/users/zkolter/followers","following_url":"https://api.github.com/users/zkolter/following{/other_user}","gists_url":"https://api.github.com/users/zkolter/gists{/gist_id}","starred_url":"https://api.github.com/users/zkolter/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/zkolter/subscriptions","organizations_url":"https://api.github.com/users/zkolter/orgs","repos_url":"https://api.github.com/users/zkolter/repos","events_url":"https://api.github.com/users/zkolter/events{/privacy}","received_events_url":"https://api.github.com/users/zkolter/received_events","type":"User","site_admin":false,"name":"Zico Kolter","company":"Carnegie Mellon","blog":"","location":null,"email":"zkolter@cs.cmu.edu","hireable":null,"bio":null,"public_repos":1,"public_gists":0,"followers":5,"following":0,"created_at":"2012-10-01T17:22:55Z","updated_at":"2017-12-12T16:06:58Z","private_gists":0,"total_private_repos":0,"owned_private_repos":0,"disk_usage":0,"collaborators":0,"two_factor_authentication":false,"plan":{"name":"developer","space":976562499,"collaborators":0,"private_repos":9999}}
 ```
 
 We have already seen that we can use the `response.json()` call to convert this to a Python dictionary, but more common is to use the `json` library in the Python standard library: documentation page [here](https://docs.python.org/3/library/json.html).  To convert our GitHub response to a Python dictionary manually, we can use the `json.loads()` (load string) function like the following.
-
 
 ```python
 import json
 print(json.loads(response.content))
 ```
 
-```
-{'login': 'zkolter', 'id': 2465474, 'avatar_url': 'https://avatars1.githubusercontent.com/u/2465474?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/zkolter', 'html_url': 'https://github.com/zkolter', 'followers_url': 'https://api.github.com/users/zkolter/followers', 'following_url': 'https://api.github.com/users/zkolter/following{/other_user}', 'gists_url': 'https://api.github.com/users/zkolter/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/zkolter/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/zkolter/subscriptions', 'organizations_url': 'https://api.github.com/users/zkolter/orgs', 'repos_url': 'https://api.github.com/users/zkolter/repos', 'events_url': 'https://api.github.com/users/zkolter/events{/privacy}', 'received_events_url': 'https://api.github.com/users/zkolter/received_events', 'type': 'User', 'site_admin': False, 'name': 'Zico Kolter', 'company': 'Carnegie Mellon', 'blog': '', 'location': None, 'email': 'zkolter@cs.cmu.edu', 'hireable': None, 'bio': None, 'public_repos': 1, 'public_gists': 0, 'followers': 5, 'following': 0, 'created_at': '2012-10-01T17:22:55Z', 'updated_at': '2017-12-12T16:06:58Z', 'private_gists': 0, 'total_private_repos': 0, 'owned_private_repos': 0, 'disk_usage': 0, 'collaborators': 0, 'two_factor_authentication': False, 'plan': {'name': 'developer', 'space': 976562499, 'collaborators': 0, 'private_repos': 9999}}
+```json
+{"login": "zkolter", "id": 2465474, "avatar_url": "https://avatars1.githubusercontent.com/u/2465474?v=4", "gravatar_id": "", "url": "https://api.github.com/users/zkolter", "html_url": "https://github.com/zkolter", "followers_url": "https://api.github.com/users/zkolter/followers", "following_url": "https://api.github.com/users/zkolter/following{/other_user}", "gists_url": "https://api.github.com/users/zkolter/gists{/gist_id}", "starred_url": "https://api.github.com/users/zkolter/starred{/owner}{/repo}", "subscriptions_url": "https://api.github.com/users/zkolter/subscriptions", "organizations_url": "https://api.github.com/users/zkolter/orgs", "repos_url": "https://api.github.com/users/zkolter/repos", "events_url": "https://api.github.com/users/zkolter/events{/privacy}", "received_events_url": "https://api.github.com/users/zkolter/received_events", "type": "User", "site_admin": False, "name": "Zico Kolter", "company": "Carnegie Mellon", "blog": "", "location": None, "email": "zkolter@cs.cmu.edu", "hireable": None, "bio": None, "public_repos": 1, "public_gists": 0, "followers": 5, "following": 0, "created_at": "2012-10-01T17:22:55Z", "updated_at": "2017-12-12T16:06:58Z", "private_gists": 0, "total_private_repos": 0, "owned_private_repos": 0, "disk_usage": 0, "collaborators": 0, "two_factor_authentication": False, "plan": {"name": "developer", "space": 976562499, "collaborators": 0, "private_repos": 9999}}
 ```
 
 If you have the data as a file (i.e., as a file descriptor opened with the Python `open()` command), you can use the `json.load()` function instead.  To convert a Python dictionary to a JSON object, you'll use the `json.dumps()` command, such as the following.
-
 
 ```python
 data = {"a":[1,2,3,{"b":2.1}], 'c':4}
@@ -321,7 +314,6 @@ json.dumps(data)
 ```
 
 Notice that Python code, unlike JSON, can include single quotes to denote strings, but converting it to JSON will replace it with double quotes.  Finally, if you try to dump an object that includes types not representable by JSON, it will throw an error.
-
 
 ```python
 json.dumps(response)
@@ -338,7 +330,6 @@ Last, another format you will likely encoder are XML/HTML documents, though my a
 XML contains "open" tags denoted by brackets, like `<tag>`, which are then closed by a corresponding "close" tag `</tag>`.  The tags can be nested, and have optional attributes, of the form `attribute_name="attribute_value"`.  Finally, there are "open/close" tags that don't have any included content (except perhaps attributes), denoted by `<openclosetag/>`.
 
 HTML, the standard for describing web pages, may seem syntactically similar to XML, but it is difficult to parse properly (open tags may not have closed tags, etc).  Generally speaking, HTML was developed to display content for the web, not to organize data, so a lot of invalid structure (like the aforementioned open without close) became standard simply because people frequently did this in practice, and so the data format evolved.  In the homework (the 688 version), you will actually write a simple XML parser, to understand how such parsing works, but for the most part you will use a library.  There are many such libraries for Python, but a particularly nice one is [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/).  Beautiful soup was actually written for parsing HTML (it is a common tool for scraping web pages), but it works just as well for the more-structured XML format.  You will also use BeautifulSoup as a precursor to writing your own XML parser on the homework.
-
 
 ```python
 from bs4 import BeautifulSoup
@@ -363,24 +354,23 @@ print(root.tag.openclosetag.attrs)
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <tag attribute="value">
-<subtag>
-        Some content for the subtag
-    </subtag>
-<openclosetag attribute="value2"/>
-<subtag>
-        Second one
-    </subtag>
-</tag> 
+  <subtag>Some content for the subtag</subtag>
+  <openclosetag attribute="value2"/>
+  <subtag>Second one</subtag>
+</tag>
+```
 
+```xml
 <subtag>
-        Some content for the subtag
-    </subtag> 
+    Some content for the subtag
+</subtag>
+```
 
+```python
 {'attribute': 'value2'}
 ```
 
 The `BeautifulSoup()` call creates the object to parse, where the second argument specifies the parser ("lxml-xml" indicates that it is actually XML data, whereas "lxml" is the more common parser for parsing HTML files).  As illustrated above, when the hierarchical layout of the data is fairly simple, here a "tag" followed by a "subtag" (by default this will return the first such tag), or an "openclosetag", you can access the various parts of the hierarchy simply by a structure-like layout of the BeautifulSoup object.  Where this gets trickier is when there are multiple tags with the same name as the hierarchy level, as there is with the two "subtag" tags.  Above.  In this case, you can use the `find_all` function, which returns a list of all the subtags.
-
 
 ```python
 print(root.tag.find_all("subtag"))
@@ -394,8 +384,7 @@ print(root.tag.find_all("subtag"))
     </subtag>]
 ```
 
-The nice thing about the `find_all` function is that you can call it at previous levels in the tree, and it will recurse down the whole document.  So we could have just as easily done.
-
+The nice thing about the `find_all` function is that you can call it at previous levels in the tree, and it will recur down the whole document.  So we could have just as easily done.
 
 ```python
 print(root.find_all("subtag"))
@@ -410,7 +399,6 @@ print(root.find_all("subtag"))
 ```
 
 Let's end with a slightly more complex example, that looks through the CMU homepage to get a list of upcoming events.  This isn't perfect (the parser will keep all the whitespace from the source HTML, and so the results aren't always pretty), but it does the job.  If we examine the source of the CMU homepage, we'll see that the events are listed within `<div class="events">` tags, then within `<li>` tags.  The following illustrates how we can get the text information of each event (the `.text` attribute returns just the text content that doesn't occur within any tag).  Again, the details aren't important here, but by playing around with these calls you'll get a sense of how to extract information from web pages or from XML documents in general.
-
 
 ```python
 response = requests.get("http://www.cmu.edu")
@@ -439,10 +427,9 @@ Feb 22 - Mar 3
 
 The last tool we're going to consider in these notes are regular expressions.  Regular expressions are invaluable when parsing any type of unstructured data, if you're trying to quickly find or extract some text from a long string, and even if you're writing a more complex parser.  In general, regular expressions let us find and match portions of text using a simple syntax (by some definition).  
 
-### Finding 
+### Finding
 
 Let's start with the most basic example, that simply searches text for some sting.  In this case, the text we are searching is "This course will introduce the basics of data science", and the string we are searching for is "data science".  This is done with the following code:
-
 
 ```python
 import re
@@ -455,13 +442,13 @@ print(match.start())
 41
 ```
 
-The important element here is the `re.search(r"data science", text)` call.  It searches `text` for the string "data science" and returns a regular expression "match" object that contains information about where this match was found: for instance, we can find the character index (in `text`) where the match is found, using the `match.start()` call.  In addition to the search call, there are two or three more regular expression matching commands you may find useful: 
+The important element here is the `re.search(r"data science", text)` call.  It searches `text` for the string "data science" and returns a regular expression "match" object that contains information about where this match was found: for instance, we can find the character index (in `text`) where the match is found, using the `match.start()` call.  In addition to the search call, there are two or three more regular expression matching commands you may find useful:
+
 - `re.match()`: Match the regular expression starting at the _beginning_ of the text string
 - `re.finditer()`: Find all matches in the text, returning a iterator over match objects
 - `re.findall()`: Find all matches in the text, returning a list of the matched text only (not a match object)
 
 For example, the following code would return `None`, since there is no match to "data science" at the beginning of the string:
-
 
 ```python
 match = re.match(r"data science", text)
@@ -473,7 +460,6 @@ None
 ```
 
 Similarly, we could use `re.finditer()` to list the location of all the 'i' characters in the string:
-
 
 ```python
 for match in re.finditer(r"i", text):
@@ -490,7 +476,6 @@ for match in re.finditer(r"i", text):
 
 On the other hand, `re.findall()` just returns a list of the matched strings, with no additional info such as where they occurred:
 
-
 ```python
 re.findall(r"i", text)
 ```
@@ -500,7 +485,6 @@ re.findall(r"i", text)
 ```
 
 This last call may not seem particularly useful, but especially when you use more complex matching expressions, this last call can still be of some use.  Finally, you can also "compile" a regular expression and then make all the same calls on this compiled object, as in the following:
-
 
 ```python
 regex = re.compile(r"data science")
@@ -527,7 +511,6 @@ While using regular expressions to search for a string within a long piece of te
 
 As an example, the following regular expression will match "data science" regardless of the capitalization, and with any type of space between the two words.
 
-
 ```python
 print(re.search(r"[Dd]ata\s[Ss]cience", text))
 ```
@@ -539,6 +522,7 @@ print(re.search(r"[Dd]ata\s[Ss]cience", text))
 Note that now the match objects also now include what was the particular text that matched the expression (which could be one of any number of possibilities now).  This is why calls like `re.findall` are still useful even if they only return the matched expression.
 
 The second important feature of regular expressions it the ability to match multiple _occurences_ of a character.  The most important rules here are:
+
 - To match `a` exactly once, use `a`.
 - To match `a` zero or one times, use `a?`.
 - To match `a` zero or more times, use `a*`.
@@ -546,7 +530,6 @@ The second important feature of regular expressions it the ability to match mult
 - And finally, to match `a` exactly n times, use `a{n}`.
 
 These rules can of course be combined with the rules to match potentially very complicated expressions.  For instance, if we want to match the text "*something* science" where *something* is any alphanumeric character, and there can be any number of spaces of any kind between *something* and the word "science", we could use the expression `r"\w+\s+science"`.
-
 
 ```python
 print(re.match("\w+\s+science", "data science"))
@@ -562,7 +545,7 @@ print(re.match("\w+\s+science", "0123_abcd science"))
 
 These kinds of matching, even with relatively simple starting points, can lead to some interesting applications:
 
-{% include image.html img="http://imgs.xkcd.com/comics/regex_golf.png" caption="Regex Golf, from https://xkcd.com/1313/.  Yes, this is a real thing, see e.g. https://alf.nu/RegexGolf"%}
+![Regex Golf, from https://xkcd.com/1313/.  Yes, this is a real thing, see e.g. https://alf.nu/RegexGolf](http://imgs.xkcd.com/comics/regex_golf.png){width=90%}
 
 **Aside:** One thing you may notice is the `r""` format of the regular expressions (quotes with an 'r' preceding them).  You can actually use any string as a regular expression, but the `r` expressions are quite handy for the following reason.  In a typical Python string, backslash characters denote escaped characters, so for instance `"\\"` really just encodes a single backslash.  But backslashes are _also_ used within regular expressions.  So if we want the regular expression `\\` represented as a string (that is, match a single backslash), we'd need to use the string `"\\\\"`.  This gets really tedious quickly.  So the `r""` notation just _ignores_ any handling of handling of backslashes, and thus makes inputing regular expressions much simpler.
 
@@ -593,7 +576,6 @@ print(match.groups())
 
 The `.group(i)` notation also lets you easily find just individual groups, `.group(0)` being the entire text.
 
-
 ```python
 match = re.search(r"(\w+)\s([Ss]cience)", text)
 print(match.group(0))
@@ -609,10 +591,7 @@ science
 
 ### Substitutions
 
-
-
 Regular expression can also be used to automatically substitute one expression for another within the string.  This is done using the `re.sub()` call.  This returns a string with (all) the instances of the first regular expression replaced with the second one.  For example, to replace all the occurrences of "data science" with "data schmience", we could use the following code:
-
 
 ```python
 print(re.sub(r"data science", r"data schmience", text))
@@ -622,8 +601,7 @@ print(re.sub(r"data science", r"data schmience", text))
 This course will introduce the basics of data schmience
 ```
 
-Where this gets really powerful is when we use groups in the first regular expression.  These groups can then be backreferenced using the `\1`, `\2`, etc notation in the second one (more generally, you can actually use these backreferencs within a single regular expression too, outside the context of substitutions, but we won't cover that here).  So if we have the regular expression `r"(\w+) ([Ss])cience"` to match "*something* science" (where science can be capitalized or not), we would replace it with the string "*something* schmience", keeping the *something* the same, and keeping the capitalization of science the same, using the code:
-
+Where this gets really powerful is when we use groups in the first regular expression.  These groups can then be backreferenced using the `\1`, `\2`, etc. notation in the second one (more generally, you can actually use these backreferences within a single regular expression too, outside the context of substitutions, but we won't cover that here).  So if we have the regular expression `r"(\w+) ([Ss])cience"` to match "*something* science" (where science can be capitalized or not), we would replace it with the string "*something* schmience", keeping the *something* the same, and keeping the capitalization of science the same, using the code:
 
 ```python
 print(re.sub(r"(\w+) ([Ss])cience", r"\1 \2chmience", text))
@@ -639,12 +617,9 @@ As you can imagine, this allows for very powerful processing with very short exp
 
 ### Miscellaneous items
 
-
-
 There are a few last points that we'll discuss here, mainly because they can be of some use for the homework assignments in the course.  There are, of course, many more particulars to regular expressions, and we will later highlight a few references for further reading.
 
-**Order of operations.** The first point comes in regard to the order of operations for regular expressions.  The `|` character in regular expressions is like an "or" clause, the regular expression should can match the regular expression to the left or to the right of the character.  For example, the regular expression `r"abc|def"` would match the string "abc" or "def".
-
+**Order of operations.** The first point comes in regard to the order of operations for regular expressions.  The `|` character in regular expressions is like an "or" clause, the regular expression should can match the regular expression to the left or to the right of the character.  For example, the regular expression `r"abc|def"` matches the string "abc" or "def".
 
 ```python
 print(re.match(r"abc|def", "abc"))
@@ -670,7 +645,6 @@ None
 ```
 
 But, of course, since we also use the parentheses for specifying groups, this means that we will be creating a group for the *c or d* character here.  While it's probably not the end of the world to create a few groups you don't need, in the case that you _don't_ want to create this group, you can use the notation `r"ab(?:c|d)ef"`.  There is no real logic to this notation that I can see, it just happens to be shorthand for "use these parentheses to manage order of operations but don't create a group."  Regular expressions are full of fun things like this, and while you likely don't need to commit this to memory, it's handy to remember that there are situations like this.
-
 
 ```python
 print(re.match(r"ab(c|d)ef", "abdef").groups())
@@ -710,7 +684,6 @@ As one last note, while it is good to run through all of these aspects of regula
 
 The point is, for anything remotely complex that you'd do with regular expression, you will have to look up the documentation, which for the Python libraries is available at: [https://docs.python.org/3/howto/regex.html](https://docs.python.org/3/howto/regex.html) and [https://docs.python.org/3/library/re.html](https://docs.python.org/3/library/re.html).  These sources will be the best way to remember specifics about any particular syntax you want to use.
 
-
 ## References
 
 - [requests library](http://docs.python-requests.org/en/master/)
@@ -721,4 +694,3 @@ The point is, for anything remotely complex that you'd do with regular expressio
 - [BeautifulSoup library](https://www.crummy.com/software/BeautifulSoup/)
 - [Python Regular Expression HOWTO](https://docs.python.org/3/howto/regex.html)
 - [Python regular expression library](https://docs.python.org/3/library/re.html)
-

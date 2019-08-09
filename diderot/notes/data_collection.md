@@ -360,7 +360,7 @@ print(root.tag.subtag, "\n")
 print(root.tag.openclosetag.attrs)
 ```
 
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <tag attribute="value">
 <subtag>
@@ -386,7 +386,7 @@ The `BeautifulSoup()` call creates the object to parse, where the second argumen
 print(root.tag.find_all("subtag"))
 ```
 
-```
+```xml
 [<subtag>
         Some content for the subtag
     </subtag>, <subtag>
@@ -401,7 +401,7 @@ The nice thing about the `find_all` function is that you can call it at previous
 print(root.find_all("subtag"))
 ```
 
-```
+```xml
 [<subtag>
         Some content for the subtag
     </subtag>, <subtag>
@@ -532,7 +532,7 @@ As an example, the following regular expression will match "data science" regard
 print(re.search(r"[Dd]ata\s[Ss]cience", text))
 ```
 
-```
+```python
 <_sre.SRE_Match object; span=(41, 53), match='data science'>
 ```
 
@@ -554,7 +554,7 @@ print(re.match("\w+\s+science", "life science"))
 print(re.match("\w+\s+science", "0123_abcd science"))
 ```
 
-```
+```python
 <_sre.SRE_Match object; span=(0, 12), match='data science'>
 <_sre.SRE_Match object; span=(0, 12), match='life science'>
 <_sre.SRE_Match object; span=(0, 17), match='0123_abcd science'>

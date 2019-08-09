@@ -17,23 +17,22 @@ endif
 
 DC_HOME = ~/DC
 
-MDXML = $(DC_HOME)/dc
-MDXML_DBG = $(DC_HOME)/mdxml.dbg
+DC = $(DC_HOME)/dc -meta ./meta
 
 FORCE: 
 
 %.xml : %.md FORCE
 ifdef debug
 ifdef verbose
-	$(MDXML_DBG) $(FLAG_VERBOSE) $< -preamble $(PREAMBLE) -o $@
+	$(DC) $(FLAG_VERBOSE) $< -preamble $(PREAMBLE) -o $@
  else
-	$(MDXML_DBG) $< -preamble $(PREAMBLE) -o $@
+	$(DC) $< -preamble $(PREAMBLE) -o $@
 endif
 else
 ifdef verbose
-	$(MDXML) $(FLAG_VERBOSE) $< -preamble $(PREAMBLE) -o $@
+	$(DC) $(FLAG_VERBOSE) $< -preamble $(PREAMBLE) -o $@
  else
-	$(MDXML) $< -preamble $(PREAMBLE) -o $@
+	$(DC) $< -preamble $(PREAMBLE) -o $@
 endif
 endif
 

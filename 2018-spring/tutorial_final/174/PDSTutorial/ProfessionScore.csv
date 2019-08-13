@@ -1,0 +1,27 @@
+﻿Name,Age,Gender,Race,Profession,Pre-Test,Post-Test,Hours of Sleep,Annual Income (in thousands of dollars)
+Alice,20,F,White,Student,43,78,4.2,18
+Bob,23,M,White,Student,54,88,6.5,25
+Caterina,31,F,Hispanic,Professor,64,89,7.2,90
+Donald,21,M,White,Student,23,99,9.8,19
+Ella,18,F,White,Student,54,76,5.6,4
+Finn,40,M,White,Professor,65,95,8.4,129
+George,18,M,Af. American,Student,81,83,5.5,6
+Haley,22,F,Hispanic,Student,47,82,3.6,25
+Ima,59,F,White,Professor,65,98,5.3,209
+Jackie,22,F,White,Student,37,69,2.1,23
+Kalsey,65,F,White,Professor,34,99,7,260
+Leon,33,M,White,Professor,54,86,6.3,132
+Manuel,42,M,Hispanic,Professor,45,87,5.2,148
+Nova,22,F,Asian,Student,29,75,4.4,30
+Ovi,21,F,Asian,Student,30,74,5.6,28
+Piper,23,M,Af. American,Student,2,88,7,29
+Query,45,F,Hispanic,Professor,39,90,8,137
+Reilly,60,F,Af. American,Professor,40,93,6.9,179
+Sam,55,M,White,Professor,29,87,5.3,145
+Tammy,18,F,White,Student,40,57,4.5,7
+Urva,70,F,Asian,Professor,27,96,7.1,42
+Vanessa,20,F,Af. American,Student,49,63,5.5,13
+Wendy,34,F,White,Professor,36,86,8.4,128
+Xavier,23,M,Af. American,Student,30,73,6.2,22
+Yi,38,M,Asian,Professor,40,80,6.3,125
+Zake,65,M,White,Professor,30,94,7.7,182

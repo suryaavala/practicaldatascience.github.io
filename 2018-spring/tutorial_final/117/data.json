@@ -1,0 +1,44 @@
+{
+  "restaurant": [
+    {
+    	"name": "Lucca",
+    	"score": 3.5,
+    	"address": "317 S Craig St, Pittsburgh",
+    	"phone": "(412) 682-3310",
+    	"price": 30,
+    	"foods": "Gluten Free Pasta, Goat Cheese Ravioli, Chicken Romano, Seafood Mix Grill, Lamb Chops"
+    },
+    {
+    	"name": "Crepes Parisiennes",
+    	"score": 4,
+    	"address": "207 S Craig St, Pittsburgh",
+    	"phone": "(412) 683-1912",
+    	"price": 30,
+    	"foods": "Egg & Cheese, Breakfast Crepe, Smoked Icelandic Salmon, Ham & Cheese"
+    },
+    {
+    	"name": "Union Grill",
+    	"score": 4,
+    	"address": "413 S Craig St, Pittsburgh",
+    	"phone": "(412) 681-8620",
+    	"price": 30,
+    	"foods": "Grilled Capicola & Cheese, Fish Sandwich, Baked Cheese Steak, Chicken Focaccia, Hamburger"
+    },
+    {
+    	"name": "Legume",
+    	"score": 4.5,
+    	"address": "214 N Craig St, Pittsburgh",
+    	"phone": "(412) 621-2700",
+    	"price": 60,
+    	"foods": "Grilled Escarole Salad, Mixed Greens Salad, Chicken Paprikash, Hamburger"
+    },
+    {
+    	"name": "Lulu’s Noodles",
+    	"score": 2.5,
+    	"address": "400 S Craig St, Pittsburgh",
+    	"phone": "(412) 687-7777",
+    	"price": 10,
+    	"foods": "Teriyaki Chicken Salad, Sauteed Chicken, Thai Curry Chicken, Lu Lu's Pan Fried Noodle"
+    }
+  ]
+}

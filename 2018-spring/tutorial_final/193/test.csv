@@ -1,0 +1,2345 @@
+user_id,timestamp,event
+10802,17169,Visit
+14952,19428,Visit
+3122,7487,Visit
+11058,12885,Visit
+17100,22908,Visit
+2832,9396,Selection
+7282,17161,Purchase
+17802,25750,Selection
+8162,17305,Selection
+15934,20174,Purchase
+11516,20335,Review
+7130,12345,Selection
+13712,17282,Review
+2416,8381,Selection
+5958,10980,Purchase
+17118,17885,Sign up
+1746,9552,Selection
+5116,11314,Review
+16450,22858,Selection
+8634,10860,Selection
+8920,18401,Selection
+10534,19284,Purchase
+19482,26430,Purchase
+17400,23712,Selection
+12238,20351,Purchase
+12462,19664,Purchase
+892,6219,Purchase
+5256,7669,Selection
+18688,26973,Selection
+19944,26369,Selection
+10058,13788,Selection
+14870,21645,Selection
+7786,11811,Selection
+2158,5729,Purchase
+6280,9458,Review
+7710,10790,Purchase
+15646,21556,Selection
+15304,18219,Selection
+666,3666,Selection
+8928,13179,Purchase
+18090,27193,Purchase
+12830,22830,Selection
+14552,21520,Selection
+2146,3226,Selection
+7594,8881,Purchase
+658,2985,Review
+70,9331,Review
+18794,25208,Selection
+18030,19258,Selection
+8976,17949,Review
+15810,19409,Selection
+14036,19031,Review
+14688,17120,Selection
+14084,23429,Selection
+19544,22352,Review
+2480,10357,Selection
+16836,17691,Purchase
+10188,15478,Selection
+18264,27966,Selection
+8498,11155,Purchase
+16010,20478,Selection
+12618,22234,Visit
+12110,21426,Purchase
+16672,25671,Purchase
+19752,24349,Selection
+5582,7462,Selection
+6812,15052,Selection
+12800,17166,Selection
+1666,6859,Selection
+3406,10727,Purchase
+5214,10133,Selection
+7736,9255,Selection
+10690,16949,Review
+10460,17019,Selection
+17888,26120,Selection
+3380,6761,Purchase
+6892,12441,Selection
+48,9932,Selection
+19074,26088,Purchase
+18650,27644,Selection
+15524,22422,Selection
+19780,22941,Visit
+5454,15198,Selection
+5338,7869,Selection
+13568,13708,Selection
+10658,19974,Selection
+10410,14060,Selection
+19626,24695,Visit
+19338,23828,Review
+11674,14557,Review
+6120,8930,Selection
+4408,10772,Purchase
+3824,5975,Selection
+6010,12459,Selection
+11316,19093,Purchase
+262,1696,Sign up
+7670,17256,Review
+18818,25383,Purchase
+1644,4844,Selection
+3208,5700,Purchase
+6076,14532,Review
+1130,4051,Purchase
+7328,9460,Selection
+15584,18543,Review
+316,5318,Review
+5514,6845,Selection
+15954,21856,Purchase
+17408,26676,Selection
+15568,17220,Review
+15520,23330,Selection
+10936,13067,Selection
+13002,16717,Review
+11940,15885,Purchase
+6800,12550,Review
+17454,22957,Selection
+8456,13837,Selection
+17662,24896,Purchase
+14646,18057,Selection
+11984,21547,Selection
+1334,10311,Purchase
+6780,14181,Selection
+860,8868,Selection
+19490,24916,Review
+11416,16139,Selection
+6776,14636,Selection
+14448,19642,Selection
+10106,19148,Review
+3602,12509,Purchase
+360,8195,Purchase
+7590,8886,Visit
+5168,7881,Selection
+7468,13842,Selection
+14802,17820,Purchase
+7174,9074,Selection
+11004,16487,Selection
+5120,13867,Review
+15698,16986,Selection
+2138,11718,Purchase
+7260,14034,Purchase
+19998,22037,Selection
+1724,4658,Selection
+3822,7539,Review
+17028,17242,Selection
+6554,16526,Selection
+16576,18480,Selection
+4592,8541,Purchase
+8910,13042,Review
+18508,19925,Selection
+7084,8731,Selection
+384,2644,Purchase
+14048,17273,Review
+14190,24088,Purchase
+12966,21998,Selection
+6936,10028,Purchase
+10438,14542,Selection
+19132,19822,Selection
+11164,20850,Selection
+2322,7690,Selection
+10956,11968,Selection
+10956,13699,Selection
+10056,14320,Purchase
+10056,12010,Purchase
+6404,14553,Purchase
+6404,14583,Purchase
+16138,20265,Purchase
+16138,16717,Purchase
+11468,14314,Purchase
+11468,13885,Purchase
+3332,9517,Selection
+3332,6490,Selection
+9520,10560,Selection
+9520,13310,Selection
+10700,13017,Selection
+10700,16560,Selection
+19552,21496,Review
+19552,21312,Review
+11108,16716,Selection
+11108,16497,Selection
+15972,25322,Selection
+15972,25052,Selection
+16806,23728,Review
+16806,21310,Review
+13394,14863,Selection
+13394,19156,Selection
+14296,15953,Selection
+14296,15578,Selection
+1292,9836,Selection
+1292,2202,Selection
+19246,25465,Purchase
+19246,21775,Purchase
+12806,15502,Review
+12806,18884,Review
+18994,21458,Selection
+18994,28322,Selection
+18852,22648,Review
+18852,20297,Review
+2576,11533,Review
+2576,4070,Review
+6248,9622,Review
+6248,6600,Review
+17478,23215,Selection
+17478,22685,Selection
+7028,9472,Selection
+7028,14626,Selection
+1280,9518,Visit
+1280,4000,Visit
+84,3719,Purchase
+84,4740,Purchase
+16004,25786,Selection
+16004,16501,Selection
+14104,14427,Selection
+14104,16754,Selection
+11356,20373,Selection
+11356,17504,Selection
+4742,10098,Selection
+4742,8587,Selection
+5358,14364,Selection
+5358,5941,Selection
+6628,11563,Review
+6628,7292,Review
+4536,10553,Selection
+4536,12000,Selection
+10002,11893,Selection
+10002,12252,Selection
+7302,11085,Selection
+7302,8096,Selection
+6972,7943,Purchase
+6972,9229,Purchase
+7666,10520,Purchase
+7666,17530,Purchase
+5556,9808,Selection
+5556,14585,Selection
+18518,25674,Purchase
+18518,23139,Purchase
+3036,8784,Selection
+3036,11415,Selection
+16064,22022,Purchase
+16064,16753,Purchase
+13942,23136,Selection
+13942,18737,Selection
+1958,10995,Selection
+1958,7721,Selection
+12384,19401,Purchase
+12384,18730,Purchase
+8654,10791,Selection
+8654,9037,Selection
+664,6903,Purchase
+664,4246,Purchase
+9406,10263,Selection
+9406,18135,Selection
+14166,15515,Purchase
+14166,17185,Purchase
+4242,13317,Visit
+4242,4824,Visit
+2424,6522,Selection
+2424,7378,Selection
+9094,11417,Selection
+9094,14706,Selection
+7624,14405,Selection
+7624,14682,Selection
+16066,22525,Selection
+16066,16755,Selection
+15410,15650,Visit
+15410,25300,Visit
+7574,16742,Review
+7574,8852,Review
+11630,20786,Selection
+11630,19679,Selection
+18920,28677,Review
+18920,23756,Review
+4452,9195,Purchase
+4452,13644,Purchase
+7234,7374,Selection
+7234,14166,Selection
+14944,15255,Selection
+14944,21174,Selection
+13268,19323,Purchase
+13268,20334,Purchase
+13100,21180,Selection
+13100,15229,Selection
+19996,20838,Review
+19996,26730,Review
+2660,7194,Purchase
+2660,6986,Purchase
+1924,4000,Selection
+1924,7958,Selection
+2372,4022,Selection
+2372,12173,Selection
+13842,16008,Selection
+13842,21345,Selection
+1754,11742,Selection
+1754,4001,Selection
+5932,7106,Selection
+5932,14199,Selection
+12088,13260,Review
+12088,13221,Review
+8152,15908,Selection
+8152,13072,Selection
+844,1960,Selection
+844,3890,Selection
+10860,12606,Visit
+10860,17319,Visit
+14572,15997,Review
+14572,22517,Review
+6388,13227,Purchase
+6388,15464,Purchase
+8756,14127,Visit
+8756,9452,Visit
+13578,17820,Selection
+13578,18453,Selection
+18328,18965,Selection
+18328,28088,Selection
+18610,26567,Review
+18610,19723,Review
+8082,16980,Purchase
+8082,15824,Purchase
+17606,18811,Review
+17606,24801,Review
+16238,22926,Review
+16238,18304,Review
+3922,5477,Selection
+3922,5673,Selection
+14228,15641,Selection
+14228,20500,Selection
+18240,22542,Purchase
+18240,20206,Purchase
+16602,20691,Purchase
+16602,20042,Purchase
+10804,19881,Purchase
+10804,13950,Purchase
+4246,9062,Selection
+4246,5394,Selection
+15138,23490,Selection
+15138,17439,Selection
+9476,16538,Selection
+9476,16575,Visit
+3548,12753,Review
+3548,11567,Selection
+13652,13829,Review
+13652,16249,Selection
+7458,7583,Selection
+7458,14851,Visit
+19508,24540,Purchase
+19508,25678,Selection
+2566,9110,Selection
+2566,10985,Selection
+5302,6336,Purchase
+5302,8664,Selection
+11950,17383,Selection
+11950,18909,Purchase
+4616,14247,Selection
+4616,5079,Purchase
+7480,15246,Purchase
+7480,17397,Visit
+10812,19909,Selection
+10812,20112,Selection
+6910,13550,Selection
+6910,14320,Selection
+10928,17514,Visit
+10928,19866,Selection
+12884,13316,Selection
+12884,15044,Purchase
+13608,20165,Selection
+13608,17194,Selection
+1306,7783,Selection
+1306,5965,Purchase
+9036,10327,Selection
+9036,15584,Selection
+16318,24954,Sign up
+16318,21822,Sign up
+11370,19082,Selection
+11370,11390,Review
+8650,14779,Selection
+8650,13598,Review
+8560,16894,Purchase
+8560,18216,Selection
+4890,10968,Selection
+4890,10661,Selection
+17914,23818,Review
+17914,25026,Selection
+11636,12116,Purchase
+11636,12647,Purchase
+16124,20146,Purchase
+16124,24361,Purchase
+1628,11347,Purchase
+1628,3446,Purchase
+6506,11834,Selection
+6506,16016,Review
+11738,12931,Purchase
+11738,17144,Review
+9616,17702,Selection
+9616,16828,Purchase
+9310,10860,Review
+9310,14659,Selection
+11824,16654,Selection
+11824,16680,Review
+13416,16440,Selection
+13416,19885,Selection
+8870,16762,Selection
+8870,9285,Purchase
+13258,22200,Purchase
+13258,22917,Selection
+6394,9282,Selection
+6394,12831,Selection
+16896,20223,Purchase
+16896,18625,Review
+9870,18839,Selection
+9870,16331,Review
+9676,10297,Selection
+9676,15701,Review
+3672,8896,Selection
+3672,3974,Selection
+60,4965,Review
+60,3543,Selection
+2936,10179,Purchase
+2936,10118,Selection
+3746,10685,Selection
+3746,8189,Selection
+12326,15401,Review
+12326,13412,Selection
+16214,18290,Selection
+16214,21220,Selection
+17350,19733,Selection
+17350,24353,Selection
+7508,10831,Selection
+7508,11180,Purchase
+1498,10387,Selection
+1498,7681,Selection
+17464,24331,Selection
+17464,26936,Selection
+2172,11597,Selection
+2172,10432,Purchase
+12796,21569,Selection
+12796,13124,Selection
+1566,11485,Selection
+1566,10728,Selection
+9942,17110,Purchase
+9942,13779,Review
+8994,16085,Selection
+8994,9516,Selection
+3620,7147,Selection
+3620,6084,Selection
+3620,4502,Purchase
+3620,10623,Selection
+3598,9318,Selection
+3598,6522,Purchase
+3598,12428,Selection
+3598,5816,Selection
+18196,26296,Selection
+18196,27147,Purchase
+18196,21855,Selection
+18196,21174,Selection
+17846,21487,Selection
+17846,18882,Review
+17846,27309,Review
+17846,21124,Selection
+2962,7483,Selection
+2962,9647,Purchase
+2962,6241,Selection
+2962,9145,Selection
+17480,18498,Selection
+17480,26286,Review
+17480,18878,Selection
+17480,21838,Review
+16126,19970,Selection
+16126,20708,Selection
+16126,21553,Sign up
+16126,21402,Selection
+14480,21047,Purchase
+14480,24106,Purchase
+14480,21142,Purchase
+14480,19804,Selection
+16060,24940,Selection
+16060,24214,Selection
+16060,20816,Selection
+16060,16256,Review
+17050,25653,Selection
+17050,17569,Visit
+17050,25686,Purchase
+17050,22766,Selection
+4614,11283,Review
+4614,7978,Selection
+4614,8462,Review
+4614,14037,Selection
+16812,22563,Review
+16812,17848,Selection
+16812,24996,Selection
+16812,22304,Selection
+11582,21044,Selection
+11582,18000,Review
+11582,15881,Purchase
+11582,18564,Selection
+14376,17694,Selection
+14376,17690,Visit
+14376,18502,Purchase
+14376,19729,Purchase
+6926,13933,Selection
+6926,7451,Selection
+6926,9649,Selection
+6926,10722,Selection
+17022,23975,Purchase
+17022,21229,Selection
+17022,25383,Selection
+17022,26425,Selection
+7548,7853,Review
+7548,15874,Visit
+7548,14631,Selection
+7548,8457,Selection
+6072,8609,Selection
+6072,12939,Selection
+6072,12792,Review
+6072,9818,Review
+16610,25083,Purchase
+16610,21753,Selection
+16610,19849,Review
+16610,23761,Selection
+8642,10609,Purchase
+8642,15955,Purchase
+8642,14605,Selection
+8642,12609,Purchase
+1402,4531,Purchase
+1402,10791,Review
+1402,2800,Selection
+1402,5890,Purchase
+18502,19405,Selection
+18502,22567,Selection
+18502,28284,Purchase
+18502,20503,Selection
+9328,17672,Purchase
+9328,15759,Purchase
+9328,17172,Purchase
+9328,16385,Selection
+4064,7222,Selection
+4064,8815,Selection
+4064,13380,Purchase
+4064,9993,Selection
+10522,14435,Review
+10522,18294,Selection
+10522,16605,Selection
+10522,10590,Selection
+18024,21617,Selection
+18024,27680,Visit
+18024,24571,Purchase
+18024,27969,Review
+3992,13756,Selection
+3992,10007,Selection
+3992,4414,Selection
+3992,5758,Selection
+18076,25141,Selection
+18076,18798,Selection
+18076,19501,Purchase
+18076,23106,Purchase
+12188,18357,Purchase
+12188,16494,Selection
+12188,20076,Purchase
+12188,15463,Purchase
+12210,21939,Selection
+12210,15982,Selection
+12210,18988,Selection
+12210,15115,Selection
+11564,11903,Purchase
+11564,12823,Sign up
+11564,13038,Selection
+11564,14921,Purchase
+16304,19170,Review
+16304,19028,Selection
+16304,25242,Purchase
+16304,17908,Review
+8446,17030,Sign up
+8446,17848,Selection
+8446,18413,Purchase
+17848,22226,Sign up
+17848,24853,Review
+17848,24606,Review
+708,2929,Sign up
+708,3106,Purchase
+708,7645,Selection
+9050,17753,Sign up
+9050,18393,Purchase
+9050,18324,Selection
+12386,13940,Sign up
+12386,16588,Purchase
+12386,14079,Review
+2892,7681,Sign up
+2892,9064,Selection
+2892,11207,Purchase
+18186,21651,Sign up
+18186,23217,Purchase
+18186,26638,Purchase
+15548,20911,Sign up
+15548,24401,Selection
+15548,20989,Selection
+19442,25986,Sign up
+19442,27463,Review
+19442,26181,Selection
+1764,9916,Sign up
+1764,10797,Selection
+1764,10360,Selection
+18974,27368,Sign up
+18974,28511,Purchase
+18974,28265,Purchase
+540,8067,Sign up
+540,8562,Purchase
+540,8184,Selection
+15390,19722,Sign up
+15390,21051,Purchase
+15390,21165,Selection
+6474,15694,Sign up
+6474,16228,Selection
+6474,16197,Selection
+1170,6201,Sign up
+1170,8430,Purchase
+1170,11052,Purchase
+13436,16536,Sign up
+13436,20179,Selection
+13436,19667,Selection
+12128,13327,Sign up
+12128,18619,Purchase
+12128,20136,Selection
+4990,8564,Sign up
+4990,9838,Purchase
+4990,9651,Selection
+16424,18506,Sign up
+16424,25941,Review
+16424,20267,Selection
+18510,22599,Sign up
+18510,27904,Review
+18510,28132,Selection
+5748,14521,Sign up
+5748,14697,Review
+5748,14807,Review
+16500,16834,Sign up
+16500,17601,Selection
+16500,26041,Review
+11206,15702,Sign up
+11206,20654,Selection
+11206,18234,Selection
+18750,26814,Sign up
+18750,26898,Purchase
+18750,27623,Selection
+2760,10042,Sign up
+2760,11165,Review
+2760,10914,Selection
+7644,7756,Sign up
+7644,13355,Purchase
+7644,8382,Purchase
+432,8123,Sign up
+432,10016,Selection
+432,9493,Review
+11594,12397,Sign up
+11594,21183,Selection
+11594,14172,Selection
+19746,27095,Sign up
+19746,29355,Visit
+19746,28778,Selection
+5490,14781,Sign up
+5490,14826,Purchase
+5490,15012,Selection
+13084,14558,Sign up
+13084,17322,Selection
+13084,21714,Purchase
+7306,7620,Sign up
+7306,12268,Selection
+7306,8257,Purchase
+9102,12971,Sign up
+9102,18272,Purchase
+9102,14572,Review
+8538,9776,Sign up
+8538,18068,Selection
+8538,17432,Selection
+19884,22110,Sign up
+19884,23634,Selection
+19884,23342,Selection
+19980,29494,Sign up
+19980,29806,Selection
+19980,29850,Purchase
+15292,20693,Sign up
+15292,24699,Review
+15292,24489,Selection
+14892,15233,Sign up
+14892,24512,Purchase
+14892,21340,Selection
+5562,9289,Sign up
+5562,14169,Purchase
+5562,11825,Selection
+2094,5686,Sign up
+2094,10381,Selection
+2094,6485,Selection
+8826,17688,Sign up
+8826,18628,Selection
+8826,18453,Selection
+3170,11223,Sign up
+3170,12886,Selection
+3170,11802,Purchase
+19824,21820,Sign up
+19824,22924,Visit
+19824,23982,Selection
+2402,5919,Sign up
+2402,6443,Selection
+2402,11139,Selection
+10946,18878,Sign up
+10946,19573,Selection
+10946,20228,Selection
+14656,17245,Sign up
+14656,22095,Selection
+14656,23221,Purchase
+1630,3172,Sign up
+1630,10467,Purchase
+1630,4598,Review
+2522,10113,Sign up
+2522,10179,Selection
+2522,10690,Purchase
+10584,11548,Sign up
+10584,20470,Review
+10584,20050,Selection
+12126,16116,Sign up
+12126,17104,Review
+12126,21128,Purchase
+3008,4175,Sign up
+3008,6713,Purchase
+3008,9963,Selection
+3592,7736,Sign up
+3592,9653,Selection
+3592,8072,Selection
+10924,11753,Sign up
+10924,12276,Selection
+10924,20207,Selection
+2388,4484,Sign up
+2388,10874,Selection
+2388,7975,Selection
+374,4499,Sign up
+374,7430,Review
+374,5639,Selection
+8556,9494,Sign up
+8556,14118,Selection
+8556,15735,Purchase
+15566,16437,Sign up
+15566,20611,Selection
+15566,20737,Selection
+3392,9643,Sign up
+3392,9862,Selection
+3392,12091,Purchase
+6568,9763,Sign up
+6568,10294,Visit
+6568,14455,Selection
+18916,23646,Sign up
+18916,28064,Selection
+18916,28539,Selection
+7076,14682,Sign up
+7076,16099,Selection
+7076,15302,Selection
+5216,6867,Sign up
+5216,11646,Review
+5216,11534,Purchase
+7242,14931,Sign up
+7242,15620,Selection
+7242,16556,Selection
+3186,8498,Sign up
+3186,8698,Selection
+3186,9655,Purchase
+18404,21552,Sign up
+18404,23604,Selection
+18404,28258,Purchase
+15204,16015,Sign up
+15204,19497,Selection
+15204,21494,Selection
+19666,22974,Sign up
+19666,28585,Purchase
+19666,25039,Selection
+6468,11766,Sign up
+6468,12710,Purchase
+6468,13736,Selection
+10146,12653,Sign up
+10146,19638,Purchase
+10146,17342,Review
+9722,17401,Sign up
+9722,18824,Purchase
+9722,19168,Selection
+8504,13977,Sign up
+8504,14306,Review
+8504,17526,Selection
+16842,24938,Sign up
+16842,26264,Selection
+16842,26184,Purchase
+15978,19402,Sign up
+15978,25354,Selection
+15978,23241,Selection
+5290,9906,Sign up
+5290,15136,Selection
+5290,10443,Purchase
+15620,22508,Sign up
+15620,24887,Selection
+15620,23925,Selection
+3160,11519,Sign up
+3160,12604,Selection
+3160,12378,Selection
+7376,12948,Sign up
+7376,14818,Purchase
+7376,13701,Review
+13588,16858,Sign up
+13588,19743,Selection
+13588,19042,Visit
+15306,16594,Sign up
+15306,18712,Selection
+15306,21457,Purchase
+18936,21236,Sign up
+18936,24875,Selection
+18936,27613,Selection
+3136,5974,Sign up
+3136,11966,Selection
+3136,9718,Review
+1106,8836,Sign up
+1106,9536,Selection
+1106,11098,Visit
+15506,23639,Sign up
+15506,24135,Review
+15506,25180,Review
+2780,10964,Sign up
+2780,11374,Selection
+2780,12209,Selection
+488,8073,Sign up
+488,9690,Review
+488,9339,Review
+19422,20745,Sign up
+19422,21250,Review
+19422,22260,Purchase
+12278,21491,Sign up
+12278,21638,Purchase
+12278,22150,Selection
+18666,28203,Sign up
+18666,28484,Purchase
+18666,28321,Visit
+8718,16765,Sign up
+8718,17160,Selection
+8718,18368,Selection
+8366,12877,Sign up
+8366,14658,Selection
+8366,14201,Selection
+3012,6370,Sign up
+3012,12836,Selection
+3012,9093,Selection
+15602,24114,Sign up
+15602,24200,Selection
+15602,24848,Selection
+19006,28445,Sign up
+19006,28825,Selection
+19006,28529,Review
+2114,6883,Sign up
+2114,10728,Purchase
+2114,7119,Selection
+18408,19713,Sign up
+18408,24406,Selection
+18408,25690,Purchase
+9546,14651,Sign up
+9546,18814,Selection
+9546,17850,Review
+10490,18434,Sign up
+10490,18499,Selection
+10490,18922,Review
+1932,5371,Sign up
+1932,6003,Purchase
+1932,11693,Selection
+13458,22405,Sign up
+13458,23158,Purchase
+13458,22438,Review
+14924,20253,Sign up
+14924,22107,Selection
+14924,22542,Review
+14278,18539,Sign up
+14278,21893,Selection
+14278,22105,Selection
+18402,28284,Sign up
+18402,28288,Selection
+18402,28307,Purchase
+1366,7037,Sign up
+1366,10151,Selection
+1366,7361,Visit
+3806,5177,Sign up
+3806,5917,Selection
+3806,12269,Purchase
+9788,16152,Sign up
+9788,18748,Purchase
+9788,17211,Selection
+14292,17831,Sign up
+14292,23437,Selection
+14292,21302,Selection
+13668,13840,Sign up
+13668,20195,Selection
+13668,15706,Review
+2568,3616,Sign up
+2568,4727,Purchase
+2568,6360,Selection
+18052,19928,Sign up
+18052,26510,Selection
+18052,20680,Selection
+19790,19935,Sign up
+19790,27877,Selection
+19790,24877,Review
+6808,16267,Sign up
+6808,16628,Purchase
+6808,16436,Selection
+19942,29612,Sign up
+19942,29853,Selection
+19942,29933,Selection
+15816,15932,Sign up
+15816,19438,Selection
+15816,17229,Selection
+19610,29493,Sign up
+19610,29605,Selection
+19610,29513,Selection
+926,3488,Sign up
+926,10638,Purchase
+926,10115,Visit
+19788,26895,Sign up
+19788,28069,Selection
+19788,27047,Purchase
+390,6627,Sign up
+390,8820,Review
+390,10006,Selection
+1358,7554,Sign up
+1358,8501,Selection
+1358,10626,Review
+9444,16900,Sign up
+9444,19171,Selection
+9444,16921,Purchase
+640,7071,Sign up
+640,9623,Selection
+640,10206,Selection
+4388,10052,Sign up
+4388,10671,Selection
+4388,12655,Purchase
+2872,4735,Sign up
+2872,10929,Review
+2872,10922,Selection
+12916,14298,Sign up
+12916,21295,Selection
+12916,18181,Selection
+17704,20596,Sign up
+17704,21438,Visit
+17704,22970,Purchase
+878,6193,Sign up
+878,9323,Selection
+878,9848,Review
+5542,11882,Sign up
+5542,15201,Review
+5542,12072,Purchase
+7780,9781,Sign up
+7780,16535,Selection
+7780,12152,Purchase
+17944,23271,Sign up
+17944,27247,Selection
+17944,24536,Purchase
+2174,6334,Sign up
+2174,9519,Review
+2174,8167,Selection
+52,2450,Sign up
+52,4904,Selection
+52,3614,Visit
+1466,8091,Sign up
+1466,8645,Selection
+1466,9898,Selection
+6690,16504,Sign up
+6690,16686,Review
+6690,16507,Purchase
+16012,23632,Sign up
+16012,23996,Selection
+16012,23820,Selection
+4748,12481,Sign up
+4748,13588,Purchase
+4748,14124,Visit
+1994,3011,Sign up
+1994,10862,Selection
+1994,7997,Selection
+15572,17434,Sign up
+15572,20850,Selection
+15572,19807,Selection
+4534,13119,Sign up
+4534,14242,Review
+4534,13511,Selection
+6204,9230,Sign up
+6204,15614,Purchase
+6204,9260,Selection
+13434,13505,Sign up
+13434,20871,Selection
+13434,16500,Purchase
+4236,12831,Sign up
+4236,14152,Review
+4236,13225,Selection
+12174,13402,Sign up
+12174,14526,Selection
+12174,13810,Selection
+13532,22903,Sign up
+13532,22905,Review
+13532,23353,Purchase
+4362,4715,Sign up
+4362,11354,Selection
+4362,9595,Purchase
+14616,23873,Sign up
+14616,24562,Selection
+14616,24212,Review
+13824,14210,Sign up
+13824,15021,Selection
+13824,16845,Selection
+14058,14903,Sign up
+14058,15110,Purchase
+14058,17103,Review
+13232,17406,Sign up
+13232,21358,Selection
+13232,22745,Purchase
+18752,27633,Sign up
+18752,28490,Selection
+18752,28310,Review
+7588,17328,Sign up
+7588,17473,Selection
+7588,17479,Purchase
+13148,22460,Sign up
+13148,22749,Selection
+13148,22660,Selection
+1542,2977,Sign up
+1542,9986,Selection
+1542,6659,Selection
+13990,16336,Sign up
+13990,16348,Purchase
+13990,23820,Purchase
+13748,22773,Sign up
+13748,23448,Purchase
+13748,23024,Purchase
+6788,13805,Sign up
+6788,16378,Review
+6788,15397,Review
+312,1488,Sign up
+312,5875,Selection
+312,6578,Purchase
+15222,24859,Sign up
+15222,25129,Purchase
+15222,25077,Selection
+1720,6111,Sign up
+1720,6925,Purchase
+1720,6331,Selection
+10876,19920,Sign up
+10876,20688,Selection
+10876,20445,Selection
+12834,17728,Sign up
+12834,22648,Selection
+12834,18229,Selection
+6636,7681,Sign up
+6636,14578,Selection
+6636,9015,Purchase
+8738,13829,Sign up
+8738,15021,Purchase
+8738,16287,Selection
+14428,20115,Sign up
+14428,21634,Selection
+14428,23433,Purchase
+1076,2593,Sign up
+1076,3547,Review
+1076,5093,Selection
+3294,7709,Sign up
+3294,9484,Review
+3294,12986,Selection
+4582,10745,Sign up
+4582,11922,Purchase
+4582,12995,Purchase
+3728,6258,Sign up
+3728,8192,Review
+3728,11726,Purchase
+5108,5306,Sign up
+5108,11202,Selection
+5108,9468,Selection
+11400,12101,Sign up
+11400,18344,Selection
+11400,16388,Selection
+18992,23803,Sign up
+18992,25209,Selection
+18992,26176,Purchase
+1118,3981,Sign up
+1118,4660,Review
+1118,7330,Purchase
+2674,8647,Sign up
+2674,8882,Selection
+2674,12291,Selection
+12724,16389,Sign up
+12724,16799,Selection
+12724,19357,Review
+9536,9709,Sign up
+9536,14111,Review
+9536,15277,Review
+17380,24208,Sign up
+17380,26370,Selection
+17380,26890,Selection
+2680,7683,Sign up
+2680,10180,Review
+2680,10761,Purchase
+9266,13871,Sign up
+9266,17242,Purchase
+9266,14558,Selection
+19208,27007,Sign up
+19208,28746,Purchase
+19208,27112,Selection
+1462,1653,Sign up
+1462,2661,Selection
+1462,10366,Review
+10388,10861,Sign up
+10388,19183,Selection
+10388,14634,Selection
+3022,5604,Sign up
+3022,7081,Purchase
+3022,8492,Review
+10456,17614,Sign up
+10456,19584,Visit
+10456,17866,Selection
+1598,4389,Sign up
+1598,7825,Purchase
+1598,6525,Selection
+290,1847,Sign up
+290,8992,Selection
+290,8591,Selection
+9762,18794,Sign up
+9762,19609,Selection
+9762,18876,Selection
+8666,17516,Sign up
+8666,18239,Purchase
+8666,18643,Selection
+17402,24731,Sign up
+17402,25292,Purchase
+17402,25580,Selection
+11546,11856,Sign up
+11546,18531,Selection
+11546,11934,Visit
+14776,23713,Sign up
+14776,23973,Selection
+14776,24014,Selection
+12810,20141,Sign up
+12810,20825,Review
+12810,21752,Purchase
+752,6574,Sign up
+752,8792,Review
+752,7770,Selection
+14652,17753,Sign up
+14652,22325,Selection
+14652,20209,Purchase
+13302,18882,Sign up
+13302,19326,Purchase
+13302,23134,Selection
+2994,6750,Sign up
+2994,8598,Selection
+2994,12592,Purchase
+7314,13005,Sign up
+7314,15317,Selection
+7314,14060,Purchase
+2018,6790,Sign up
+2018,8013,Selection
+2018,10659,Purchase
+9268,18327,Sign up
+9268,18384,Review
+9268,18928,Visit
+7172,7208,Sign up
+7172,13753,Review
+7172,15058,Purchase
+14434,23856,Sign up
+14434,24237,Purchase
+14434,23988,Selection
+13098,18635,Sign up
+13098,19455,Review
+13098,18640,Review
+16370,18640,Sign up
+16370,24419,Selection
+16370,25065,Purchase
+9424,15030,Sign up
+9424,17883,Purchase
+9424,17362,Review
+8888,17248,Sign up
+8888,17550,Selection
+8888,18734,Selection
+16270,17100,Sign up
+16270,25946,Purchase
+16270,24590,Selection
+7266,8630,Sign up
+7266,15493,Selection
+7266,14594,Selection
+2156,6425,Sign up
+2156,8961,Review
+2156,8086,Selection
+19518,26016,Sign up
+19518,26115,Review
+19518,26198,Purchase
+18946,26769,Sign up
+18946,27244,Review
+18946,27604,Selection
+9504,12416,Sign up
+9504,16213,Purchase
+9504,13327,Purchase
+7392,8636,Sign up
+7392,9335,Selection
+7392,8688,Selection
+4776,13058,Sign up
+4776,14522,Selection
+4776,13331,Selection
+6908,11780,Sign up
+6908,14590,Selection
+6908,15128,Selection
+13108,13591,Sign up
+13108,18473,Selection
+13108,20156,Purchase
+3106,6616,Sign up
+3106,9764,Visit
+3106,6976,Purchase
+2252,11042,Sign up
+2252,11825,Selection
+2252,11475,Selection
+13314,20905,Sign up
+13314,21259,Purchase
+13314,22990,Selection
+17146,21292,Sign up
+17146,22029,Selection
+17146,26083,Selection
+15926,25705,Sign up
+15926,25808,Selection
+15926,25774,Purchase
+4222,13998,Sign up
+4222,14111,Review
+4222,14155,Selection
+15512,23307,Sign up
+15512,23886,Purchase
+15512,24354,Selection
+2466,3075,Sign up
+2466,6911,Purchase
+2466,5779,Visit
+146,8395,Sign up
+146,9012,Review
+146,8652,Selection
+14038,17816,Sign up
+14038,18288,Purchase
+14038,22834,Selection
+9230,11156,Sign up
+9230,18473,Review
+9230,14034,Selection
+16396,21055,Sign up
+16396,21170,Purchase
+16396,21307,Visit
+19634,22078,Sign up
+19634,24060,Selection
+19634,28110,Selection
+15000,16918,Sign up
+15000,17478,Selection
+15000,19946,Selection
+140,4815,Sign up
+140,4859,Selection
+140,4833,Purchase
+4590,11282,Sign up
+4590,11385,Purchase
+4590,12978,Selection
+12046,19822,Sign up
+12046,21422,Review
+12046,21517,Visit
+2170,3301,Sign up
+2170,5331,Selection
+2170,7719,Selection
+17620,17654,Sign up
+17620,21870,Selection
+17620,24358,Review
+15274,16753,Sign up
+15274,22308,Purchase
+15274,25228,Selection
+18524,24736,Sign up
+18524,25398,Selection
+18524,24909,Purchase
+14002,23587,Sign up
+14002,23707,Selection
+14002,23730,Selection
+13554,22373,Sign up
+13554,22854,Purchase
+13554,23172,Selection
+17520,26837,Review
+17520,27309,Selection
+17520,27362,Selection
+17520,27469,Selection
+5608,15394,Selection
+5608,15594,Purchase
+5608,15598,Review
+5608,15602,Purchase
+12998,15597,Selection
+12998,17957,Selection
+12998,19277,Purchase
+12998,22551,Review
+13802,19936,Selection
+13802,23385,Selection
+13802,23535,Selection
+13802,23583,Selection
+822,8596,Selection
+822,9457,Review
+822,9861,Purchase
+822,9874,Purchase
+8136,14926,Selection
+8136,16321,Review
+8136,16592,Purchase
+8136,17960,Selection
+7446,15325,Selection
+7446,15366,Selection
+7446,15697,Selection
+7446,16698,Review
+16208,18132,Selection
+16208,25189,Visit
+16208,25442,Selection
+16208,26180,Selection
+3042,9845,Review
+3042,12237,Selection
+3042,12646,Selection
+3042,12798,Selection
+7462,16717,Purchase
+7462,16747,Selection
+7462,16808,Review
+7462,16991,Selection
+14832,23948,Purchase
+14832,24815,Purchase
+14832,24818,Purchase
+14832,24828,Selection
+8896,10026,Selection
+8896,17174,Selection
+8896,18789,Selection
+8896,18891,Purchase
+17088,18392,Selection
+17088,20217,Purchase
+17088,21029,Review
+17088,25607,Selection
+7890,9883,Selection
+7890,12513,Selection
+7890,13645,Selection
+7890,14726,Selection
+9560,13253,Review
+9560,14721,Selection
+9560,17998,Selection
+9560,18539,Review
+16282,24801,Selection
+16282,25302,Selection
+16282,25850,Selection
+16282,25981,Review
+15126,22827,Review
+15126,23791,Selection
+15126,24465,Review
+15126,25093,Purchase
+8220,11487,Selection
+8220,15381,Selection
+8220,16272,Review
+8220,18022,Selection
+3784,8701,Selection
+3784,12264,Review
+3784,12345,Review
+3784,13060,Selection
+17962,24381,Selection
+17962,24610,Review
+17962,25900,Selection
+17962,27693,Selection
+828,1935,Selection
+828,3959,Purchase
+828,9384,Selection
+828,9784,Selection
+14072,14783,Selection
+14072,21903,Selection
+14072,23790,Selection
+14072,24010,Selection
+9726,11901,Review
+9726,15117,Selection
+9726,18493,Selection
+9726,18996,Selection
+1078,4412,Selection
+1078,8268,Visit
+1078,10614,Selection
+1078,10996,Selection
+4556,14376,Visit
+4556,14537,Purchase
+4556,14551,Purchase
+4556,14552,Selection
+2394,11223,Purchase
+2394,12063,Purchase
+2394,12112,Selection
+2394,12161,Purchase
+10732,11888,Selection
+10732,20660,Selection
+10732,20661,Visit
+10732,20666,Selection
+8828,17320,Purchase
+8828,17998,Selection
+8828,18789,Selection
+8828,18810,Selection
+5300,11030,Purchase
+5300,11322,Review
+5300,12582,Selection
+5300,13528,Selection
+4254,13767,Purchase
+4254,14206,Selection
+4254,14220,Selection
+4254,14223,Selection
+3650,8206,Selection
+3650,12090,Selection
+3650,12952,Selection
+3650,13065,Review
+6308,7818,Purchase
+6308,13753,Purchase
+6308,14717,Purchase
+6308,15029,Selection
+228,2038,Selection
+228,3629,Selection
+228,9665,Selection
+228,10046,Review
+5826,7152,Purchase
+5826,13195,Selection
+5826,13272,Purchase
+5826,15130,Selection
+7290,13852,Selection
+7290,14526,Purchase
+7290,15265,Selection
+7290,16719,Review
+5564,12189,Review
+5564,14749,Selection
+5564,15093,Visit
+5564,15394,Selection
+788,10239,Selection
+788,10373,Review
+788,10531,Purchase
+788,10538,Selection
+13330,19915,Selection
+13330,21187,Selection
+13330,22949,Purchase
+13330,23267,Selection
+1070,7825,Purchase
+1070,9121,Selection
+1070,10344,Selection
+1070,10763,Purchase
+13328,22841,Selection
+13328,23082,Selection
+13328,23154,Selection
+13328,23186,Selection
+4838,5627,Purchase
+4838,13800,Review
+4838,14239,Selection
+4838,14683,Purchase
+6402,12584,Selection
+6402,13366,Selection
+6402,14076,Selection
+6402,14257,Purchase
+17954,23542,Purchase
+17954,25547,Selection
+17954,26485,Selection
+17954,26724,Purchase
+9206,15872,Selection
+9206,15993,Selection
+9206,17827,Selection
+9206,17874,Purchase
+19580,27239,Purchase
+19580,27905,Selection
+19580,29149,Selection
+19580,29520,Purchase
+11998,16955,Review
+11998,19415,Review
+11998,20492,Selection
+11998,20979,Purchase
+11018,15890,Selection
+11018,17200,Selection
+11018,17903,Selection
+11018,19399,Selection
+10046,11241,Selection
+10046,12347,Selection
+10046,13170,Review
+10046,19356,Review
+5148,6818,Selection
+5148,8996,Selection
+5148,10880,Selection
+5148,11251,Selection
+6986,13047,Selection
+6986,14917,Selection
+6986,16939,Selection
+6986,16971,Selection
+514,5633,Selection
+514,8707,Selection
+514,8793,Purchase
+514,9474,Selection
+17798,20118,Selection
+17798,26356,Selection
+17798,27457,Selection
+17798,27696,Selection
+580,5614,Selection
+580,8749,Selection
+580,9554,Selection
+580,10366,Selection
+5846,13968,Selection
+5846,14637,Selection
+5846,15102,Selection
+5846,15293,Selection
+4444,10470,Selection
+4444,12525,Purchase
+4444,14024,Selection
+4444,14297,Selection
+15266,18595,Purchase
+15266,21291,Selection
+15266,24549,Purchase
+15266,24663,Review
+2642,10456,Purchase
+2642,10754,Selection
+2642,11776,Selection
+2642,11820,Selection
+18634,23713,Review
+18634,23740,Purchase
+18634,26681,Selection
+18634,26749,Selection
+19466,25186,Purchase
+19466,25242,Selection
+19466,26421,Selection
+19466,28201,Selection
+9286,15180,Review
+9286,18767,Selection
+9286,19025,Selection
+9286,19044,Selection
+2176,6422,Review
+2176,8913,Purchase
+2176,11179,Review
+2176,12067,Purchase
+11932,17178,Selection
+11932,18856,Selection
+11932,21092,Selection
+11932,21292,Purchase
+9374,13828,Selection
+9374,16189,Purchase
+9374,16918,Review
+9374,17737,Review
+19870,22917,Review
+19870,27437,Review
+19870,29719,Selection
+19870,29848,Review
+18376,19160,Review
+18376,20559,Selection
+18376,26458,Purchase
+18376,27895,Selection
+9588,14377,Selection
+9588,17672,Purchase
+9588,18902,Purchase
+9588,19491,Purchase
+17792,25542,Selection
+17792,26909,Selection
+17792,27393,Visit
+17792,27525,Selection
+12422,16337,Selection
+12422,17964,Review
+12422,20114,Purchase
+12422,22289,Selection
+12798,15674,Selection
+12798,20659,Selection
+12798,21901,Selection
+12798,22715,Selection
+9452,18188,Selection
+9452,18358,Purchase
+9452,19004,Selection
+9452,19314,Selection
+5122,12461,Selection
+5122,12543,Selection
+5122,14509,Selection
+5122,14597,Purchase
+14692,18002,Selection
+14692,21518,Selection
+14692,23561,Selection
+14692,23613,Selection
+9816,9971,Purchase
+9816,18472,Purchase
+9816,18645,Selection
+9816,19012,Purchase
+14998,16097,Selection
+14998,22452,Review
+14998,24851,Selection
+14998,24900,Selection
+7186,8139,Selection
+7186,14696,Review
+7186,15181,Selection
+7186,16426,Selection
+18758,23443,Selection
+18758,25913,Selection
+18758,27966,Purchase
+18758,28531,Selection
+12620,19682,Selection
+12620,20351,Purchase
+12620,20377,Purchase
+12620,21673,Selection
+730,3440,Purchase
+730,10581,Selection
+730,10594,Selection
+730,10662,Purchase
+17546,17948,Selection
+17546,18730,Visit
+17546,25090,Selection
+17546,25353,Selection
+18212,23825,Selection
+18212,27047,Review
+18212,27276,Purchase
+18212,27807,Selection
+14214,16505,Selection
+14214,16952,Review
+14214,17150,Selection
+14214,18348,Selection
+5790,10753,Review
+5790,11953,Selection
+5790,13436,Selection
+5790,14618,Selection
+13870,20328,Review
+13870,22603,Purchase
+13870,23038,Review
+13870,23715,Purchase
+17328,18979,Review
+17328,25823,Selection
+17328,26621,Selection
+17328,26729,Review
+7950,13375,Review
+7950,17598,Review
+7950,17659,Purchase
+7950,17761,Purchase
+4268,5453,Selection
+4268,12969,Selection
+4268,13273,Review
+4268,14104,Selection
+346,7388,Review
+346,9296,Selection
+346,9649,Review
+346,10043,Selection
+8658,18533,Review
+8658,18601,Selection
+8658,18609,Selection
+8658,18619,Purchase
+14422,19210,Selection
+14422,21897,Selection
+14422,23403,Selection
+14422,23411,Review
+9242,17803,Visit
+9242,18868,Selection
+9242,19236,Selection
+9242,19241,Purchase
+14980,17982,Visit
+14980,20902,Visit
+14980,24570,Selection
+14980,24734,Selection
+18586,22888,Selection
+18586,24063,Selection
+18586,26332,Selection
+18586,28574,Visit
+2476,9361,Selection
+2476,11259,Selection
+2476,11947,Selection
+2476,12218,Review
+3156,11775,Review
+3156,12051,Review
+3156,13117,Purchase
+3156,13121,Purchase
+13882,18382,Review
+13882,19422,Selection
+13882,22689,Review
+13882,23118,Purchase
+14018,21336,Selection
+14018,21780,Selection
+14018,22394,Purchase
+14018,23323,Selection
+13296,14797,Purchase
+13296,14982,Purchase
+13296,18836,Selection
+13296,22005,Selection
+19664,27220,Selection
+19664,29297,Review
+19664,29570,Selection
+19664,29632,Review
+10358,19860,Selection
+10358,19865,Review
+10358,20189,Selection
+10358,20253,Selection
+14282,22793,Visit
+14282,23802,Purchase
+14282,24008,Selection
+14282,24167,Selection
+4090,5276,Selection
+4090,12691,Selection
+4090,13946,Purchase
+4090,13972,Selection
+9604,13465,Selection
+9604,15494,Selection
+9604,19463,Purchase
+9604,19509,Review
+1216,8013,Purchase
+1216,10951,Review
+1216,11035,Selection
+1216,11056,Purchase
+18466,27162,Selection
+18466,28371,Review
+18466,28416,Selection
+18466,28419,Purchase
+11786,16249,Selection
+11786,20752,Purchase
+11786,21680,Purchase
+11786,21781,Purchase
+15278,23640,Selection
+15278,23882,Selection
+15278,24007,Selection
+15278,24168,Purchase
+10470,16726,Purchase
+10470,18925,Selection
+10470,19016,Selection
+10470,20065,Purchase
+15026,20128,Selection
+15026,22729,Visit
+15026,23357,Purchase
+15026,24273,Purchase
+11338,13415,Purchase
+11338,14731,Selection
+11338,20197,Purchase
+11338,20982,Purchase
+12866,22117,Selection
+12866,22793,Review
+12866,22802,Purchase
+12866,22865,Review
+17966,24483,Selection
+17966,25162,Selection
+17966,26532,Selection
+17966,27301,Visit
+9178,13196,Review
+9178,16045,Visit
+9178,16778,Purchase
+9178,17846,Selection
+10196,12747,Purchase
+10196,15148,Selection
+10196,15849,Review
+10196,18071,Selection
+2984,6090,Selection
+2984,11803,Selection
+2984,12490,Review
+2984,12580,Selection
+2432,4982,Visit
+2432,10878,Purchase
+2432,12237,Selection
+2432,12262,Selection
+724,3247,Selection
+724,6024,Selection
+724,7615,Purchase
+724,9962,Selection
+11482,13522,Selection
+11482,17264,Review
+11482,21217,Review
+11482,21321,Review
+5642,6641,Purchase
+5642,10163,Review
+5642,12579,Selection
+5642,13717,Selection
+7802,14846,Selection
+7802,15234,Selection
+7802,15950,Purchase
+7802,17491,Review
+16696,21778,Selection
+16696,23512,Review
+16696,25343,Selection
+16696,26289,Review
+5892,12963,Selection
+5892,14422,Review
+5892,15264,Purchase
+5892,15632,Selection
+10926,18368,Purchase
+10926,20707,Purchase
+10926,20868,Purchase
+10926,20878,Purchase
+3474,8006,Visit
+3474,9082,Review
+3474,9702,Selection
+9500,11785,Visit
+9500,15213,Selection
+9500,15905,Review
+9500,18858,Purchase
+15538,21504,Visit
+15538,25446,Selection
+15538,22894,Purchase
+12654,17848,Visit
+12654,21914,Selection
+15140,18465,Visit
+15140,24524,Selection
+15140,24791,Purchase
+15140,21462,Selection
+12258,14080,Visit
+12258,17768,Selection
+12258,19537,Review
+12258,17121,Purchase
+4528,10658,Visit
+4528,13652,Selection
+13660,19986,Visit
+13660,22017,Selection
+13660,20350,Purchase
+356,4494,Visit
+356,5666,Purchase
+7538,16267,Visit
+7538,16316,Selection
+7538,16393,Purchase
+13838,20531,Visit
+13838,22940,Selection
+13838,21948,Selection
+13838,21912,Selection
+13838,20661,Review
+2164,6572,Visit
+2164,11868,Selection
+2164,10339,Purchase
+2164,6732,Purchase
+2164,9855,Review
+3250,8610,Visit
+3250,12491,Purchase
+16660,19882,Visit
+16660,22423,Purchase
+588,4134,Visit
+588,4406,Purchase
+588,6059,Purchase
+588,6694,Purchase
+588,6944,Purchase
+15072,19239,Visit
+15072,21537,Review
+15072,21701,Purchase
+15072,20275,Selection
+15072,21778,Selection
+8992,13981,Visit
+8992,16818,Selection
+8992,18006,Purchase
+14670,17512,Visit
+14670,17587,Selection
+17302,23332,Visit
+17302,24267,Purchase
+17302,26211,Purchase
+17302,25836,Selection
+17302,26438,Selection
+272,5770,Visit
+272,9589,Selection
+272,9425,Selection
+272,9584,Selection
+272,7147,Review
+19178,28525,Visit
+19178,28551,Selection
+19178,28691,Review
+19178,28852,Purchase
+19178,28826,Selection
+3278,10456,Visit
+3278,13129,Selection
+3278,12041,Review
+16548,18172,Visit
+16548,24652,Review
+16548,20180,Selection
+16548,19235,Purchase
+16548,18940,Purchase
+8352,18192,Visit
+8352,18265,Selection
+8352,18205,Review
+7724,13370,Visit
+7724,15702,Selection
+7724,16986,Review
+13366,15064,Visit
+13366,22385,Selection
+13366,18844,Selection
+12372,18624,Visit
+12372,20314,Selection
+12372,21417,Purchase
+12372,21768,Selection
+966,1173,Visit
+966,8859,Selection
+966,4974,Selection
+966,7854,Selection
+4126,9719,Visit
+4126,9744,Selection
+4126,13716,Selection
+15234,18673,Visit
+15234,23059,Selection
+15234,22613,Purchase
+5544,12105,Visit
+5544,12850,Selection
+5544,14843,Selection
+15758,23455,Visit
+15758,24530,Review
+15758,24653,Selection
+15758,24435,Review
+15758,25228,Selection
+18420,28280,Visit
+18420,28390,Selection
+18420,28331,Selection
+18420,28420,Selection
+18316,24376,Visit
+18316,25136,Review
+18316,25938,Selection
+17298,22733,Visit
+17298,25490,Selection
+10592,16682,Visit
+10592,20555,Purchase
+10592,18563,Review
+9276,10860,Visit
+9276,17891,Purchase
+6740,7413,Visit
+6740,13487,Purchase
+6740,15056,Selection
+6740,15663,Review
+6740,13268,Selection
+16698,24845,Visit
+16698,25426,Purchase
+16698,25898,Selection
+16698,25894,Selection
+16698,26149,Selection
+5260,9574,Visit
+5260,15017,Purchase
+4188,8120,Visit
+4188,9468,Purchase
+4188,13899,Purchase
+4188,13483,Selection
+4188,13253,Purchase
+7198,13913,Visit
+7198,16872,Selection
+7198,16027,Purchase
+7198,17011,Selection
+7198,14018,Selection
+14964,20317,Visit
+14964,23512,Review
+14964,23932,Review
+14964,21780,Selection
+14964,23265,Selection
+13956,21740,Visit
+13956,22809,Purchase
+12014,17996,Visit
+12014,18911,Selection
+12014,21383,Selection
+3358,7088,Visit
+3358,7754,Selection
+3358,9816,Selection
+17550,24203,Visit
+17550,24375,Selection
+17550,27402,Purchase
+3184,10223,Visit
+3184,13063,Purchase
+5270,5856,Visit
+5270,13180,Purchase
+5270,9209,Purchase
+5270,9898,Purchase
+5270,14197,Purchase
+192,4024,Visit
+192,9485,Selection
+192,5534,Selection
+192,7795,Selection
+13174,16384,Visit
+13174,20745,Review
+13174,22807,Selection
+13174,17207,Selection
+19816,25078,Visit
+19816,27323,Selection
+19816,25456,Selection
+19816,25682,Selection
+15700,22280,Visit
+15700,22575,Selection
+15700,23375,Purchase
+15700,22375,Selection
+18772,19267,Visit
+18772,23854,Purchase
+18772,24922,Review
+18772,22940,Review
+18772,28073,Selection
+7256,11653,Visit
+7256,14318,Review
+7256,13803,Selection
+7256,12570,Purchase
+5686,9740,Visit
+5686,12408,Selection
+16142,25194,Visit
+16142,25982,Review
+16142,25974,Review
+16142,25422,Selection
+16142,25735,Selection
+2604,11604,Visit
+2604,12411,Selection
+2604,12371,Selection
+2604,12395,Review
+2604,12052,Purchase
+3982,9111,Visit
+3982,13189,Purchase
+3982,12313,Selection
+8062,11515,Visit
+8062,17519,Selection
+8062,16384,Selection
+8062,16596,Selection
+8794,12123,Visit
+8794,17834,Purchase
+8794,13759,Selection
+11502,21005,Visit
+11502,21334,Purchase
+3050,5857,Visit
+3050,10182,Selection
+3050,11153,Purchase
+3050,12216,Selection
+3050,10900,Selection
+12934,18500,Visit
+12934,20502,Purchase
+12934,20496,Selection
+12934,22849,Purchase
+16296,17635,Visit
+16296,25763,Selection
+16296,26165,Selection
+16296,19319,Review
+7072,7442,Visit
+7072,16108,Selection
+7072,14013,Purchase
+7072,16976,Selection
+7072,9115,Selection
+18742,23125,Visit
+18742,24474,Selection
+18742,25984,Selection
+5640,15111,Visit
+5640,15597,Selection
+5640,15156,Purchase
+5640,15639,Selection
+5640,15568,Purchase
+3144,3690,Visit
+3144,4467,Review
+3144,12554,Selection
+3144,10295,Selection
+4164,6659,Visit
+4164,8792,Purchase
+4164,11198,Review
+4164,6694,Selection
+78,9137,Visit
+78,9726,Selection
+78,9953,Selection
+78,10045,Selection
+78,9720,Purchase
+120,4444,Visit
+120,7322,Selection
+120,8159,Selection
+120,7778,Purchase
+2900,4743,Visit
+2900,6699,Selection
+16976,17378,Visit
+16976,17960,Selection
+16976,22574,Selection
+16976,24362,Selection
+16976,22557,Purchase
+13978,14464,Visit
+13978,15914,Review
+19306,24068,Visit
+19306,25506,Review
+19306,27324,Selection
+19306,28158,Selection
+13852,20913,Visit
+13852,21691,Selection
+13852,22058,Selection
+11752,17168,Visit
+11752,20211,Selection
+11752,17527,Selection
+11752,18926,Purchase
+15998,21298,Visit
+15998,21321,Purchase
+13540,16101,Visit
+13540,21102,Selection
+13540,23183,Purchase
+3576,8959,Visit
+3576,10500,Selection
+3576,12154,Selection
+14332,16292,Visit
+14332,21038,Purchase
+14332,16701,Review
+14332,22076,Selection
+14332,24322,Purchase
+6314,15927,Visit
+6314,15949,Review
+10124,12602,Visit
+10124,19917,Selection
+16746,22288,Visit
+16746,23151,Selection
+16746,26390,Purchase
+11454,16524,Visit
+11454,19500,Selection
+11454,19716,Selection
+3818,13087,Visit
+3818,13328,Review
+5632,14846,Visit
+5632,15400,Purchase
+5632,15243,Review
+5632,14980,Review
+4480,9891,Visit
+4480,13759,Selection
+4480,12725,Selection
+4480,11645,Purchase
+2662,6881,Visit
+2662,8525,Selection
+7928,14147,Visit
+7928,16029,Selection
+7928,14542,Selection
+15008,19000,Visit
+15008,20281,Selection
+15008,23010,Selection
+15008,23492,Selection
+15008,22883,Review
+8742,17613,Visit
+8742,17990,Selection
+518,9131,Visit
+518,9632,Selection
+12504,15994,Visit
+12504,17789,Selection
+12504,17122,Purchase
+12504,22488,Selection
+12504,22477,Selection
+4724,5835,Visit
+4724,11736,Selection
+4724,14343,Selection
+4724,13257,Selection
+4804,9723,Visit
+4804,12856,Purchase
+4804,10125,Purchase
+4804,12127,Selection
+12164,14717,Visit
+12164,17438,Selection
+12576,13187,Visit
+12576,19331,Purchase
+12248,20428,Visit
+12248,20961,Selection
+12248,20849,Selection
+12248,21253,Selection
+13682,19272,Visit
+13682,21595,Purchase
+13682,20129,Selection
+13682,22636,Selection
+13682,22703,Selection
+12816,19916,Visit
+12816,21537,Review
+14762,17545,Visit
+14762,21721,Review
+14762,24422,Selection
+14762,19014,Selection
+18198,27008,Visit
+18198,27750,Selection
+18198,28174,Purchase
+18198,27075,Selection
+15798,19717,Visit
+15798,20069,Purchase
+15798,22306,Selection
+15798,21227,Selection
+19566,24868,Visit
+19566,27364,Purchase
+19566,25830,Selection
+18856,22158,Visit
+18856,23687,Selection
+18856,27161,Selection
+15316,19761,Visit
+15316,23855,Purchase
+15316,20897,Selection
+15316,25182,Selection
+15316,24996,Selection
+19258,25950,Visit
+19258,28684,Selection
+19258,29192,Selection
+19258,26599,Selection
+11524,15463,Visit
+11524,21279,Purchase
+11524,15995,Purchase
+11524,15832,Review
+11524,21067,Selection
+14390,14496,Visit
+14390,20359,Selection
+14390,18224,Purchase
+10428,15037,Visit
+10428,16605,Review
+10428,16426,Selection
+10428,20047,Selection
+19104,25416,Visit
+19104,25813,Selection
+19104,25517,Selection
+19104,28415,Review
+19104,28640,Purchase
+4002,9612,Visit
+4002,11482,Selection
+4002,11564,Selection
+4002,10538,Purchase
+4002,11763,Review
+9404,18483,Visit
+9404,19123,Selection
+13538,21099,Visit
+13538,21996,Selection
+8386,15918,Visit
+8386,16986,Review
+8386,16139,Selection
+1142,10481,Visit
+1142,10724,Selection
+1142,10538,Selection
+1142,10490,Review
+1142,10874,Purchase
+18640,21283,Visit
+18640,25735,Review
+7438,13086,Visit
+7438,16081,Purchase
+7438,16902,Selection
+7438,15413,Purchase
+7438,15863,Selection
+12836,20563,Visit
+12836,20702,Review
+12836,21894,Purchase
+12836,21393,Selection
+1162,6060,Visit
+1162,6149,Selection
+1162,6638,Selection
+1162,6412,Purchase
+17338,26044,Visit
+17338,26355,Selection
+17338,27246,Selection
+17338,26543,Purchase
+11226,12796,Visit
+11226,17123,Selection
+11226,21003,Selection
+11226,15559,Purchase
+11226,15205,Purchase
+2742,3429,Visit
+2742,5883,Purchase
+2742,6750,Purchase
+2742,10336,Purchase
+7978,9757,Visit
+7978,15313,Selection
+3328,4667,Visit
+3328,5300,Selection
+3328,6054,Review
+3328,12723,Review
+3328,9289,Selection
+17804,26313,Visit
+17804,26639,Selection
+17804,27108,Review
+17804,27297,Selection
+17804,26945,Review
+3796,4447,Visit
+3796,10643,Purchase
+3796,11801,Selection
+3796,11926,Selection
+3796,13021,Selection
+1464,8803,Visit
+1464,10203,Purchase
+1464,11153,Purchase
+1464,9698,Selection
+1236,4009,Visit
+1236,4029,Selection
+1236,4149,Selection
+1236,10436,Selection
+16770,23539,Visit
+16770,25919,Selection
+16770,26515,Selection
+190,6979,Visit
+190,8197,Review
+190,8680,Selection
+190,7038,Selection
+15482,19175,Visit
+15482,24877,Review
+15482,23623,Selection
+15482,22329,Review
+19122,27218,Visit
+19122,27987,Selection
+19122,28754,Selection
+19122,28340,Selection
+19122,27767,Purchase
+9568,12708,Visit
+9568,14068,Purchase
+9568,16306,Selection
+19194,24811,Visit
+19194,28581,Purchase
+19194,29016,Review
+19194,28421,Selection
+19194,27474,Selection
+3282,8193,Visit
+3282,9303,Purchase
+10240,14401,Visit
+10240,16186,Selection
+10240,17977,Selection
+10240,16580,Selection
+10240,18493,Selection
+11436,18416,Visit
+11436,19304,Review
+11436,21407,Selection
+11436,20464,Purchase
+11436,20049,Selection
+11472,20299,Visit
+11472,20806,Selection
+11472,20556,Selection
+11472,20819,Selection
+18136,25888,Visit
+18136,27740,Selection
+2792,4645,Visit
+2792,7161,Selection
+11874,12094,Visit
+11874,20261,Selection
+11874,16863,Purchase
+11874,18536,Selection
+11874,13691,Selection
+11854,14252,Visit
+11854,14299,Purchase
+11854,14607,Purchase
+11854,20849,Selection
+11854,18746,Purchase
+19826,28566,Visit
+19826,29632,Review
+19826,29016,Purchase
+9598,16749,Visit
+9598,16958,Selection
+9598,18060,Selection
+9598,19596,Selection
+332,9078,Visit
+332,9459,Selection
+332,9148,Selection
+332,9797,Review
+17172,19042,Visit
+17172,26960,Purchase
+13614,19151,Visit
+13614,21411,Selection
+13142,22320,Visit
+13142,23131,Selection
+13142,22457,Selection
+13142,22488,Selection
+996,5557,Visit
+996,5736,Selection
+4314,12965,Visit
+4314,13144,Selection
+4314,13291,Selection
+4314,13978,Selection
+13430,22958,Visit
+13430,23187,Selection
+13430,23171,Review
+1382,4696,Visit
+1382,11346,Selection
+1382,7389,Selection
+1382,10587,Review
+3270,7455,Visit
+3270,9591,Purchase
+5030,10315,Visit
+5030,10382,Selection
+5030,10769,Purchase
+5030,14526,Selection
+5030,11549,Selection
+9502,15642,Visit
+9502,16049,Selection
+9502,18014,Review
+6288,9107,Visit
+6288,10090,Review
+6288,15019,Review
+6288,14207,Purchase
+3860,13756,Visit
+3860,13838,Purchase
+3860,13835,Selection
+3072,12199,Visit
+3072,12705,Selection
+3072,12419,Selection
+3072,12968,Selection
+3072,12983,Selection
+5450,6978,Visit
+5450,12162,Purchase

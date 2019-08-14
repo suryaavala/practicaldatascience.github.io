@@ -1,0 +1,5 @@
+
+<div class="staff">
+    <img src="/instructors/{{ include.img }}">
+    <span>{{ include.name }}</span>
+</div>

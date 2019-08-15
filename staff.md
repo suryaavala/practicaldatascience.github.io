@@ -1,6 +1,5 @@
 ---
 layout: page
-faimg: users
 title: Staff
 ---
 

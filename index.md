@@ -1,8 +1,5 @@
 ---
 layout: page
-title: Practical Data Science
-subtitle: CMU 15-388/688 - Spring 2018
-bigimg: img/datascience-bg.jpg
 ---
 
 ## Course overview

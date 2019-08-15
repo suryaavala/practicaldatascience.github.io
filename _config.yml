@@ -13,6 +13,8 @@ navbar:
     url: "/lectures"
   - text: "Assignments"
     url: "/assignments"
+  - text: "Calendar"
+    url: "/calendar"
   - text: "Staff"
     url: "/staff"
   - text: "FAQ"

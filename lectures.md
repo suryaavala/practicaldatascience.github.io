@@ -57,4 +57,4 @@ This page lists the class lectures and recitations, plus additional material (sl
 | 3/30 | HW 4 | 
 | 4/5  | Time series (optional lecture) | {% include cal id="time_series" nonotes=true %}
 | 4/6 | HW 4 Office Hours |
-| 4/23 | HW 5 Recitation | 
+| 4/23 | HW 5 Recitation |

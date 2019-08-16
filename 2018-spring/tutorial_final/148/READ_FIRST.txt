@@ -1,8 +1,0 @@
-For Plotly graphs to render correctly:
-read the version here:
-
-https://nbviewer.jupyter.org/github/minxuancao/688tutorial/blob/master/tutorial_Ver5.html
-
-or 
-
-host the html yourself.

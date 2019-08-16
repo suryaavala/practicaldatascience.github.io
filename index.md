@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## Course overview
+# Course overview
 
 Data science is the study and practice of how we can extract insight and knowledge from large amounts of data. It is a burgeoning field, currently attracting substantial demand from both academia and industry.
 

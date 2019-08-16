@@ -27,7 +27,7 @@ This page lists the class lectures and recitations, plus additional material (sl
 | Oct 16 | Maximum likelihood estimation, naive Bayes | {% include cal id="mle" %} |
 | Oct 21 | Hypothesis testing and experimental design | {% include cal id="hypothesis_testing" %} |
 | | **Advanced modeling techniques** |
-| Oct 23 | Clustering and dimensionality reduction | {% include cal id="?" %} |
+| Oct 23 | Clustering and dimensionality reduction | {% include cal id="unsupervised" %} |
 | Oct 28  | Recommender systems | {% include cal id="recommender" %} |
 | Oct 30 | Anomaly detection | {% include cal id="anomaly_detection" nonotes=true %} |
 | Nov 04  | Decision trees, interpretable models | {% include cal id="decision_trees" nonotes=true %} |

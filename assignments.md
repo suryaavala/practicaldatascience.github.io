@@ -17,13 +17,13 @@ We may occasionally modify assignment dates and scopes. If we do that, there wil
 
 | | Release date | Due date |
 | --- | --- | --- |
-| [Homework 1]() ([instructions]() | 1/24 | 2/7 |
-| [Homework 2]() | 2/7 | 2/21 |
-| [Homework 3]() | 2/21 | 3/7 |
-| [Tutorial]() | 2/21 | 2/28 ([proposal]()), 3/30 |
-| [Homework 4](), [Contest Data]() | 3/28 | 4/11 |
-| [Homework 5](), [Data]() | 4/18 | 5/2 |
-| [Final project]() | 3/7 | 3/26 ([proposal]()), 5/9 (video), 5/11 (report)|
+| [Homework 1]() ([instructions]()) | TBC | TBC |
+| [Homework 2]() | TBC | TBC |
+| [Homework 3]() | TBC | TBC |
+| [Tutorial]() | TBC | TBC ([proposal]()), TBC |
+| [Homework 4](), [Contest Data]() | TBC | TBC |
+| [Homework 5](), [Data]() | TBC | TBC |
+| [Final project]() | TBC | TBC ([proposal]()), TBC (video), TBC (report)|
 
 ## Homeworks
 

@@ -30,8 +30,6 @@ If you are in section A, then your participation grade comes from your participa
 
 If you are in section B, then a short quiz after most lectures will be used. Participating in the class forums may also help your grade.
 
-For all students, 
-
 ## Past Years'
 
 Here are the course webpages from:

@@ -1,0 +1,1 @@
+{% if include.id and include.noslides != true %}[slides](/slides/{{ include.id }}/{{ include.id }}.pdf){% endif %} | {% if include.id and include.nonotes != true %}[notebook](/notes/{{ include.id }}.tar.gz){% endif %} | {% if include.video %}[<i class="fa fa-video-camera"></i>](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id={{ include.video }}){% endif %}

@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Lectures</title>
+
+  <meta name="author" content="Practical Data Science" />
+
+  
+
+  <link rel="alternate" type="application/rss+xml" title="Practical Data Science - CMU 15-388/688" href="/feed.xml" />
+
+  
+    
+      <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css" />
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/css/bootstrap-social.css" />
+    
+      <link rel="stylesheet" href="/css/main.css" />
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Raleway::400,700,300" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+
+  
+
+  
+
+  
+
+    <!-- Facebook OpenGraph tags -->
+  
+
+  
+  <meta property="og:title" content="Lectures" />
+  
+
+   
+  <meta property="og:description" content="This page lists the class lectures and recitations, plus additional material (slides, notes, video) associated with each lecture. ## Lectures | Date | Topic | Slides | Notes | Video | Quiz | | --- | --- | :---: | :---: | :---: | :---: | | | **Data collection...">
+  
+
+
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="http://practicaldatascience.github.io/lectures/" />
+  <link rel="canonical" href="http://practicaldatascience.github.io/lectures/" />
+  
+
+  
+  
+
+  <!-- Twitter summary cards -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@" />
+  <meta name="twitter:creator" content="@" />
+
+  
+  <meta name="twitter:title" content="Lectures" />
+  
+
+  
+  <meta name="twitter:description" content="This page lists the class lectures and recitations, plus additional material (slides, notes, video) associated with each lecture. ## Lectures | Date | Topic | Slides | Notes | Video | Quiz | | --- | --- | :---: | :---: | :---: | :---: | | | **Data collection...">
+  
+
+  
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      jax: ["input/TeX", "output/HTML-CSS"],
+      tex2jax: {
+        inlineMath: [ ['$', '$'], ["$$", "$$"] ],
+        processEscapes: true,
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+      },
+      "HTML-CSS": {
+        linebreaks: {
+          automatic: true
+        },
+        scale: 90,
+        fonts: ["TeX"],
+        mtextFontInherit: false,
+        matchFontHeight: true
+      },
+      "TeX": {
+        extensions: ["AMSmath.js", "AMSsymbols.js", "mediawiki-texvc.js"],
+      }
+      //,
+      //displayAlign: "left",
+      //displayIndent: "2em"
+    });
+</script>
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default" type="text/javascript"></script>
+
+
+<!--
+   <script type="text/x-mathjax-config">
+     MathJax.Hub.Config({
+         tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
+     });
+    </script>
+    <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+--> 
+
+
+</head>
+
+
+  <body>
+  
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+        <a class="navbar-brand" href="http://practicaldatascience.github.io">Practical Data Science</a>
+      
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/info">Info</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/lectures">Lectures</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/assignments">Assignments</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/instructors">Instructors</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/faq">FAQ</a>
+
+          </li>
+        
+        
+      </ul>
+    </div>
+
+	
+
+  </div>
+</nav>
+
+
+    <!-- TODO this file has become a mess, refactor it -->
+
+
+
+
+
+<header class="header-section ">
+
+<div class="intro-header no-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="page-heading">
+          
+          
+          <p><i style="font-size: 128px" class="fa fa-calendar"></i>
+          
+          <h1>Lectures</h1>
+		  
+		  
+		  
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+
+
+
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <p>This page lists the class lectures and recitations, plus additional material (slides, notes, video) associated with each lecture.</p>
+
+<h2 id="lectures">Lectures</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Topic</th>
+      <th style="text-align: center">Slides</th>
+      <th style="text-align: center">Notes</th>
+      <th style="text-align: center">Video</th>
+      <th style="text-align: center">Quiz</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> </td>
+      <td><strong>Data collection and management</strong></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td>1/17</td>
+      <td>Introduction</td>
+      <td style="text-align: center"><a href="/notes/intro/intro.pdf"><i class="fa fa-file-pdf-o"></i></a></td>
+      <td style="text-align: center"><a href="/notes/intro"><i class="fa fa-file-text-o"></i></a></td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9fb318db-2179-4391-932c-a86b0147d2c3"><i class="fa fa-video-camera"></i></a></td>
+      <td style="text-align: center"><a href="https://goo.gl/forms/L5IMW0AtGhUx2CJJ2"><i class="fa fa-question"></i></a></td>
+    </tr>
+    <tr>
+      <td>1/22</td>
+      <td>Data collection and scraping</td>
+      <td style="text-align: center"><a href="/notes/data_collection/data_collection.pdf"><i class="fa fa-file-pdf-o"></i></a></td>
+      <td style="text-align: center"><a href="/notes/data_collection"><i class="fa fa-file-text-o"></i></a></td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cf488bfb-1ee9-42dc-b52c-a87001492b89"><i class="fa fa-video-camera"></i></a></td>
+      <td style="text-align: center"><a href="https://goo.gl/forms/oQCGh4UXyw01Z1Nh1"><i class="fa fa-question"></i></a></td>
+    </tr>
+    <tr>
+      <td>1/24</td>
+      <td>Jupyer notebook lab</td>
+      <td style="text-align: center"><a href="/notes/jupyter/jupyter.pdf"><i class="fa fa-file-pdf-o"></i></a></td>
+      <td style="text-align: center"><a href="/notes/jupyter/jupyter.tar.gz"><i class="fa fa-file-text-o"></i></a></td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=25f2f8cd-9e3f-43bd-993d-a8720148d766"><i class="fa fa-video-camera"></i></a></td>
+      <td style="text-align: center"><a href="https://goo.gl/forms/5HHD3snlSP2iHEOu1"><i class="fa fa-question"></i></a></td>
+    </tr>
+    <tr>
+      <td>1/29</td>
+      <td>Relational data</td>
+      <td style="text-align: center"><a href="/notes/relational_data/relational_data.pdf"><i class="fa fa-file-pdf-o"></i></a></td>
+      <td style="text-align: center"><a href="/notes/relational_data"><i class="fa fa-file-text-o"></i></a></td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4909e4db-e1ac-4556-a14a-a87701490267"><i class="fa fa-video-camera"></i></a></td>
+      <td style="text-align: center"><a href="https://goo.gl/forms/koPDAMkXYsvW1YPV2"><i class="fa fa-question"></i></a></td>
+    </tr>
+    <tr>
+      <td>1/31</td>
+      <td>Visualization and data exploration</td>
+      <td style="text-align: center"><a href="/notes/visualization/visualization.pdf"><i class="fa fa-file-pdf-o"></i></a></td>
+      <td style="text-align: center"><a href="/notes/visualization"><i class="fa fa-file-text-o"></i></a></td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e99996af-3f74-44bb-ad84-a87901482fab"><i class="fa fa-video-camera"></i></a></td>
+      <td style="text-align: center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfDvY1AkLY8ZWirluOxFlpsMXzrKWdQ55PmarFOpgKG7NGS-Q/viewform?usp=sf_link"><i class="fa fa-question"></i></a></td>
+    </tr>
+    <tr>
+      <td>2/5</td>
+      <td>Vectors, matrices, and linear algebra</td>
+      <td style="text-align: center"><a href="/notes/matrices/matrices.pdf"><i class="fa fa-file-pdf-o"></i></a></td>
+      <td style="text-align: center"><a href="/notes/matrices"><i class="fa fa-file-text-o"></i></a></td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2b53302b-9a48-48ab-93bf-a87e01488d2b"><i class="fa fa-video-camera"></i></a></td>
+      <td style="text-align: center"><a href="https://goo.gl/forms/KORScdLk1RypxM6S2"><i class="fa fa-question"></i></a></td>
+    </tr>
+    <tr>
+      <td>2/7</td>
+      <td>Graph and network processing</td>
+      <td style="text-align: center"><a href="/notes/graphs/graphs.pdf"><i class="fa fa-file-pdf-o"></i></a></td>
+      <td style="text-align: center"><a href="/notes/graphs"><i class="fa fa-file-text-o"></i></a></td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=362c00ae-e0ef-4719-9b99-a8800148f2f5"><i class="fa fa-video-camera"></i></a></td>
+      <td style="text-align: center"><a href="https://goo.gl/forms/zMAwoP3cZSZLJsLS2"><i class="fa fa-question"></i></a></td>
+    </tr>
+    <tr>
+      <td>2/12</td>
+      <td>Free text and natural language processing</td>
+      <td style="text-align: center"><a href="/notes/free_text/free_text.pdf"><i class="fa fa-file-pdf-o"></i></a></td>
+      <td style="text-align: center"><a href="/notes/free_text"><i class="fa fa-file-text-o"></i></a></td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ff0beff-4a8e-4de7-8b90-a8850148a15a"><i class="fa fa-video-camera"></i></a></td>
+      <td style="text-align: center"><a href="https://goo.gl/forms/fcXMDr9oL6mWvC5p2"><i class="fa fa-question"></i></a></td>
+    </tr>
+    <tr>
+      <td>2/14</td>
+      <td>Free text, continued</td>
+      <td style="text-align: center"><a href="/notes/free_text/free_text.pdf"><i class="fa fa-file-pdf-o"></i></a></td>
+      <td style="text-align: center"><a href="/notes/free_text"><i class="fa fa-file-text-o"></i></a></td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca587e01-7b16-4376-8ff7-a88701498f98"><i class="fa fa-video-camera"></i></a></td>
+      <td style="text-align: center"><a href="https://goo.gl/forms/QH1zUtvJ79c2SA0D3"><i class="fa fa-question"></i></a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><strong>Statistical modeling and machine learning</strong></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td>2/19</td>
+      <td>Introduction to machine learing</td>
+      <td style="text-align: center"><a href="/notes/ml_intro/ml_intro.pdf"><i class="fa fa-file-pdf-o"></i></a></td>
+      <td style="text-align: center"><a href="/notes/ml_intro"><i class="fa fa-file-text-o"></i></a></td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=12615ab6-9b01-41a5-9a8d-a88c014940e3"><i class="fa fa-video-camera"></i></a></td>
+      <td style="text-align: center"><a href="https://goo.gl/forms/STCvjhbwl8OjQDtz2"><i class="fa fa-question"></i></a></td>
+    </tr>
+    <tr>
+      <td>2/21</td>
+      <td>Linear regression continued</td>
+      <td style="text-align: center"><a href="/notes/ml_intro/ml_intro.pdf"><i class="fa fa-file-pdf-o"></i></a></td>
+      <td style="text-align: center"><a href="/notes/ml_intro"><i class="fa fa-file-text-o"></i></a></td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d66cde20-706e-4c9a-a091-a88e01495f3c"><i class="fa fa-video-camera"></i></a></td>
+      <td style="text-align: center"><a href="https://goo.gl/forms/hRZJLfCTMhwgN7fz2"><i class="fa fa-question"></i></a></td>
+    </tr>
+    <tr>
+      <td>2/26</td>
+      <td>Linear classification</td>
+      <td style="text-align: center"><a href="/notes/linear_classification/linear_classification.pdf"><i class="fa fa-file-pdf-o"></i></a></td>
+      <td style="text-align: center"><a href="/notes/linear_classification"><i class="fa fa-file-text-o"></i></a></td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8c9db180-92b5-48f5-92d4-a8930148e58c"><i class="fa fa-video-camera"></i></a></td>
+      <td style="text-align: center"><a href="https://goo.gl/forms/ikdMRh98YnqqGpmB2"><i class="fa fa-question"></i></a></td>
+    </tr>
+    <tr>
+      <td>2/28</td>
+      <td>Nonlinear modeling, cross-validation</td>
+      <td style="text-align: center"><a href="/notes/nonlinear_modeling/nonlinear_modeling.pdf"><i class="fa fa-file-pdf-o"></i></a></td>
+      <td style="text-align: center"><a href="/notes/nonlinear_modeling"><i class="fa fa-file-text-o"></i></a></td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6af0e6c2-4b6a-47e0-899c-a89501488441"><i class="fa fa-video-camera"></i></a></td>
+      <td style="text-align: center"><a href="https://goo.gl/forms/n9POWJKOcgpqpyir2"><i class="fa fa-question"></i></a></td>
+    </tr>
+    <tr>
+      <td>3/5</td>
+      <td>Nonlinear modeling (cont), evaluating ML models</td>
+      <td style="text-align: center"><a href="/notes/evaluation/evaluation.pdf"><i class="fa fa-file-pdf-o"></i></a></td>
+      <td style="text-align: center"><a href="/notes/nonlinear_modeling"><i class="fa fa-file-text-o"></i></a></td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1c1a9c89-c265-4b56-9585-a89a014966e0"><i class="fa fa-video-camera"></i></a></td>
+      <td style="text-align: center"><a href="https://goo.gl/forms/JYtvYzlmYlDJ49n82"><i class="fa fa-question"></i></a></td>
+    </tr>
+    <tr>
+      <td>3/7</td>
+      <td>Class postponed</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td>3/12</td>
+      <td><em>Spring break</em></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td>3/14</td>
+      <td><em>Spring break</em></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td>3/19</td>
+      <td>Basics of probability</td>
+      <td style="text-align: center"><a href="/notes/probability/probability.pdf"><i class="fa fa-file-pdf-o"></i></a></td>
+      <td style="text-align: center"><a href="/notes/probability"><i class="fa fa-file-text-o"></i></a></td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6d87101f-085d-4880-8cdc-a8a80138a7f4"><i class="fa fa-video-camera"></i></a></td>
+      <td style="text-align: center"><a href="https://goo.gl/forms/ylmI2nuqmMZYo78Q2"><i class="fa fa-question"></i></a></td>
+    </tr>
+    <tr>
+      <td>3/21</td>
+      <td>Maxiumum likelihood estimation, naive Bayes</td>
+      <td style="text-align: center"><a href="/notes/mle/mle.pdf"><i class="fa fa-file-pdf-o"></i></a></td>
+      <td style="text-align: center"><a href="/notes/mle"><i class="fa fa-file-text-o"></i></a></td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a2f8bcbe-636e-4a03-9ddc-a8aa01390794"><i class="fa fa-video-camera"></i></a></td>
+      <td style="text-align: center"><a href="https://goo.gl/forms/HWQAaKb1QOWv3qzf2"><i class="fa fa-question"></i></a></td>
+    </tr>
+    <tr>
+      <td>3/26</td>
+      <td>Hypothesis testing and experimental design</td>
+      <td style="text-align: center"><a href="/notes/hypothesis_testing/hypothesis_testing.pdf"><i class="fa fa-file-pdf-o"></i></a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2381c1ec-ba25-48e6-ac09-a8af01386c20"><i class="fa fa-video-camera"></i></a></td>
+      <td style="text-align: center"><a href="https://goo.gl/forms/XVyljTZF1oPqGzJq1"><i class="fa fa-question"></i></a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><strong>Advanced modeling techniques</strong></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td>3/28</td>
+      <td>Clustering and dimensionality reduction</td>
+      <td style="text-align: center"><a href="/notes/unsupervised/unsupervised.pdf"><i class="fa fa-file-pdf-o"></i></a></td>
+      <td style="text-align: center"><a href="/notes/unsupervised"><i class="fa fa-file-text-o"></i></a></td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=050c9e80-1b16-4852-9df7-a8b10138f6e6"><i class="fa fa-video-camera"></i></a></td>
+      <td style="text-align: center"><a href="https://goo.gl/forms/NeZsmZuWsFnj7dYS2"><i class="fa fa-question"></i></a></td>
+    </tr>
+    <tr>
+      <td>4/2</td>
+      <td>Recommender systems</td>
+      <td style="text-align: center"><a href="/notes/recommender/recommender_systems.pdf"><i class="fa fa-file-pdf-o"></i></a></td>
+      <td style="text-align: center"><a href="/notes/recommender"><i class="fa fa-file-text-o"></i></a></td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d201afa4-ba5d-4e47-b822-a8b601383dab"><i class="fa fa-video-camera"></i></a></td>
+      <td style="text-align: center"><a href="https://goo.gl/forms/xtQMdymgD85O9vtu2"><i class="fa fa-question"></i></a></td>
+    </tr>
+    <tr>
+      <td>4/4</td>
+      <td>Anomaly detection</td>
+      <td style="text-align: center"><a href="/notes/anomaly_detection/anomaly_detection.pdf"><i class="fa fa-file-pdf-o"></i></a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=94549858-3ff6-4910-8364-a8b80138f8b5"><i class="fa fa-video-camera"></i></a></td>
+      <td style="text-align: center"><a href="https://goo.gl/forms/zZ8Yo8QUm8Ic0pZw1"><i class="fa fa-question"></i></a></td>
+    </tr>
+    <tr>
+      <td>4/9</td>
+      <td>Decision trees, interpretable models</td>
+      <td style="text-align: center"><a href="/notes/decision_trees/decision_trees.pdf"><i class="fa fa-file-pdf-o"></i></a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=528b2d49-7497-479a-877f-a8bd0139747f"><i class="fa fa-video-camera"></i></a></td>
+      <td style="text-align: center"><a href="https://goo.gl/forms/HTjrDQTef7BV8TAC2"><i class="fa fa-question"></i></a></td>
+    </tr>
+    <tr>
+      <td>4/11</td>
+      <td>Deep learning</td>
+      <td style="text-align: center"><a href="/notes/deep_learning/deep_learning.pdf"><i class="fa fa-file-pdf-o"></i></a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d2a1aa06-6741-427c-b46c-a8bf0138b764"><i class="fa fa-video-camera"></i></a></td>
+      <td style="text-align: center"><a href="https://goo.gl/forms/6fKgE0FGylCi1KWw1"><i class="fa fa-question"></i></a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><strong>Additional topics</strong></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td>4/16</td>
+      <td>Big data and MapReduce methods</td>
+      <td style="text-align: center"><a href="/notes/mapreduce/mapreduce.pdf"><i class="fa fa-file-pdf-o"></i></a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d6e065a4-cb31-41a5-8b44-a8c40138d5d6"><i class="fa fa-video-camera"></i></a></td>
+      <td style="text-align: center"><a href="https://goo.gl/forms/qiwYsubTqNr74WEp2"><i class="fa fa-question"></i></a></td>
+    </tr>
+    <tr>
+      <td>4/18</td>
+      <td>Probabilistic modeling</td>
+      <td style="text-align: center"><a href="/notes/probabilistic_modeling/probabilistic_modeling.pdf"><i class="fa fa-file-pdf-o"></i></a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8bc73784-15e2-4b18-87e3-a8c60139025c"><i class="fa fa-video-camera"></i></a></td>
+      <td style="text-align: center"><a href="https://goo.gl/forms/xI9RWfPPBgvboU5B2"><i class="fa fa-question"></i></a></td>
+    </tr>
+    <tr>
+      <td>4/23</td>
+      <td>Debugging data science</td>
+      <td style="text-align: center"><a href="/notes/debugging/debugging.pdf"><i class="fa fa-file-pdf-o"></i></a></td>
+      <td style="text-align: center"><a href="/notes/debugging"><i class="fa fa-file-text-o"></i></a></td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=74cd32fe-b6d8-44aa-850e-a8cb013918a7"><i class="fa fa-video-camera"></i></a></td>
+      <td style="text-align: center"><a href="https://goo.gl/forms/Ov9ULfUDYMy8XLMS2"><i class="fa fa-question"></i></a></td>
+    </tr>
+    <tr>
+      <td>4/25</td>
+      <td>A data science walkthrough</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"><a href="/notes/walkthrough/walkthrough.tar.gz"><i class="fa fa-file-text-o"></i></a></td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=393e3944-bedb-4177-9aeb-a8cd01397899"><i class="fa fa-video-camera"></i></a></td>
+      <td style="text-align: center"><a href="https://goo.gl/forms/32U6gdwVNxodoMww1"><i class="fa fa-question"></i></a></td>
+    </tr>
+    <tr>
+      <td>4/30</td>
+      <td>Data science walkthrough (pt 2)</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"><a href="/notes/walkthrough/walkthrough.tar.gz"><i class="fa fa-file-text-o"></i></a></td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1bb4625a-9c70-4c49-b2d1-a8d201391579"><i class="fa fa-video-camera"></i></a></td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td>5/2</td>
+      <td>The future of data science and Q&amp;A</td>
+      <td style="text-align: center"><a href="/notes/future/data_scientists_ethics.pdf"><i class="fa fa-file-pdf-o"></i></a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fe78a4a5-883a-4b65-94e7-a8d401388dca"><i class="fa fa-video-camera"></i></a></td>
+      <td style="text-align: center"><a href="https://goo.gl/forms/38KuoA0Y7eRADZfn2"><i class="fa fa-question"></i></a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="recitations-and-optional-lectures">Recitations and optional lectures</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Homework</th>
+      <th style="text-align: center">Notebook</th>
+      <th style="text-align: center">Video</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1/26</td>
+      <td>HW 1</td>
+      <td style="text-align: center"><a href="/hw/hw1/recitation1.ipynb"><i class="fa fa-file-text-o"></i></a></td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44616043-a057-457e-8122-a874017b5970"><i class="fa fa-video-camera"></i></a></td>
+    </tr>
+    <tr>
+      <td>2/9</td>
+      <td>HW 2</td>
+      <td style="text-align: center"><a href="/hw/hw2/recitation2.tar.gz"><i class="fa fa-file-text-o"></i></a></td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=40fc7ff0-5b42-4fb4-8485-a883002b1b21"><i class="fa fa-video-camera"></i></a></td>
+    </tr>
+    <tr>
+      <td>2/16</td>
+      <td>HW 2 Office Hours</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9b61eccb-5bb3-44c2-9f41-a889014c575b"><i class="fa fa-video-camera"></i></a></td>
+    </tr>
+    <tr>
+      <td>2/23</td>
+      <td>HW 3</td>
+      <td style="text-align: center"><a href="/hw/hw3/recitation3.ipynb"><i class="fa fa-file-text-o"></i></a></td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=992b3f85-7ef7-435c-84dd-a890017df240"><i class="fa fa-video-camera"></i></a></td>
+    </tr>
+    <tr>
+      <td>3/2</td>
+      <td>HW 3 Office Hours</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dcfa7d3b-db1e-476a-996f-a897014beb42"><i class="fa fa-video-camera"></i></a></td>
+    </tr>
+    <tr>
+      <td>3/30</td>
+      <td>HW 4</td>
+      <td style="text-align: center"><a href="/hw/hw4/recitation4.zip"><i class="fa fa-file-text-o"></i></a></td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ecb3a841-ff01-4a5d-a6fc-a8b3015b0bac"><i class="fa fa-video-camera"></i></a></td>
+    </tr>
+    <tr>
+      <td>4/5</td>
+      <td>Time series (optional lecture)</td>
+      <td style="text-align: center"><a href="/notes/time_series/time_series.pdf"><i class="fa fa-file-pdf-o"></i></a></td>
+      <td style="text-align: center"><a href="https://youtu.be/ks6S2LnFWo8"><i class="fa fa-video-camera"></i></a></td>
+    </tr>
+    <tr>
+      <td>4/6</td>
+      <td>HW 4 Office Hours</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=10154824-d1c9-4374-b20b-a8ba014bd1ad"><i class="fa fa-video-camera"></i></a></td>
+    </tr>
+    <tr>
+      <td>4/23</td>
+      <td>HW 5 Recitation</td>
+      <td style="text-align: center"><a href="/hw/hw5/rec.zip"><i class="fa fa-file-text-o"></i></a></td>
+      <td style="text-align: center"><a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=96a66bfe-7488-4c5a-8b53-a8cb015ffbcf"><i class="fa fa-video-camera"></i></a></td>
+    </tr>
+  </tbody>
+</table>
+
+	    
+    </div>
+  </div>
+</div>
+
+
+    <footer>
+  <div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+          <h4>Contact</h4>
+          <div>
+        	Practical Data Science
+        	&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+        	<a href="mailto:pdscoursestaff@gmail.com">pdscoursestaff@gmail.com</a>
+          </div>
+        </div>
+        
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">       <p class="theme-by text-muted">
+      Theme based upon
+      <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+    </p>
+      </div>
+    </div>
+    </div>
+  </div>
+</footer>
+  
+    
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/main.js"></script>
+    
+  
+
+
+
+
+  
+  </body>
+</html>

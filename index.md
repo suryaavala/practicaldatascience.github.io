@@ -1,11 +1,8 @@
 ---
 layout: page
-title: Practical Data Science
-subtitle: CMU 15-388/688 - Spring 2018
-bigimg: img/datascience-bg.jpg
 ---
 
-## Course overview
+# Course overview
 
 Data science is the study and practice of how we can extract insight and knowledge from large amounts of data. It is a burgeoning field, currently attracting substantial demand from both academia and industry.
 

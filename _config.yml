@@ -53,12 +53,9 @@ kramdown:
 defaults:
   -
     scope:
-      path: ""
-      type: "posts"
+      path: "notes"
     values:
-      layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
+      layout: "notes"
   -
     scope:
       path: "" # all files

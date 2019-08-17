@@ -29,10 +29,3 @@ Experience with linear algebra, probability, and statistics is recommended, but 
 If you are in section A, then your participation grade comes from your participation in polls administered during class. Speaking up during class and participating in the class forums may help your grade.
 
 If you are in section B, then a short quiz after most lectures will be used. Participating in the class forums may also help your grade.
-
-## Past Years'
-
-Here are the course webpages from:
-
-- [Spring 2018](/2018-spring)
-- [Fall 2016](/2016)

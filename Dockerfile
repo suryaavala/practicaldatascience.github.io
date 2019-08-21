@@ -1,6 +1,21 @@
-FROM mangar/jekyll:1.0
+#FROM mangar/jekyll:1.0
+FROM ruby:2.3
+
 
 MAINTAINER Marcio Mangar "marcio.mangar@gmail.com"
+
+# aliases
+RUN echo 'export TERM=xterm' >> /root/.bashrc
+RUN echo 'alias ".."="cd .."' >> /root/.bashrc
+RUN echo 'alias l="ls -lash"' >> /root/.bashrc
+RUN echo 'alias cl="clear"' >> /root/.bashrc
+RUN echo 'alias ll="cl; l"' >> /root/.bashrc
+
+
+RUN apt-get update && apt-get install -y -q \
+  build-essential \
+  wget \
+  vim
 
 RUN gem install jekyll -v 3.1.6
 RUN gem install bundler
@@ -33,6 +48,13 @@ RUN gem install jemoji -v 0.6.2
 RUN gem install github-pages -v 82
 
 
+RUN gem install i18n -v 0.7
+RUN gem install minitest -v 5.10.1
+RUN gem install thread_safe -v 0.3.5
+RUN gem install tzinfo -v 1.2.2
+RUN gem install activesupport -v 4.2.7
+RUN gem install ffi -v 1.9.14
+RUN gem install ethon -v 0.10.1
 
 RUN mkdir -p /app
 ADD ./ /app
@@ -41,4 +63,7 @@ WORKDIR /app
 
 EXPOSE 4000
 
-CMD bundle exec jekyll serve
+RUN bundle install
+#CMD bundle exec jekyll serve
+CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0"]
+
